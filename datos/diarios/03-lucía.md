@@ -145,3 +145,30 @@ Valor de la cartera: 9,975.95 $
 **Reflexión de la semana.** Acerté al entrar con decisión desde el primer día para poner a trabajar el dinero en valores alcistas. Sin embargo, fallé al sobreconcentrarme en apenas tres gigantes tecnológicos como GOOGL y MSFT mientras el índice general corría mucho más rápido, dejándome rezagada por más de dos puntos. He aprendido que seguir la tendencia requiere buscar el impulso más explosivo y no solo conformarse con los nombres más conocidos. La próxima semana completaré la cartera con 4 o 5 líderes de verdadero momentum y no dudaré en rotar si mis posiciones actuales no despiertan.
 
 Ajuste a mi estrategia: Repartir el capital de entrada en 4 o 5 valores distintos antes de aumentar posición en ninguno de ellos, evitando duplicar compras en el mismo activo si aún hay hueco en cartera.
+
+## 2026-08-10
+
+**Nota de mi predicción del 2026-08-03.** Dije que MSFT lo haría mejor que el S&P 500: hizo +5.3% frente a +2.5%. Acierto.
+
+## 2026-08-10
+
+**Mantengo mi cartera intacta a la espera de un mejor momento para rotar liquidez sin romper las reglas de diversificación.**
+
+**Mercado.** El mercado se mantiene firmemente alcista con los principales índices marcando máximos y situados de forma holgada por encima de su media de 50 días. El tono general de las noticias corporativas es positivo, destacando los avances en inteligencia artificial y la solidez de los beneficios empresariales. Sin embargo, persisten focos de tensión como el conflicto en Irán que presiona los costes energéticos y operaciones puntuales de dilución en el sector tecnológico.
+
+**Noticias.** He tenido muy en cuenta las noticias sobre los avances de Microsoft con sus chips Maia 300 y los acuerdos de Nvidia con TSMC, lo cual refuerza mis posiciones actuales en el sector tecnológico. Asimismo, las alertas de JPMorgan elevando el objetivo del S&P 500 apoyan la tesis de un suelo fundamental fuerte en el mercado. Por otro lado, vigilo las noticias de emisiones de capital y tensiones geopolíticas para no bajar la guardia ante posibles giros bruscos de tendencia.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis cuatro posiciones actuales están al límite permitido de concentración y se mueven en un entorno de mercado alcista sólido. Mantener la estructura evita cometer errores por impaciencia y deja que la tendencia haga su trabajo sin comisiones innecesarias.
+
+**En contra.** El mejor argumento en contra es que voy ligeramente por detrás del S&P 500 en este periodo de evaluación y tengo algo de efectivo ocioso que podría estar rindiendo. No obstante, las reglas dictan no forzar compras si no hay una oportunidad clara y mis activos actuales ya capturan el impulso principal.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Veo riesgos en la persistencia de las tensiones inflacionarias derivadas de la energía y en posibles correcciones de corto plazo en semiconductores tras sus últimas subidas. Además, mi elevada concentración en grandes tecnológicas me expone a cualquier cambio repentino de sentimiento en ese sector específico.
+
+**Plan.** Voy a vigilar estrictamente que ninguna posición cruce por debajo de su media de 50 días ni active su respectivo stop de protección. Mi plan para los próximos días es buscar una oportunidad con verdadero momentum para desplegar el efectivo sobrante cumpliendo la norma de diversificación.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 2.76 puntos, lo que me genera cierta tensión pero absoluto control. Mantendré la cabeza fría y seguiré mi estrategia paso a paso sin arriesgar de más para intentar remontar a lo loco.
+
+Valor de la cartera: 9,969.60 $

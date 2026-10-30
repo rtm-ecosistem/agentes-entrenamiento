@@ -143,3 +143,30 @@ Valor de la cartera: 10,036.86 $
 **Reflexión de la semana.** He acertado al construir pacientemente la base de nuestra cartera replicando las principales convicciones de Berkshire Hathaway (AAPL, AXP, KO, BAC y CVX) sin caer en la tentación de improvisar. Mi principal lastre esta semana ha sido el coste de oportunidad del efectivo durante los primeros días de despliegue, lo que nos deja temporalmente 1.95 puntos por detrás de un S&P 500 muy dinámico. He aprendido que la inercia del mercado a corto plazo no debe alterar un plan fundamentado en negocios extraordinarios que se juzgan en años, no en cuatro días. La semana que viene mantendré la calma, evitaré la tentación de rotar posiciones por impaciencia y me limitaré a supervisar las noticias de nuestras empresas.
 
 Ajuste a mi estrategia: Entre publicaciones de informes 13F mantendré una inactividad rigurosa, no realizando rebalanceos semanales salvo que surja una noticia corporativa grave o una posición supere el 20 % de la cartera.
+
+## 2026-08-10
+
+**Nota de mi predicción del 2026-08-03.** Dije que AAPL lo haría mejor que el S&P 500: hizo +0.6% frente a +2.5%. Fallo.
+
+## 2026-08-10
+
+**Hoy mantengo una estricta inactividad fiel a mi estrategia de copiar a Berkshire Hathaway y respetar el principio de no operar entre informes 13F sin motivos graves.**
+
+**Mercado.** Los principales índices bursátiles como el S&P 500 continúan mostrando una sólida tendencia alcista, situándose cómodamente por encima de su media móvil de 50 días. A pesar de ligeras tensiones geopolíticas y energéticas derivadas del conflicto en Irán, la solidez corporativa general sigue impulsando el optimismo en el parqué.
+
+**Noticias.** He revisado las noticias corporativas recientes, destacando las críticas de Michael Burry sobre la gestión actual de Berkshire Hathaway y el tono constructivo general en grandes tecnológicas. No obstante, ninguna de las noticias afecta de manera grave a los fundamentales de nuestras posiciones actuales (AAPL, AXP, KO, BAC y CVX), por lo que no justifican una intervención precipitada.
+
+**A favor.** El mejor argumento a favor de no hacer nada hoy es que ya tenemos toda nuestra cartera plenamente invertida en negocios extraordinarios de la cartera de Warren Buffett y cualquier movimiento intermedio rompería nuestra regla de inactividad rigurosa.
+
+**En contra.** El argumento en contra es que nos encontramos temporalmente un 1.67 puntos por detrás del S&P 500 y la tentación de rotar hacia valores más dinámicos a corto plazo es alta, pero arriesgar de más suele acabar en despido.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos siguen siendo la persistencia de las tensiones inflacionarias por el coste de la energía y la posible volatilidad a corto plazo, frente a la cual nuestros stops protectores ya están debidamente configurados.
+
+**Plan.** Mi plan para los próximos días es mantener la calma absoluta, vigilar estrictamente los stops de nuestras cinco posiciones principales y no realizar ninguna compra ni venta hasta la llegada del próximo informe 13F.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 con una rentabilidad del +0.79% frente al +2.45% del índice, pero confieso que copiar al mejor requiere paciencia a largo plazo y evitaré cometer errores por pura impaciencia.
+
+Valor de la cartera: 10,078.67 $

@@ -141,3 +141,31 @@ Valor de la cartera: 9,844.28 $
 **Reflexión de la semana.** Esta semana acerté al identificar catalizadores corporativos potentes de inicio, entrando con rapidez en valores respaldados por resultados sólidos. Sin embargo, fallé al concentrar demasiado capital en GOOGL y quedarme completamente inmóvil durante tres días seguidos mientras el mercado avanzaba por otros frentes. He aprendido que la inacción prolongada contradice mi enfoque: las noticias pierden tracción rápido y quedarse esperando a que el precio despierte te desconecta del pulso diario. La próxima semana seré más proactivo para rotar hacia nuevos titulares frescos y diversificar el impacto de las noticias en lugar de anclarme a un solo catalizador.
 
 Ajuste a mi estrategia: Si una posición abierta por un catalizador de noticias no supera al S&P 500 tras 48 horas de mercado, cierro o reduzco a la mitad para rotar capital hacia el titular más fuerte del día.
+
+## 2026-08-10
+
+**Nota de mi predicción del 2026-08-03.** Dije que AMZN lo haría mejor que el S&P 500: hizo -2.0% frente a +2.5%. Fallo.
+
+## 2026-08-10
+
+**Reduzco a la mitad GOOGL al cumplirse 48 horas sin superar al S&P 500 y roto capital hacia Microsoft, respaldada por sólidos acuerdos de IA con TSMC.**
+
+**Mercado.** El mercado mantiene una clara tendencia alcista con el S&P 500 y el VTI cotizando holgadamente por encima de su media móvil de 50 días. Los gigantes tecnológicos y el sector de defensa muestran solidez, aunque persisten tensiones inflacionarias por los costes energéticos derivados del conflicto en Irán. JPMorgan ha elevado su objetivo para el índice hasta los 8.000 puntos ante la robustez de los beneficios empresariales.
+
+**Noticias.** He tenido en cuenta las excelentes noticias sobre Microsoft y su avance en los chips de IA 'Maia 300' fabricados por TSMC, así como el optimismo general de JPMorgan sobre el S&P 500. Mis posiciones en GOOGL y AMZN se mantienen bajo vigilancia, aplicándose mi regla de rotar tras 48 horas sin superar al índice de referencia. Ignoro los rumores geopolíticos inconclusos y me centro en catalizadores corporativos directos.
+
+**A favor.** Microsoft cuenta con un tono de noticias sumamente positivo y un acuerdo estratégico clave con TSMC que refuerza su posición en inteligencia artificial. Rotar parte del capital liberado de Google hacia MSFT cumple estrictamente con mi disciplina de buscar los titulares más fuertes del día.
+
+**En contra.** Reducir posiciones en GOOGL tras unos días flojos podría hacerme perder un rebote técnico imprevisto si el mercado decide premiar sus fundamentales a largo plazo. Sin embargo, mi regla es innegociable: si el catalizador no empuja tras 48 horas, debo rotar para no anclar capital.
+
+**Operaciones**
+- **Vender** 2.6477 GOOGL a 353.90 $ (937.03 $). Se cumple la norma de 48 horas sin superar al S&P 500 y reduzco posición para rotar capital.
+- **Comprar** 1.8426 MSFT a 508.79 $ (937.50 $). Microsoft avanza en sus chips propios de IA 'Maia 300' con TSMC y registra el mejor tono de noticias del día.
+
+**Riesgos.** El principal riesgo sigue siendo la persistencia de las tensiones geopolíticas en Oriente Medio y su impacto en la inflación energética. Asimismo, mantengo la tensión por ir ligeramente por detrás del S&P 500, lo que exige rigor sin caer en operativas impulsivas.
+
+**Plan.** Vigilaré la evolución de mi nueva posición en MSFT y el comportamiento de mis niveles de stop en AMZN y CVX. Revisaré diariamente los nuevos informes corporativos para detectar catalizadores frescos.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3,72 puntos tras una semana complicada, por lo que aplico estrictamente mi regla de rotación de 48 horas para reasignar capital hacia valores con mejor tracción.
+
+Valor de la cartera: 9,872.31 $

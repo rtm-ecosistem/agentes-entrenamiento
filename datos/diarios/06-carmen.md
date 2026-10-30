@@ -145,3 +145,30 @@ Valor de la cartera: 10,122.23 $
 **Reflexión de la semana.** Esta primera semana ha sido un ejercicio de lectura entre líneas, igual que cuando revisaba las enmiendas en el Congreso buscando las verdaderas intenciones detrás de los textos oficiales. Acerté al posicionarme con firmeza en valores tecnológicos respaldados por compras institucionales sólidas, lo que me ha permitido cerrar con una rentabilidad positiva del 1,22%. Sin embargo, fallé al pecar de exceso de cautela a mitad de semana, frenando las compras cuando el mercado seguía ofreciendo puntos de entrada razonables. He aprendido que las declaraciones de los congresistas requieren paciencia pero también agilidad para no perder el tren frente al S&P 500. La semana que viene seré algo más dinámica al desplegar el efectivo disponible sin perder el norte de nuestra estrategia.
 
 Ajuste a mi estrategia: No ejecuto nuevas compras si el valor ya se ha disparado más de un 5 % desde la fecha exacta de la declaración pública del congresista.
+
+## 2026-08-10
+
+**Nota de mi predicción del 2026-08-03.** Dije que MSFT lo haría mejor que el S&P 500: hizo +5.3% frente a +2.5%. Acierto.
+
+## 2026-08-10
+
+**Mantenemos la disciplina parlamentaria sin realizar nuevas operaciones hoy, protegiendo nuestra liquidez y observando cómo los congresistas mueven ficha en otros sectores mientras superamos con éxito las posiciones en Microsoft.**
+
+**Mercado.** Los principales índices como el S&P 500 mantienen una sólida tendencia alcista, apoyados por los buenos beneficios corporativos y el optimismo generalizado en Wall Street. No obstante, persisten los riesgos inflacionarios derivados de los costes energéticos y el conflicto en Oriente Medio que aconsejan no bajar la guardia.
+
+**Noticias.** Hemos valorado las noticias sobre la alianza de Microsoft con TSMC para sus chips de IA 'Maia 300', que refuerzan la solidez de una de nuestras principales apuestas bursátiles. Asimismo, tomamos nota de las tensiones geopolíticas y los movimientos corporativos como la ampliación de capital de Intel, de la cual preferimos mantenernos al margen tal como dicta nuestra desconfianza hacia las casualidades y los riesgos de dilución.
+
+**A favor.** Mantener una postura prudente con nuestra liquidez nos protege de sobreexponernos en un mercado que acumula subidas consecutivas y nos da margen para actuar cuando las declaraciones del Congreso muestren un consenso claro y sin sobrevaloraciones.
+
+**En contra.** Estar sentados sobre un 60% de efectivo en un entorno claramente alcista genera un coste de oportunidad frente al S&P 500; sin embargo, arriesgar por desesperación para remontar el 1,24% de desventaja suele acabar en catástrofe y despido inmediato.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo sigue siendo la volatilidad macroeconómica ligada a la energía y la inflación, así como el peligro de dilatar en exceso el despliegue del capital, quedándonos rezagados frente al índice de referencia.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en MSFT y AMAT, revisando la evolución de las declaraciones de los congresistas para identificar nuevas oportunidades que cumplan estrictamente nuestra regla del 5% máximo de subida desde el registro oficial.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 1.24 puntos, pero conservamos margen temporal de sobra (49 días) y no caeremos en el error de arriesgar de más; es preferible un aviso que un despido fulminante por saltarnos los límites.
+
+Valor de la cartera: 10,121.28 $

@@ -140,3 +140,30 @@ Valor de la cartera: 10,000.00 $
 **Reflexión de la semana.** Esta semana acerté al mantener la cabeza fría y no dejarme arrastrar por la euforia compradora generalizada. Sin embargo, fallé al pecar de excesivo purismo: mientras esperaba una corrección del diez por ciento, el mercado subió más de un dos por ciento y mi cartera permaneció inmóvil. He aprendido que la búsqueda de la ganga perfecta no puede convertirse en parálisis por análisis, sobre todo con el reloj del periodo de evaluación corriendo. La próxima semana seré más pragmático y ejecutaré una primera compra gradual en compañías sólidas que coticen a precios razonables, sin exigir caídas tan extremas.
 
 Ajuste a mi estrategia: Permitir una primera compra parcial en empresas de alta calidad que muestren caídas desde el 6 % en 30 días, reservando el resto de liquidez por si la corrección se profundiza hasta el 10 %.
+
+## 2026-08-10
+
+**Nota de mi predicción del 2026-08-03.** Dije que SPY lo haría mejor que el S&P 500: hizo +2.5% frente a +2.5%. Fallo.
+
+## 2026-08-10
+
+**Decido realizar una primera compra parcial en Apple aplicando mi ajuste de estrategia ante una corrección moderada, evitando seguir acumulando efectivo en un mercado alcista.**
+
+**Mercado.** Los principales índices bursátiles como el S&P 500 y el VTI mantienen una firme tendencia alcista, apoyados por unos beneficios empresariales sólidos y el optimismo generado por los gigantes tecnológicos. No obstante, persisten tensiones inflacionarias derivadas del conflicto en energía y comportamientos mixtos en sectores específicos como semiconductores.
+
+**Noticias.** He tenido en cuenta las previsiones al alza de JPMorgan para el S&P 500, la solidez corporativa general y las noticias corporativas recientes de gigantes como Microsoft y Nvidia. Estas informaciones confirman la buena salud fundamental de las grandes empresas, aunque sigo vigilando de cerca los riesgos geopolíticos y energéticos.
+
+**A favor.** Apple cumple con creces los requisitos de empresa sólida y presenta una corrección técnica de su cotización en el corto plazo dentro de su horizonte temporal, lo que justifica una primera compra parcial y prudente.
+
+**En contra.** El mercado general se encuentra en zona de máximos y acumula una racha alcista importante, lo que podría provocar correcciones adicionales en el corto plazo; sin embargo, mi ajuste de estrategia permite entrar de manera fraccionada reservando liquidez.
+
+**Operaciones**
+- **Comprar** 4.8875 AAPL a 306.90 $ (1,500.00 $). Empresa extremadamente sólida con una corrección superior al 6% en los últimos 30 días, lo que encaja perfectamente con mi ajuste de estrategia para compras parciales.
+
+**Riesgos.** El principal riesgo es que la corrección en el valor se profundice arrastrada por la volatilidad macroeconómica y el conflicto energético en Oriente Medio, afectando temporalmente a la posición inicial.
+
+**Plan.** Vigilaré la evolución de la cotización de Apple durante las próximas sesiones y mantendré la liquidez restante por si el precio retrocede hasta el nivel del 10% para completar la posición.
+
+**Mi puesto.** Me encuentro en la primera posición formalmente al no haber operado previamente, pero la rentabilidad estancada en efectivo frente al S&P 500 exige tomar acción de manera disciplinada y sin prisas.
+
+Valor de la cartera: 9,999.25 $

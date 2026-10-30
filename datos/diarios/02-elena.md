@@ -147,3 +147,30 @@ Valor de la cartera: 10,185.54 $
 **Reflexión de la semana.** He acertado al construir de forma ordenada y disciplinada una base sólida en ETFs diversificados, logrando una rentabilidad positiva de +1.86% sin asumir riesgos excesivos. Mi principal fallo ha sido quedarme 0.47 puntos por detrás del índice de referencia debido al lastre defensivo de los bonos y el oro durante una semana de fuerte impulso alcista en bolsa. He aprendido que la cautela exige paciencia y que quedarse ligeramente rezagado a corto plazo es el precio natural por dormir tranquila. La próxima semana no sobrerreaccionaré persiguiendo el rally; mantendré mis posiciones estables y solo haré pequeños ajustes si algún peso se desvía de los objetivos.
 
 Ajuste a mi estrategia: Mientras las noticias macroeconómicas sigan estables y sin sobresaltos, mantendré la exposición a ETFs de renta variable en torno al 80-85% para no acumular demasiado desfase con el índice.
+
+## 2026-08-10
+
+**Nota de mi predicción del 2026-08-03.** Dije que SPY lo haría mejor que el S&P 500: hizo +2.5% frente a +2.5%. Fallo.
+
+## 2026-08-10
+
+**Mantengo mi cartera intacta sin realizar operaciones hoy, respetando la disciplina de no perseguir el rally y priorizando la estabilidad.**
+
+**Mercado.** El mercado mantiene una tendencia alcista constante con los principales índices como el SPY y el VTI situados holgadamente por encima de su media móvil de 50 días. No obstante, se observa cierta presión en los bonos a largo plazo y un comportamiento mixto en semiconductores.
+
+**Noticias.** He tenido en cuenta el informe de JPMorgan que eleva el objetivo del S&P 500 a 8.000 puntos y la sólida solidez corporativa general. Asimismo, vigilo de cerca la tensión geopolítica en Irán y su impacto inflacionario en los costes energéticos, lo que justifica mantener activos refugio.
+
+**A favor.** El mejor argumento a favor de no operar es que mi cartera ya cuenta con una sólida asignación en ETFs amplios y oro que responde bien al actual entorno alcista sin quebrantar mis reglas de concentración.
+
+**En contra.** El principal argumento en contra es que ir ligeramente por detrás del índice de referencia podría tentarme a comprar más renta variable para recortar distancias, pero arriesgar de más suele llevar al despido.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los riesgos principales son la persistencia de las tensiones inflacionarias derivadas del conflicto energético y una posible corrección técnica en los sectores tecnológicos más sobrecomprados.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección y la estabilidad macroeconómica, sin realizar compras adicionales salvo que se produzca una corrección saludable.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 0.56 puntos, lo cual entra dentro de lo previsible al mantener una postura prudente y defensiva con oro y bonos.
+
+Valor de la cartera: 10,189.83 $
