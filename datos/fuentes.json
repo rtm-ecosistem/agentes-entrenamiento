@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-09-10"
+  "revisado": "2026-09-11"
  },
  "congreso": {
   "leidas": {
@@ -784,33 +784,6 @@
     "distrito": "MN03",
     "presentado": "2026-07-30",
     "operaciones": []
-   },
-   "20035067": {
-    "nombre": "Adrian Smith",
-    "distrito": "NE03",
-    "presentado": "2026-07-27",
-    "operaciones": []
-   },
-   "20035007": {
-    "nombre": "Sheri Biggs",
-    "distrito": "SC03",
-    "presentado": "2026-07-27",
-    "operaciones": []
-   },
-   "20034736": {
-    "nombre": "Sam T. Liccardo",
-    "distrito": "CA16",
-    "presentado": "2026-07-27",
-    "operaciones": [
-     {
-      "activo": "NVIDIA Corporation - Common Stock",
-      "ticker": "NVDA",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-07-21",
-      "importe": "$15,001 - $50,000"
-     }
-    ]
    },
    "20035136": {
     "nombre": "Lloyd Doggett",
@@ -4990,9 +4963,15 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "9116331": {
+    "nombre": "Diana Harshbarger",
+    "distrito": "TN01",
+    "presentado": "2026-09-11",
+    "operaciones": []
    }
   },
   "pendientes": 0,
-  "revisado": "2026-09-10"
+  "revisado": "2026-09-11"
  }
 }

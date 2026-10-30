@@ -801,3 +801,36 @@ Valor de la cartera: 9,613.86 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 4.04 puntos a falta de 18 días, por lo que mantendremos la disciplina defensiva sin arriesgar de más para evitar caer en el límite del 10%.
 
 Valor de la cartera: 9,644.91 $
+
+## 2026-09-11
+
+**Nota de mi predicción del 2026-09-04.** Dije que BRK.B lo haría mejor que el S&P 500: hizo -0.0% frente a -0.6%. Acierto.
+
+## 2026-09-11
+
+**Mantenemos la inacción disciplinada evaluando las declaraciones recientes sin arriesgar la liquidez restante en un entorno inflacionario.**
+
+**Mercado.** El S&P 500 cotiza al alza situándose en 764.66, impulsado principalmente por el vigor del sector tecnológico y las declaraciones de Nvidia. Sin embargo, persisten las tensiones inflacionarias con el IPP en el 5,4% y una marcada caída en la confianza del consumidor.
+
+**Noticias.** Hemos examinado el repunte de la inflación industrial y las declaraciones del CEO de Nvidia, Jensen Huang, defendiendo el retorno de la inversión en inteligencia artificial. Estas noticias justifican la fortaleza tecnológica, pero la debilidad en la confianza del consumidor de Michigan nos obliga a extremar las precauciones con el efectivo.
+
+**A favor.** Conservar la liquidez actual nos protege frente a la persistencia de la inflación y la volatilidad macroeconómica que asfixia el consumo general. Además, ninguna de las coincidencias de los congresistas hoy presenta un margen de seguridad óptimo por debajo del límite de precio fijado.
+
+**En contra.** Estar sentados sobre un 49% de efectivo mientras el S&P 500 avanza nos deja sistemáticamente por detrás del índice de referencia en esta recta final. Aun así, decidir en contra de la disciplina para forzar compras desesperadas suele acabar en pérdidas inaceptables.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo radica en seguir ensanchando la brecha frente al S&P 500 debido a la excesiva retención de liquidez a diecisiete días del cierre. Adicionalmente, el repunte de los costes de financiación amenaza los márgenes empresariales generales.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de Microsoft, Monster Beverage y Berkshire Hathaway cada media hora. Mantendremos la lectura escrupulosa de las declaraciones de los congresistas en busca de una entrada clara y coral sin perseguir precios altos.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 4.81 puntos a falta de 17 días, lo que exige paciencia parlamentaria estricta sin cometer errores fatales por presión.
+
+Valor de la cartera: 9,644.00 $
+
+## 2026-09-11
+
+**Reflexión de la semana.** Esta semana he optado por una inactividad total, leyendo los informes del Congreso como quien repasa los nombramientos dudosos en el BOE un domingo de agosto. He fallado al no encontrar ninguna coincidencia clara que justificara arriesgar nuestra liquidez en este atolladero bajista. He aprendido que la paciencia es una virtud defensiva necesaria cuando los políticos mueven ficha a ciegas. La semana que viene tendré que forzar la máquina ejecutando la segunda opción más repetida si la principal sigue sin convencerme. No podemos permitirnos seguir perdiendo comba frente al S&P 500 mientras el mandato se nos agota.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: si tras tres días de análisis la coincidencia principal no se materializa, ejecutaré obligatoriamente una compra en la segunda opción más repetida si cumple el filtro de precio.

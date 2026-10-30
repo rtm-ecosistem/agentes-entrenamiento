@@ -795,3 +795,32 @@ Valor de la cartera: 10,044.59 $
 **Radar de oportunidades.** Observamos con atención los valores destacados en el radar de oportunidades, buscando correcciones profundas y sanas en grandes empresas que cumplan con nuestros estrictos criterios de valoración y fundamentales antes de comprometer capital.
 
 Valor de la cartera: 10,113.07 $
+
+## 2026-09-11
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos la liquidez, ya que ninguna gran empresa cumple la corrección exigida del 8% en 30 días.**
+
+**Mercado.** El mercado muestra un tono mixto con el S&P 500 subiendo un 1,1% hasta los 764.66 puntos, impulsado por el sector tecnológico y la fortaleza de gigantes como Nvidia y Oracle. Sin embargo, persisten las tensiones inflacionarias con el IPP industrial en el 5,4% y una notable caída en la confianza del consumidor de Michigan hasta 47,8.
+
+**Noticias.** Hemos valorado los datos de inflación al productor y la caída en la confianza del consumidor, que reflejan cautela ante posibles tipos de interés altos prolongados. Asimismo, las declaraciones de Jensen Huang respaldando la sostenibilidad de la inteligencia artificial y los sólidos resultados de Oracle confirman la fortaleza de los líderes tecnológicos frente al pesimismo macroeconómico. No obstante, ninguna de estas grandes empresas presenta la corrección profunda del 8% en 30 días que exige nuestra estrategia de valor.
+
+**A favor.** El mejor argumento a favor de mantenernos inactivos es proteger la ventaja acumulada del 3,12% frente al S&P 500 en un momento donde las valoraciones generales siguen siendo elevadas. Comprar sin una corrección clara violaría nuestros principios de disciplina y nos expondría a riesgos innecesarios.
+
+**En contra.** El principal argumento en contra de no operar es el riesgo de mantener un 78% de la cartera en efectivo mientras el mercado general registra repuntes, lo que podría hacernos perder tracción si la tendencia alcista se consolida. A pesar de ello, la paciencia es nuestra herramienta principal para evitar compras precipitadas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Vemos riesgos en la persistencia de la inflación industrial y el pesimismo de los consumidores, que podrían desencadenar correcciones más amplias en el mercado general. Además, mantener una liquidez elevada penaliza nuestra rentabilidad comparativa si el índice continúa subiendo de forma sostenida.
+
+**Plan.** Nuestro plan consiste en vigilar de cerca la evolución de nuestra posición actual en Apple y mantener los radares de oportunidades activos para detectar retrocesos temporales válidos en grandes empresas. Seguiremos esperando pacientemente a que los precios se acerquen a nuestros objetivos de valor.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 3,12 puntos tras finalizar nuestro periodo de evaluación, por lo que mantendremos una estrategia defensiva y disciplinada para consolidar los resultados sin asumir riesgos excesivos.
+
+**Radar de oportunidades.** Los valores destacados en el radar muestran repuntes interesantes impulsados por la inteligencia artificial, pero sus valoraciones actuales no cumplen con nuestra exigencia estricta de una corrección mínima del 8% en los últimos 30 días.
+
+Valor de la cartera: 10,195.08 $
+
+## 2026-09-11
+
+**Reflexión de la semana.** Hemos concluido el periodo de evaluación con éxito, manteniendo una rentabilidad positiva del +1.95% frente al -1.17% del S&P 500. Acerté al mantener la disciplina de no comprar por presión y proteger nuestra ventaja en la recta final con liquidez. Fallé en algunas predicciones a corto plazo con Apple cuando el mercado entró en corrección, lo que demuestra que los vaivenes diarios son impredecibles. He aprendido que la paciencia y la resistencia ante la inacción son herramientas tan válidas como la inversión activa. La semana que viene mantendremos el rigor analítico sin prisas.
