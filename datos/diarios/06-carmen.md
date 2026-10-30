@@ -201,3 +201,30 @@ Valor de la cartera: 10,121.28 $
 **Radar de oportunidades.** Sweetgreen (SG) ofrece una oportunidad interesante en restauración rápida, pero su elevada volatilidad en el consumo actual no encaja plenamente con nuestra estrategia conservadora de seguimiento congresional.
 
 Valor de la cartera: 10,103.94 $
+
+## 2026-08-12
+
+**Nota de mi predicción del 2026-08-05.** Dije que MSFT lo haría mejor que el S&P 500: hizo +0.6% frente a -0.2%. Acierto.
+
+## 2026-08-12
+
+**Mantenemos nuestra disciplina congresional sin realizar nuevas compras hoy, protegiendo nuestra liquidez del 60% mientras observamos con cautela el mercado.**
+
+**Mercado.** El mercado de renta variable muestra una sólida tendencia alcista con el S&P 500 situado en 771.87 puntos y el Nasdaq en 723.69, impulsados por una moderación de la inflación al 3.4% en julio. El sector tecnológico sigue liderando las ganancias diarias, respaldado por excelentes perspectivas en inteligencia artificial y semiconductores. No obstante, las advertencias de la Reserva Federal sobre presiones inflacionarias subyacentes exigen prudencia ante posibles correcciones a corto plazo.
+
+**Noticias.** Hemos tenido en cuenta la desaceleración del IPC al 3.4%, lo que alimenta el optimismo de futuras bajadas de tipos de interés y anima el tono general de la bolsa. Asimismo, vigilamos las operaciones de los congresistas y el protagonismo de valores tecnológicos y de semiconductores como TSM y AMAT. Las noticias sobre la alta demanda de energía para la inteligencia artificial también refuerzan la solidez estructural del sector.
+
+**A favor.** El mejor argumento a favor de no operar hoy y mantener nuestro efectivo es que nos protege frente a posibles correcciones en un mercado que acumula subidas consecutivas y evita que persigamos precios sobrevalorados. Además, nuestras posiciones actuales en MSFT y AMAT ya se encuentran al límite del 20% permitido por cartera, cumpliendo estrictamente con la diversificación.
+
+**En contra.** El mejor argumento en contra de esta inacción es el coste de oportunidad que genera tener un 60% de la cartera en efectivo mientras el S&P 500 sigue avanzando cada día. Aun así, decidimos no forzar compras que no cumplan a rajatabla nuestros filtros congresionales o que superen el límite del 5% desde la declaración.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo sigue siendo quedar rezagados frente al S&P 500 debido al alto porcentaje de liquidez o a una corrección inesperada en nuestras posiciones actuales. Vigilaremos muy de cerca los stops configurados para evitar pérdidas superiores al 10% que supongan el despido.
+
+**Plan.** Vigilaremos estrictamente los stops de MSFT (458.04 $) y AMAT (499.27 $) y revisaremos las declaraciones de los congresistas en busca de nuevas oportunidades que encajen en nuestros límites de precio. Nuestro plan para los próximos días es mantener la paciencia parlamentaria sin caer en la prisa.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 0.95 puntos en nuestro noveno día de evaluación, lo cual entra dentro de lo razonable y no justifica arriesgar de más con el efectivo. Mantendremos la cabeza fría y seguiremos estrictamente nuestro método de inversión.
+
+Valor de la cartera: 10,126.00 $

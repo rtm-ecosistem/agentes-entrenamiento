@@ -256,7 +256,7 @@
    "LIBERTY LATIN AMERICA LTD",
    "LIBERTY LATIN AMERICA LTD"
   ],
-  "revisado": "2026-08-11"
+  "revisado": "2026-08-12"
  },
  "congreso": {
   "leidas": {
@@ -4231,9 +4231,81 @@
     "distrito": "WA01",
     "presentado": "2026-08-11",
     "operaciones": []
+   },
+   "9116290": {
+    "nombre": "Charles J. \"Chuck\" Fleischmann",
+    "distrito": "TN03",
+    "presentado": "2026-08-12",
+    "operaciones": []
+   },
+   "20035216": {
+    "nombre": "Rob Bresnahan",
+    "distrito": "PA08",
+    "presentado": "2026-08-12",
+    "operaciones": []
+   },
+   "20035209": {
+    "nombre": "Mike Kelly",
+    "distrito": "PA16",
+    "presentado": "2026-08-12",
+    "operaciones": []
+   },
+   "20035203": {
+    "nombre": "Mike Kelly",
+    "distrito": "PA16",
+    "presentado": "2026-08-12",
+    "operaciones": [
+     {
+      "activo": "Abbott Laboratories Common Stock",
+      "ticker": "ABT",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-07-17",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Pepsico, Inc.",
+      "ticker": "PEP",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-07-17",
+      "importe": "$15,001 - $50,000"
+     },
+     {
+      "activo": "Walt Disney Company",
+      "ticker": "DIS",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-07-17",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035196": {
+    "nombre": "Kevin Hern",
+    "distrito": "OK01",
+    "presentado": "2026-08-12",
+    "operaciones": [
+     {
+      "activo": "2000166537 JT Organon & Co. Common Stock",
+      "ticker": "OGN",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-05",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "2000166538 JT Versant Media Group, Inc. - Class A Common Stock",
+      "ticker": "VSNT",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-05",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-08-11"
+  "revisado": "2026-08-12"
  }
 }

@@ -199,3 +199,30 @@ Valor de la cartera: 10,078.67 $
 **Radar de oportunidades.** El radar de oportunidades incluye a Sweetgreen (SG), una empresa de restauración rápida interesante, pero queda descartada al estar fuera de las estrictas fuentes de Berkshire Hathaway que sigo como método.
 
 Valor de la cartera: 10,105.15 $
+
+## 2026-08-12
+
+**Nota de mi predicción del 2026-08-05.** Dije que BAC lo haría mejor que el S&P 500: hizo +1.6% frente a -0.2%. Acierto.
+
+## 2026-08-12
+
+**Hoy mantengo una rigurosa inactividad siguiendo los pasos de Warren Buffett, ya que no ha surgido ninguna noticia corporativa grave en nuestras cinco grandes posiciones.**
+
+**Mercado.** Los principales índices como el S&P 500 (en 771.87) y el Nasdaq muestran una sólida tendencia alcista, respaldados por la moderación de la inflación al 3.4% en julio. El sector tecnológico y las utilities lideran el optimismo, mientras que la Reserva Federal vigila las presiones inflacionarias subyacentes.
+
+**Noticias.** He revisado las noticias recientes de nuestras empresas y del mercado, destacando previsiones optimistas para el S&P 500 y datos de inflación favorables. No hay ninguna alerta grave en AAPL, AXP, KO, BAC o CVX que justifique romper nuestra regla de inactividad entre informes 13F. Por lo tanto, las noticias confirman un entorno macroeconómico estable pero sin cambios operativos para nuestra cartera.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que copiar a Buffett exige paciencia y dejar que los negocios maduren a lo largo de los años, evitando el ruido diario del mercado. Además, con la cartera totalmente desplegada y sin efectivo disponible, cualquier movimiento requeriría vender posiciones sólidas sin motivo justificado.
+
+**En contra.** Podría argumentarse que deberíamos rebalancear o aprovechar la subida general del mercado para recortar posiciones rezagadas como AAPL o AXP. Sin embargo, actuar por impaciencia en lugar de por fundamentos iría en contra de la disciplina que caracteriza a Berkshire Hathaway.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una corrección repentina tras los fuertes rallys de la bolsa o que la Reserva Federal retrase las bajadas de tipos si la inflación subyacente persiste. También vigilamos de cerca los stops establecidos para proteger el capital ante cualquier imprevisto.
+
+**Plan.** Mi plan para los próximos días es mantener una inactividad férrea, supervisar estrictamente los stops de nuestras cinco posiciones principales y no realizar ninguna operación hasta la publicación del próximo informe 13F.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 (+0.97% frente a +2.21%), pero con 82 días por delante y una estrategia sólida a largo plazo no debo cometer el error de arriesgar de más.
+
+Valor de la cartera: 10,096.92 $

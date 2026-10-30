@@ -205,3 +205,30 @@ Valor de la cartera: 9,905.82 $
 ## 2026-08-11 15:00
 
 **Stop automático.** Vendo GOOGL: Stop alcanzado (344.87 $ ≤ 346.61 $): se corta la pérdida.
+
+## 2026-08-12
+
+**Nota de mi predicción del 2026-08-05.** Dije que GOOGL lo haría mejor que el S&P 500: hizo -10.2% frente a -0.2%. Fallo.
+
+## 2026-08-12
+
+**Decido mantener mi cartera intacta en MSFT, AMZN y NVDA mientras sigo acumulando efectivo para buscar nuevos valores con momentum alcista.**
+
+**Mercado.** Los principales índices bursátiles muestran una sólida tendencia alcista, encontrándose cómodamente por encima de sus medias móviles de 50 días. El sector tecnológico lidera las ganancias respaldado por la desaceleración de la inflación al 3.4% en julio. La subida generalizada de la renta variable anima a seguir la ola, aunque exige rigor técnico en las entradas.
+
+**Noticias.** He tenido muy en cuenta la moderación de la inflación al 3.4% en julio, que abre la puerta a futuras bajadas de tipos de interés y dinamiza el apetito por el riesgo. Además, las excelentes previsiones de Yardeni Research para el S&P 500 y la alta demanda de infraestructura para inteligencia artificial respaldan mis posiciones actuales en tecnología. No obstante, vigilo las advertencias de la Reserva Federal sobre presiones inflacionarias subyacentes.
+
+**A favor.** El mejor argumento a favor de mantener la disciplina actual es que mis tres valores en cartera (MSFT, AMZN y NVDA) se encuentran respetando sus medias de 50 días y no han roto ninguna regla de salida. Además, conservar liquidez me permite cumplir con mi ajuste de estrategia de diversificar correctamente sin duplicar compras antes de tiempo.
+
+**En contra.** El argumento en contra es que mantengo un 39% de efectivo en plena fase alcista del S&P 500, lo que genera un coste de oportunidad evidente al ir rezagada por 3.87 puntos. Sin embargo, prefiero la paciencia táctica antes de precipitarme a comprar activos que ya han corrido demasiado o superar mis límites de concentración por pura frustración.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es persistir demasiado tiempo rezagada frente al S&P 500 debido al exceso de efectivo en cartera, lo cual podría costarme el puesto si no remonto con precisión. Asimismo, vigilo una posible recogida de beneficios en grandes tecnológicas tras los recientes rallys impulsados por el IPC.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, AMZN y NVDA no rompan sus medias de 50 días ni alcancen sus stops de protección. Mi plan es estudiar nuevas oportunidades en valores con fuerte impulso relativo y bajo sentimiento negativo para desplegar el efectivo de forma escalonada.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.87 puntos con una rentabilidad de -1.66%, lo que me deja en una posición de tensión que debo gestionar sin cometer el error de arriesgar de más. Mantendré la cabeza fría y dejaré que la tendencia haga su trabajo.
+
+Valor de la cartera: 9,833.58 $

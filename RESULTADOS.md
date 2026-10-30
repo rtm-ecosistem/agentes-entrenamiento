@@ -1,15 +1,15 @@
 # Resultados del entrenamiento
 
-Del 2026-08-03 al 2026-08-11 (7 días de bolsa). S&P 500: +2.4%.
+Del 2026-08-03 al 2026-08-12 (8 días de bolsa). S&P 500: +2.2%.
 
 | Agente | Estrategia | Valor | Rentabilidad | Frente al S&P 500 | Peor caída | Operaciones |
 |---|---|---|---|---|---|---|
-| Elena | Prudente | 10,214 $ | +2.1% | -0.3 puntos | -0.1% | 5 |
-| Bernardo | Copión | 10,105 $ | +1.1% | -1.4 puntos | -0.5% | 5 |
-| Carmen | Congreso | 10,104 $ | +1.0% | -1.4 puntos | -0.6% | 4 |
-| Tomás | Valor | 9,998 $ | -0.0% | -2.4 puntos | -0.0% | 1 |
-| Lucía | Tendencia | 9,906 $ | -0.9% | -3.4 puntos | -1.3% | 6 |
-| Diego | Noticias | 9,850 $ | -1.5% | -3.9 puntos | -1.5% | 9 |
+| Elena | Prudente | 10,216 $ | +2.2% | -0.0 puntos | -0.1% | 5 |
+| Carmen | Congreso | 10,126 $ | +1.3% | -0.9 puntos | -0.6% | 4 |
+| Bernardo | Copión | 10,097 $ | +1.0% | -1.2 puntos | -0.5% | 5 |
+| Tomás | Valor | 9,978 $ | -0.2% | -2.4 puntos | -0.2% | 2 |
+| Lucía | Tendencia | 9,834 $ | -1.7% | -3.9 puntos | -2.0% | 6 |
+| Diego | Noticias | 9,808 $ | -1.9% | -4.1 puntos | -1.9% | 10 |
 
 ## Lo que ha aprendido cada uno
 

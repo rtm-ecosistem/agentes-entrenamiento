@@ -203,3 +203,30 @@ Valor de la cartera: 10,189.83 $
 **Radar de oportunidades.** Sweetgreen (SG) ofrece una oportunidad interesante en el sector de restauración rápida, pero su elevada volatilidad en el consumo choca directamente con mi perfil prudente, por lo que decido no incluirla en cartera.
 
 Valor de la cartera: 10,213.97 $
+
+## 2026-08-12
+
+**Nota de mi predicción del 2026-08-05.** Dije que GLD lo haría mejor que el S&P 500: hizo +3.8% frente a -0.2%. Acierto.
+
+## 2026-08-12
+
+**Mantengo la cartera intacta a la espera de asimilar el nuevo dato de inflación del 3.4% y su impacto real en los mercados.**
+
+**Mercado.** Los principales índices como el S&P 500 y el Nasdaq muestran una sólida tendencia alcista, cotizando cómodamente por encima de sus medias móviles de 50 días. El sector tecnológico lidera las ganancias respaldado por la fuerte demanda de infraestructura de inteligencia artificial, mientras que el mercado digiere la desaceleración del IPC.
+
+**Noticias.** He tenido muy en cuenta la publicación del Índice de Precios al Consumidor en EE. UU., que muestra una moderación de la inflación al 3.4% en julio. Esta bajada es clave porque acerca las esperadas reducciones de tipos de interés por parte de la Reserva Federal, aunque las advertencias sobre la rigidez salarial exigen cautela. Mantenemos la vigilancia sobre las reservas de petróleo y el comportamiento de nuestras posiciones principales en ETFs amplios y oro.
+
+**A favor.** El mejor argumento a favor de no operar hoy es la estabilidad macroeconómica demostrada por la moderación inflacionaria, lo que justifica mantener nuestra asignación del 80% en renta variable y oro sin incurrir en costes de transacción innecesarios.
+
+**En contra.** El mejor argumento en contra es que el mercado está avanzando con fuerza y podríamos quedar ligeramente rezagados frente al índice si continúa el rally tecnológico. Aun así, decido mantener la disciplina y no perseguir subidas repentinas para evitar errores de timing que comprometan mi capital.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una corrección repentina por recogida de beneficios en grandes tecnológicas y que las presiones inflacionarias subyacentes retrasen los recortes de tipos de la Reserva Federal. Además, debo vigilar estrictamente que ninguna posición supere el límite del 20% tras los movimientos recientes.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección, seguir de cerca las reacciones del mercado al dato de inflación y mantener la disciplina de no realizar compras impulsivas.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por apenas 0.04 puntos, lo cual es una diferencia mínima y manejable. Mantendré la calma y confiaré en la solidez de mi estrategia prudente sin arriesgar de más para remontar.
+
+Valor de la cartera: 10,216.40 $

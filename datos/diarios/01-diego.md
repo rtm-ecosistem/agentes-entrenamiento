@@ -203,3 +203,30 @@ Valor de la cartera: 9,850.23 $
 ## 2026-08-11 15:00
 
 **Stop automático.** Vendo GOOGL: Stop alcanzado (344.87 $ ≤ 346.61 $): se corta la pérdida.
+
+## 2026-08-12
+
+**Nota de mi predicción del 2026-08-05.** Dije que GOOGL lo haría mejor que el S&P 500: hizo -10.2% frente a -0.2%. Fallo.
+
+## 2026-08-12
+
+**Invierto parte del efectivo en NVDA para capturar su fuerte catalizador de IA, manteniendo una estricta disciplina de rotación según mi regla de 48 horas.**
+
+**Mercado.** El mercado muestra un tono alcista general tras conocerse que la inflación en EE. UU. se desaceleró al 3.4% en julio. Los principales índices como el S&P 500 y el Nasdaq consolidan posiciones ventajosas, mientras el sector tecnológico lidera las subidas diarias con el respaldo de previsiones muy optimistas. No obstante, la atención sigue puesta en las advertencias de la Reserva Federal sobre presiones subyacentes y la evolución de los inventarios de materias primas.
+
+**Noticias.** He tenido muy en cuenta los sólidos catalizadores de Nvidia y la fuerte demanda continuada de infraestructura de inteligencia artificial. La noticia sobre el crecimiento masivo proyectado en el sector tecnológico y la moderación del IPC crean el caldo de cultivo ideal para entrar en valores con el sentimiento más positivo. He descartado otras opciones con menor tracción inmediata para centrarme exclusivamente en los titulares más potentes de la sesión.
+
+**A favor.** Comprar Nvidia me permite aprovechar un sentimiento de noticias altamente positivo y una tendencia técnica claramente alcista respaldada por la fuerte demanda de chips para IA. Al mantener una gran parte de mi cartera en efectivo, esta operación reduce el coste de oportunidad frente al avance del S&P 500 sin sobrepasar los límites de riesgo.
+
+**En contra.** El principal argumento en contra es que Nvidia ya registra subidas recientes y podría enfrentar una recogida de beneficios a corto plazo si el mercado general frena su rally. Aun así, decido operar porque la fuerza del catalizador corporativo y mi necesidad de reducir liquidez para remontar superan la cautela.
+
+**Operaciones**
+- **Comprar** 6.6895 NVDA a 224.23 $ (1,500.00 $). Fuerte catalizador alcista por la demanda continuada de infraestructura de IA y excelentes proyecciones de noticias.
+
+**Riesgos.** Los principales riesgos son una corrección inesperada en los índices tecnológicos tras la reciente publicación de datos de inflación y la volatilidad propia del sector de semiconductores. Mantendré los stops configurados estrictamente para limitar cualquier posible retroceso brusco.
+
+**Plan.** Vigilaré la evolución de mi nueva posición en Nvidia durante las próximas 48 horas para comprobar si supera al S&P 500 tal como exige mi regla de rotación. Revisaré diariamente los nuevos informes y el comportamiento de mis stops en CVX, MSFT y AVGO.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 4.12 puntos y tengo un 66% de la cartera en efectivo que me penaliza en un mercado alcista. Para solucionar esto, reduzco progresivamente la liquidez invirtiendo en los mejores catalizadores del día sin arriesgar en exceso.
+
+Valor de la cartera: 9,808.09 $
