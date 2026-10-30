@@ -1,0 +1,1493 @@
+{
+ "revisado": "2026-08-03",
+ "empresas": {
+  "AAPL": {
+   "bpa": 7.46,
+   "cierre_fiscal": "2025-09-27",
+   "crec_bpa": 22.7,
+   "crec_ventas": 6.4,
+   "deuda_capital": 3.3
+  },
+  "ABBV": {
+   "bpa": 2.36,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -1.3,
+   "crec_ventas": 8.6
+  },
+  "ABNB": {
+   "cierre_fiscal": "2025-12-31",
+   "crec_ventas": 10.3,
+   "deuda_capital": 1.71
+  },
+  "ACHR": {
+   "bpa": -0.99,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 30.3,
+   "deuda_capital": 0.12
+  },
+  "ADBE": {
+   "bpa": 16.7,
+   "cierre_fiscal": "2025-11-28",
+   "crec_bpa": 35.1,
+   "crec_ventas": 10.5,
+   "deuda_capital": 1.54
+  },
+  "AFRM": {
+   "bpa": 0.15,
+   "cierre_fiscal": "2025-06-30",
+   "crec_bpa": 109.0,
+   "crec_ventas": 38.8,
+   "deuda_capital": 2.65
+  },
+  "ALB": {
+   "bpa": -5.76,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 48.6,
+   "crec_ventas": -4.4
+  },
+  "AMAT": {
+   "bpa": 8.66,
+   "cierre_fiscal": "2025-10-26",
+   "crec_bpa": 0.6,
+   "crec_ventas": 4.4,
+   "deuda_capital": 0.73
+  },
+  "AMD": {
+   "bpa": 2.65,
+   "cierre_fiscal": "2025-12-27",
+   "crec_bpa": 165.0,
+   "crec_ventas": 34.3
+  },
+  "AMGN": {
+   "bpa": 14.23,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 88.2,
+   "crec_ventas": 10.0
+  },
+  "AMZN": {
+   "bpa": 7.17,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 29.7,
+   "crec_ventas": 12.4
+  },
+  "ANET": {
+   "bpa": 2.75,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 23.3,
+   "crec_ventas": 28.6,
+   "deuda_capital": 0.57
+  },
+  "APP": {
+   "bpa": 9.75,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 115.2,
+   "crec_ventas": 70.0,
+   "deuda_capital": 2.4
+  },
+  "ARM": {
+   "bpa": 0.85,
+   "cierre_fiscal": "2026-03-31",
+   "crec_bpa": 13.3,
+   "crec_ventas": 22.8,
+   "deuda_capital": 0.3
+  },
+  "ASTS": {
+   "cierre_fiscal": "2024-12-31"
+  },
+  "AVGO": {
+   "bpa": 4.77,
+   "cierre_fiscal": "2025-11-02",
+   "crec_bpa": 287.8,
+   "crec_ventas": 23.9
+  },
+  "AXP": {
+   "bpa": 15.38,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 9.8,
+   "crec_ventas": 6.4,
+   "deuda_capital": 7.96
+  },
+  "BA": {
+   "bpa": 2.48,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 113.5,
+   "crec_ventas": 34.5,
+   "deuda_capital": 29.85
+  },
+  "BAC": {
+   "bpa": 3.81,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 19.4,
+   "crec_ventas": 6.8,
+   "deuda_capital": 10.25
+  },
+  "BKNG": {
+   "bpa": 165.57,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -4.1,
+   "crec_ventas": 13.4
+  },
+  "BLK": {
+   "bpa": 35.31,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -15.9,
+   "deuda_capital": 1.94
+  },
+  "BMY": {
+   "bpa": 3.46,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 178.5,
+   "crec_ventas": -0.2,
+   "deuda_capital": 3.87
+  },
+  "C": {
+   "bpa": 6.99,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 17.7,
+   "crec_ventas": 5.6,
+   "deuda_capital": 11.51
+  },
+  "CAT": {
+   "bpa": 18.81,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -14.7,
+   "crec_ventas": 4.3
+  },
+  "CAVA": {
+   "bpa": 0.54,
+   "cierre_fiscal": "2025-12-28",
+   "crec_bpa": -50.9,
+   "crec_ventas": 22.4,
+   "deuda_capital": 0.74
+  },
+  "CEG": {
+   "bpa": 7.4,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -37.8,
+   "crec_ventas": 8.3,
+   "deuda_capital": 2.92
+  },
+  "CMG": {
+   "bpa": 1.14,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 2.7,
+   "crec_ventas": 5.4,
+   "deuda_capital": 2.18
+  },
+  "COIN": {
+   "bpa": 4.45,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -53.1,
+   "crec_ventas": 9.4,
+   "deuda_capital": 1.01
+  },
+  "COP": {
+   "bpa": 6.35,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -18.7,
+   "crec_ventas": 7.7,
+   "deuda_capital": 0.89
+  },
+  "COST": {
+   "bpa": 18.21,
+   "cierre_fiscal": "2025-08-31",
+   "crec_bpa": 10.0,
+   "crec_ventas": 8.2,
+   "deuda_capital": 1.73
+  },
+  "CRCL": {
+   "bpa": -0.44,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -246.7,
+   "crec_ventas": 63.9,
+   "deuda_capital": 22.64
+  },
+  "CRM": {
+   "bpa": 7.8,
+   "cierre_fiscal": "2026-01-31",
+   "crec_bpa": 22.6,
+   "crec_ventas": 9.6,
+   "deuda_capital": 0.9
+  },
+  "CRWD": {
+   "bpa": -0.65,
+   "cierre_fiscal": "2026-01-31",
+   "crec_bpa": -983.3,
+   "deuda_capital": 1.49
+  },
+  "CRWV": {
+   "bpa": -2.81,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 34.7,
+   "crec_ventas": 167.9,
+   "deuda_capital": 13.78
+  },
+  "CSCO": {
+   "bpa": 2.55,
+   "cierre_fiscal": "2025-07-26",
+   "crec_bpa": 0.4,
+   "crec_ventas": 5.3,
+   "deuda_capital": 1.59
+  },
+  "CVS": {
+   "bpa": 1.39,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -62.0,
+   "crec_ventas": 7.8,
+   "deuda_capital": 2.37
+  },
+  "CVX": {
+   "bpa": 6.63,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -31.8,
+   "crec_ventas": -6.8,
+   "deuda_capital": 0.71
+  },
+  "DDOG": {
+   "bpa": 0.31,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -40.4,
+   "crec_ventas": 27.7,
+   "deuda_capital": 0.78
+  },
+  "DE": {
+   "bpa": 18.5,
+   "cierre_fiscal": "2025-11-02",
+   "crec_bpa": -27.8,
+   "crec_ventas": -11.7,
+   "deuda_capital": 2.93
+  },
+  "DELL": {
+   "bpa": 8.68,
+   "cierre_fiscal": "2026-01-30",
+   "crec_bpa": 36.1,
+   "crec_ventas": 18.8
+  },
+  "DHR": {
+   "bpa": 5.05,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -4.5,
+   "crec_ventas": 2.9
+  },
+  "DIS": {
+   "bpa": 6.85,
+   "cierre_fiscal": "2025-09-27",
+   "crec_bpa": 151.8,
+   "crec_ventas": 3.4
+  },
+  "DUOL": {
+   "bpa": 8.57,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 355.9,
+   "crec_ventas": 38.7,
+   "deuda_capital": 0.48
+  },
+  "ENPH": {
+   "bpa": 1.29,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 72.0,
+   "crec_ventas": 10.7,
+   "deuda_capital": 2.23
+  },
+  "EOG": {
+   "bpa": 9.12,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -18.9,
+   "crec_ventas": -4.5
+  },
+  "ETN": {
+   "bpa": 10.45,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 10.0,
+   "crec_ventas": 10.3
+  },
+  "FCX": {
+   "cierre_fiscal": "2025-12-31",
+   "crec_ventas": 1.8,
+   "deuda_capital": 1.45
+  },
+  "FDX": {
+   "bpa": 18.55,
+   "cierre_fiscal": "2026-05-31",
+   "crec_bpa": 10.4,
+   "crec_ventas": 7.7
+  },
+  "FSLR": {
+   "bpa": 14.21,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 18.2,
+   "crec_ventas": 24.1,
+   "deuda_capital": 0.4
+  },
+  "GD": {
+   "bpa": 15.45,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 13.4,
+   "crec_ventas": 10.1
+  },
+  "GE": {
+   "bpa": 8.14,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 35.9,
+   "crec_ventas": 18.5,
+   "deuda_capital": 5.96
+  },
+  "GILD": {
+   "bpa": 6.78,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 1684.2,
+   "crec_ventas": 2.4
+  },
+  "GOOGL": {
+   "bpa": 10.81,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 34.5,
+   "crec_ventas": 15.1,
+   "deuda_capital": 0.43
+  },
+  "GS": {
+   "bpa": 51.32,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 26.6,
+   "deuda_capital": 13.48
+  },
+  "HD": {
+   "bpa": 14.23,
+   "cierre_fiscal": "2026-02-01",
+   "crec_bpa": -4.6,
+   "crec_ventas": 3.2,
+   "deuda_capital": 7.2
+  },
+  "HIMS": {
+   "bpa": 0.51,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -3.8,
+   "crec_ventas": 59.0,
+   "deuda_capital": 2.98
+  },
+  "HON": {
+   "bpa": 7.36,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -15.5,
+   "crec_ventas": 7.8
+  },
+  "HOOD": {
+   "bpa": 2.05,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 31.4,
+   "crec_ventas": 51.6,
+   "deuda_capital": 2.28
+  },
+  "IBM": {
+   "bpa": 11.17,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 73.7,
+   "crec_ventas": 7.6,
+   "deuda_capital": 3.65
+  },
+  "INTC": {
+   "bpa": -0.06,
+   "cierre_fiscal": "2025-12-27",
+   "crec_bpa": 98.6,
+   "crec_ventas": -0.5
+  },
+  "INTU": {
+   "bpa": 13.67,
+   "cierre_fiscal": "2025-07-31",
+   "crec_bpa": 31.1,
+   "crec_ventas": 15.6,
+   "deuda_capital": 0.8
+  },
+  "IONQ": {
+   "bpa": -1.82,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -16.7,
+   "crec_ventas": 201.9,
+   "deuda_capital": 0.73
+  },
+  "ISRG": {
+   "bpa": 7.87,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 22.6,
+   "crec_ventas": 20.5,
+   "deuda_capital": 0.14
+  },
+  "JNJ": {
+   "bpa": 11.03,
+   "cierre_fiscal": "2025-12-28",
+   "crec_bpa": 90.5,
+   "crec_ventas": 6.0,
+   "deuda_capital": 1.44
+  },
+  "JOBY": {
+   "bpa": -1.13,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -29.9,
+   "crec_ventas": 39183.1,
+   "deuda_capital": 0.27
+  },
+  "JPM": {
+   "bpa": 20.02,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 1.4,
+   "crec_ventas": 2.8,
+   "deuda_capital": 11.21
+  },
+  "KLAC": {
+   "bpa": 3.04,
+   "cierre_fiscal": "2025-06-30",
+   "crec_bpa": 49.8,
+   "crec_ventas": 23.9,
+   "deuda_capital": 2.06
+  },
+  "KO": {
+   "bpa": 3.04,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 23.6,
+   "crec_ventas": 1.9
+  },
+  "LIN": {
+   "bpa": 14.61,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 7.3,
+   "crec_ventas": 3.0,
+   "deuda_capital": 1.23
+  },
+  "LLY": {
+   "bpa": 22.95,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 96.0,
+   "crec_ventas": 44.7
+  },
+  "LMT": {
+   "bpa": 21.49,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -3.7,
+   "crec_ventas": 5.6,
+   "deuda_capital": 7.9
+  },
+  "LOW": {
+   "bpa": 11.85,
+   "cierre_fiscal": "2026-01-30",
+   "crec_bpa": -3.1,
+   "crec_ventas": 3.1
+  },
+  "LRCX": {
+   "bpa": 5.76,
+   "cierre_fiscal": "2026-06-28",
+   "crec_bpa": 38.8,
+   "crec_ventas": 26.0,
+   "deuda_capital": 1.11
+  },
+  "LULU": {
+   "bpa": 13.26,
+   "cierre_fiscal": "2026-02-01",
+   "crec_bpa": -9.4,
+   "crec_ventas": 4.9,
+   "deuda_capital": 0.7
+  },
+  "LUNR": {
+   "bpa": -0.73,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 84.2,
+   "crec_ventas": -7.9
+  },
+  "MA": {
+   "bpa": 16.52,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 18.9,
+   "crec_ventas": 16.4,
+   "deuda_capital": 6.0
+  },
+  "MAR": {
+   "bpa": 9.51,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 14.2,
+   "crec_ventas": 4.3
+  },
+  "MCD": {
+   "bpa": 11.95,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 4.9,
+   "crec_ventas": 3.7
+  },
+  "META": {
+   "bpa": 23.49,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -1.6,
+   "crec_ventas": 22.2,
+   "deuda_capital": 0.68
+  },
+  "MP": {
+   "bpa": -0.5,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 12.3,
+   "crec_ventas": 10.1,
+   "deuda_capital": 0.74
+  },
+  "MRK": {
+   "bpa": 7.28,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 8.0,
+   "crec_ventas": 1.3
+  },
+  "MRNA": {
+   "bpa": -7.26,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 21.8,
+   "crec_ventas": -39.9,
+   "deuda_capital": 0.43
+  },
+  "MRVL": {
+   "bpa": 3.07,
+   "cierre_fiscal": "2026-01-31",
+   "crec_bpa": 401.0,
+   "crec_ventas": 42.1,
+   "deuda_capital": 0.56
+  },
+  "MS": {
+   "bpa": 10.21,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 28.4,
+   "deuda_capital": 11.71
+  },
+  "MSFT": {
+   "bpa": 13.64,
+   "cierre_fiscal": "2025-06-30",
+   "crec_bpa": 15.6,
+   "crec_ventas": 14.9,
+   "deuda_capital": 0.7
+  },
+  "MU": {
+   "bpa": 7.59,
+   "cierre_fiscal": "2025-08-28",
+   "crec_bpa": 984.3,
+   "crec_ventas": 48.9,
+   "deuda_capital": 0.46
+  },
+  "NEE": {
+   "bpa": 3.3,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -2.1,
+   "deuda_capital": 2.68
+  },
+  "NEM": {
+   "bpa": 6.39,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 118.8,
+   "crec_ventas": 21.3,
+   "deuda_capital": 0.68
+  },
+  "NET": {
+   "bpa": -0.29,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -26.1,
+   "crec_ventas": 29.8,
+   "deuda_capital": 3.14
+  },
+  "NFLX": {
+   "bpa": 2.53,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 27.8,
+   "crec_ventas": 15.9,
+   "deuda_capital": 1.09
+  },
+  "NKE": {
+   "bpa": 2.1,
+   "cierre_fiscal": "2026-05-31",
+   "crec_bpa": -2.8,
+   "crec_ventas": 0.2
+  },
+  "NOC": {
+   "bpa": 29.08,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 2.6,
+   "crec_ventas": 2.2,
+   "deuda_capital": 2.08
+  },
+  "NOW": {
+   "bpa": 1.67,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 21.9,
+   "crec_ventas": 20.9,
+   "deuda_capital": 1.01
+  },
+  "NVDA": {
+   "bpa": 4.9,
+   "cierre_fiscal": "2026-01-25",
+   "crec_bpa": 66.7,
+   "crec_ventas": 65.5,
+   "deuda_capital": 0.31
+  },
+  "OKLO": {
+   "bpa": -0.72,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 2.7,
+   "deuda_capital": 0.04
+  },
+  "ORCL": {
+   "bpa": 5.83,
+   "cierre_fiscal": "2026-05-31",
+   "crec_bpa": 34.3,
+   "crec_ventas": 17.3
+  },
+  "OXY": {
+   "bpa": 1.61,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -34.0,
+   "crec_ventas": -1.9
+  },
+  "PANW": {
+   "bpa": 1.6,
+   "cierre_fiscal": "2025-07-31",
+   "crec_bpa": -56.0,
+   "crec_ventas": 14.9,
+   "deuda_capital": 1.66
+  },
+  "PEP": {
+   "bpa": 6,
+   "cierre_fiscal": "2025-12-27",
+   "crec_bpa": -13.7,
+   "crec_ventas": 2.3,
+   "deuda_capital": 4.26
+  },
+  "PFE": {
+   "bpa": 1.36,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -3.5,
+   "crec_ventas": -1.6,
+   "deuda_capital": 1.4
+  },
+  "PG": {
+   "bpa": 6.51,
+   "cierre_fiscal": "2025-06-30",
+   "crec_bpa": 8.1,
+   "crec_ventas": 0.3
+  },
+  "PLTR": {
+   "bpa": 0.63,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 231.6,
+   "crec_ventas": 56.2,
+   "deuda_capital": 0.19
+  },
+  "PYPL": {
+   "bpa": 5.41,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 35.6,
+   "crec_ventas": 4.3,
+   "deuda_capital": 2.96
+  },
+  "QBTS": {
+   "bpa": -1.11,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -48.0,
+   "crec_ventas": 178.5,
+   "deuda_capital": 0.07
+  },
+  "QCOM": {
+   "bpa": 5.01,
+   "cierre_fiscal": "2025-09-28",
+   "crec_bpa": -44.1,
+   "crec_ventas": 13.7
+  },
+  "RBLX": {
+   "bpa": -1.54,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -6.9,
+   "crec_ventas": 35.8,
+   "deuda_capital": 23.3
+  },
+  "RDDT": {
+   "bpa": 2.62,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 178.7,
+   "crec_ventas": 69.4,
+   "deuda_capital": 0.11
+  },
+  "REGN": {
+   "bpa": 41.48,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 8.2,
+   "crec_ventas": 1.0,
+   "deuda_capital": 0.3
+  },
+  "RGTI": {
+   "bpa": -0.7,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 35.8,
+   "deuda_capital": 0.22
+  },
+  "RIVN": {
+   "bpa": -3.07,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 34.5,
+   "crec_ventas": 8.4
+  },
+  "RKLB": {
+   "bpa": -0.37,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 2.6,
+   "crec_ventas": 38.0,
+   "deuda_capital": 0.35
+  },
+  "RTX": {
+   "bpa": 4.96,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 39.7,
+   "deuda_capital": 1.59
+  },
+  "SBUX": {
+   "bpa": 1.63,
+   "cierre_fiscal": "2025-09-28",
+   "crec_bpa": -50.8,
+   "crec_ventas": 2.8
+  },
+  "SCHW": {
+   "bpa": 4.65,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 55.5,
+   "crec_ventas": 22.0,
+   "deuda_capital": 8.93
+  },
+  "SHOP": {
+   "bpa": 0.94,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -39.4,
+   "crec_ventas": 30.1
+  },
+  "SLB": {
+   "bpa": 2.35,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -24.4,
+   "crec_ventas": -1.6,
+   "deuda_capital": 1.06
+  },
+  "SMCI": {
+   "bpa": 1.68,
+   "cierre_fiscal": "2025-06-30",
+   "crec_bpa": -12.5,
+   "crec_ventas": 46.6,
+   "deuda_capital": 3.0
+  },
+  "SMR": {
+   "bpa": -2.17,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -47.6,
+   "crec_ventas": -15.0,
+   "deuda_capital": 0.26
+  },
+  "SNOW": {
+   "bpa": -3.95,
+   "cierre_fiscal": "2026-01-31",
+   "crec_bpa": -2.3,
+   "crec_ventas": 29.2,
+   "deuda_capital": 3.75
+  },
+  "SOFI": {
+   "bpa": 0.39,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 0.0,
+   "crec_ventas": 23.1,
+   "deuda_capital": 3.83
+  },
+  "SOUN": {
+   "bpa": -0.28,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 73.1,
+   "deuda_capital": 0.48
+  },
+  "T": {
+   "bpa": 3.04,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 104.0,
+   "crec_ventas": 2.7
+  },
+  "TEM": {
+   "bpa": -1.41,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 77.4,
+   "crec_ventas": 83.4,
+   "deuda_capital": 3.63
+  },
+  "TGT": {
+   "bpa": 8.13,
+   "cierre_fiscal": "2026-01-31",
+   "crec_bpa": -8.2,
+   "crec_ventas": -1.7
+  },
+  "TMO": {
+   "bpa": 17.74,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 7.3,
+   "crec_ventas": 3.9
+  },
+  "TMUS": {
+   "bpa": 9.72,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 0.6,
+   "crec_ventas": 8.5
+  },
+  "TSLA": {
+   "bpa": 1.08,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -47.1,
+   "crec_ventas": -2.9,
+   "deuda_capital": 0.67
+  },
+  "TTD": {
+   "bpa": 0.9,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 15.4,
+   "crec_ventas": 18.5,
+   "deuda_capital": 1.48
+  },
+  "TXN": {
+   "bpa": 5.45,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 4.8,
+   "crec_ventas": 13.0,
+   "deuda_capital": 1.13
+  },
+  "UBER": {
+   "bpa": 4.73,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 3.7,
+   "crec_ventas": 18.3,
+   "deuda_capital": 1.25
+  },
+  "UNH": {
+   "bpa": 13.23,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -14.7,
+   "crec_ventas": 11.8
+  },
+  "UPS": {
+   "bpa": 6.56,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -2.8,
+   "crec_ventas": -2.6
+  },
+  "USO": {
+   "cierre_fiscal": "2025-12-31",
+   "crec_ventas": -124.2
+  },
+  "V": {
+   "cierre_fiscal": "2025-09-30",
+   "crec_ventas": 11.3
+  },
+  "VRTX": {
+   "bpa": 15.32,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 836.5,
+   "crec_ventas": 8.9,
+   "deuda_capital": 0.37
+  },
+  "VST": {
+   "bpa": 2.18,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -68.9,
+   "crec_ventas": 3.0,
+   "deuda_capital": 7.15
+  },
+  "VZ": {
+   "bpa": 4.06,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": -1.9,
+   "crec_ventas": 2.5
+  },
+  "WFC": {
+   "bpa": 6.26,
+   "cierre_fiscal": "2025-12-31",
+   "crec_bpa": 16.6,
+   "deuda_capital": 10.85
+  },
+  "WMT": {
+   "bpa": 2.73,
+   "cierre_fiscal": "2026-01-31",
+   "crec_bpa": 13.3,
+   "crec_ventas": 4.7
+  },
+  "ZS": {
+   "bpa": -0.27,
+   "cierre_fiscal": "2025-07-31",
+   "crec_bpa": 30.8,
+   "crec_ventas": 23.3,
+   "deuda_capital": 2.08
+  }
+ },
+ "resultados": {
+  "PLTR": {
+   "fecha": "2026-08-03",
+   "hora": ""
+  },
+  "VRTX": {
+   "fecha": "2026-08-03",
+   "hora": ""
+  },
+  "MAR": {
+   "fecha": "2026-08-03",
+   "hora": ""
+  },
+  "AMD": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "MRK": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "CAT": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "AMGN": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "ANET": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "GILD": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "MCD": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "NVO": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "PFE": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "SPOT": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "BKNG": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "EOG": {
+   "fecha": "2026-08-04",
+   "hora": ""
+  },
+  "LLY": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "SHOP": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "DIS": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "UBER": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "CVS": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "APP": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "OXY": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "CRCL": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "IONQ": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "ALB": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "DUOL": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "JOBY": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "SMR": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "SOUN": {
+   "fecha": "2026-08-05",
+   "hora": ""
+  },
+  "COP": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "NET": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "ABNB": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "DDOG": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "CEG": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "MP": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "TTD": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "QBTS": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "RGTI": {
+   "fecha": "2026-08-06",
+   "hora": ""
+  },
+  "VST": {
+   "fecha": "2026-08-07",
+   "hora": ""
+  },
+  "OKLO": {
+   "fecha": "2026-08-07",
+   "hora": ""
+  },
+  "RKLB": {
+   "fecha": "2026-08-10",
+   "hora": ""
+  },
+  "ASTS": {
+   "fecha": "2026-08-10",
+   "hora": ""
+  },
+  "HIMS": {
+   "fecha": "2026-08-10",
+   "hora": ""
+  },
+  "ACHR": {
+   "fecha": "2026-08-10",
+   "hora": ""
+  },
+  "CRWV": {
+   "fecha": "2026-08-11",
+   "hora": ""
+  },
+  "SMCI": {
+   "fecha": "2026-08-11",
+   "hora": ""
+  },
+  "CAVA": {
+   "fecha": "2026-08-11",
+   "hora": ""
+  },
+  "CSCO": {
+   "fecha": "2026-08-12",
+   "hora": ""
+  },
+  "AMAT": {
+   "fecha": "2026-08-13",
+   "hora": ""
+  },
+  "NU": {
+   "fecha": "2026-08-13",
+   "hora": ""
+  },
+  "LUNR": {
+   "fecha": "2026-08-13",
+   "hora": ""
+  },
+  "HD": {
+   "fecha": "2026-08-18",
+   "hora": ""
+  },
+  "LOW": {
+   "fecha": "2026-08-19",
+   "hora": ""
+  },
+  "TGT": {
+   "fecha": "2026-08-19",
+   "hora": ""
+  },
+  "WMT": {
+   "fecha": "2026-08-20",
+   "hora": ""
+  },
+  "DE": {
+   "fecha": "2026-08-20",
+   "hora": ""
+  },
+  "RIVN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "RDDT": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "BA": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "NEE": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "LMT": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "CRWD": {
+   "fecha": "2026-08-31",
+   "estimada": true
+  },
+  "SOFI": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "BLK": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "CVX": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "JPM": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "TEM": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "AMZN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "NOC": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "GE": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "NKE": {
+   "fecha": "2026-09-30",
+   "estimada": true
+  },
+  "ADBE": {
+   "fecha": "2026-09-28",
+   "estimada": true
+  },
+  "MU": {
+   "fecha": "2026-10-07",
+   "estimada": true
+  },
+  "TXN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "DELL": {
+   "fecha": "2026-08-31",
+   "estimada": true
+  },
+  "LIN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "USO": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "NEM": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "GS": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "NVDA": {
+   "fecha": "2026-08-24",
+   "estimada": true
+  },
+  "INTC": {
+   "fecha": "2026-10-27",
+   "estimada": true
+  },
+  "MRVL": {
+   "fecha": "2026-08-31",
+   "estimada": true
+  },
+  "META": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "MS": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "LRCX": {
+   "fecha": "2026-08-07",
+   "estimada": true
+  },
+  "ETN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "FCX": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "RTX": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "KO": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "SNOW": {
+   "fecha": "2026-08-31",
+   "estimada": true
+  },
+  "AVGO": {
+   "fecha": "2026-09-01",
+   "estimada": true
+  },
+  "C": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "MRNA": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "UPS": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "T": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "AAPL": {
+   "fecha": "2026-11-06",
+   "estimada": true
+  },
+  "UNH": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "VZ": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "BMY": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "QCOM": {
+   "fecha": "2026-11-09",
+   "estimada": true
+  },
+  "DHR": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ENPH": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "NOW": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "WFC": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "PYPL": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "TSLA": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "V": {
+   "fecha": "2026-11-09",
+   "estimada": true
+  },
+  "GOOGL": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "KLAC": {
+   "fecha": "2026-08-10",
+   "estimada": true
+  },
+  "FDX": {
+   "fecha": "2026-09-30",
+   "estimada": true
+  },
+  "ARM": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "CRM": {
+   "fecha": "2026-08-31",
+   "estimada": true
+  },
+  "NFLX": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "SCHW": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "SLB": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ZS": {
+   "fecha": "2026-09-09",
+   "estimada": true
+  },
+  "AFRM": {
+   "fecha": "2026-08-10",
+   "estimada": true
+  },
+  "PANW": {
+   "fecha": "2026-09-09",
+   "estimada": true
+  },
+  "SBUX": {
+   "fecha": "2026-11-09",
+   "estimada": true
+  },
+  "TMUS": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ISRG": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "GD": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "HOOD": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "JNJ": {
+   "fecha": "2026-10-28",
+   "estimada": true
+  },
+  "COIN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "AXP": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ORCL": {
+   "fecha": "2026-09-30",
+   "estimada": true
+  },
+  "PEP": {
+   "fecha": "2026-10-27",
+   "estimada": true
+  },
+  "MSFT": {
+   "fecha": "2026-08-10",
+   "estimada": true
+  },
+  "REGN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "LULU": {
+   "fecha": "2026-08-31",
+   "estimada": true
+  },
+  "PG": {
+   "fecha": "2026-08-10",
+   "estimada": true
+  },
+  "TMO": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "RBLX": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "FSLR": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "IBM": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "BAC": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "CMG": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ABBV": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "COST": {
+   "fecha": "2026-10-12",
+   "estimada": true
+  },
+  "MA": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "HON": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "INTU": {
+   "fecha": "2026-09-09",
+   "estimada": true
+  }
+ }
+}
