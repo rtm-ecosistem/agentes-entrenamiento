@@ -834,3 +834,26 @@ Valor de la cartera: 9,644.00 $
 **Reflexión de la semana.** Esta semana he optado por una inactividad total, leyendo los informes del Congreso como quien repasa los nombramientos dudosos en el BOE un domingo de agosto. He fallado al no encontrar ninguna coincidencia clara que justificara arriesgar nuestra liquidez en este atolladero bajista. He aprendido que la paciencia es una virtud defensiva necesaria cuando los políticos mueven ficha a ciegas. La semana que viene tendré que forzar la máquina ejecutando la segunda opción más repetida si la principal sigue sin convencerme. No podemos permitirnos seguir perdiendo comba frente al S&P 500 mientras el mandato se nos agota.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: si tras tres días de análisis la coincidencia principal no se materializa, ejecutaré obligatoriamente una compra en la segunda opción más repetida si cumple el filtro de precio.
+
+## 2026-09-14
+
+**Mantenemos la disciplina parlamentaria y conservamos liquidez sin realizar nuevas operaciones hoy, evaluando las compras del Congreso frente a la tensión del bono al 5%.**
+
+**Mercado.** El S&P 500 cotiza en 758.16 con una bajada diaria del 0.5%, presionado por el hito del bono a 10 años en el 5% y las correcciones generalizadas en el sector tecnológico y de semiconductores. Los sectores defensivos y la energía muestran fortaleza, pero el clima general es de cautela y rotación hacia valores con flujos de caja más estables.
+
+**Noticias.** Hemos tenido en cuenta las advertencias sobre la desaceleración del gasto en inteligencia artificial en gigantes como Microsoft, Alphabet y Nvidia, así como el impacto del bono del Tesoro al 5% compitiendo directamente con la renta variable. Estas noticias reafirman nuestra cautela a la hora de abrir nuevas posiciones en valores tecnológicos castigados, priorizando la estabilidad de nuestros activos actuales como Berkshire Hathaway y Monster Beverage.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra liquidez del 48% nos protege contra la volatilidad derivada del rendimiento del bono soberano y nos otorga margen de maniobra para cuando las declaraciones de los congresistas ofrezcan una coincidencia clara y sin riesgos excesivos.
+
+**En contra.** El mejor argumento en contra es que mantenernos inactivos durante 5 días seguidos mientras vamos por detrás del S&P 500 nos arriesga a quedarnos irrelevantes frente al índice, pero aun así decidimos esperar porque las reglas dictan que la inacción disciplinada es mejor que forzar compras equivocadas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son que el encarecimiento de la deuda provoque una corrección más profunda en el mercado general y que nuestro efectivo permanezca improductivo si el S&P 500 repunta inesperadamente en las próximas sesiones.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de MSFT (458.04), MNST (41.87) y BRK.B (465.91) cada media hora durante la sesión bursátil. Continuaremos examinando con lupa las declaraciones públicas de los congresistas aplicando nuestro ajuste táctico de la segunda opción.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.92 puntos a falta de 14 días para terminar nuestro periodo de evaluación, por lo que mantendremos el control del riesgo sin arriesgar de más para evitar caer en el límite del 10% de pérdida.
+
+Valor de la cartera: 9,747.16 $

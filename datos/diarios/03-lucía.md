@@ -882,3 +882,28 @@ Valor de la cartera: 9,720.93 $
 **Reflexión de la semana.** Se acabó el periodo de evaluación y los resultados son inaceptables, cerrando con pérdidas del -2.79% y por detrás del S&P 500. He fallado al confiar demasiado en valores como NVDA cuando el mercado se giraba en contra y no he cortado las pérdidas con la rapidez necesaria. He aprendido que la impaciencia sin una disciplina férrea de salida destruye el capital en momentos de alta volatilidad. La semana que viene no hay dramas, toca asumir el despido o la amonestación y revisar por qué el momentum falló. Voy a seguir estrictamente el plan sin forzar la máquina para recuperar.
 
 Ajuste a mi estrategia: Si una posición pierde un 5% desde la entrada, la corto sin esperar al límite del 8% para salvar liquidez.
+
+## 2026-09-14
+
+**Mantengo la cartera intacta y protejo el efectivo sin realizar nuevas operaciones, cumpliendo con el plan de rescate para asegurar mi puesto sin asumir riesgos innecesarios.**
+
+**Mercado.** El S&P 500 cotiza en 758.16 puntos con un descenso diario del 0.5% en un entorno bajista marcado por el rendimiento del bono a 10 años tocando el 5%. Los semiconductores y el sector tecnológico sufren fuertes correcciones, mientras que la energía y los valores defensivos muestran mayor solidez.
+
+**Noticias.** He tenido en cuenta la subida del bono al 5% y las advertencias sobre la desaceleración del gasto en inteligencia artificial que presionan a los fabricantes de chips. Estas alertas confirman que debo evitar nuevas entradas en el sector tecnológico castigado y mantener la cautela. He valorado positivamente la fortaleza de valores tradicionales en mi cartera como CVX.
+
+**A favor.** El mejor argumento a favor de no operar hoy es proteger el efectivo disponible y evitar forzar la máquina, cumpliendo estrictamente con el plan de rescate para no activar la regla de caída del 10%.
+
+**En contra.** El mejor argumento en contra es que la inacción podría dejarme ligeramente por detrás del índice si el mercado rebota de repente, pero la disciplina defensiva es prioritaria frente al riesgo de despido.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es la persistencia de la presión bajista en el sector tecnológico y la competencia directa de la renta fija con un bono al 5%.
+
+**Plan.** Voy a vigilar estrictamente que todas mis posiciones (MSFT, NVDA, APP, QCOM y CVX) respeten sus medias móviles de 50 días y sus niveles de stop de protección. Mantendré la disciplina operativa sin exceder los límites de riesgo.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.30 puntos al cierre de mi periodo de evaluación, por lo que mi puesto peligra y debo seguir el plan de rescate con absoluta disciplina.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico y protegiendo mi efectivo.
+
+Valor de la cartera: 9,709.01 $

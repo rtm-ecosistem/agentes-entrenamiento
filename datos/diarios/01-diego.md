@@ -880,3 +880,28 @@ Valor de la cartera: 9,361.11 $
 **Reflexión de la semana.** Esta semana he optado por la defensa absoluta y la inacción para blindar el poco capital que me queda, cerrando el periodo con un doloroso -6.39% que me deja muy por detrás del S&P 500 y al borde del despido. He fallado al no ser capaz de encontrar catalizadores claros en medio del ruido y al dejarme paralizar por el miedo a cruzar el límite del 10% de caída. He aprendido que la parálisis por exceso de precaución no salva una cartera cuando ya vas con retraso estructural frente al índice. La semana que viene cambiaré el chip por completo: buscaré con más agilidad noticias de alto impacto sin convertirme en un espectador pasivo, asumiendo riesgos calculados para recuperar el terreno perdido.
 
 Ajuste a mi estrategia: Si tras 48 horas sin operar el capital sigue cayendo sin encontrar un catalizador claro, abriré una posición táctica rápida basada en el titular más fuerte del día para intentar romper la inercia.
+
+## 2026-09-14
+
+**Mantengo mi cartera intacta y ejecuto un plan de rescate defensivo riguroso sin realizar operaciones, protegiendo el capital frente al límite del 10% de caída.**
+
+**Mercado.** El mercado muestra un tono bajista generalizado con el S&P 500 cotizando en 758.16 y un rendimiento del bono del Tesoro a 10 años que alcanza el 5% por primera vez desde 2023. El sector tecnológico y los semiconductores sufren correcciones severas presionados por dudas sobre la rentabilidad de la inteligencia artificial, mientras que la energía y los valores de software establecido muestran relativa fortaleza.
+
+**Noticias.** He tenido en cuenta las advertencias sobre la desaceleración del gasto en inteligencia artificial que penalizan a grandes tecnológicas y fabricantes de chips como Nvidia y Microsoft. Asimismo, valoro positivamente el impulso en sectores defensivos y de software respaldados por rotaciones institucionales, aunque descarto realizar entradas precipitadas. Estas noticias refuerzan la cautela en un entorno macroeconómico donde la deuda soberana compite directamente con la renta variable.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener la disciplina defensiva evita incurrir en pérdidas adicionales cuando el mercado se encuentra bajo una fuerte presión bajista y con los rendimientos de los bonos al 5%. Conservar la liquidez actual y las posiciones estables protege la cartera del riesgo de superar el límite de caída del 10%.
+
+**En contra.** El mejor argumento en contra es que llevar demasiados días sin operar me deja en una posición de pasividad estructural frente al índice S&P 500, dificultando la recuperación del déficit acumulado. Aun así, decido no operar porque las normas de mi plan de rescate priorizan la supervivencia estricta de la cartera frente a la tentación de forzar operaciones desesperadas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la profundización de la corrección en el sector tecnológico y la presión continua de los tipos de interés elevados sobre las valoraciones bursátiles generales. Quedarme paralizado sin captar catalizadores positivos también representa un riesgo latente para superar la evaluación.
+
+**Plan.** Voy a vigilar estrechamente la evolución diaria de mis posiciones abiertas (CVX, MSFT, NVDA, JPM, AMZN y CRM) comparándolas rigurosamente con el S&P 500 y respetando los stops configurados. No realizaré nuevas operaciones hoy, manteniendo una postura de observación activa para identificar un punto de inflexión claro.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.76 puntos y mi periodo de evaluación ha finalizado, por lo que mi puesto está en peligro directo y debo extremar la prudencia.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
+
+Valor de la cartera: 9,363.82 $

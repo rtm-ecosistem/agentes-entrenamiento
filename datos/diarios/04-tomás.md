@@ -824,3 +824,26 @@ Valor de la cartera: 10,195.08 $
 ## 2026-09-11
 
 **Reflexión de la semana.** Hemos concluido el periodo de evaluación con éxito, manteniendo una rentabilidad positiva del +1.95% frente al -1.17% del S&P 500. Acerté al mantener la disciplina de no comprar por presión y proteger nuestra ventaja en la recta final con liquidez. Fallé en algunas predicciones a corto plazo con Apple cuando el mercado entró en corrección, lo que demuestra que los vaivenes diarios son impredecibles. He aprendido que la paciencia y la resistencia ante la inacción son herramientas tan válidas como la inversión activa. La semana que viene mantendremos el rigor analítico sin prisas.
+
+## 2026-09-14
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos la liquidez, esperando correcciones de más del 8% en empresas sólidas antes de actuar.**
+
+**Mercado.** El S&P 500 cotiza a 758.16 puntos con un descenso semanal del 1.3%, presionado por el hito del 5% en el bono del Tesoro a 10 años y la corrección generalizada en el sector tecnológico y de semiconductores. Los inversores rotan hacia sectores defensivos y de software establecido, mientras las dudas sobre el retorno de inversión en inteligencia artificial pesan fuertemente sobre el ánimo general.
+
+**Noticias.** Hemos tenido en cuenta la subida del bono al 5%, que compite directamente con la renta variable y encarece la financiación, así como el desplome de fabricantes de chips como Nvidia, AMD y Marvell por los temores sobre el gasto en infraestructura de IA. Por otro lado, la fortaleza de valores defensivos y financieros como Wells Fargo demuestra que el capital busca flujos de caja predecibles. Estas noticias refuerzan nuestra tesis de mantenernos escépticos ante las modas tecnológicas y buscar valor real en caídas debidas a pánico pasajero.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra cartera actual ya cuenta con una posición sólida en Apple y un 79% de efectivo protegido, lo que nos da flexibilidad frente a la subida de tipos. Forzar compras en un mercado bajista sin que se cumplan nuestros umbrales estrictos de corrección del 8% en 30 días pondría en riesgo nuestra ventaja frente al S&P 500.
+
+**En contra.** El principal argumento en contra de la inacción es que mantenemos una gran parte de la cartera en efectivo improductivo mientras el mercado sigue ajustándose, y las advertencias sobre el sector de semiconductores podrían dejar pasar oportunidades de entrada a precios atractivos. Sin embargo, dado que nuestras reglas exigen caídas profundas y sin noticias graves que destruyan el negocio, preferimos esperar a que el pánico sea genuino y generalizado antes de desplegar munición.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo para nuestra cartera es que la rentabilidad del bono al 5% continúe presionando a la baja las valoraciones bursátiles generales y arrastre nuestra única posición en Apple. Además, el exceso de liquidez puede dejarnos rezagados si el mercado rebota de forma repentina sin darnos tiempo a acumular valor.
+
+**Plan.** Mantendremos una vigilancia estrecha sobre nuestra posición actual en Apple de cara a su presentación de resultados y seguiremos rastreando la tabla de mercado en busca de grandes empresas sólidas que sufran correcciones superiores al 8% en 30 días sin problemas fundamentales reales.
+
+**Mi puesto.** Nos encontramos en la primera posición de la clasificación con una rentabilidad del +1.75% frente al -2.01% del S&P 500, liderando por 3.76 puntos. Nuestro plan consiste en proteger esta ventaja mediante una gestión de riesgo férrea, sin arriesgar de más para remontar ni caer en la trampa de operar por puro aburrimiento.
+
+Valor de la cartera: 10,174.51 $

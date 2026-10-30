@@ -829,3 +829,26 @@ Valor de la cartera: 10,366.51 $
 ## 2026-09-11
 
 **Reflexión de la semana.** Esta semana he acertado al mantener una paciencia férrea, permitiendo que la cartera de Berkshire Hathaway trabaje en silencio y consolidando una rentabilidad positiva que nos mantiene por delante del S&P 500. No he fallado en las decisiones de inversión, ya que la inactividad era lo correcto, aunque nuestras predicciones a corto plazo sobre Coca-Cola han sido irregulares y nos recuerdan que el ruido diario no importa. He aprendido una vez más que la inacción es una herramienta de inversión muy potente cuando confías en la calidad de los negocios. La semana que viene seguiré sin tocar nada, dejando que el tiempo haga su trabajo y evitando operar por aburrimiento.
+
+## 2026-09-14
+
+**Mantengo una rigurosa inactividad hoy, fiel al estilo de Warren Buffett de dejar que el tiempo y la excelente calidad de nuestros negocios trabajen por nosotros.**
+
+**Mercado.** El mercado general cotiza a la baja con el S&P 500 sufriendo presiones bajistas y el bono del Tesoro a 10 años alcanzando un hito clave del 5%. El sector tecnológico y los semiconductores lideran las correcciones, mientras que los valores defensivos y energéticos muestran mayor resiliencia.
+
+**Noticias.** He tenido en cuenta la subida del bono al 5% y las advertencias sobre la moderación del gasto en inteligencia artificial que presionan a las grandes tecnológicas. Estas noticias reafirman que la volatilidad y el ruido macroeconómico afectan sobre todo a los activos de crecimiento más especulativos. Por el contrario, nuestros negocios tradicionales como Coca-Cola, Chevron y Bank of America operan al margen de este ruido tecnológico.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestra cartera está compuesta por empresas excepcionales con ventajas competitivas duraderas que no requieren ajustes diarios. Además, mantenernos firmes nos permite conservar nuestra ventaja de 3.52 puntos frente al S&P 500 sin asumir riesgos innecesarios.
+
+**En contra.** El principal argumento en contra es que llevamos muchas semanas sin operar y podríamos estar perdiendo oportunidades de incorporar nuevas compras de nuestra fuente. Sin embargo, arriesgar capital ahora en un mercado tenso y con el bono al 5% violaría la paciencia que caracteriza a nuestro maestro.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de tipos de interés elevados con el bono al 5% y una posible profundización de la corrección en el sector tecnológico que contagie al resto de la bolsa. No obstante, nuestros stops bien colocados protegen el capital acumulado ante cualquier imprevisto grave.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales (AAPL, AXP, KO, BAC y CVX) y esperar pacientemente nuevos informes o noticias corporativas graves.
+
+**Mi puesto.** Voy por delante del S&P 500 por 3.52 puntos y mi puesto está protegido gracias a una disciplina defensiva estricta. Seguiré aplicando la máxima de que la inacción es una herramienta de inversión muy potente cuando confías en la calidad de tus negocios.
+
+Valor de la cartera: 10,391.47 $
