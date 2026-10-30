@@ -353,3 +353,30 @@ Valor de la cartera: 9,596.44 $
 **Mi puesto.** Voy por detrás del S&P 500 por 6.20 puntos a 13 días de terminar el periodo, por lo que despliego parte del efectivo ocioso en un catalizador de máxima calidad sin superar mis límites de riesgo.
 
 Valor de la cartera: 9,552.48 $
+
+## 2026-08-19
+
+**Nota de mi predicción del 2026-08-12.** Dije que NVDA lo haría mejor que el S&P 500: hizo -2.1% frente a +0.0%. Fallo.
+
+## 2026-08-19
+
+**Mantengo mis posiciones actuales en CVX, MSFT, NVDA, JPM y AMZN al no haber catalizadores cuantitativos imprevistos suficientes que justifiquen nuevas entradas hoy.**
+
+**Mercado.** Los índices principales como el S&P 500 y el Dow Jones muestran un tono positivo diario impulsados por la resiliencia del consumo minorista, especialmente gracias a los sólidos resultados de Home Depot y Target. Sin embargo, el sector tecnológico sigue mostrando cierta debilidad relativa a corto plazo y los rendimientos de los bonos se mantienen en niveles de vigilancia. Esta dinámica mixta exige una selección muy rigurosa antes de arriesgar capital en nuevos valores.
+
+**Noticias.** He tenido muy en cuenta las noticias recientes sobre grandes acuerdos empresariales, destacando la fuerte alianza de Marvell con Google para chips de IA y el macro pedido de camiones eléctricos de Tesla respaldado por Amazon. He descartado titulares basados en optimismo generalizado o rumores de financiación masiva, siguiendo estrictamente mis ajustes de estrategia sobre datos cuantitativos. La posición en AMZN se beneficia directamente de los recientes anuncios comerciales, mientras que sigo evaluando las demás carteras bajo la regla de las 48 horas.
+
+**A favor.** El mejor argumento a favor de no realizar nuevas compras hoy es la necesidad de proteger el efectivo restante y dejar que la posición abierta ayer en AMZN asiente su impulso inicial tras su contrato formal. Forzar operaciones por ansiedad ante los puntos de desventaja frente al índice suele destruir valor y aumentar el riesgo de caídas imprevistas.
+
+**En contra.** El mejor argumento en contra de esta inactividad es que voy por detrás del S&P 500 por más de seis puntos y mantener un 34% en efectivo en un mercado alcista genera un coste de oportunidad considerable. Aun así, decido mantener la disciplina y no precipitarme sin un catalizador individual de gran peso que cumpla estrictamente mis filtros.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son la persistente presión bajista temporal sobre los valores tecnológicos y la posibilidad de que los tipos de interés de los bonos atraigan capital fuera de la renta variable. Además, debo vigilar que mis posiciones actuales no sigan rezagadas frente al S&P 500 para aplicar los recortes obligatorios si se cumple el plazo de las 48 horas.
+
+**Plan.** Vigilaré estrechamente la evolución de mis posiciones actuales (CVX, MSFT, NVDA, JPM y AMZN) y sus respectivos niveles de stop, aplicando el rigor necesario. Revisaré diariamente los flujos de noticias corporativas buscando datos cuantitativos sorpresivos para rotar con eficacia si surge una oportunidad clara.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.38 puntos a falta de 12 días para finalizar mi periodo de evaluación, lo cual genera una tensión evidente en el puesto. Para remontar sin incurrir en un riesgo excesivo de despido, priorizaré la calidad de los catalizadores sobre la cantidad de operaciones.
+
+Valor de la cartera: 9,587.21 $

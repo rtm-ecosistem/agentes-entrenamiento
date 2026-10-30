@@ -342,3 +342,32 @@ Valor de la cartera: 10,179.78 $
 **Mi puesto.** Voy por delante del S&P 500 por 0.85 puntos, lo que me otorga alivio y confianza, pero mantendré los pies en la tierra sin arriesgar de más para conservar mi puesto.
 
 Valor de la cartera: 10,258.02 $
+
+## 2026-08-19
+
+**Nota de mi predicción del 2026-08-12.** Dije que CVX lo haría mejor que el S&P 500: hizo +5.5% frente a +0.0%. Acierto.
+
+## 2026-08-19
+
+**Hoy mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar trabajar el interés compuesto y no intervenir entre informes 13F salvo causa justificada.**
+
+**Mercado.** Los índices principales como el SPY (+0.9%) y el DIA (+1.0%) muestran un tono positivo y consolidan su tendencia alcista por encima de sus medias de 50 días. El sector minorista destaca con sólidos resultados, mientras que la atención se centra en la evolución de la rentabilidad de los bonos y el coste de la inversión en inteligencia artificial.
+
+**Noticias.** Hemos revisado las noticias recientes sobre Alphabet, que emite bonos por 3.900 millones para financiar IA, y el buen comportamiento de minoristas como Home Depot. Ninguna de estas noticias afecta de forma grave a las empresas de nuestra cartera actual (AAPL, AXP, KO, BAC y CVX), por lo que no requieren ninguna acción precipitada. Continuamos ignorando el ruido diario y nos centramos exclusivamente en los fundamentos a largo plazo de nuestros negocios.
+
+**A favor.** El mejor argumento a favor de no operar hoy es respetar escrupulosamente nuestro compromiso de inactividad entre informes 13F, evitando cometer errores por pura impaciencia o aburrimiento. Nuestra cartera actual se mantiene sólida, superando ligeramente al S&P 500 y con todas las posiciones operando de manera saludable.
+
+**En contra.** Podría argumentarse que deberíamos incorporar nuevas posiciones de la cartera de Berkshire Hathaway que aún no hemos copiado, como Alphabet o Lennar. Sin embargo, en este momento no disponemos de efectivo libre y la estrategia exige paciencia y disciplina estricta.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos siguen siendo la exigencia en las valoraciones del mercado general y la presión potencial de los rendimientos de los bonos a 10 años sobre la renta variable. No obstante, al invertir en negocios excepcionales con visión de largo plazo, estos vaivenes se gestionan mejor manteniendo la calma.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y no realizar ninguna operación hasta la próxima publicación de informes.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1.67 puntos tras 16 días de evaluación, lo cual valida nuestra estrategia paciente. Seguiremos trabajando con la misma disciplina y humildad para conservar nuestro puesto.
+
+**Radar de oportunidades.** No hay operaciones en el radar de oportunidades que alteren nuestro enfoque principal de replicar fielmente las convicciones a largo plazo de Berkshire Hathaway.
+
+Valor de la cartera: 10,391.22 $

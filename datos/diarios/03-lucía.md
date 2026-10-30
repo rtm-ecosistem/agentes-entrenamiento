@@ -356,3 +356,30 @@ Valor de la cartera: 9,767.75 $
 **Mi puesto.** Voy por detrás del S&P 500 por 5.11 puntos a falta de 13 días para finalizar mi periodo de evaluación, lo cual genera tensión pero no voy a cometer el error de arriesgar de más jugándome la cartera. Mantendré la cabeza fría y seguiré estrictamente mis reglas para recortar distancias sin incurrir en despidos.
 
 Valor de la cartera: 9,661.87 $
+
+## 2026-08-19
+
+**Nota de mi predicción del 2026-08-12.** Dije que NVDA lo haría mejor que el S&P 500: hizo -2.1% frente a +0.0%. Fallo.
+
+## 2026-08-19
+
+**Mantengo mi cartera actual intacta y sigo de cerca los activos líderes en momentum para buscar una entrada que me permita recortar distancias sin caer en la desesperación.**
+
+**Mercado.** Los índices principales como el SPY (+0.9%) y el DIA (+1.0%) muestran un tono positivo diario y se mantienen firmes por encima de sus medias de 50 días. Por su parte, sectores defensivos y de salud lideran las subidas, mientras la tecnología mixta exige prudencia selectiva.
+
+**Noticias.** He tenido en cuenta las noticias sobre la exitosa emisión de bonos de Alphabet para financiar inteligencia artificial y los sólidos resultados del consumo minorista en Home Depot. Estas señales confirman que la demanda de infraestructura tecnológica y la resiliencia económica siguen vigentes. No obstante, vigilo de cerca las advertencias sobre valoraciones exigentes para evitar trampas de mercado.
+
+**A favor.** El mejor argumento a favor de mantener la disciplina es que mis posiciones actuales se mantienen estables y el efectivo disponible me otorga flexibilidad táctica sin romper las reglas de riesgo. Perseguir subidas sin confirmación técnica estricta suele salir caro, como aprendí de mis errores previos.
+
+**En contra.** El argumento en contra es que mantener un 43% en efectivo en un mercado alcista generalizado me deja rezagada frente al S&P 500. Sin embargo, arriesgar de más por pura frustración suele acabar en un despido fulminante por la caída del 10%.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que la rentabilidad de los bonos del Estado supere el nivel crítico del 5% y desvíe capital de la renta variable. Asimismo, cualquier corrección en las valoraciones tecnológicas podría presionar temporalmente mi cartera.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA y APP no rompan sus medias móviles de 50 días ni alcancen sus stops de protección. Mi plan es esperar una confirmación de impulso clara para desplegar liquidez adicional en valores líderes.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 5.35 puntos a falta de 12 días, lo cual genera tensión, pero mi prioridad absoluta es conservar el puesto evitando arriesgar de más y respetando mis reglas fijas.
+
+Valor de la cartera: 9,689.39 $

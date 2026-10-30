@@ -341,3 +341,30 @@ Valor de la cartera: 9,988.51 $
 **Mi puesto.** Llevamos 8 días de nuestro periodo de evaluación de 28 y vamos por delante del S&P 500 por 1.02 puntos; mantendremos nuestra estrategia paciente y escéptica para conservar el puesto sin arriesgar de más.
 
 Valor de la cartera: 10,031.08 $
+
+## 2026-08-19
+
+**Nota de mi predicción del 2026-08-12.** Dije que AAPL lo haría mejor que el S&P 500: hizo +5.4% frente a +0.0%. Acierto.
+
+## 2026-08-19
+
+**Mantenemos nuestra disciplina de valor y el efectivo actual al no cumplir ninguna empresa de la tabla los umbrales estrictos de corrección exigidos.**
+
+**Mercado.** Los índices principales como el SPY y el DIA muestran un tono positivo diario y consolidan su tendencia alcista situándose por encima de sus medias de 50 días. Sin embargo, el sector tecnológico experimenta debilidad a corto plazo, mientras que los sectores defensivos y de salud lideran las subidas recientes. Las valoraciones bursátiles se encuentran en niveles exigentes y el gasto en inteligencia artificial genera dudas sobre la rentabilidad a corto plazo.
+
+**Noticias.** Hemos analizado la emisión de bonos de Alphabet para financiar inteligencia artificial y el acuerdo de chips de Marvell con Google, que reafirman la fuerte inversión en el sector tecnológico. Por otro lado, los sólidos resultados de minoristas como Home Depot y Target reflejan la resiliencia del consumo estadounidense, aunque Target se ha beneficiado de reembolsos fiscales extraordinarios. Asimismo, la advertencia sobre los rendimientos de los bonos del Estado y la posible regulación de criptomonedas mediante la Ley Clarity marcan el panorama económico actual.
+
+**A favor.** El mejor argumento a favor de no realizar nuevas compras hoy es la necesidad de mantener un escepticismo saludable frente a unas valoraciones de mercado bastante exigentes. Nuestra regla estipula no adquirir valores a menos que presenten correcciones claras y sanas, protegiendo así nuestro capital frente a posibles excesos de optimismo.
+
+**En contra.** El principal argumento en contra de mantener el 79% de la cartera en efectivo es el coste de oportunidad frente a un S&P 500 que continúa avanzando positivamente. Sin embargo, arriesgar liquidez en activos sobrecomprados solo por miedo a quedarse atrás suele desembocar en errores graves de timing.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo para nuestra cartera sigue siendo el coste de oportunidad derivado de tener un alto porcentaje de efectivo en un entorno de mercado alcista moderado. Además, el incremento en los rendimientos de los bonos del Estado podría presionar a la baja las valoraciones bursátiles generales.
+
+**Plan.** Vigilaremos de cerca la evolución de nuestra posición actual en Apple y mantendremos los radares activos sobre el resto de grandes empresas de la tabla de mercado para detectar retrocesos temporales superiores al umbral del 6% en 30 días.
+
+**Mi puesto.** Llevamos 9 días del periodo de evaluación y vamos por delante del S&P 500 por 1.05 puntos, por lo que conservamos nuestro puesto temporalmente. Mantendremos la disciplina estricta de nuestra estrategia de valor para proteger esta ventaja sin asumir riesgos innecesarios.
+
+Valor de la cartera: 10,085.24 $
