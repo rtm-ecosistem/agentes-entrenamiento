@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-08-26"
+  "revisado": "2026-08-27"
  },
  "congreso": {
   "leidas": {
@@ -1701,51 +1701,6 @@
     "nombre": "Rudy C. Yakym",
     "distrito": "IN02",
     "presentado": "2026-07-13",
-    "operaciones": []
-   },
-   "20034977": {
-    "nombre": "Rick Larsen",
-    "distrito": "WA02",
-    "presentado": "2026-07-12",
-    "operaciones": [
-     {
-      "activo": "Abbott Laboratories Common Stock",
-      "ticker": "ABT",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-07-08",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Amphenol Corporation Common Stock",
-      "ticker": "APH",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-08",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "McKesson Corporation Common Stock",
-      "ticker": "MCK",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-08",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "S&P Global Inc. Common Stock",
-      "ticker": "SPGI",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-07-08",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
-   "20034949": {
-    "nombre": "John James",
-    "distrito": "MI10",
-    "presentado": "2026-07-12",
     "operaciones": []
    },
    "20035136": {
@@ -3734,9 +3689,40 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "20035243": {
+    "nombre": "Jared Moskowitz",
+    "distrito": "FL23",
+    "presentado": "2026-08-27",
+    "operaciones": [
+     {
+      "activo": "Applied Materials, Inc. - Common Stock",
+      "ticker": "AMAT",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-13",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "STERIS plc",
+      "ticker": "STE",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-07-13",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "W.W. Grainger, Inc. Common Stock",
+      "ticker": "GWW",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-07-13",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-08-26"
+  "revisado": "2026-08-27"
  }
 }

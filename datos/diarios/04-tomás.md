@@ -509,3 +509,30 @@ Valor de la cartera: 10,018.98 $
 **Mi puesto.** Vamos por delante del S&P 500 por 1.42 puntos a falta de 12 días para finalizar nuestro periodo de evaluación. Mantendremos la calma y la disciplina operativa para asegurar este margen sin asumir riesgos excesivos.
 
 Valor de la cartera: 10,044.13 $
+
+## 2026-08-27
+
+**Nota de mi predicción del 2026-08-20.** Dije que AAPL lo haría mejor que el S&P 500: hizo -1.1% frente a +0.4%. Fallo.
+
+## 2026-08-27
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos la liquidez, ya que el mercado general rebota con fuerza y ninguna gran empresa de la tabla cumple el umbral mínimo de corrección del 8% en 30 días.**
+
+**Mercado.** El mercado muestra un sesgo positivo general impulsado por los sólidos resultados del sector tecnológico y de semiconductores, destacando el optimismo en torno a Nvidia. El S&P 500 sube un +0.9% diario, situándose cómodamente por encima de su media de 50 días. No obstante, la persistencia de la inflación y las advertencias de la Reserva Federal recuerdan que los riesgos macroeconómicos siguen muy presentes.
+
+**Noticias.** Hemos tenido en cuenta las noticias sobre los excelentes resultados de Nvidia, que han arrastrado al alza a todo el sector de chips e inteligencia artificial, así como los datos de inflación PCE que vigila de cerca la Reserva Federal. Las caídas en empresas como Intel o las advertencias sobre el coste de la vida nos exigen cautela y no perseguir subidas eufóricas. Analizamos también los movimientos hacia activos refugio ante la persistencia inflacionaria.
+
+**A favor.** El mejor argumento a favor de operar hoy sería aprovechar el impulso alcista del sector tecnológico y desplegar parte de nuestro 80% en efectivo para no quedarnos atrás frente al índice S&P 500. El optimismo desatado por los gigantes de la tecnología demuestra que hay apetito comprador en el mercado.
+
+**En contra.** El mejor argumento en contra es que nuestras reglas de valor exigen una corrección mínima del 8% en 30 días para abrir nuevas posiciones, y con el mercado repuntando de esta forma, ninguna acción sólida cumple ese requisito. Comprar ahora iría en contra de nuestra estrategia de buscar empresas baratas y nos expondría a correcciones inoportunas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo de mantener un 80% en efectivo en un mercado claramente alcista es quedarnos rezagados si el índice sigue subiendo de forma sostenida durante el resto de nuestro periodo de evaluación. Asimismo, la persistencia de la inflación y los tipos altos podrían desencadenar una corrección generalizada repentina.
+
+**Plan.** Vigilaremos de cerca la evolución de nuestra posición actual en Apple (AAPL), que ya se encuentra al máximo permitido del 20%, y mantendremos los radares activos sobre las grandes empresas de la tabla de mercado para detectar retrocesos temporales válidos que superen el umbral exigido. Seguiremos esperando pacientemente oportunidades de valor real.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 0.96 puntos a falta de 11 días para terminar nuestro periodo de evaluación. Mantendremos la calma y la disciplina defensiva, ya que proteger la ventaja actual es prioritaria frente a arriesgar en compras forzadas.
+
+Valor de la cartera: 10,055.71 $

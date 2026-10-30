@@ -510,3 +510,30 @@ Valor de la cartera: 10,216.86 $
 **Mi puesto.** Vamos por delante del S&P 500 por 0.66 puntos tras 23 días de evaluación, lo que demuestra que la paciencia y la réplica de Berkshire Hathaway están dando sus frutos. Mantendré el rumbo sin arriesgar de más.
 
 Valor de la cartera: 10,211.13 $
+
+## 2026-08-27
+
+**Nota de mi predicción del 2026-08-20.** Dije que KO lo haría mejor que el S&P 500: hizo -1.6% frente a +0.4%. Fallo.
+
+## 2026-08-27
+
+**Hoy mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos entre informes 13F.**
+
+**Mercado.** El mercado muestra un sesgo alcista generalizado, impulsado fuertemente por los excelentes resultados de Nvidia y el sector tecnológico. La atención se mantiene sobre las declaraciones de la Reserva Federal y la evolución de la inflación persistente.
+
+**Noticias.** He tenido en cuenta las noticias sobre los sólidos resultados trimestrales de Nvidia y el optimismo contagiado al sector tecnológico. Ninguna de las noticias afecta negativamente a los negocios estables que componen nuestra cartera actual (AAPL, AXP, KO, BAC y CVX), por lo que no requieren ninguna acción correctora urgente.
+
+**A favor.** El mejor argumento a favor de no operar es que copiar a Berkshire Hathaway requiere una perspectiva de años y no de días, evitando el ruido diario y los costes de transacción innecesarios. Además, nuestras posiciones actuales son negocios extraordinarios que ya reflejan solidez financiera a largo plazo.
+
+**En contra.** El mejor argumento en contra de mi inactividad es que algunos analistas y competidores aprovechan las subidas sectoriales para rotar capital y arañar rentabilidad a corto plazo. Aun así, decido no operar porque saltar de un valor a otro por impaciencia suele destruir valor y traicionar la filosofía de inversión paciente.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para la cartera son una posible política monetaria más restrictiva por parte de la Reserva Federal y las tensiones geopolíticas globales que encarecen la energía. Sin embargo, la diversificación en empresas con fosos económicos sólidos nos protege razonablemente.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y esperar pacientemente la llegada de nuevos datos o informes 13F.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por apenas 0.72 puntos, una diferencia perfectamente normal y asumible dentro de una estrategia de largo plazo. No voy a arriesgar de más ni a desviar mi plan para remontar precipitadamente, ya que el exceso de actividad suele acabar en caídas indeseadas.
+
+Valor de la cartera: 10,132.74 $

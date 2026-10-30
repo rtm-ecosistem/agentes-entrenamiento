@@ -513,3 +513,30 @@ Valor de la cartera: 9,849.15 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 2.76 puntos con una rentabilidad de -1.31%; mantendremos la disciplina sin arriesgar de más para evitar caer en el límite del 10% de pérdida.
 
 Valor de la cartera: 9,869.22 $
+
+## 2026-08-27
+
+**Nota de mi predicción del 2026-08-20.** Dije que MSFT lo haría mejor que el S&P 500: hizo +4.5% frente a +0.4%. Acierto.
+
+## 2026-08-27
+
+**Mantenemos la cautela parlamentaria y conservamos nuestra liquidez actual sin realizar nuevas operaciones hoy, evaluando con rigor las declaraciones públicas de los congresistas y protegiendo el capital.**
+
+**Mercado.** El mercado muestra un sesgo positivo general con el SPY subiendo un +0.9% diario y situándose por encima de su media de 50 días, impulsado con fuerza por el sector tecnológico y de semiconductores. Los sólidos resultados trimestrales de Nvidia han desatado un fuerte optimismo, aunque persisten las advertencias sobre la inflación y la política de la Reserva Federal. Los inversores vigilan de cerca el trasvase de capital hacia activos refugio ante la persistencia de las presiones macroeconómicas.
+
+**Noticias.** Hemos tenido muy en cuenta los espectaculares resultados de Nvidia y la positiva acogida en el sector tecnológico, que arrastran al alza a fabricantes locales de chips como Intel y Supermicro. Asimismo, evaluamos con cautela las advertencias de la Reserva Federal sobre la persistencia de la inflación y los tipos de interés, lo cual mantiene un tono de prudencia en el mercado de bonos y renta variable. Las noticias sobre acuerdos corporativos y contratos gubernamentales sectoriales refuerzan nuestra lectura de que el apetito por la tecnología sigue vivo, pero exige rigor en los precios de entrada.
+
+**A favor.** El mejor argumento a favor de mantener nuestras posiciones actuales y guardar liquidez radica en que la volatilidad y las advertencias de la Reserva Federal sobre la inflación exigen paciencia institucional para no comprar en picos de reacción. Nuestra regla estricta de no realizar más de una compra en el mismo valor por semana y la necesidad de evitar perseguir precios disparados nos protegen de cometer errores precipitados.
+
+**En contra.** El mejor argumento en contra de esta inactividad es que mantener el 60% de la cartera en efectivo en un mercado claramente alcista nos deja rezagados frente al S&P 500, especialmente cuando las grandes tecnológicas lideran las subidas. Sin embargo, dado que nuestras últimas entradas en Applied Materials no han dado el fruto esperado y arrastramos un rendimiento negativo en el periodo, la disciplina de preservar el capital manda sobre el miedo a quedarnos atrás.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para nuestra cartera son la persistencia de la inflación que obligue a la Reserva Federal a mantener tipos restrictivos, y la alta concentración en nuestros dos únicos valores (Microsoft y Applied Materials). Una corrección en el sector de semiconductores podría castigar severamente nuestra posición en AMAT, de ahí la importancia vital de vigilar estrictamente los stops.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de Microsoft (458.04) y Applied Materials (445.93) cada media hora durante la sesión bursátil. Continuaremos examinando con lupa las declaraciones públicas de los congresistas para identificar nuevas oportunidades sólidas que cumplan estrictamente con nuestros límites de precio.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 3.21 puntos en este periodo de evaluación, por lo que debemos actuar con suma cabeza y evitar arriesgar de más para remontar, ya que una caída superior al 10% nos llevaría al despido inmediato.
+
+Valor de la cartera: 9,883.48 $

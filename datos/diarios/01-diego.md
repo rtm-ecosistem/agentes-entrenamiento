@@ -527,3 +527,32 @@ Valor de la cartera: 9,459.72 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo un estricto plan de rescate: conservo mis posiciones más estables como CVX y AMZN, no realizaré compras impulsivas ni especulativas, y mantendré el efectivo restante para evitar sorpresas. No me jugaré todo el capital en un solo movimiento desesperado, priorizando la preservación del capital para no superar el límite de caída del 10% que provoca el despido inmediato.
 
 Valor de la cartera: 9,476.22 $
+
+## 2026-08-27
+
+**Nota de mi predicción del 2026-08-20.** Dije que NVDA lo haría mejor que el S&P 500: hizo +3.8% frente a +0.4%. Acierto.
+
+## 2026-08-27
+
+**Mantengo mis posiciones actuales y despliego una parte del efectivo hacia CRM tras sus sólidos resultados para intentar recortar distancias con el índice.**
+
+**Mercado.** El mercado muestra un sesgo positivo general impulsado por los excelentes resultados tecnológicos y un repunte del sector de semiconductores. El S&P 500 avanza un +0.9% diario, situándose firmemente por encima de su media de 50 días. No obstante, la Reserva Federal mantiene la cautela ante la persistencia de la inflación y los costes de vida.
+
+**Noticias.** He tenido muy en cuenta los resultados espectaculares de Nvidia y el informe sobresaliente de Salesforce (CRM), que batió las estimaciones con una subida diaria del +21.9%. Estas noticias aportan datos cuantitativos sólidos y reales que respaldan la entrada de capital en valores líderes. Descarto los rumores sobre optimismo temático general y me centro estrictamente en empresas con beneficios y contratos consolidados.
+
+**A favor.** Salesforce (CRM) ha presentado un informe trimestral excelente con sorpresas cuantitativas masivas en sus beneficios por acción, lo que justifica una entrada rápida según mi estrategia de noticias frescas. Además, invertir el efectivo ocioso me permite dejar de acumular desventaja frente al S&P 500, que está invertido al 100%.
+
+**En contra.** Voy por detrás en la clasificación general y la tentación de arriesgar de más es alta, pero entrar en un valor que ya ha subido fuerte el primer día conlleva riesgo de corrección a corto plazo. Aun así, sigo estrictamente mi regla de stops y límites para no comprometer la estabilidad de la cartera.
+
+**Operaciones**
+- **Comprar** 5.9857 CRM a 250.60 $ (1,500.00 $). Superación contundente de las estimaciones de beneficios por acción del último trimestre con un catalizador cuantitativo claro y una subida respaldada por los analistas.
+
+**Riesgos.** El principal riesgo es la persistencia de la inflación y los discursos restrictivos de la Reserva Federal, que podrían frenar el ímpetu alcista del mercado. Asimismo, una corrección en el sector tecnológico podría castigar mis posiciones actuales en MSFT y AMZN.
+
+**Plan.** Vigilaré estrechamente la nueva posición en CRM aplicando con rigor la regla de las 48 horas y los stops de protección configurados. Mantendré mis posiciones actuales (AMZN, CVX, JPM, MSFT) revisando su evolución diaria frente al S&P 500.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 7.05 puntos a falta de 4 días para terminar el periodo de evaluación, por lo que mi puesto corre grave peligro. Para salvarlo sin arriesgar de más, aplico mi plan de rescate: selecciono únicamente valores con datos cuantitativos impecables como CRM, mantengo mis posiciones estables y evito jugármelo todo a una carta desesperada.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo un estricto plan de rescate: conservo mis posiciones más estables y diversificadas, busco oportunidades selectivas con datos cuantitativos sólidos como CRM para recortar distancias de forma controlada, y rechazo por completo operaciones especulativas o apalancadas. Respetaré religiosamente mis límites de stop y la regla de las 48 horas, evitando jugarme todo el capital en un solo movimiento desesperado para no superar el límite de caída del 10% que provoca el despido inmediato.
+
+Valor de la cartera: 9,498.95 $

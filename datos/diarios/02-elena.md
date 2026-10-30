@@ -517,3 +517,30 @@ Valor de la cartera: 10,278.30 $
 **Mi puesto.** Voy por delante del S&P 500 por 1.26 puntos a falta de cinco días, por lo que mi única prioridad es la defensa estricta del resultado actual evitando errores de novato.
 
 Valor de la cartera: 10,271.10 $
+
+## 2026-08-27
+
+**Nota de mi predicción del 2026-08-20.** Dije que SPY lo haría mejor que el S&P 500: hizo +0.4% frente a +0.4%. Fallo.
+
+## 2026-08-27
+
+**Decido mantener mi cartera completamente inalterada hoy, respetando mis reglas de inacción en los últimos diez días para proteger mi ventaja frente al índice.**
+
+**Mercado.** El mercado muestra un sesgo alcista moderado impulsado principalmente por los excelentes resultados del sector tecnológico y de semiconductores, destacando subidas en Nvidia y Salesforce. Sin embargo, persiste la atención sobre la inflación y las advertencias de la Reserva Federal acerca de los tipos de interés. Los inversores también buscan protección en activos refugio como el oro ante la incertidumbre económica general.
+
+**Noticias.** He tenido en cuenta las declaraciones de la Reserva Federal sobre la persistencia de la inflación, que justifican mantener una postura defensiva y prudente en renta fija y oro. También valoré los sólidos resultados de Nvidia que arrastran al sector tecnológico, aunque prefiero no perseguir la euforia actual. Las noticias sobre la subida de la deuda a largo plazo y el trasvase de capital hacia activos refugio refuerzan la validez de mantener mi estructura de cartera actual.
+
+**A favor.** El mejor argumento a favor de no operar es que me encuentro en los últimos cuatro días de mi periodo de evaluación, liderando al S&P 500 por 0.87 puntos y cumpliendo estrictamente con mi regla de no realizar rebalanceos en la recta final.
+
+**En contra.** El mejor argumento en contra sería aprovechar el fuerte repunte del sector tecnológico para incrementar exposición y buscar una mayor rentabilidad, pero arriesgar de más a estas alturas podría arruinar mi ventaja y provocar un despido innecesario.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en una posible corrección repentina si la Reserva Federal endurece su discurso sobre los tipos de interés o si la inflación supera las previsiones del mercado. También existe el riesgo de perder algo de terreno frente al índice si el rally tecnológico continúa con fuerza, un precio que acepto pagar por dormir tranquila.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección (SPY en 694.77, VTI en 342.89, GLD en 359.18 e IEF en 87.54) y mantener absoluta inacción hasta cruzar la meta de mi evaluación.
+
+**Mi puesto.** Voy por delante del S&P 500 por 0.87 puntos a falta de cuatro días para finalizar mi evaluación, por lo que mi prioridad absoluta es conservar esta ventaja mediante la inacción defensiva.
+
+Valor de la cartera: 10,291.43 $
