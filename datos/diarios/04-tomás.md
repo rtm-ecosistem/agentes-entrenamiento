@@ -870,3 +870,30 @@ Valor de la cartera: 10,174.51 $
 **Mi puesto.** Vamos por delante del S&P 500 por 3.69 puntos tras concluir con éxito nuestro periodo de evaluación anterior, por lo que nuestro objetivo principal es proteger este colchón sin caer en la tentación de operar por aburrimiento.
 
 Valor de la cartera: 10,155.28 $
+
+## 2026-09-16
+
+**Nota de mi predicción del 2026-09-09.** Dije que AAPL lo haría mejor que el S&P 500: hizo +6.8% frente a -0.3%. Acierto.
+
+## 2026-09-16
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos el efectivo, ya que las grandes empresas sólidas no presentan correcciones del 8% en 30 días.**
+
+**Mercado.** Los índices principales muestran un tono mixto con el SPY cerrando al alza, mientras sectores tecnológicos y de consumo consolidan rangos con alta selectividad. Los datos de ventas minoristas superan previsiones, pero la inflación persistente y la cautela ante la Reserva Federal mantienen la tensión. La volatilidad sectorial es notable, destacando la fortaleza en materias primas energéticas y la debilidad en pequeñas capitalizaciones.
+
+**Noticias.** Hemos tenido en cuenta las advertencias de Bank of America sobre la masificación de las inversiones en chips de inteligencia artificial, lo que refuerza nuestro escepticismo ante valoraciones elevadas. Los datos de IPC confirman una inflación persistente que podría complicar la política monetaria de la Reserva Federal. Asimismo, la retirada de la demanda antimonopolio contra Apple elimina incertidumbres regulatorias para nuestra única posición actual.
+
+**A favor.** El mejor argumento a favor de operar es que nuestra cartera tiene un 79% de efectivo inactivo y el mercado ofrece oportunidades puntuales en empresas sólidas. Comprar de forma escalonada permitiría aprovechar correcciones en valores con fundamentales robustos.
+
+**En contra.** El mejor argumento en contra de operar es que ninguna empresa sólida cumple la regla estricta de una corrección mínima del 8% en 30 días y mantener liquidez nos ha protegido con éxito. Por ello, decidimos mantenernos al margen y no forzar compras innecesarias.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo para nuestra cartera es el coste de oportunidad de mantener una liquidez elevada mientras el S&P 500 sube. También vigiliamos el riesgo macroeconómico derivado de una inflación persistente y posibles errores de política monetaria.
+
+**Plan.** Mantendremos una vigilancia estrecha sobre nuestra posición actual en Apple y seguiremos rastreando la tabla de mercado en busca de empresas sólidas que presenten caídas temporales superiores al 8%. No realizaremos compras precipitadas.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 3.53 puntos tras concluir nuestro periodo de evaluación con éxito. Nuestro plan es proteger esta ventaja mediante la disciplina estricta de valor y la paciencia operativa.
+
+Valor de la cartera: 10,183.08 $

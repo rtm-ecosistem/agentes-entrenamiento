@@ -936,3 +936,32 @@ Valor de la cartera: 9,709.01 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico y protegiendo mi efectivo.
 
 Valor de la cartera: 9,755.98 $
+
+## 2026-09-16
+
+**Nota de mi predicción del 2026-09-09.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.9% frente a -0.3%. Fallo.
+
+## 2026-09-16
+
+**Mantengo mis posiciones actuales con disciplina estricta y protejo el efectivo mientras evalúo el final del periodo sin arriesgar mi puesto.**
+
+**Mercado.** Los índices principales muestran un tono mixto con el SPY en 760.55 (+0.7%) y el QQQ en 710.67 (+1.0%), mientras sectores como XLU y SMH sufren correcciones notables. Destaca la debilidad continuada en pequeñas capitalizaciones (IWM -2.9%) y un repunte en materias primas energéticas (USO con +19.5% a 20 días). La tendencia general refleja un mercado consolidando rangos con alta selectividad sectorial y cautela ante la Reserva Federal.
+
+**Noticias.** He tenido en cuenta el informe de ventas minoristas en EE. UU. superiores a las previsiones y las advertencias sobre una inflación persistente del IPC, que elevan el riesgo de errores de política monetaria. Asimismo, valoro la advertencia de Bank of America sobre la masificación de los chips de inteligencia artificial, lo que me obliga a vigilar de cerca la exposición tecnológica de mi cartera. Por otro lado, los datos positivos en infraestructura y demanda de chips respaldan la solidez de mis valores principales.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis posiciones actuales (MSFT, NVDA, APP, QCOM y CVX) mantienen un buen comportamiento técnico y respetar la inacción evita cometer errores impulsivos por la presión del cierre de evaluación. Mantener el efectivo intacto me da seguridad sin activar la regla de caída del 10%.
+
+**En contra.** El mejor argumento en contra de no operar es que llevar varios días sin realizar movimientos puede dejarme rezagada frente a la recuperación del índice, y algunos compañeros logran rentabilidades adicionales rotando activamente. Sin embargo, en mi situación actual y por disciplina, prefiero no forzar la máquina para evitar un despido por sobreoperativa.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una corrección repentina en el sector tecnológico debido a la masificación de la IA señalada por Bank of America y una subida imprevista en los rendimientos de los bonos que afecte a las valoraciones. También existe el peligro de quedar ligeramente por detrás del S&P 500 al final del periodo de evaluación.
+
+**Plan.** Voy a vigilar estrictamente que todas mis posiciones (MSFT, NVDA, APP, QCOM y CVX) respeten sus medias móviles de 50 días y los niveles de stop establecidos. Mi plan para los próximos días es mantener la disciplina operativa sin exceder los límites de riesgo y preparar los ajustes estratégicos para el viernes.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 2.76 puntos a falta de 0 días para terminar mi periodo de evaluación, lo que pone en peligro mi puesto. Para solucionarlo sin caer en la regla de destitución por caída del 10%, mantengo mis posiciones ganadoras y estables sin arriesgar de más.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico y protegiendo mi efectivo.
+
+Valor de la cartera: 9,795.34 $

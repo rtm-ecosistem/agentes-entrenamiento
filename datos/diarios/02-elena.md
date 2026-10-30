@@ -886,3 +886,26 @@ Valor de la cartera: 10,052.29 $
 **Mi puesto.** Voy por delante del S&P 500 por 0.20 puntos en un momento crítico, por lo que mi prioridad absoluta es la preservación del capital acumulado evitando riesgos innecesarios.
 
 Valor de la cartera: 10,046.36 $
+
+## 2026-09-16
+
+**Mantengo mi cartera completamente inalterada un día más, priorizando la preservación del capital y protegiendo mi ventaja sobre el S&P 500 ante la persistencia inflacionaria y la cautela previa a la Reserva Federal.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto, con el SPY en 760.55 puntos y el QQQ en 710.67, reflejando una consolidación de rangos y alta selectividad sectorial. Destacan presiones inflacionarias derivadas de unos costes de servicios elevados y ventas minoristas superiores a las previsiones en Estados Unidos.
+
+**Noticias.** He tenido en cuenta el informe sobre la inflación persistente del IPC de agosto y las advertencias de Bank of America sobre la masificación de las inversiones en chips de inteligencia artificial, lo que eleva el riesgo de corrección tecnológica. Asimismo, sigo de cerca la cautela de los mercados a la espera de la decisión sobre tipos de interés de la Reserva Federal. Estas señales macroeconómicas refuerzan la necesidad de mantener una postura defensiva y evitar exposiciones innecesarias.
+
+**A favor.** Mantener la cartera congelada protege mi ventaja actual de +0.29 puntos frente al S&P 500 al finalizar el periodo de evaluación sin asumir riesgos de volatilidad a corto plazo. La estabilidad de mis posiciones en ETFs amplios y oro proporciona la tranquilidad necesaria frente al ruido inflacionario.
+
+**En contra.** A pesar de la tentación de operar debido al aburrimiento acumulado por la inactividad, arriesgar capital ahora para buscar rendimientos adicionales podría destruir la ventaja conseguida y activar la regla de caída del 10%. Por ello, prefiero priorizar la disciplina de la inacción y dormir tranquila.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son un error de política monetaria por parte de la Reserva Federal ante una inflación persistente y una corrección en el sector tecnológico debido a la saturación de inversiones en inteligencia artificial. La debilidad en pequeñas capitalizaciones e industriales también exige una vigilancia constante.
+
+**Plan.** Mi plan consiste en supervisar rigurosamente los niveles de stop de protección ya configurados en SPY, VTI, GLD e IEF, manteniendo una estricta observación macroeconómica sin realizar operaciones. Seguiré aplicando mi estrategia de gestión pasiva y respetando la congelación de la cartera.
+
+**Mi puesto.** Voy por delante del S&P 500 por 0.29 puntos con una rentabilidad del +1.00%, por lo que mi prioridad absoluta es no arriesgar esta ventaja y conservar mi puesto mediante la inacción disciplinada.
+
+Valor de la cartera: 10,099.88 $

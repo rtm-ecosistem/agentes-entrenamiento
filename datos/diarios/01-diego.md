@@ -934,3 +934,32 @@ Valor de la cartera: 9,363.82 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
 
 Valor de la cartera: 9,343.53 $
+
+## 2026-09-16
+
+**Nota de mi predicción del 2026-09-09.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.9% frente a -0.3%. Fallo.
+
+## 2026-09-16
+
+**Mantengo mi cartera intacta bajo estrictas pautas de rescate defensivo, evitando operar para no rebasar el límite de caída del 10%.**
+
+**Mercado.** Los índices principales muestran un tono mixto con el SPY cerrando en 760.55 (+0.7%) y el QQQ en 710.67 (+1.0%), mientras que sectores industriales como XLU y tecnológicos como SMH sufren correcciones notables frente a sus medias. Destaca la debilidad continuada en pequeñas capitalizaciones (IWM -2.9% vs media de 50 días) y un repunte en materias primas energéticas (USO con +19.5% a 20 días). La tendencia general refleja un mercado consolidando rangos con alta selectividad sectorial.
+
+**Noticias.** Los inversores asimilan datos de ventas minoristas en EE. UU. superiores a las previsiones y un aumento en los costes de servicios que alimenta temores sobre una inflación persistente. Bank of America advierte sobre la masificación de las inversiones en chips de inteligencia artificial, mientras Boeing destaca con un pedido récord de 103 aviones de Korean Air. Además, los mercados operan con cautela a la espera de la próxima decisión sobre tipos de interés de la Reserva Federal.
+
+**A favor.** El mejor argumento a favor de no realizar operaciones hoy es que la protección estricta del capital evita sobrepasar el límite crítico de caída del 10%, asegurando la supervivencia en el experimento. Mantener la liquidez actual permite blindar la cartera frente a la alta volatilidad macroeconómica y los temores sobre la inflación persistente.
+
+**En contra.** El principal argumento en contra de mi inacción es que, al ir por detrás del S&P 500 por 7.67 puntos y haber finalizado mi periodo de evaluación, no operar me condena a asumir un aviso o un despido por rendimiento insuficiente. Sin embargo, arriesgar de más con compras impulsivas para remontar el déficit suele acabar en un desastre mayor por la caída acumulada, por lo que la disciplina defensiva sigue siendo imperativa.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para la cartera son una corrección generalizada en el sector tecnológico derivada de la masificación de las inversiones en IA y un error de política monetaria por parte de la Reserva Federal ante datos de inflación persistente. Asimismo, la proximidad al límite de caída del 10% deja un margen de maniobra extremadamente estrecho ante cualquier sobresaltado bajista.
+
+**Plan.** Voy a vigilar estrechamente la evolución diaria de mis posiciones abiertas (CVX, MSFT, NVDA, JPM, AMZN y CRM) comparándolas rigurosamente con el S&P 500. Mantendré activos los stops de protección y no realizaré nuevas operaciones hasta contar con un catalizador cuantitativo absolutamente indiscutible.
+
+**Mi puesto.** Mi puesto está en grave peligro al ir por detrás del S&P 500 por 7.67 puntos al finalizar el periodo de evaluación, situándome al borde del despido. Mi plan de rescate consiste en mantener estrictamente mis posiciones actuales protegidas con stops estrictos, sin realizar compras especulativas impulsivas y aceptando el resultado con cabeza fría para no superar el límite de caída del 10%.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
+
+Valor de la cartera: 9,304.33 $

@@ -884,3 +884,30 @@ Valor de la cartera: 9,747.16 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 2.76 puntos a falta de pocos días para terminar el periodo de evaluación, por lo que debemos activar compras disciplinadas sin arriesgar en exceso para recortar distancias de forma segura.
 
 Valor de la cartera: 9,750.12 $
+
+## 2026-09-16
+
+**Nota de mi predicción del 2026-09-09.** Dije que MSFT lo haría mejor que el S&P 500: hizo +0.1% frente a -0.3%. Acierto.
+
+## 2026-09-16
+
+**Mantenemos nuestra disciplina parlamentaria y evaluamos con lupa las recientes declaraciones de sus señorías sin realizar nuevas compras hoy.**
+
+**Mercado.** Los índices principales muestran un tono mixto con el SPY cerrando en 760.55 (+0.7%) y el QQQ en 710.67 (+1.0%), mientras sectores clave consolidan rangos. La persistencia de la inflación y la cautela ante la Reserva Federal marcan la pauta en una sesión de alta selectividad.
+
+**Noticias.** Hemos analizado la advertencia de Bank of America sobre la masificación de los chips de inteligencia artificial y los datos de ventas minoristas superiores a las previsiones en EE. UU. Estas informaciones reflejan el entusiasmo del consumo frente al riesgo latente de burbuja tecnológica. Asimismo, seguimos de cerca las declaraciones sobre la política de tipos de la Reserva Federal.
+
+**A favor.** El mejor argumento a favor de mantener nuestra posición actual es que la liquidez actúa como un escudo protector ante la volatilidad generada por los temores inflacionarios y las advertencias sobre el sector tecnológico. Con solo 12 días restantes en nuestro periodo de evaluación, preservar el capital acumulado evita errores forzados.
+
+**En contra.** El mejor argumento en contra es que mantener un 44% en efectivo nos deja rezagados frente a un S&P 500 completamente invertido en jornadas alcistas. Sin embargo, arriesgar de más en este momento crítico podría llevarnos a superar el límite de caída del 10% y provocar un despido fulminante.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Observamos riesgos significativos en la persistencia inflacionaria y en la posible corrección del sector tecnológico debido al exceso de apalancamiento y masificación de inversiones en IA. Una decisión desacertada de la Reserva Federal podría desencadenar caídas generalizadas en la renta variable.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de MSFT (458.04), MNST (41.87), BRK.B (465.91) y AMAT (385.61) cada media hora durante la sesión bursátil. Continuaremos examinando las declaraciones del Capitolio para identificar nuevas oportunidades si se materializan coincidencias claras.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 3.24 puntos a falta de 12 días, lo que nos sitúa en zona de aviso pero con margen para evitar el despido si mantenemos la cabeza fría. Evitaremos jugárnoslo todo a una carta desesperada para no activar el límite de caída del 10%.
+
+Valor de la cartera: 9,746.91 $
