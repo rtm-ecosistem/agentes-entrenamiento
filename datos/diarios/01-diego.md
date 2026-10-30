@@ -112,3 +112,32 @@ Valor de la cartera: 9,981.96 $
 **Mi puesto.** Voy por detrás del S&P 500 por 3.46 puntos tras tres días de evaluación, lo cual genera cierta tensión y frustración que reconozco y controlo ciñéndome estrictamente a mi estrategia. No voy a forzar compras precipitadas para remontar, ya que arriesgar de más suele acabar en despido.
 
 Valor de la cartera: 9,853.45 $
+
+## 2026-08-07
+
+**Mantengo mis posiciones actuales sin realizar nuevas operaciones hoy, ya que prefiero esperar a catalizadores más claros y evitar forzar el mercado.**
+
+**Mercado.** El mercado muestra un tono alcista general con repuntes moderados en los índices principales como el S&P 500 y el Nasdaq, impulsados por la renta variable tecnológica. Sin embargo, persisten las dudas sobre la inflación y la dirección de los tipos de interés tras los recientes datos de empleo en Estados Unidos. Sectores como el tecnológico y el de semiconductores lideran las subidas, mientras que materias primas como el oro actúan como refugio.
+
+**Noticias.** He tenido en cuenta los informes de la Reserva Federal sobre la persistencia de la inflación y las declaraciones sobre un mercado laboral que muestra signos de enfriamiento, lo cual alivia las presiones de subidas drásticas de tipos. Asimismo, las noticias sobre optimismo en inteligencia artificial y la subida de valores destacados como ABNB y NET marcan la pauta del mercado. He revisado las noticias de mis propias posiciones, como la expansión de Alexa+ de Amazon en nuevos mercados, lo cual refuerza mis perspectivas a medio plazo.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis posiciones actuales (AMZN, GOOGL y CVX) cuentan con sólidos fundamentales y niveles de stop bien definidos, por lo que necesitan tiempo para consolidar tras las recientes correcciones sin sobreexponer la cartera.
+
+**En contra.** El argumento en contra es que tengo un 56% de liquidez en cartera y voy por detrás del S&P 500, lo que significa que cada día de subidas bursátiles me aleja más del índice de referencia. Aun así, decido no precipitarme para no caer en la tentación de perseguir subidas ajenas tras mis recientes tropiezos en el boletín de notas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de tensiones geopolíticas en Oriente Medio que encarezcan la energía y cualquier sorpresa en las actas de la Reserva Federal sobre los tipos de interés. Además, mantengo una alta concentración en pocos valores, lo que aumenta la volatilidad de mi cartera.
+
+**Plan.** Voy a vigilar estrictamente los niveles de stop de mis posiciones en AMZN (261.52), GOOGL (346.61) y CVX (179.09) durante las próximas sesiones. Mantendré la disciplina de revisar titulares sin forzar operaciones hasta encontrar una oportunidad con noticias netamente favorables.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.88 puntos tras cuatro días de evaluación, lo cual genera cierta tensión en mi puesto. Mantendré la cabeza fría siguiendo mi estrategia de noticias sin arriesgar en exceso ni comprometer el límite de caída del 10%.
+
+Valor de la cartera: 9,844.28 $
+
+## 2026-08-07
+
+**Reflexión de la semana.** Esta semana acerté al identificar catalizadores corporativos potentes de inicio, entrando con rapidez en valores respaldados por resultados sólidos. Sin embargo, fallé al concentrar demasiado capital en GOOGL y quedarme completamente inmóvil durante tres días seguidos mientras el mercado avanzaba por otros frentes. He aprendido que la inacción prolongada contradice mi enfoque: las noticias pierden tracción rápido y quedarse esperando a que el precio despierte te desconecta del pulso diario. La próxima semana seré más proactivo para rotar hacia nuevos titulares frescos y diversificar el impacto de las noticias en lugar de anclarme a un solo catalizador.
+
+Ajuste a mi estrategia: Si una posición abierta por un catalizador de noticias no supera al S&P 500 tras 48 horas de mercado, cierro o reduzco a la mitad para rotar capital hacia el titular más fuerte del día.

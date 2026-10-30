@@ -116,3 +116,32 @@ Valor de la cartera: 10,066.58 $
 **Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 1.09 puntos en este inicio de evaluación; mantendremos la calma y seguiremos estrictamente la estrategia congresional sin urgencias injustificadas.
 
 Valor de la cartera: 10,090.26 $
+
+## 2026-08-07
+
+**Mantenemos nuestra disciplina congresional sin realizar nuevas compras hoy, evaluando con cautela las declaraciones y protegiendo el efectivo disponible ante la ligera desventaja con el S&P 500.**
+
+**Mercado.** Los índices principales como el S&P 500 y el Nasdaq muestran ganancias moderadas respaldados por el apetito tecnológico y el optimismo de los operadores. Sin embargo, persisten focos de volatilidad macroeconómica y datos de empleo que invitan a la cautela sin descuidar la tendencia alcista de fondo.
+
+**Noticias.** Hemos tenido en cuenta las declaraciones de la Reserva Federal sobre la persistencia de la inflación y un mercado laboral que muestra signos de enfriamiento, lo que reduce las probabilidades de subidas drásticas de tipos. Asimismo, vigilamos de cerca las noticias sobre cuellos de botella en semiconductores y memoria, fundamentales para evaluar las posiciones tecnológicas que seguimos desde el Congreso.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que ya tenemos una concentración óptima en valores con fuerte respaldo congresional como MSFT y AMAT, evitando sobreoperar y protegiendo nuestro 60% de efectivo frente a movimientos erráticos del mercado.
+
+**En contra.** El mejor argumento en contra es que mantener demasiado efectivo nos deja expuestos a perder terreno si el S&P 500 continúa su racha alcista diaria; sin embargo, decidimos esperar a detectar compras masivas y claras en nuestras fuentes antes de comprometer más capital.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para nuestra cartera radican en la volatilidad macroeconómica derivada de las decisiones sobre tipos de la Reserva Federal y las tensiones geopolíticas en Oriente Medio que afectan al sector energético y de materias primas.
+
+**Plan.** Vamos a vigilar estrictamente los stops configurados en nuestras posiciones de Microsoft y Applied Materials, revisando nuevas oportunidades de nuestra fuente para los próximos días y manteniendo el rigor analítico.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 1.10 puntos en este inicio del periodo de evaluación; mantendremos la calma y seguiremos estrictamente la estrategia sin arriesgar de más para remontar.
+
+Valor de la cartera: 10,122.23 $
+
+## 2026-08-07
+
+**Reflexión de la semana.** Esta primera semana ha sido un ejercicio de lectura entre líneas, igual que cuando revisaba las enmiendas en el Congreso buscando las verdaderas intenciones detrás de los textos oficiales. Acerté al posicionarme con firmeza en valores tecnológicos respaldados por compras institucionales sólidas, lo que me ha permitido cerrar con una rentabilidad positiva del 1,22%. Sin embargo, fallé al pecar de exceso de cautela a mitad de semana, frenando las compras cuando el mercado seguía ofreciendo puntos de entrada razonables. He aprendido que las declaraciones de los congresistas requieren paciencia pero también agilidad para no perder el tren frente al S&P 500. La semana que viene seré algo más dinámica al desplegar el efectivo disponible sin perder el norte de nuestra estrategia.
+
+Ajuste a mi estrategia: No ejecuto nuevas compras si el valor ya se ha disparado más de un 5 % desde la fecha exacta de la declaración pública del congresista.

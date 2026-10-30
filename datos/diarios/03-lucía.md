@@ -116,3 +116,32 @@ Valor de la cartera: 10,030.79 $
 **Mi puesto.** Voy por detrás del S&P 500 por 2.94 puntos en este inicio de periodo de evaluación, lo que genera cierta tensión pero no justifica romper mi estrategia con operaciones desesperadas. Prefiero mantenerme disciplinada, dejar que mis stops protejan el capital y confiar en que la tendencia alcista natural de mis valores me permita recuperar terreno de forma segura.
 
 Valor de la cartera: 9,905.05 $
+
+## 2026-08-07
+
+**Mantengo mi cartera actual sin cambios tras evaluar el comportamiento técnico y el límite de concentración, priorizando dejar correr las tendencias.**
+
+**Mercado.** El mercado muestra un tono alcista general, con el SPY y el QQQ superando sus medias de 50 días y un destacado rebote en el sector tecnológico y de semiconductores. No obstante, persisten las alertas macroeconómicas de la Reserva Federal sobre la inflación y la volatilidad geopolítica.
+
+**Noticias.** He tenido en cuenta el informe de empleo peor de lo esperado en EE. UU., que alivia las presiones sobre tipos de interés, así como los movimientos de OpenAI y los semiconductores. Estas noticias refuerzan la tesis alcista en tecnología pero exigen cautela ante posibles correcciones por tensiones globales.
+
+**A favor.** Mis posiciones actuales como MSFT y NVDA muestran rentabilidades sólidas y cotizan por encima de sus medias de 50 días, cumpliendo estrictamente con la estrategia de tendencia.
+
+**En contra.** Googl y AMZN acumulan ligeras pérdidas temporales desde la compra, pero la estrategia prohíbe vender por pequeños movimientos diarios sin romper soportes clave.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Veo riesgo de volatilidad derivada de las advertencias de la Reserva Federal y de posibles cuellos de botella en la cadena de suministro de componentes tecnológicos.
+
+**Plan.** Voy a vigilar de cerca que ningún valor cruce por debajo de su media de 50 días o active su stop de protección respectivo.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 2.56 puntos tras cuatro días, pero no voy a arriesgar de más ni a sobreoperar para remontar de forma precipitada.
+
+Valor de la cartera: 9,975.95 $
+
+## 2026-08-07
+
+**Reflexión de la semana.** Acerté al entrar con decisión desde el primer día para poner a trabajar el dinero en valores alcistas. Sin embargo, fallé al sobreconcentrarme en apenas tres gigantes tecnológicos como GOOGL y MSFT mientras el índice general corría mucho más rápido, dejándome rezagada por más de dos puntos. He aprendido que seguir la tendencia requiere buscar el impulso más explosivo y no solo conformarse con los nombres más conocidos. La próxima semana completaré la cartera con 4 o 5 líderes de verdadero momentum y no dudaré en rotar si mis posiciones actuales no despiertan.
+
+Ajuste a mi estrategia: Repartir el capital de entrada en 4 o 5 valores distintos antes de aumentar posición en ninguno de ellos, evitando duplicar compras en el mismo activo si aún hay hueco en cartera.

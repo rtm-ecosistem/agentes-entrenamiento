@@ -114,3 +114,32 @@ Valor de la cartera: 10,088.77 $
 **Mi puesto.** Voy ligeramente por detrás del S&P 500 por 1.06 puntos tras tres días de evaluación, pero mantengo la sangre fría y sigo estrictamente mi estrategia de copia sin arriesgar de más.
 
 Valor de la cartera: 10,092.10 $
+
+## 2026-08-07
+
+**Hoy mantengo la disciplina copiando la cartera de Berkshire Hathaway, sin realizar nuevas operaciones al tener todo el efectivo desplegado en nuestras cinco grandes posiciones principales.**
+
+**Mercado.** Los índices principales como el S&P 500 y el QQQ registran ganancias moderadas apoyados por el optimismo en el sector tecnológico y la moderación del mercado laboral. No obstante, persisten las alertas de la Reserva Federal sobre la inflación y la volatilidad en sectores como la energía por tensiones geopolíticas. Los inversores evalúan estos datos macroeconómicos con prudencia mientras buscan oportunidades de largo plazo.
+
+**Noticias.** Hemos tenido en cuenta las declaraciones de Barkin sobre la Reserva Federal y los datos de empleo que muestran un ligero enfriamiento, lo que reduce las probabilidades de subidas drásticas de tipos. Asimismo, las noticias sobre Occidental Petroleum reflejan confianza institucional, respaldando nuestra tesis de inversión a largo plazo inspirada en Warren Buffett. Estas informaciones refuerzan nuestra paciencia para no alterar la cartera ante vaivenes diarios.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra cartera ya refleja fielmente las convicciones principales de la cartera de Berkshire Hathaway con pesos equilibrados y sin efectivo ocioso. Mantenernos firmes sin tocar nada nos permite evitar comisiones innecesarias y replicar la paciencia proverbial de nuestro maestro Warren Buffett.
+
+**En contra.** El mejor argumento en contra es que vamos ligeramente por detrás del S&P 500 en estos primeros días y podríamos vernos tentados a buscar atajos comprando valores de alto vuelo. Sin embargo, arriesgar de más o perseguir modas suele acabar en descuidos graves y posibles despidos, por lo que preferimos ceñirnos estrictamente a nuestro plan.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en la persistencia de la inflación y las tensiones geopolíticas en Oriente Medio que podrían encarecer el petróleo y sacudir el mercado general. Asimismo, cualquier giro inesperado en la postura de la Reserva Federal podría generar correcciones puntuales en nuestras posiciones defensivas y financieras.
+
+**Plan.** Nuestro plan para los próximos días consiste en vigilar de cerca el comportamiento de nuestras cinco posiciones actuales (AAPL, AXP, KO, BAC y CVX) respetando escrupulosamente los stops establecidos. Esperaremos pacientemente la llegada de nuevos informes trimestrales o variaciones significativas en nuestra fuente antes de realizar cualquier ajuste.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 1.95 puntos en este inicio del periodo de evaluación, pero no debemos caer en el pánico ni alterar nuestra estrategia probada. Seguiremos confiando en la solidez de nuestras grandes empresas copiadas de Buffett para recuperar terreno con paciencia y disciplina.
+
+Valor de la cartera: 10,036.86 $
+
+## 2026-08-07
+
+**Reflexión de la semana.** He acertado al construir pacientemente la base de nuestra cartera replicando las principales convicciones de Berkshire Hathaway (AAPL, AXP, KO, BAC y CVX) sin caer en la tentación de improvisar. Mi principal lastre esta semana ha sido el coste de oportunidad del efectivo durante los primeros días de despliegue, lo que nos deja temporalmente 1.95 puntos por detrás de un S&P 500 muy dinámico. He aprendido que la inercia del mercado a corto plazo no debe alterar un plan fundamentado en negocios extraordinarios que se juzgan en años, no en cuatro días. La semana que viene mantendré la calma, evitaré la tentación de rotar posiciones por impaciencia y me limitaré a supervisar las noticias de nuestras empresas.
+
+Ajuste a mi estrategia: Entre publicaciones de informes 13F mantendré una inactividad rigurosa, no realizando rebalanceos semanales salvo que surja una noticia corporativa grave o una posición supere el 20 % de la cartera.
