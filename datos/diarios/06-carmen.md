@@ -228,3 +228,30 @@ Valor de la cartera: 10,103.94 $
 **Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 0.95 puntos en nuestro noveno día de evaluación, lo cual entra dentro de lo razonable y no justifica arriesgar de más con el efectivo. Mantendremos la cabeza fría y seguiremos estrictamente nuestro método de inversión.
 
 Valor de la cartera: 10,126.00 $
+
+## 2026-08-13
+
+**Nota de mi predicción del 2026-08-06.** Dije que MSFT lo haría mejor que el S&P 500: hizo -0.2% frente a +0.9%. Fallo.
+
+## 2026-08-13
+
+**Mantenemos nuestra disciplina parlamentaria y conservamos liquidez sin realizar nuevas compras hoy, evaluando con rigor las declaraciones públicas de los congresistas.**
+
+**Mercado.** Los principales índices bursátiles como el S&P 500 y el Nasdaq muestran un comportamiento positivo impulsados por una inflación que se desacelera al 3.4% en julio. Sectores como el tecnológico y los semiconductores lideran el optimismo, respaldados por grandes contratos institucionales de infraestructura de inteligencia artificial.
+
+**Noticias.** Hemos tenido en cuenta la moderación de la inflación al 3.4% y el acuerdo multimillonario de Microsoft con IREN para centros de datos de IA, lo que consolida la fortaleza del sector tecnológico. Asimismo, observamos flujos de capital hacia fondos generales como el SPY, reflejando una preferencia por la diversificación frente al riesgo excesivo.
+
+**A favor.** El principal argumento a favor de no operar hoy es evitar la tentación de perseguir subidas precipitadas y proteger nuestra liquidez del 60% en un entorno donde ya tenemos posiciones sólidas que cumplen con nuestros criterios.
+
+**En contra.** El argumento en contra es que mantener un 60% en efectivo en un mercado claramente alcista genera un coste de oportunidad frente al S&P 500. Sin embargo, decidimos mantener la calma para no incumplir nuestras reglas estrictas de valoración y control de riesgo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es quedar rezagados frente al índice de referencia debido a una liquidez excesiva, además de las tensiones geopolíticas latentes que podrían generar volatilidad repentina en materias primas y mercados globales.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en nuestras posiciones actuales de MSFT y AMAT, mientras evaluamos con paciencia nuevas declaraciones del Congreso que cumplan estrictamente con nuestros límites de precio.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 1.24 puntos, pero nuestra prioridad absoluta es la disciplina y la preservación del capital, evitando arriesgar de más para remontar.
+
+Valor de la cartera: 10,169.43 $

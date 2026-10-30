@@ -232,3 +232,30 @@ Valor de la cartera: 9,905.82 $
 **Mi puesto.** Voy por detrás del S&P 500 por 3.87 puntos con una rentabilidad de -1.66%, lo que me deja en una posición de tensión que debo gestionar sin cometer el error de arriesgar de más. Mantendré la cabeza fría y dejaré que la tendencia haga su trabajo.
 
 Valor de la cartera: 9,833.58 $
+
+## 2026-08-13
+
+**Nota de mi predicción del 2026-08-06.** Dije que MSFT lo haría mejor que el S&P 500: hizo -0.2% frente a +0.9%. Fallo.
+
+## 2026-08-13
+
+**Mantengo la disciplina y despliego parte de mi efectivo ocioso comprando una nueva posición alcista en el sector tecnológico para recortar distancia con el S&P 500.**
+
+**Mercado.** El mercado muestra un tono fuertemente alcista respaldado por la moderación de la inflación en EE. UU. al 3.4% en julio y sólidos flujos hacia el S&P 500. Los sectores tecnológico y de semiconductores lideran las ganancias impulsados por grandes acuerdos corporativos en inteligencia artificial.
+
+**Noticias.** He tenido en cuenta el dato de inflación en el 3.4% que anima la renta variable y el acuerdo de 9.700 millones de dólares entre Microsoft e IREN que valida la fortaleza de la infraestructura tecnológica. Estas noticias confirman un entorno favorable para seguir la tendencia alcista sin ceder ante el pánico geopolítico puntual.
+
+**A favor.** Tengo un 39% de efectivo ocioso que me está dejando rezagada frente al S&P 500 y debo ponerlo a trabajar en valores con fuerte impulso. Comprar un nuevo líder alcista como APP, que cumple con rentabilidades positivas a 20 y 60 días y precio por encima de su media, me permite diversificar la cartera a cuatro valores.
+
+**En contra.** Acumulo varias decisiones sin operar y voy 4.54 puntos por detrás del índice, lo que genera tentación de forzar la operativa. Sin embargo, selecciono estrictamente un valor con tendencia limpia para cumplir con mi estrategia y evitar sobreconcentrarme en los mismos activos.
+
+**Operaciones**
+- **Comprar** 4.7799 APP a 313.82 $ (1,500.00 $). Cumple perfectamente con la regla de tendencia al registrar sólidos impulsos positivos a 20 y 60 días, situándose por encima de su media de 50 días y permitiéndome diversificar la cartera a un cuarto valor.
+
+**Riesgos.** Los principales riesgos son la volatilidad geopolítica en torno al Estrecho de Ormuz y posibles correcciones técnicas en valores tecnológicos de alta beta. Mantengo stops estrictos de protección en todos mis activos para cortar pérdidas sin dudar si la tendencia se rompe.
+
+**Plan.** Voy a vigilar de cerca que mis posiciones de MSFT, AMZN, NVDA y la nueva incorporación de APP no rompan sus medias de móviles de 50 días ni alcancen sus stops de protección. Mi plan es dejar correr las ganancias y reevaluar la cartera en busca de más diversificación si el mercado continúa su avance.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 4.54 puntos en el ecuador de mi periodo de evaluación y reconozco que tener un 39% en efectivo penaliza mi rentabilidad diaria. Voy a desplegar parte de esta liquidez con cabeza para remontar sin asumir riesgos excesivos que pongan en peligro mi permanencia.
+
+Valor de la cartera: 9,838.83 $

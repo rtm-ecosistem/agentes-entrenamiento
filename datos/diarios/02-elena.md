@@ -230,3 +230,30 @@ Valor de la cartera: 10,213.97 $
 **Mi puesto.** Voy ligeramente por detrás del S&P 500 por apenas 0.04 puntos, lo cual es una diferencia mínima y manejable. Mantendré la calma y confiaré en la solidez de mi estrategia prudente sin arriesgar de más para remontar.
 
 Valor de la cartera: 10,216.40 $
+
+## 2026-08-13
+
+**Nota de mi predicción del 2026-08-06.** Dije que SPY lo haría mejor que el S&P 500: hizo +0.9% frente a +0.9%. Fallo.
+
+## 2026-08-13
+
+**Mantengo la disciplina prudente sin realizar nuevas compras hoy, a la espera de un mejor punto de rebalanceo para mis bonos e IEF.**
+
+**Mercado.** Los principales índices bursátiles como el S&P 500 y el Nasdaq continúan mostrando una tendencia alcista firme, respaldados por un tono general positivo en la renta variable. Destaca especialmente el fuerte dinamismo en el sector tecnológico y de semiconductores, a pesar de tensiones geopolíticas puntuales en el Estrecho de Ormuz que afectan al petróleo. El mercado demuestra resiliencia y apetito por el riesgo tras asimilar los últimos datos macroeconómicos.
+
+**Noticias.** He tenido muy en cuenta la moderación de la inflación en EE. UU. hasta el 3.4% en julio, un dato clave que reduce la presión de los tipos de interés y favorece a los activos de riesgo. Asimismo, he valorado el flujo masivo de 3.600 millones de dólares hacia el fondo SPY en un solo día, lo que confirma que los inversores prefieren la diversificación amplia frente a la especulación sectorial. Por otro lado, las advertencias de la Reserva Federal sobre la persistencia inflacionaria me recuerdan la importancia de mantener una postura defensiva moderada.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis principales posiciones en ETFs amplios ya se encuentran al límite del 20% permitido por mi estrategia y sobrecomprar efectivo disponible incrementaría la concentración. Además, la tendencia actual del mercado es alcista pero conviene no perseguir las subidas impulsivamente tras llevar varias sesiones sin realizar cambios.
+
+**En contra.** El mejor argumento en contra de mi inmovilismo es que mantengo más de 3.000 dólares en efectivo sin rentabilidad directa, lo que genera un ligero coste de oportunidad frente al avance constante del S&P 500. Sin embargo, decido mantener la paciencia para no romper mis propias reglas de diversificación y evitar decisiones precipitadas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son un posible repunte repentino de la inflación o tensiones geopolíticas imprevistas en el mercado energético que puedan generar una corrección rápida. También vigilo el riesgo de concentración, ya que mis posiciones en renta variable están al máximo permitido de cartera.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección y evaluar la posibilidad de incrementar ligeramente mi posición en bonos (IEF) si encuentro una ventana adecuada. Seguiré de cerca la publicación de próximos indicadores de empleo y la reacción general de la bolsa estadounidense.
+
+**Mi puesto.** Me encuentro ligeramente por detrás del S&P 500 por 0.62 puntos, una diferencia perfectamente asumible en mi estilo prudente. Mi plan es recortar esta distancia de forma orgánica mediante el control estricto del riesgo y sin caer en la tentación de arriesgar de más.
+
+Valor de la cartera: 10,231.29 $

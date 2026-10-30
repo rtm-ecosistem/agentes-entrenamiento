@@ -223,3 +223,30 @@ Valor de la cartera: 9,997.69 $
 **Mi puesto.** Vamos ligeramente por delante del S&P 500 por 0.02 puntos en este inicio del periodo, por lo que mantendremos nuestra disciplina de valor sin caer en la tentación de arriesgar de más para buscar rentabilidades ficticias.
 
 Valor de la cartera: 9,977.62 $
+
+## 2026-08-13
+
+**Nota de mi predicción del 2026-08-06.** Dije que SPY lo haría mejor que el S&P 500: hizo +0.9% frente a +0.9%. Fallo.
+
+## 2026-08-13
+
+**Mantenemos nuestra disciplina de valor y el efectivo restante tras haber completado el cupo en Apple, evitando perseguir las subidas eufóricas del mercado general.**
+
+**Mercado.** Los principales índices como el SPY y QQQ registran subidas respaldadas por una inflación que se desacelera al 3.4% en julio. El sector tecnológico sigue liderando la atención gracias a grandes contratos de IA, aunque los flujos institucionales muestran cautela hacia fondos especializados.
+
+**Noticias.** Hemos tenido en cuenta el dato de inflación del 3.4% y el masivo acuerdo de Microsoft con IREN para centros de datos por 9.700 millones de dólares. Estas noticias confirman la solidez de los gigantes tecnológicos, aunque nuestra estrategia prioriza buscar caídas específicas antes de entrar a ciegas en un mercado alcista.
+
+**A favor.** El argumento a favor de mantener nuestra liquidez actual es evitar sobrepagar por activos en un momento de euforia generalizada y proteger nuestro capital frente a correcciones imprevistas.
+
+**En contra.** El principal argumento en contra es que mantener un 80% en efectivo en un mercado fuertemente alcista nos genera un coste de oportunidad frente al S&P 500, tal como reflejan nuestras reflexiones recientes.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo sigue siendo quedar rezagados frente al índice de referencia debido a nuestra alta posición en liquidez si el mercado continúa subiendo sin retrocesos significativos.
+
+**Plan.** Vigilaré la evolución de mis posiciones actuales en Apple y mantendré la liquidez restante lista por si se producen correcciones de más del 10% en otras empresas sólidas de la tabla.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 0.53 puntos, pero nos mantendremos fieles a nuestra estrategia de valor sin arriesgar de más para evitar caer en despidos por volatilidad.
+
+Valor de la cartera: 9,993.84 $
