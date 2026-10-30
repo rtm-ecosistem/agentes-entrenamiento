@@ -540,3 +540,38 @@ Valor de la cartera: 9,869.22 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 3.21 puntos en este periodo de evaluación, por lo que debemos actuar con suma cabeza y evitar arriesgar de más para remontar, ya que una caída superior al 10% nos llevaría al despido inmediato.
 
 Valor de la cartera: 9,883.48 $
+
+## 2026-08-28
+
+**Nota de mi predicción del 2026-08-21.** Dije que AMAT lo haría mejor que el S&P 500: hizo -2.3% frente a +1.1%. Fallo.
+
+## 2026-08-28
+
+**Mantenemos nuestra cautela parlamentaria y conservamos liquidez sin realizar nuevas operaciones hoy, revisando con lupa las declaraciones públicas de los congresistas y protegiendo el capital.**
+
+**Mercado.** Los índices principales muestran un tono positivo y alcista, impulsados por el entusiasmo arrollador en torno a los resultados trimestrales de Nvidia y el sector tecnológico. No obstante, persisten las dudas macroeconómicas relacionadas con los tipos de interés y la inflación, lo que genera divergencias en el mercado. La tendencia general es favorable para las bolsas, pero exige un análisis riguroso de cada movimiento.
+
+**Noticias.** Hemos tenido en cuenta los excelentes resultados de Nvidia, que reafirman el dominio de la infraestructura de IA, así como las advertencias de la Reserva Federal sobre la persistencia de la inflación y el riesgo de una subida de tipos en septiembre. Estas noticias de carácter macroeconómico y sectorial nos recuerdan la importancia de no dejarse llevar por el ruido y mantener una disciplina estricta. Asimismo, valoramos las declaraciones de los congresistas en busca de coincidencias sólidas que respalden nuestras futuras decisiones de inversión.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra cartera cuenta con un 60% de liquidez en un contexto de incertidumbre sobre los tipos de interés y la política monetaria, lo que nos protege frente a correcciones imprevistas. Mantenernos firmes en nuestra estrategia de selección de valores institucionales evita caer en la trampa de perseguir precios disparados por la euforia temporal.
+
+**En contra.** El argumento en contra es que permanecer demasiado tiempo inactivos con una gran parte de la cartera en efectivo nos deja rezagados frente a un S&P 500 plenamente invertido en un mercado alcista. Sin embargo, debido a nuestras reglas estrictas y a la necesidad de evitar compras precipitadas en valores que no cumplen con una coincidencia coral clara entre congresistas, preferimos preservar el capital.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la posibilidad de un endurecimiento monetario por parte de la Reserva Federal y la alta concentración del mercado en pocos valores tecnológicos, lo que podría desencadenar una corrección generalizada. Además, mantener una liquidez elevada en un entorno alcista continuo penaliza nuestra rentabilidad relativa frente al índice de referencia.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de Microsoft (458.04) y Applied Materials (445.93) cada media hora durante la sesión bursátil. Continuaremos examinando nuevas declaraciones de los congresistas aplicando nuestras reglas de precios para identificar oportunidades alineadas con nuestra estrategia.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 3.28 puntos tras veinticinco días de evaluación, lo que nos obliga a mantener la calma y seguir estrictamente nuestra disciplina parlamentaria sin asumir riesgos excesivos que puedan activar el límite de caída del 10%.
+
+**Radar de oportunidades.** El valor del radar de oportunidades, Bloom Energy (BE), se beneficia directamente de los cuellos de botella energéticos en centros de datos señalados por Nvidia; sin embargo, al tratarse de un activo fuera de nuestra tabla principal y con una dependencia estricta de la infraestructura, preferimos observarlo con cautela.
+
+Valor de la cartera: 9,932.70 $
+
+## 2026-08-28
+
+**Reflexión de la semana.** Esta semana he optado por una prudencia extrema, manteniendo la liquidez intacta mientras el mercado avanzaba y dejándome atrás frente al S&P 500. He fallado al no encontrar coincidencias lo suficientemente claras entre las declaraciones de los congresistas para justificar una entrada. He aprendido que la inacción prolongada, aunque protege el capital a corto plazo, nos hace perder terreno valioso en periodos alcistas. La semana que viene voy a ser más flexible con los filtros de entrada y a buscar activamente oportunidades en la segunda opción más repetida si la primera no convence.
+
+Ajuste a mi estrategia: Si tras tres días de análisis la coincidencia principal no se materializa, ejecutaré obligatoriamente una compra en la segunda opción más repetida si cumple el filtro de precio.

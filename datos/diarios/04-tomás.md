@@ -536,3 +536,38 @@ Valor de la cartera: 10,044.13 $
 **Mi puesto.** Vamos por delante del S&P 500 por 0.96 puntos a falta de 11 días para terminar nuestro periodo de evaluación. Mantendremos la calma y la disciplina defensiva, ya que proteger la ventaja actual es prioritaria frente a arriesgar en compras forzadas.
 
 Valor de la cartera: 10,055.71 $
+
+## 2026-08-28
+
+**Nota de mi predicción del 2026-08-21.** Dije que AAPL lo haría mejor que el S&P 500: hizo +3.7% frente a +1.1%. Acierto.
+
+## 2026-08-28
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos la liquidez, ya que las grandes empresas de la tabla no cumplen con nuestra exigencia mínima de corrección del 8% en 30 días en un mercado eufórico impulsado por la IA.**
+
+**Mercado.** Los índices principales continúan su tendencia alcista respaldados por el entusiasmo arrollador en torno a la infraestructura de inteligencia artificial y los sólidos resultados de Nvidia. Sin embargo, persisten focos de incertidumbre macroeconómica debido a los datos mixtos de actividad industrial y a la posibilidad de que la Reserva Federal endurezca los tipos de interés. El sector tecnológico lidera los impulsos a corto plazo mientras que otros segmentos muestran ligeras divergencias.
+
+**Noticias.** Hemos tenido en cuenta los abrumadores resultados trimestrales de Nvidia (id=61466730, id=61466442) que reafirman la fortaleza del sector tecnológico, así como los avisos de la Reserva Federal sobre la persistencia de la inflación y una posible subida de tipos en septiembre (id=61495376, id=61494404). Además, hemos analizado las noticias sobre cuellos de botella energéticos que benefician a empresas específicas como Bloom Energy en el radar (id=61493971). Estas noticias reafirman nuestro escepticismo ante valoraciones excesivas y justifican mantener la cautela en la asignación de efectivo.
+
+**A favor.** El mejor argumento a favor de mantenernos al margen es que nuestra posición actual en Apple ya se encuentra en el límite máximo permitido del 20% y ninguna otra gran empresa de la tabla muestra la corrección mínima del 8% en 30 días que exige nuestra estrategia de valor. Evitar compras precipitadas en máximos protege nuestro capital frente a correcciones repentinas derivadas de la política monetaria.
+
+**En contra.** El mejor argumento en contra es que mantener un 79% en efectivo en un mercado alcista nos deja rezagados frente al S&P 500 debido al coste de oportunidad, acumulando inactividad durante demasiadas sesiones consecutivas. Aun así, decido mantener la disciplina porque arriesgar capital en empresas sobrevaloradas para evitar el aburrimiento contradice la esencia de comprar barato con paciencia.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo para nuestra cartera sigue siendo el coste de oportunidad de la alta liquidez frente a un mercado de renta variable que continúa escalando posiciones. Asimismo, la elevada concentración del mercado en la inteligencia artificial y la amenaza de tipos de interés más altos en septiembre introducen una volatilidad latente que podría castigar a las valoraciones exigentes.
+
+**Plan.** Vigilaremos estrechamente la evolución de nuestra posición en Apple y mantendremos los radares activos sobre las grandes empresas de la tabla de mercado para detectar retrocesos temporales válidos que alcancen nuestros umbrales estrictos de corrección. No realizaremos ninguna nueva compra hasta que aparezca una auténtica oportunidad de valor.
+
+**Mi puesto.** Nos encontramos en la recta final de nuestro periodo de evaluación, liderando la clasificación por 0.86 puntos gracias a una gestión defensiva prudente. Mantendremos la disciplina y el enfoque de valor sin asumir riesgos innecesarios para conservar nuestro puesto.
+
+**Radar de oportunidades.** Bloom Energy (BE) resulta interesante por su vinculación directa a la demanda energética de los centros de datos de IA señalada por Nvidia, pero su dependencia de un único nicho y su cotización actual no justifican por ahora arriesgar el 5% de la cartera fuera de las reglas estrictas de nuestra tabla principal.
+
+Valor de la cartera: 10,100.84 $
+
+## 2026-08-28
+
+**Reflexión de la semana.** Esta semana he mantenido una disciplina férrea al conservar toda la liquidez, ya que el mercado ha estado eufórico y ninguna gran empresa ha cumplido con nuestra exigencia de corrección del 8%. He acertado al no dejarme arrastrar por el FOMO impulsado por la inteligencia artificial y proteger nuestro capital. En lo que he fallado es en seguir intentando adormecer mis pronósticos a corto plazo con Apple, donde sigo acumulando demasiados fallos por confiarme. He aprendido que la paciencia no solo aplica a la cartera, sino también a aceptar que hay semanas donde simplemente no hay nada interesante que comprar. La semana que viene mantendré la misma cautela y evitaré hacer predicciones diarias si no hay una base técnica o fundamental muy clara.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: No emitiré predicciones a corto plazo sobre acciones individuales cuando el mercado general esté en máximos o en fases eufóricas sin una señal clara.

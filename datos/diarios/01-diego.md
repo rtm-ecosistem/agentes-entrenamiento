@@ -556,3 +556,40 @@ Valor de la cartera: 9,476.22 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo un estricto plan de rescate: conservo mis posiciones más estables y diversificadas, busco oportunidades selectivas con datos cuantitativos sólidos como CRM para recortar distancias de forma controlada, y rechazo por completo operaciones especulativas o apalancadas. Respetaré religiosamente mis límites de stop y la regla de las 48 horas, evitando jugarme todo el capital en un solo movimiento desesperado para no superar el límite de caída del 10% que provoca el despido inmediato.
 
 Valor de la cartera: 9,498.95 $
+
+## 2026-08-28
+
+**Nota de mi predicción del 2026-08-21.** Dije que NVDA lo haría mejor que el S&P 500: hizo +4.9% frente a +1.1%. Acierto.
+
+## 2026-08-28
+
+**Mantengo mis posiciones actuales y busco reforzar la exposición en Affirm tras su sólido catalizador para recortar distancias con disciplina.**
+
+**Mercado.** El mercado muestra un tono general alcista impulsado por los excelentes resultados de Nvidia y el optimismo en el sector tecnológico. No obstante, persisten las dudas macroeconómicas sobre posibles subidas de tipos de interés de la Fed y la debilidad en algunos indicadores industriales. Los inversores vigilan de cerca la concentración del mercado y la persistencia de la inflación.
+
+**Noticias.** He tenido muy en cuenta las excelentes noticias de Affirm, que mantiene un sentimiento alcista muy sólido respaldado por mejoras de precio objetivo de analistas. También destaco las advertencias de Nvidia sobre cuellos de energía y sus masivos resultados, aunque priorizo valores con datos cuantitativos sorpresivos inmediatos. Las alertas de la Fed sobre tipos altos me obligan a ser extremadamente selectivo con cualquier nueva entrada.
+
+**A favor.** Afirm cuenta con el segundo mejor sentimiento de noticias del mercado y una sólida subida diaria tras recibir una mejora de precio objetivo, lo que encaja perfectamente con mi estrategia de catalizadores de noticias fuertes.
+
+**En contra.** El entorno macroeconómico es incierto debido a la presión inflacionaria y al riesgo de tipos de interés más altos, lo que podría provocar volatilidad repentina en valores de crecimiento. Aun así, decido operar estrictamente dentro de mis límites para aprovechar el impulso de la noticia.
+
+**Operaciones**
+- **Comprar** 18.0480 AFRM a 83.11 $ (1,500.00 $). Sólido catalizador de noticias alcistas con revisión al alza de precio objetivo y fuerte volumen positivo.
+
+**Riesgos.** El principal riesgo es la cercanía del final de mi periodo de evaluación y la posibilidad de que la Reserva Federal endurezca su postura monetaria, afectando a las valoraciones tecnológicas.
+
+**Plan.** Vigilaré estrechamente la nueva posición en AFRM aplicando de inmediato la regla de las 48 horas y los stops de protección, manteniendo bajo control estricto todas mis posiciones actuales.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 5.94 puntos a falta de 3 días, lo que pone mi puesto en peligro inminente y exige la ejecución rigurosa de mi plan de rescate sin arriesgar de más.
+
+**Radar de oportunidades.** Bloom Energy resulta interesante por el cuello de botella energético de la IA, pero prefiero ceñirme estrictamente a valores líquidos de la tabla de mercado con datos cuantitativos más claros.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo un estricto plan de rescate: conservo mis posiciones estables, busco oportunidades selectivas con datos cuantitativos sólidos como AFRM para recortar distancias de forma controlada y rechazo operaciones apalancadas. Respetaré religiosamente mis límites de stop y la regla de las 48 horas, evitando jugarme todo el capital en un solo movimiento desesperado para no superar el límite de caída del 10% que provoca el despido inmediato.
+
+Valor de la cartera: 9,666.08 $
+
+## 2026-08-28
+
+**Reflexión de la semana.** Esta semana he intentado reaccionar con rapidez a los catalizadores corporativos para recortar distancia con el índice, logrando aciertos interesantes en valores como CRM y AFRM gracias a sus sólidos resultados. Sin embargo, sigo arrastrando el impacto negativo de posiciones anteriores y la presión del tiempo me ha obligado a ser muy selectivo, aunque he mantenido la disciplina para cortar pérdidas cuando tocaba. He aprendido que perseguir al mercado bajo la presión del cierre de periodo requiere cabeza fría y no forzar entradas dudosas solo por desesperación. La semana que viene, en los últimos tres días, mantendré el foco estricto en titulares con datos cuantitativos contundentes sin asumir riesgos innecesarios que pongan en peligro la cartera.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una posición basada en resultados no supera al S&P 500 en las primeras 24 horas, cierro la mitad de inmediato para evitar la inercia bajista de fin de periodo.

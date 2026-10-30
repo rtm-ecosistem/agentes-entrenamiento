@@ -563,3 +563,40 @@ Valor de la cartera: 9,628.40 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No realizaré operaciones desesperadas ni apostaré todo a un solo activo especulativo. Respetaré tajantemente la regla de cortar al instante cualquier activo estancado o con tres sesiones consecutivas de descensos, priorizando la supervivencia de la cartera frente al impulso artificial de remontar de golpe.
 
 Valor de la cartera: 9,790.07 $
+
+## 2026-08-28
+
+**Nota de mi predicción del 2026-08-21.** Dije que COST lo haría mejor que el S&P 500: hizo -0.2% frente a +1.1%. Fallo.
+
+## 2026-08-28
+
+**Mantengo mi cartera intacta en la recta final de la evaluación, cumpliendo estrictamente con el plan de rescate para asegurar mi puesto sin arriesgar de más.**
+
+**Mercado.** Los índices principales muestran un tono positivo, con el SPY subiendo un +0.7% diario y situándose un +3.0% por encima de su media de 50 días. El sector tecnológico y de consumo discrecional lideran el impulso a corto plazo, impulsados por los excelentes resultados trimestrales de Nvidia. Sin embargo, persisten los riesgos macroeconómicos debido a la posibilidad de que la Reserva Federal endurezca los tipos de interés ante una inflación persistente.
+
+**Noticias.** He tenido muy en cuenta las noticias sobre Nvidia y su abrumador liderazgo en inteligencia artificial, que continúan tirando de los índices principales a pesar de las advertencias sobre cuellos de botella energéticos y la volatilidad del sector. Asimismo, valoro los datos macroeconómicos mixtos, como un PMI de Chicago débil en 47.1 y la preocupación de la Reserva Federal por la inflación, que justifican mantener la cautela en lugar de realizar operaciones precipitadas. Estas informaciones refuerzan mi decisión de proteger el capital actual en lugar de perseguir subidas impulsadas por el entusiasmo temporal.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis cuatro posiciones actuales (MSFT, NVDA, APP y COST) están respetando sus stops y se encuentran en zonas de tendencia alcista consolidada. Mantener la disciplina y no realizar movimientos desesperados evita que cometa errores de sobreoperación en un momento crítico donde voy por detrás del índice por 3.33 puntos.
+
+**En contra.** El principal argumento en contra de esta inactividad es que, al ir por detrás del S&P 500 a falta de solo tres días para finalizar mi periodo de evaluación, quedarme de brazos cruzados podría no ser suficiente para cerrar la brecha de 3.33 puntos. Aun así, decido mantener mi postura porque la regla de oro de mi estrategia y de mi plan de rescate es que jugárselo todo a última hora suele acabar en despido por una caída descontrolada.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son una corrección repentina en el sector tecnológico debido a la presión sobre los tipos de interés o que el mercado sufra una recogida de beneficios generalizada en la recta final del mes. Además, cualquier giro imprevisto en la política monetaria de la Reserva Federal podría castigar mis posiciones de mayor peso.
+
+**Plan.** Voy a vigilar estrictamente que ninguna de mis posiciones (MSFT, NVDA, APP y COST) rompa su media móvil de 50 días ni active sus respectivos stops de protección durante las últimas sesiones. Mi plan es dejar correr la tendencia actual con disciplina férrea y proteger el efectivo restante sin comprometer la supervivencia de la cartera.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.33 puntos a falta de tres días para concluir mi periodo de evaluación, lo que pone mi puesto en peligro inminente de recibir un aviso. Para solucionarlo sin infringir las normas, ejecuto estrictamente mi plan de rescate: mantengo las posiciones sanas, conservo el efectivo y evito jugármelo todo a una carta desesperada que provoque una caída superior al 10%.
+
+**Radar de oportunidades.** Bloom Energy (BE) cotiza a 219.05 $ y se beneficia directamente de los cuellos de botella energéticos en la infraestructura de inteligencia artificial señalados por Nvidia. Aunque encaja parcialmente con la temática de impulso, prefiero no arriesgar capital en valores fuera de la tabla principal en este momento tan delicado de evaluación.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No realizaré operaciones desesperadas ni apostaré todo a un solo activo especulativo. Respetaré tajantemente la regla de cortar al instante cualquier activo estancado o con tres sesiones consecutivas de descensos, priorizando la supervivencia de la cartera frente al impulso artificial de remontar de golpe.
+
+Valor de la cartera: 9,927.78 $
+
+## 2026-08-28
+
+**Reflexión de la semana.** Esta semana he conseguido recortar distancias con el mercado gracias a una buena selección inicial, pasando de un -3% a quedarnos a las puertas de remontar, pero sigo al borde del abismo con un -0.72% a solo tres días del final. Acerté al incorporar un líder sectorial a principios de semana para aprovechar la ola, pero fallé al pecar de excesiva cautela los días siguientes en lugar de buscar más oportunidades para salvar los muebles. He aprendido que la parálisis por miedo en la recta final es tan peligrosa como operar sin cabeza cuando vas perdiendo. La semana que viene saldré a buscar la remontada definitiva sin dudar ni un segundo, cortando rápido si algo se tuerce.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: En los últimos tres días del periodo de evaluación, si una posición sube un 2% diario, no cierro y dejo correr la ganancia para recortar el margen perdido con el S&P 500.

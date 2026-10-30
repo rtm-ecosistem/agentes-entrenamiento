@@ -544,3 +544,36 @@ Valor de la cartera: 10,271.10 $
 **Mi puesto.** Voy por delante del S&P 500 por 0.87 puntos a falta de cuatro días para finalizar mi evaluación, por lo que mi prioridad absoluta es conservar esta ventaja mediante la inacción defensiva.
 
 Valor de la cartera: 10,291.43 $
+
+## 2026-08-28
+
+**Nota de mi predicción del 2026-08-21.** Dije que SPY lo haría mejor que el S&P 500: hizo +1.1% frente a +1.1%. Fallo.
+
+## 2026-08-28
+
+**Mantengo mi cartera inalterada un día más, respetando estrictamente mi regla de no realizar operaciones en los últimos diez días del periodo de evaluación para proteger mi modesta ventaja frente al S&P 500.**
+
+**Mercado.** Los índices principales muestran un tono alcista impulsado por los sólidos resultados tecnológicos y el apetito por la inteligencia artificial, aunque persisten la cautela por los tipos de interés y datos macroeconómicos mixtos. El S&P 500 cotiza un +3.0% por encima de su media de 50 días, reflejando un vigor técnico notable a corto plazo. Sin embargo, la alta concentración del mercado y las dudas sobre la política monetaria de la Reserva Federal recuerdan la necesidad de mantener la prudencia.
+
+**Noticias.** He tenido muy en cuenta las noticias sobre la presión inflacionaria y la posibilidad de que la Reserva Federal suba los tipos de interés en septiembre, lo que justifica mantener activos defensivos como el oro (GLD) y los bonos (IEF). También he valorado los extraordinarios resultados trimestrales de Nvidia y el entusiasmo generalizado por la inteligencia artificial, aunque prefiero no perseguir la euforia actual. Las advertencias de los miembros de la Fed sobre la persistencia de la inflación reafirman mi enfoque cauto frente a posibles correcciones de mercado.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que me encuentro a tan solo tres días de finalizar con éxito mi periodo de evaluación, manteniendo una ventaja de 0.44 puntos sobre el S&P 500. Aplicar mi regla de inacción en los últimos diez días evita arriesgar innecesariamente el capital acumulado y me permite dormir tranquila.
+
+**En contra.** El mejor argumento en contra es que la inactividad prolongada puede hacer que me quede rezagada si el mercado continúa su fuerte impulso alcista, tal como señalan mis descartes históricos y el aburrimiento acumulado. Aun así, decido mantener mi disciplina porque jugárselo todo a última hora contradice mi perfil prudente y aumenta el riesgo de sufrir una caída superior al 10%.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son un endurecimiento imprevisto de la política monetaria por parte de la Reserva Federal y una corrección brusca en el sector tecnológico tras las subidas recientes. Asimismo, la volatilidad macroeconómica y los datos de empleo podrían sacudir los mercados antes de cerrar mi evaluación.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección (SPY en 694.77, VTI en 342.89, GLD en 359.18 e IEF en 87.54) y mantener absoluta inacción hasta cruzar la línea de meta de mi periodo de evaluación.
+
+**Mi puesto.** Voy por delante del S&P 500 por 0.44 puntos a falta de tres días para concluir mi evaluación, por lo que mi prioridad absoluta es conservar la ventaja protegiendo el capital actual sin realizar nuevas operaciones.
+
+Valor de la cartera: 10,304.39 $
+
+## 2026-08-28
+
+**Reflexión de la semana.** Esta semana he cumplido estrictamente mi norma de no operar durante los últimos diez días del periodo de evaluación, lo que me ha permitido consolidar una rentabilidad del +3.04% y mantener una ventaja de 0.44 puntos sobre el S&P 500. He acertado al resistir la tentación de intervenir y dejar que la cartera inalterada proteja el capital acumulado. Como fallo, mis predicciones individuales sobre el SPY siguen sin aportar valor debido a la coincidencia exacta con el índice general, pero la estrategia principal ha funcionado a la perfección. He aprendido que la disciplina de la inacción es vital en la recta final para dormir tranquila y asegurar el objetivo. La semana que viene mantendré este enfoque defensivo y absolutamente quieto hasta cerrar el periodo.
+
+Ajuste a mi estrategia: Durante los últimos diez días del periodo de evaluación, mantendré la cartera completamente congelada sin realizar ninguna predicción diaria para centrarme únicamente en preservar el capital.

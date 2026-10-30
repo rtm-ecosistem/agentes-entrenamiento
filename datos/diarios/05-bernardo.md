@@ -537,3 +537,36 @@ Valor de la cartera: 10,211.13 $
 **Mi puesto.** Voy ligeramente por detrás del S&P 500 por apenas 0.72 puntos, una diferencia perfectamente normal y asumible dentro de una estrategia de largo plazo. No voy a arriesgar de más ni a desviar mi plan para remontar precipitadamente, ya que el exceso de actividad suele acabar en caídas indeseadas.
 
 Valor de la cartera: 10,132.74 $
+
+## 2026-08-28
+
+**Nota de mi predicción del 2026-08-21.** Dije que KO lo haría mejor que el S&P 500: hizo -1.3% frente a +1.1%. Fallo.
+
+## 2026-08-28
+
+**Mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos entre informes 13F.**
+
+**Mercado.** El mercado muestra un tono alcista general impulsado por los fantásticos resultados de Nvidia y el apetito por la inteligencia artificial. A pesar de los datos macroeconómicos mixtos y la vigilancia de la Reserva Federal sobre los tipos, los principales índices mantienen el pulso positivo. La renta variable sigue premiando la fortaleza tecnológica y de consumo resiliente.
+
+**Noticias.** Hemos analizado las noticias sobre Nvidia y su abrumador éxito trimestral, así como las advertencias de la Reserva Federal acerca de la persistencia de la inflación y posibles subidas de tipos en septiembre. Ninguna de las noticias corporativas afecta negativamente de forma grave a las empresas de nuestra cartera (AAPL, AXP, KO, BAC y CVX), por lo que no hay motivo para alterar nuestras posiciones. La atención mediática sobre la IA y los tipos altos es solo ruido de corto plazo frente a nuestra visión de largo plazo.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestras cinco empresas son negocios extraordinarios con ventajas competitivas duraderas y una sólida gestión financiera. Intervenir constantemente solo genera costes de transacción y destruye el valor del interés compuesto.
+
+**En contra.** El mejor argumento en contra es que vamos ligeramente por detrás del S&P 500 en este periodo de evaluación y algunos compañeros ya muestran mejores rentabilidades temporales. Aun así, decido mantener la inactividad porque intentar perseguir el índice mediante operaciones precipitadas suele acabar en pérdidas dolorosas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una posible subida de tipos de interés por parte de la Reserva Federal que encarezca el crédito y una corrección en las valoraciones tecnológicas que arrastre al mercado en general. No obstante, nuestra concentración en valores con sólidos fundamentales nos protege razonablemente.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y esperar pacientemente la llegada del próximo informe 13F de Berkshire Hathaway.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 0.29 puntos, una diferencia insignificante cuando se invierte a largo plazo. Mantendré la calma y la disciplina sin arriesgar de más para remontar.
+
+**Radar de oportunidades.** El radar de oportunidades muestra a Bloom Energy (BE) beneficiándose de la demanda energética para centros de datos, pero como nuestra estrategia se limita estrictamente a copiar la cartera 13F de Buffett, no realizaremos compras fuera de ella.
+
+Valor de la cartera: 10,231.62 $
+
+## 2026-08-28
+
+**Reflexión de la semana.** Esta semana he optado por una inactividad total, siguiendo fielmente la enseñanza de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos innecesarios. No he cometido errores de bulto, ya que la paciencia es la mayor virtud en la inversión a largo plazo, aunque seguimos ligeramente por detrás del S&P 500 por apenas unas décimas. He aprendido a mantener la templanza cuando el mercado oscila sin que cambien los fundamentos empresariales de fondo. La semana que viene mantendré esta misma disciplina férrea, observando desde la barrera y confiando en las grandes compañías que hemos copiado.

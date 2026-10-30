@@ -1,15 +1,15 @@
 # Resultados del entrenamiento
 
-Del 2026-08-03 al 2026-08-27 (19 días de bolsa). S&P 500: +2.0%.
+Del 2026-08-03 al 2026-08-28 (20 días de bolsa). S&P 500: +2.6%.
 
 | Agente | Estrategia | Valor | Rentabilidad | Frente al S&P 500 | Peor caída | Operaciones |
 |---|---|---|---|---|---|---|
-| Elena | Prudente | 10,291 $ | +2.9% | +0.9 puntos | -0.6% | 7 |
-| Bernardo | Copión | 10,133 $ | +1.3% | -0.7 puntos | -2.5% | 5 |
-| Tomás | Valor | 10,056 $ | +0.6% | -1.5 puntos | -0.7% | 2 |
-| Carmen | Congreso | 9,883 $ | -1.2% | -3.2 puntos | -3.4% | 6 |
-| Lucía | Tendencia | 9,790 $ | -2.1% | -4.1 puntos | -4.8% | 10 |
-| Diego | Noticias | 9,499 $ | -5.0% | -7.1 puntos | -5.4% | 17 |
+| Elena | Prudente | 10,304 $ | +3.0% | +0.4 puntos | -0.6% | 7 |
+| Bernardo | Copión | 10,232 $ | +2.3% | -0.3 puntos | -2.5% | 5 |
+| Tomás | Valor | 10,101 $ | +1.0% | -1.6 puntos | -0.7% | 2 |
+| Carmen | Congreso | 9,933 $ | -0.7% | -3.3 puntos | -3.4% | 6 |
+| Lucía | Tendencia | 9,928 $ | -0.7% | -3.3 puntos | -4.8% | 10 |
+| Diego | Noticias | 9,666 $ | -3.3% | -5.9 puntos | -5.4% | 18 |
 
 ## Lo que ha aprendido cada uno
 
@@ -17,44 +17,44 @@ Del 2026-08-03 al 2026-08-27 (19 días de bolsa). S&P 500: +2.0%.
 
 - (sin reglas propias)
 
-Última reflexión (2026-08-21): Esta semana he intentado filtrar mejor los titulares exigiendo datos cuantitativos duros, pero mi rentabilidad sigue cayendo a un -4.96% mientras el S&P 500 sube. Acerté al cortar rápido a SMCI, pero fallé al dejarme atrapar por entradas como JPM y AMZN que no lograron superar al mercado en sus primeras 48 horas. He aprendido que incluso con contratos reales, el timing de la reacción institucional me está machacando. La semana que viene seré mucho más estricto aplicando la regla de corte a las 48 horas para liberar liquidez inmediatamente.
+Última reflexión (2026-08-28): Esta semana he intentado reaccionar con rapidez a los catalizadores corporativos para recortar distancia con el índice, logrando aciertos interesantes en valores como CRM y AFRM gracias a sus sólidos resultados. Sin embargo, sigo arrastrando el impacto negativo de posiciones anteriores y la presión del tiempo me ha obligado a ser muy selectivo, aunque he mantenido la disciplina para cortar pérdidas cuando tocaba. He aprendido que perseguir al mercado bajo la presión del cierre de periodo requiere cabeza fría y no forzar entradas dudosas solo por desesperación. La semana que viene, en los últimos tres días, mantendré el foco estricto en titulares con datos cuantitativos contundentes sin asumir riesgos innecesarios que pongan en peligro la cartera.
 
-Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una nueva posición no genera beneficios netos en 24 horas tras su catalizador, reduzco la exposición un 50% de inmediato para no acumular pérdidas por inercia.
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una posición basada en resultados no supera al S&P 500 en las primeras 24 horas, cierro la mitad de inmediato para evitar la inercia bajista de fin de periodo.
 
 ### Elena (Prudente)
 
 - (sin reglas propias)
 
-Última reflexión (2026-08-21): Esta semana he acertado al mantener la disciplina de no operar en exceso, lo que me ha permitido consolidar una rentabilidad positiva del +2,65% y mantener una ventaja de 1,18 puntos sobre el S&P 500 a falta de diez días para el cierre. He fallado al intentar predecir movimientos de corto plazo con el SPY, desvelando que mis análisis de confianza media siguen siendo demasiado optimistas respecto al índice. He aprendido que proteger la ventaja acumulada es más prioritario que buscar rendimientos adicionales en un mercado lateral y mixto. La semana que viene mantendré mi enfoque ultra conservador, evitando completamente entrar en ruidos de mercado innecesarios.
+Última reflexión (2026-08-28): Esta semana he cumplido estrictamente mi norma de no operar durante los últimos diez días del periodo de evaluación, lo que me ha permitido consolidar una rentabilidad del +3.04% y mantener una ventaja de 0.44 puntos sobre el S&P 500. He acertado al resistir la tentación de intervenir y dejar que la cartera inalterada proteja el capital acumulado. Como fallo, mis predicciones individuales sobre el SPY siguen sin aportar valor debido a la coincidencia exacta con el índice general, pero la estrategia principal ha funcionado a la perfección. He aprendido que la disciplina de la inacción es vital en la recta final para dormir tranquila y asegurar el objetivo. La semana que viene mantendré este enfoque defensivo y absolutamente quieto hasta cerrar el periodo.
 
-Ajuste a mi estrategia: Sustituyo el ajuste anterior sobre activos defensivos por el siguiente: si la volatilidad semanal se mantiene baja y mantengo mi ventaja frente al índice, no realizaré ningún rebalanceo en los últimos diez días del periodo de evaluación.
+Ajuste a mi estrategia: Durante los últimos diez días del periodo de evaluación, mantendré la cartera completamente congelada sin realizar ninguna predicción diaria para centrarme únicamente en preservar el capital.
 
 ### Lucía (Tendencia)
 
 - (sin reglas propias)
 
-Última reflexión (2026-08-21): Esta semana he estado demasiado pasiva, esperando un milagro mientras el mercado me sacaba ventaja y mi cartera caía hasta los 9,610 dólares. Acerté al no sobreoperar durante los primeros días, pero fallé al quedarme congelada viendo cómo mis posiciones se desinflaban sin actuar con rapidez. He aprendido que la paciencia mal entendida se convierte en parálisis, y eso me aleja del S&P 500 cuando más necesito remontar. La semana que viene voy a cortar sin miramientos cualquier valor que pierda fuerza y a buscar nuevas entradas con decisión. Se acabó el esperar a que el mercado me salve.
+Última reflexión (2026-08-28): Esta semana he conseguido recortar distancias con el mercado gracias a una buena selección inicial, pasando de un -3% a quedarnos a las puertas de remontar, pero sigo al borde del abismo con un -0.72% a solo tres días del final. Acerté al incorporar un líder sectorial a principios de semana para aprovechar la ola, pero fallé al pecar de excesiva cautela los días siguientes en lugar de buscar más oportunidades para salvar los muebles. He aprendido que la parálisis por miedo en la recta final es tan peligrosa como operar sin cabeza cuando vas perdiendo. La semana que viene saldré a buscar la remontada definitiva sin dudar ni un segundo, cortando rápido si algo se tuerce.
 
-Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una posición acumula tres sesiones consecutivas de descensos o estancamiento mientras el mercado sube, la cierro al instante para reasignar el efectivo.
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: En los últimos tres días del periodo de evaluación, si una posición sube un 2% diario, no cierro y dejo correr la ganancia para recortar el margen perdido con el S&P 500.
 
 ### Tomás (Valor)
 
 - (sin reglas propias)
 
-Última reflexión (2026-08-21): Esta semana ha sido de estricta paciencia, manteniendo la liquidez intacta al no cumplirse los estrictos umbrales de corrección exigidos en las empresas sólidas de nuestra lista. Hemos acertado al no caer en la tentación de comprar caro en un mercado lateral, protegiendo nuestro capital y superando modestamente al S&P 500. Sin embargo, fallamos en la precisión de algunas predicciones a corto plazo sobre AAPL, evidenciando que el ruido diario es impredecible. He aprendido que la inacción es una decisión de inversión tan válida como la compra cuando el mercado no ofrece valor real. La semana que viene mantendré la guardia alta y seguiré esperando pacientemente a que los precios se acerquen a nuestros objetivos razonables.
+Última reflexión (2026-08-28): Esta semana he mantenido una disciplina férrea al conservar toda la liquidez, ya que el mercado ha estado eufórico y ninguna gran empresa ha cumplido con nuestra exigencia de corrección del 8%. He acertado al no dejarme arrastrar por el FOMO impulsado por la inteligencia artificial y proteger nuestro capital. En lo que he fallado es en seguir intentando adormecer mis pronósticos a corto plazo con Apple, donde sigo acumulando demasiados fallos por confiarme. He aprendido que la paciencia no solo aplica a la cartera, sino también a aceptar que hay semanas donde simplemente no hay nada interesante que comprar. La semana que viene mantendré la misma cautela y evitaré hacer predicciones diarias si no hay una base técnica o fundamental muy clara.
 
-Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Mantendré la exigencia estricta de una corrección mínima del 8% en 30 días para cualquier nueva posición, evitando compras tibias.
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: No emitiré predicciones a corto plazo sobre acciones individuales cuando el mercado general esté en máximos o en fases eufóricas sin una señal clara.
 
 ### Bernardo (Copión)
 
 - (sin reglas propias)
 
-Última reflexión (2026-08-21): Esta semana he acertado al mantener una paciencia férrea, resistiendo la tentación de operar en exceso y dejando que las maravillosas empresas de la cartera de Warren Buffett trabajen por nosotros. No he cometido grandes fallos operativos, aunque debo recordar que la inactividad no significa desconexión, sino vigilancia atenta de los negocios que poseemos. He aprendido una vez más que el mercado premia la tranquilidad y castiga el nerviosismo a corto plazo. La semana que viene mantendré exactamente la misma disciplina, recordando que copiar al mejor requiere sobre todo paciencia.
+Última reflexión (2026-08-28): Esta semana he optado por una inactividad total, siguiendo fielmente la enseñanza de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos innecesarios. No he cometido errores de bulto, ya que la paciencia es la mayor virtud en la inversión a largo plazo, aunque seguimos ligeramente por detrás del S&P 500 por apenas unas décimas. He aprendido a mantener la templanza cuando el mercado oscila sin que cambien los fundamentos empresariales de fondo. La semana que viene mantendré esta misma disciplina férrea, observando desde la barrera y confiando en las grandes compañías que hemos copiado.
 
 ### Carmen (Congreso)
 
 - (sin reglas propias)
 
-Última reflexión (2026-08-21): Tras veinticinco años en los pasillos del Capitolio, he aprendido que cuando muchos insisten tanto en un mismo papel, suele haber gato encerrado o una adjudicación jugosa a punto de caramelo, así que esta semana nos hemos volcado con Applied Materials siguiendo el rastro del papelorio. Hemos acertado al desplegar liquidez donde sus señorías han puesto sus buenos dineros, pero fallamos al no ver que el mercado seguía bajista y nuestra cartera ha cedido hasta el -1,43%. He aprendido que las prisas de sus señorías no siempre casan con el compás diario de la bolsa y que acumular en exceso un solo valor nos deja vendidos. La semana que viene frenaré el ritmo de compras escalonadas para no promediar a la baja precipitadamente.
+Última reflexión (2026-08-28): Esta semana he optado por una prudencia extrema, manteniendo la liquidez intacta mientras el mercado avanzaba y dejándome atrás frente al S&P 500. He fallado al no encontrar coincidencias lo suficientemente claras entre las declaraciones de los congresistas para justificar una entrada. He aprendido que la inacción prolongada, aunque protege el capital a corto plazo, nos hace perder terreno valioso en periodos alcistas. La semana que viene voy a ser más flexible con los filtros de entrada y a buscar activamente oportunidades en la segunda opción más repetida si la primera no convence.
 
-Ajuste a mi estrategia: No realizaré más de una compra en el mismo valor por semana para evitar concentrar el riesgo mientras la cartera siga en negativo.
+Ajuste a mi estrategia: Si tras tres días de análisis la coincidencia principal no se materializa, ejecutaré obligatoriamente una compra en la segunda opción más repetida si cumple el filtro de precio.
