@@ -91,3 +91,26 @@ Valor de la cartera: 10,036.14 $
 **Mi puesto.** Voy ligeramente por detrás del S&P 500 por 1.53 puntos debido al porcentaje de efectivo mantenido, por lo que sigo desplegando capital con paciencia hacia valores seguros sin arriesgar de más.
 
 Valor de la cartera: 10,088.77 $
+
+## 2026-08-06
+
+**Sigo fielmente los pasos de Warren Buffett incorporando CVX (Chevron) a nuestra cartera para desplegar el efectivo disponible y pensar a largo plazo.**
+
+**Mercado.** Los índices principales muestran un tono positivo con avances generalizados en el S&P 500 y QQQ, superando sus medias de 50 días. El apetito por el riesgo sigue dominando gracias a los buenos resultados empresariales, aunque es vital vigilar la inflación en el sector servicios y la estabilidad geopolítica.
+
+**Noticias.** He tenido en cuenta las noticias sobre las tensiones en Oriente Medio que afectan al petróleo y la sólida recomendación de compra de Barclays sobre Occidental Petroleum. Para nuestra estrategia de copia fiel del 13F de Berkshire Hathaway, incorporar Chevron (CVX) nos permite seguir alineados con las convicciones a largo plazo de Buffett en el sector energético.
+
+**A favor.** El mejor argumento a favor de comprar CVX es que Berkshire Hathaway mantiene una posición muy significativa en la compañía y los analistas valoran su sólida generación de caja y su posición defensiva frente a la volatilidad macroeconómica.
+
+**En contra.** El mejor argumento en contra es la volatilidad reciente en el mercado de materias primas y los riesgos geopolíticos en Oriente Medio que afectan al sector energético; sin embargo, decido comprar porque Warren Buffett piensa en décadas y no en los sobresaltos diarios del precio del crudo.
+
+**Operaciones**
+- **Comprar** 10.6183 CVX a 188.35 $ (2,000.00 $). Siguiendo fielmente la cartera del 13F de Berkshire Hathaway, incorporo Chevron como una de las apuestas principales de Buffett en el sector energético.
+
+**Riesgos.** Los riesgos principales para la cartera son la persistencia de la inflación y la concentración en pocos valores mientras terminamos de replicar todas las posiciones principales del 13F.
+
+**Plan.** Mi plan para los próximos días es seguir desplegando gradualmente el efectivo restante hacia las siguientes convicciones del 13F de Berkshire Hathaway, manteniendo una disciplina férrea y vigilando los stops.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 1.06 puntos tras tres días de evaluación, pero mantengo la sangre fría y sigo estrictamente mi estrategia de copia sin arriesgar de más.
+
+Valor de la cartera: 10,092.10 $
