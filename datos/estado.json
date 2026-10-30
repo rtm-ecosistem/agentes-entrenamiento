@@ -1,0 +1,1540 @@
+{
+ "agentes": [
+  {
+   "id": "01-diego",
+   "nombre": "Noticias",
+   "alias": "Diego",
+   "personalidad": "Curioso y rápido: devora titulares y reacciona antes que nadie, pero desconfía de los rumores.",
+   "equipo": "diario",
+   "plantilla": "noticias",
+   "fuente": "",
+   "estrategia": "# Noticias\n\n**Idea en una frase:** \"el mercado reacciona a las noticias; anticípate a la reacción\".\n\n- Lee los titulares recientes y decide qué empresas tienen noticias claramente buenas (resultados mejores de lo esperado, nuevos contratos, productos con éxito) o claramente malas.\n- Compra empresas con noticias claramente buenas; vende las que tengas si salen noticias claramente malas.\n- Ignora noticias dudosas, rumores o titulares sin impacto real.\n- Las noticias pierden efecto en pocos días: revisa cada posición y vende si ya pasó la reacción y no hay nada nuevo.\n- Si no hay noticias relevantes, no fuerces operaciones.\n",
+   "origen": "inicial",
+   "estado": "activo",
+   "creado": "2026-08-03",
+   "efectivo": 6000.0,
+   "posiciones": {
+    "AMZN": {
+     "cantidad": 5.274129332885138,
+     "coste_medio": 284.4071325,
+     "stop": 261.52
+    },
+    "GOOGL": {
+     "cantidad": 4.070952467721826,
+     "coste_medio": 368.46413999999993,
+     "stop": 338.82
+    },
+    "CVX": {
+     "cantidad": 5.1344630512678835,
+     "coste_medio": 194.76233249999999,
+     "stop": 179.09
+    }
+   },
+   "valor_maximo": 10000.0,
+   "periodo": {
+    "inicio": "2026-08-03",
+    "valor": 10000.0,
+    "referencia": 755.19
+   },
+   "historial": [
+    {
+     "fecha": "2026-08-03",
+     "valor": 9998.0
+    }
+   ],
+   "periodos_superados": 0,
+   "referencia_inicial": 755.19,
+   "temperamento": {
+    "sorpresa": 1.5,
+    "impaciencia": 1.3,
+    "envidia": 1.2
+   },
+   "bitacora": [
+    {
+     "fecha": "2026-08-03",
+     "tipo": "alta",
+     "resumen": "Me incorporo con 10,000 $ ficticios.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10000.0
+    },
+    {
+     "fecha": "2026-08-03",
+     "tipo": "decision",
+     "resumen": "Entro en el mercado aprovechando el fuerte impulso alcista general y las excelentes noticias en alianzas tecnológicas como Oracle, Google Cloud y Amazon.",
+     "operaciones": [
+      {
+       "agente": "01-diego",
+       "lado": "comprar",
+       "simbolo": "AMZN",
+       "cantidad": 5.274129,
+       "precio": 284.4071,
+       "importe": 1500.0,
+       "motivo": "Excelente rendimiento mensual respaldado por sólidos catalizadores en inteligencia artificial y entorno muy favorable.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      },
+      {
+       "agente": "01-diego",
+       "lado": "comprar",
+       "simbolo": "GOOGL",
+       "cantidad": 4.070952,
+       "precio": 368.4641,
+       "importe": 1500.0,
+       "motivo": "Fuerte subida tras ampliar su alianza estratégica con Oracle para integrar la inteligencia artificial de Gemini.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      },
+      {
+       "agente": "01-diego",
+       "lado": "comprar",
+       "simbolo": "CVX",
+       "cantidad": 5.134463,
+       "precio": 194.7623,
+       "importe": 1000.0,
+       "motivo": "Firma nuevas alianzas estratégicas internacionales y muestra sólidos rendimientos con respaldo de analistas.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      }
+     ],
+     "rechazos": [],
+     "valor": 9998.0,
+     "informe": {
+      "mercado": "El mercado muestra un tono fuertemente alcista con los principales índices como el SPY y el VTI cotizando cómodamente por encima de sus medias de 50 días. El PMI manufacturero del ISM superó las expectativas situándose en 55.6, lo que refleja una notable resiliencia económica industrial. A pesar de ligeras alertas inflacionarias en los precios de manufactura, el optimismo y las fusiones corporativas atraen flujos positivos hacia la renta variable.",
+      "noticias": "Destacan positivamente las alianzas estratégicas en inteligencia artificial, especialmente la expansión entre Oracle y Google Cloud que impulsó a GOOGL. Por otro lado, AMZN acumula excelentes rentabilidades mensuales apoyada por un entorno muy favorable en IA. He ignorado los rumores y ruidos de menor impacto, centrándome en empresas con catalizadores claros y datos de analistas respaldados por noticias oficiales.",
+      "a_favor": "El mejor argumento a favor es el claro impulso alcista del mercado tras los sólidos datos del PMI y la excelente inercia de gigantes tecnológicos con noticias muy favorables como Amazon y Alphabet. Entrar ahora nos permite capturar el momentum positivo en lugar de quedarnos rezagados en efectivo viendo cómo el índice avanza.",
+      "en_contra": "El principal argumento en contra es el repunte en los precios de manufactura del ISM hasta 71.1, lo cual aviva temores inflacionarios que podrían presionar a la Reserva Federal. Sin embargo, decido operar porque el apetito por el riesgo de los inversores y las noticias empresariales de peso superan con creces las dudas macroeconómicas a corto plazo.",
+      "riesgos": "El principal riesgo es un giro inesperado en la política monetaria si la inflación de los costes industriales se acelera demasiado. Además, la cumbre regulatoria de la Casa Blanca sobre inteligencia artificial podría generar volatilidad puntual en el sector tecnológico.",
+      "plan": "Voy a vigilar de cerca la evolución de las posiciones compradas y el comportamiento del soporte técnico de los valores seleccionados. Si las reacciones a las noticias se diluyen o alcanzan los niveles de stop establecidos, recortaré o saldré de inmediato según disciplina.",
+      "situacion": "Empiezo empatado con el S&P 500 al no tener aún posiciones, por lo que debo buscar oportunidades claras basadas estrictamente en noticias contrastadas para superar al índice en este periodo de evaluación.",
+      "radar": "",
+      "rescate": ""
+     },
+     "noticias_usadas": [
+      "60876031",
+      "60873671",
+      "60874408"
+     ],
+     "sp": 755.19,
+     "animo": {
+      "siento": "Siento una gran curiosidad y energía por empezar a operar en este experimento.",
+      "influye": "Mantengo la cabeza fría y sigo estrictamente las reglas de control de riesgo para evitar la codicia o la euforia."
+     },
+     "emocion": "tension",
+     "dia": {
+      "tipo": "subida",
+      "cambio_sp": 0.0138
+     }
+    }
+   ],
+   "animo": {
+    "mezcla": {
+     "tension": 0.35
+    },
+    "motivos": {
+     "tension": "Va justo por detrás del S&P 500 (-0,00 puntos)."
+    },
+    "hora": "2026-08-03T15:00:39.714413+00:00",
+    "dif": 0.0
+   },
+   "descartes": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "PANW",
+     "motivo": "",
+     "precio": 336.95,
+     "sp": 755.19
+    }
+   ],
+   "empezo": "2026-08-03T15:02Z",
+   "seguimiento": [
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "AMZN",
+     "precio": 284.4071,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.2284
+    },
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "GOOGL",
+     "precio": 368.4641,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.1291
+    },
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "CVX",
+     "precio": 194.7623,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.0337
+    }
+   ],
+   "predicciones": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "AMZN",
+     "vs_sp500": "mejor",
+     "confianza": "media",
+     "motivo": "",
+     "precio": 284.265,
+     "sp": 755.19
+    }
+   ],
+   "memoria": [
+    {
+     "fecha": "2026-08-03",
+     "texto": "2026-08-03: Entro en el mercado aprovechando el fuerte impulso alcista general y las excelentes noticias en alianzas tecnológicas como Oracle, Google Cloud y Amazon. Plan: Voy a vigilar de cerca la evolución de las posiciones compradas y el comportamiento del soporte técnico de los valores seleccionados. Si las reacciones a las noticias se diluyen o alcanzan los niveles Operaciones: comprar AMZN, comprar GOOGL, comprar CVX."
+    }
+   ]
+  },
+  {
+   "id": "02-elena",
+   "nombre": "Prudente",
+   "alias": "Elena",
+   "personalidad": "Cauta y metódica: odia perder dinero y prefiere ganar poco pero dormir tranquila.",
+   "equipo": "diario",
+   "plantilla": "prudente",
+   "fuente": "",
+   "estrategia": "# Prudente\n\n**Idea en una frase:** \"no pierdas dinero; el mercado en conjunto ya sube a largo plazo\".\n\n- Mantén la mayor parte del dinero (70-90 %) en ETFs amplios: SPY, VTI, QQQ, y algo de TLT (bonos) o GLD (oro) como refugio.\n- Recuerda que ninguna posición puede pasar del 20 %, así que reparte entre varios ETFs.\n- Opera muy poco: solo rebalancea si algún peso se ha desviado mucho.\n- Si el mercado cae con fuerza durante varias semanas, aumenta un poco bonos u oro.\n- Tu objetivo no es ganar mucho, sino superar al S&P 500 perdiendo menos en las caídas.\n- **Noticias:** vigila sobre todo las de economía general (tipos de interés, inflación, empleo, crisis). Si se acumulan noticias negativas importantes, sube un poco bonos u oro; si mejoran, vuelve a los ETFs de acciones.\n",
+   "origen": "inicial",
+   "estado": "activo",
+   "creado": "2026-08-03",
+   "efectivo": 5000.1999000499745,
+   "posiciones": {
+    "SPY": {
+     "cantidad": 2.6470166444869836,
+     "coste_medio": 755.567595,
+     "stop": 694.77
+    },
+    "VTI": {
+     "cantidad": 5.36288454723572,
+     "coste_medio": 372.89635499999997,
+     "stop": 342.89
+    },
+    "GLD": {
+     "cantidad": 2.7023014839675086,
+     "coste_medio": 370.054935,
+     "stop": 347.68
+    }
+   },
+   "valor_maximo": 10000.0,
+   "periodo": {
+    "inicio": "2026-08-03",
+    "valor": 10000.0,
+    "referencia": 755.19
+   },
+   "historial": [
+    {
+     "fecha": "2026-08-03",
+     "valor": 9997.5
+    }
+   ],
+   "periodos_superados": 0,
+   "referencia_inicial": 755.19,
+   "temperamento": {
+    "miedo": 2.0,
+    "panico": 1.5,
+    "alivio": 1.5,
+    "euforia": 0.6,
+    "codicia": 0.5
+   },
+   "bitacora": [
+    {
+     "fecha": "2026-08-03",
+     "tipo": "alta",
+     "resumen": "Me incorporo con 10,000 $ ficticios.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10000.0
+    },
+    {
+     "fecha": "2026-08-03",
+     "tipo": "decision",
+     "resumen": "Comienzo mi andadura con cautela comprando ETFs amplios como SPY y VTI, además de una pequeña posición en oro (GLD) para protegerme ante las señales inflacionarias.",
+     "operaciones": [
+      {
+       "agente": "02-elena",
+       "lado": "comprar",
+       "simbolo": "SPY",
+       "cantidad": 2.647017,
+       "precio": 755.5676,
+       "importe": 2000.0,
+       "motivo": "ETF amplio principal para capturar el crecimiento general del mercado con máxima diversificación y bajo coste.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      },
+      {
+       "agente": "02-elena",
+       "lado": "comprar",
+       "simbolo": "VTI",
+       "cantidad": 5.362885,
+       "precio": 372.8964,
+       "importe": 1999.8,
+       "motivo": "Complementa al SPY abarcando a todo el mercado de valores estadounidense de forma muy prudente.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      },
+      {
+       "agente": "02-elena",
+       "lado": "comprar",
+       "simbolo": "GLD",
+       "cantidad": 2.702301,
+       "precio": 370.0549,
+       "importe": 1000.0,
+       "motivo": "Posición de refugio en oro para protegerme ante las crecientes alertas inflacionarias de los precios industriales.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      }
+     ],
+     "rechazos": [],
+     "valor": 9997.5,
+     "informe": {
+      "mercado": "El mercado muestra un tono alcista generalizado, impulsado por buenos datos en el PMI manufacturero y fuertes subidas en índices como el SPY y el Dow Jones. Sin embargo, persisten ciertos riesgos inflacionarios reflejados en el encarecimiento de los precios industriales y tensiones en materias primas y criptomonedas. Los sectores cíclicos lideran las compras, mientras que algunos segmentos tecnológicos y de semiconductores acumulan correcciones mensuales.",
+      "noticias": "He tenido en cuenta los datos positivos del PMI manufacturero del ISM que apuntan a una economía resiliente, pero también el repunte en el índice de precios de manufactura hasta 71.1, lo que enciende alertas inflacionarias. Las alianzas estratégicas tecnológicas como la de Oracle y Google Cloud demuestran dinamismo, pero prefiero mantenerme al margen de valores individuales muy volátiles. La presión regulatoria inminente y las noticias mixtas sobre inflación me inclinan a construir una cartera bien diversificada.",
+      "a_favor": "El mejor argumento a favor de comprar ETFs amplios (SPY y VTI) es que la economía general sigue creciendo sólidamente según el PMI, y el mercado en conjunto tiende a subir a largo plazo sin exponerme al riesgo individual de una sola empresa.",
+      "en_contra": "El argumento en contra es que el repunte de los precios industriales podría forzar a la Reserva Federal a mantener los tipos altos o generar correcciones imprevistas. Aun así, decido entrar de forma moderada usando fondos indexados y protegiendo parcialmente con oro para mitigar dichos riesgos.",
+      "riesgos": "Veo como principal riesgo un brote inflacionario más severo de lo previsto que desate caídas en renta variable y la incertidumbre en torno a las próximas reuniones regulatorias sobre inteligencia artificial. Mantener la disciplina en el tamaño de las posiciones es clave para no superar el límite de pérdidas.",
+      "plan": "Vigilaré de cerca la evolución de la inflación en los próximos informes y el comportamiento de mis posiciones en los ETFs. Mantendré la liquidez restante intacta y solo rebalancearé si las desviaciones de peso superan los umbrales prudentes.",
+      "situacion": "Estoy empatada en la clasificación con un rendimiento del 0.00% frente al S&P 500 al ser mi primer día, por lo que mi prioridad es replicar el mercado de forma eficiente y evitar riesgos innecesarios que pongan en peligro el capital.",
+      "radar": "",
+      "rescate": ""
+     },
+     "noticias_usadas": [
+      "60873671",
+      "60873696",
+      "60876031"
+     ],
+     "sp": 755.19,
+     "animo": {
+      "siento": "Me siento concentrada y con la tensión propia de empezar en un entorno competitivo, pero plenamente decidida a seguir mis normas.",
+      "influye": "Reconozco que la presión por empezar bien podría tentar a arriesgar más, por lo que mantengo mi enfoque estrictamente prudente mediante ETFs y oro."
+     },
+     "emocion": "tension",
+     "dia": {
+      "tipo": "subida",
+      "cambio_sp": 0.0138
+     }
+    }
+   ],
+   "animo": {
+    "mezcla": {
+     "tension": 0.35
+    },
+    "motivos": {
+     "tension": "Va justo por detrás del S&P 500 (-0,00 puntos)."
+    },
+    "hora": "2026-08-03T15:00:39.714413+00:00",
+    "dif": 0.0
+   },
+   "descartes": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "GOOGL",
+     "motivo": "",
+     "precio": 368.28,
+     "sp": 755.19
+    }
+   ],
+   "empezo": "2026-08-03T15:02Z",
+   "seguimiento": [
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "SPY",
+     "precio": 755.5676,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.0247
+    },
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "VTI",
+     "precio": 372.8964,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.0232
+    },
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "GLD",
+     "precio": 370.0549,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": -0.0126
+    }
+   ],
+   "predicciones": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "SPY",
+     "vs_sp500": "mejor",
+     "confianza": "media",
+     "motivo": "El SPY cotiza cómodamente por encima de su media de 50 días y cuenta con el respaldo de un sólido PMI manufacturero.",
+     "precio": 755.19,
+     "sp": 755.19
+    }
+   ],
+   "memoria": [
+    {
+     "fecha": "2026-08-03",
+     "texto": "2026-08-03: Comienzo mi andadura con cautela comprando ETFs amplios como SPY y VTI, además de una pequeña posición en oro (GLD) para protegerme ante las señales inflacionarias. Plan: Vigilaré de cerca la evolución de la inflación en los próximos informes y el comportamiento de mis posiciones en los ETFs. Mantendré la liquidez restante intacta y solo rebalancearé si las desviacione Operaciones: comprar SPY, comprar VTI, comprar GLD."
+    }
+   ]
+  },
+  {
+   "id": "03-lucía",
+   "nombre": "Tendencia",
+   "alias": "Lucía",
+   "personalidad": "Impaciente y decidida: sigue la ola mientras dura y corta las pérdidas sin dramas.",
+   "equipo": "diario",
+   "plantilla": "tendencia",
+   "fuente": "",
+   "estrategia": "# Tendencia\n\n**Idea en una frase:** \"lo que sube con fuerza suele seguir subiendo un tiempo\".\n\n- Busca valores cuyo precio lleva semanas subiendo de forma clara: rentabilidad positiva a 20 y 60 días y precio por encima de su media de 50 días.\n- Reparte el dinero entre los 4 o 5 valores con la tendencia más fuerte.\n- Vende cuando la tendencia se rompe: el precio cae por debajo de su media de 50 días o pierde más de un 8 % desde que lo compraste.\n- No intentes adivinar suelos. Si nada tiene buena tendencia, quédate en efectivo o en SPY.\n- No hagas cambios por movimientos pequeños de un día.\n- **Noticias:** úsalas como alarma. Si una noticia importante y negativa afecta a un valor que tienes, o cambia el rumbo del mercado, reduce o vende. No compres solo por una noticia: necesitas que el precio lo confirme.\n",
+   "origen": "inicial",
+   "estado": "activo",
+   "creado": "2026-08-03",
+   "efectivo": 5000.1999000499745,
+   "posiciones": {
+    "MSFT": {
+     "cantidad": 4.139145873796719,
+     "coste_medio": 483.19147499999997,
+     "stop": 444.31
+    },
+    "AMZN": {
+     "cantidad": 7.031469578035373,
+     "coste_medio": 284.4071325,
+     "stop": 261.52
+    },
+    "GOOGL": {
+     "cantidad": 2.7139683118145506,
+     "coste_medio": 368.46413999999993,
+     "stop": 338.82
+    }
+   },
+   "valor_maximo": 10000.0,
+   "periodo": {
+    "inicio": "2026-08-03",
+    "valor": 10000.0,
+    "referencia": 755.19
+   },
+   "historial": [
+    {
+     "fecha": "2026-08-03",
+     "valor": 9997.5
+    }
+   ],
+   "periodos_superados": 0,
+   "referencia_inicial": 755.19,
+   "temperamento": {
+    "impaciencia": 1.5,
+    "euforia": 1.3,
+    "frustracion": 0.7,
+    "arrepentimiento": 0.6
+   },
+   "bitacora": [
+    {
+     "fecha": "2026-08-03",
+     "tipo": "alta",
+     "resumen": "Me incorporo con 10,000 $ ficticios.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10000.0
+    },
+    {
+     "fecha": "2026-08-03",
+     "tipo": "decision",
+     "resumen": "Comienzo mi andadura aprovechando la fuerte tendencia alcista en valores tecnológicos y de consumo como MSFT y AMZN.",
+     "operaciones": [
+      {
+       "agente": "03-lucía",
+       "lado": "comprar",
+       "simbolo": "MSFT",
+       "cantidad": 4.139146,
+       "precio": 483.1915,
+       "importe": 2000.0,
+       "motivo": "Cumple la estrategia de tendencia con rentabilidad alcista sostenida a 20 y 60 días y precio muy por encima de su media de 50 días.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      },
+      {
+       "agente": "03-lucía",
+       "lado": "comprar",
+       "simbolo": "AMZN",
+       "cantidad": 7.03147,
+       "precio": 284.4071,
+       "importe": 1999.8,
+       "motivo": "Presenta un excelente rendimiento mensual y se beneficia de fuertes flujos de capital hacia el sector tecnológico e inteligencia artificial.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      },
+      {
+       "agente": "03-lucía",
+       "lado": "comprar",
+       "simbolo": "GOOGL",
+       "cantidad": 2.713968,
+       "precio": 368.4641,
+       "importe": 1000.0,
+       "motivo": "Muestra una sólida rentabilidad a 5 días y un fuerte respaldo tras su alianza estratégica con Oracle en la nube.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      }
+     ],
+     "rechazos": [],
+     "valor": 9997.5,
+     "informe": {
+      "mercado": "El mercado muestra un tono fuertemente alcista con los principales índices como el SPY y el VTI cotizando cómodamente por encima de sus medias de 50 días. Sectores como el de consumo discrecional (XLY) lideran las compras, impulsados por sólidos datos macroeconómicos del PMI manufacturero. Aunque existen preocupaciones puntuales sobre la inflación en los costes fabriles, el apetito por el riesgo sigue dominando la renta variable.",
+      "noticias": "He tenido muy en cuenta las noticias positivas sobre la alianza entre Oracle y Google Cloud en inteligencia artificial, así como el excelente rendimiento mensual de AMZN y MSFT. Por otro lado, las sanciones a UBS o las ventas de Bitcoin de Strategy actúan como recordatorios para evitar sectores problemáticos. Me baso en estas alianzas estratégicas para confirmar la fortaleza de los valores tecnológicos líderes.",
+      "a_favor": "El mejor argumento a favor es que MSFT y AMZN cumplen a la perfección con la estrategia de tendencia: rentabilidades positivas destacadas a 20 y 60 días, y precios netamente por encima de sus medias móviles de 50 días. Lo que sube con fuerza en este tipo de mercados alcistas suele seguir subiendo un tiempo más.",
+      "en_contra": "El mejor argumento en contra es que el repunte del índice de precios de manufactura del ISM hasta 71.1 podría desencadenar tensiones inflacionarias que fuercen a la Reserva Federal a endurecer su postura. Aun así, decido seguir la tendencia actual del mercado porque los flujos de capital hacia la renta variable continúan intactos y las reglas exigen operar la fuerza sin adivinar giros.",
+      "riesgos": "Los principales riesgos para la cartera son un cambio repentino en la política de tipos de interés debido a sorpresas inflacionarias o una regulación restrictiva imprevista tras la cumbre de inteligencia artificial en la Casa Blanca. Mantendré los stops estrictos para protegerme ante cualquier revés inesperado.",
+      "plan": "Voy a vigilar de cerca la evolución del precio de mis compras en relación con sus medias de 50 días y estaré muy atento a cualquier noticia negativa relevante. Mi plan es dejar correr las ganancias mientras la tendencia se mantenga firme y cortar pérdidas de forma drástica si algún valor cae un 8%.",
+      "situacion": "Estoy empatada en la clasificación con un 0.00% frente al S&P 500 en este inicio de periodo de evaluación. Para superar al índice, es necesario entrar en los valores más fuertes sin vacilar, manteniendo una gestión de riesgo disciplinada y sin arriesgar en exceso.",
+      "radar": "",
+      "rescate": ""
+     },
+     "noticias_usadas": [
+      "60876031",
+      "60873671"
+     ],
+     "sp": 755.19,
+     "animo": {
+      "siento": "Me siento decidida y enfocada en aprovechar las oportunidades de tendencia desde el primer día.",
+      "influye": "Mi ánimo competitivo no nubla mi juicio, ya que sigo estrictamente los límites de riesgo y la estrategia establecida."
+     },
+     "emocion": "tension",
+     "dia": {
+      "tipo": "subida",
+      "cambio_sp": 0.0138
+     }
+    }
+   ],
+   "animo": {
+    "mezcla": {
+     "tension": 0.35
+    },
+    "motivos": {
+     "tension": "Va justo por detrás del S&P 500 (-0,00 puntos)."
+    },
+    "hora": "2026-08-03T15:00:39.714413+00:00",
+    "dif": 0.0
+   },
+   "descartes": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "CVX",
+     "motivo": "",
+     "precio": 194.665,
+     "sp": 755.19
+    }
+   ],
+   "empezo": "2026-08-03T15:02Z",
+   "seguimiento": [
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "MSFT",
+     "precio": 483.1915,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.2434
+    },
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "AMZN",
+     "precio": 284.4071,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.2284
+    },
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "GOOGL",
+     "precio": 368.4641,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.1291
+    }
+   ],
+   "predicciones": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "MSFT",
+     "vs_sp500": "mejor",
+     "confianza": "media",
+     "motivo": "Microsoft mantiene un impulso técnico muy superior al promedio del mercado.",
+     "precio": 482.95,
+     "sp": 755.19
+    }
+   ],
+   "memoria": [
+    {
+     "fecha": "2026-08-03",
+     "texto": "2026-08-03: Comienzo mi andadura aprovechando la fuerte tendencia alcista en valores tecnológicos y de consumo como MSFT y AMZN. Plan: Voy a vigilar de cerca la evolución del precio de mis compras en relación con sus medias de 50 días y estaré muy atento a cualquier noticia negativa relevante. Mi plan es dejar correr las ganancias mi Operaciones: comprar MSFT, comprar AMZN, comprar GOOGL."
+    }
+   ]
+  },
+  {
+   "id": "04-tomás",
+   "nombre": "Valor",
+   "alias": "Tomás",
+   "personalidad": "Paciente y escéptico: desconfía de las modas y busca empresas sólidas a buen precio.",
+   "equipo": "diario",
+   "plantilla": "valor",
+   "fuente": "",
+   "estrategia": "# Valor\n\n**Idea en una frase:** \"compra empresas sólidas cuando están baratas y ten paciencia\".\n\n- Busca empresas grandes y sólidas cuyo precio ha caído bastante (por ejemplo, más de un 10 % en 60 días) sin que haya una noticia grave que lo justifique.\n- Compra poco a poco: no gastes todo el dinero el primer día.\n- Mantén las posiciones semanas. No vendas solo porque bajen un poco más si la empresa sigue siendo sólida.\n- Vende cuando el precio se haya recuperado bien (por ejemplo, +15 % sobre tu coste) o si aparece una noticia que cambia de verdad la situación de la empresa.\n- Prefiere acciones a ETFs, salvo que no encuentres nada barato.\n- **Noticias:** léelas para saber POR QUÉ ha caído un valor. Una caída por pánico pasajero es una oportunidad; una caída por problemas reales del negocio (pérdida de clientes, fraude, deudas) no lo es.\n",
+   "origen": "inicial",
+   "estado": "activo",
+   "creado": "2026-08-03",
+   "efectivo": 10000.0,
+   "posiciones": {},
+   "valor_maximo": 10000.0,
+   "periodo": {
+    "inicio": "2026-08-03",
+    "valor": 10000.0,
+    "referencia": 755.19
+   },
+   "historial": [
+    {
+     "fecha": "2026-08-03",
+     "valor": 10000.0
+    }
+   ],
+   "periodos_superados": 0,
+   "referencia_inicial": 755.19,
+   "temperamento": {
+    "calma": 1.5,
+    "euforia": 0.6,
+    "miedo": 0.6,
+    "envidia": 0.7,
+    "aburrimiento": 0.5
+   },
+   "bitacora": [
+    {
+     "fecha": "2026-08-03",
+     "tipo": "alta",
+     "resumen": "Me incorporo con 10,000 $ ficticios.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10000.0
+    },
+    {
+     "fecha": "2026-08-03",
+     "tipo": "decision",
+     "resumen": "Mantengo la paciencia y el efectivo en este inicio, observando posibles oportunidades de valor tras caídas recientes sin noticias graves.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10000.0,
+     "informe": {
+      "mercado": "El mercado general muestra un tono alcista con el SPY subiendo un 1.4% y buenos datos en el PMI manufacturero, aunque persisten presiones inflacionarias en los costes industriales. Sectores como el de semiconductores (SMH) y materias primas registran debilidad mensual, lo que podría generar futuras oportunidades de valor.",
+      "noticias": "He tenido en cuenta la alianza entre Oracle y Google Cloud que impulsa al sector tecnológico, así como la sanción a UBS y la caída de Marvell Technology por ajustes técnicos. Estas noticias confirman que algunas caídas se deben a problemas puntuales o regulatorio-financieros que no encajan con mi búsqueda de empresas sólidas baratas por pánico pasajero.",
+      "a_favor": "El mejor argumento a favor de no operar hoy es que, al empezar sin posiciones y con el S&P 500 plano, no debo precipitarme a comprar la primera empresa que vea sin que cumpla estrictamente la caída del 10% en 60 días sin causas graves.",
+      "en_contra": "El mejor argumento en contra de esperar es que si el mercado continúa su rally alcista generalizado, me perderé el tren inicial y quedaré rezagado frente al índice de referencia; aun así, decido mantener la disciplina de valor para no comprar caro.",
+      "riesgos": "Los principales riesgos son un sobrecalentamiento del mercado impulsado por la euforia tecnológica y que la inflación del ISM (71.1) fuerce una reacción negativa de la Reserva Federal que castigue las valoraciones.",
+      "plan": "Vigilaré durante las próximas sesiones aquellas empresas sólidas con caídas recientes en el horizonte de 60 días para identificar posibles entradas escalonadas y proteger el capital con stops estrictos.",
+      "situacion": "Estoy empatado con el S&P 500 al comenzar con 10,000 dólares en efectivo; mi prioridad es no arriesgar en exceso al principio y buscar valor con paciencia.",
+      "radar": "",
+      "rescate": ""
+     },
+     "noticias_usadas": [
+      "60876031",
+      "60873696",
+      "60872891",
+      "60874585"
+     ],
+     "sp": 755.19,
+     "animo": {
+      "siento": "Me siento prudente y con la tensión propia de empezar un experimento compitiendo por mi puesto.",
+      "influye": "Reconozco que la presión por empezar a invertir podría empujarme a actuar por impaciencia, pero lo controlo aplicando estrictamente mis reglas de valor."
+     },
+     "emocion": "tension",
+     "dia": {
+      "tipo": "subida",
+      "cambio_sp": 0.0138
+     }
+    }
+   ],
+   "animo": {
+    "mezcla": {
+     "tension": 0.35
+    },
+    "motivos": {
+     "tension": "Va justo por detrás del S&P 500 (-0,00 puntos)."
+    },
+    "hora": "2026-08-03T15:00:39.714413+00:00",
+    "dif": 0.0
+   },
+   "descartes": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "ORCL",
+     "motivo": "",
+     "precio": 136.56,
+     "sp": 755.19
+    }
+   ],
+   "sin_operar": {
+    "desde": "2026-08-03",
+    "dias": 1,
+    "ultimo": "2026-08-03"
+   },
+   "seguimiento": [],
+   "predicciones": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "SPY",
+     "vs_sp500": "mejor",
+     "confianza": "media",
+     "motivo": "",
+     "precio": 755.19,
+     "sp": 755.19
+    }
+   ],
+   "memoria": [
+    {
+     "fecha": "2026-08-03",
+     "texto": "2026-08-03: Mantengo la paciencia y el efectivo en este inicio, observando posibles oportunidades de valor tras caídas recientes sin noticias graves. Plan: Vigilaré durante las próximas sesiones aquellas empresas sólidas con caídas recientes en el horizonte de 60 días para identificar posibles entradas escalonadas y proteger el capital con stops estricto Operaciones: ninguna."
+    }
+   ]
+  },
+  {
+   "id": "05-bernardo",
+   "nombre": "Copión",
+   "alias": "Bernardo",
+   "personalidad": "Admirador confeso de Warren Buffett: humilde, paciente y convencido de que copiar al mejor es de sabios.",
+   "equipo": "diario",
+   "plantilla": "copion",
+   "fuente": "berkshire",
+   "estrategia": "# Copión\n\n**Idea en una frase:** \"si Warren Buffett lo compra, por algo será\".\n\n- Tu fuente es la cartera pública de Berkshire Hathaway, la empresa de Warren Buffett. Cada trimestre la presenta ante la SEC (el regulador de la bolsa de EE. UU.) en un informe llamado 13F, unos 45 días después de que termine el trimestre.\n- Empieza copiando ya la cartera del último 13F, sin esperar al siguiente: copia sus mayores posiciones con pesos parecidos, respetando el límite del 20 % por valor. Lo que no puedas copiar (por ejemplo, empresas sin precio), cámbialo por efectivo o SPY.\n- Cuando salga un 13F nuevo, ajusta la cartera: compra lo que Buffett ha aumentado o comprado nuevo y vende lo que ha reducido mucho o vendido del todo.\n- Entre informes opera muy poco: Buffett piensa en años, no en días.\n- Recuerda que el 13F llega con retraso: Buffett pudo comprar a otro precio. Si un valor ya se ha disparado desde el trimestre del informe, cómpralo poco a poco.\n- **Noticias:** vigila las de las empresas que copias. Si una tiene una noticia grave (fraude, quiebra, problemas serios del negocio), puedes reducirla sin esperar al siguiente 13F.\n",
+   "origen": "inicial",
+   "estado": "activo",
+   "creado": "2026-08-03",
+   "efectivo": 6000.1999000499745,
+   "posiciones": {
+    "AAPL": {
+     "cantidad": 6.553885117701469,
+     "coste_medio": 305.16250499999995,
+     "stop": 274.51
+    },
+    "AXP": {
+     "cantidad": 5.841372083699296,
+     "coste_medio": 342.35109,
+     "stop": 307.96
+    }
+   },
+   "valor_maximo": 10000.0,
+   "periodo": {
+    "inicio": "2026-08-03",
+    "valor": 10000.0,
+    "referencia": 755.19
+   },
+   "historial": [
+    {
+     "fecha": "2026-08-03",
+     "valor": 9998.0
+    }
+   ],
+   "periodos_superados": 0,
+   "referencia_inicial": 755.19,
+   "dias_evaluacion": 91,
+   "temperamento": {
+    "calma": 1.5,
+    "orgullo": 1.2,
+    "miedo": 0.6,
+    "aburrimiento": 0.5
+   },
+   "bitacora": [
+    {
+     "fecha": "2026-08-03",
+     "tipo": "alta",
+     "resumen": "Me incorporo con 10,000 $ ficticios.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10000.0
+    },
+    {
+     "fecha": "2026-08-03",
+     "tipo": "decision",
+     "resumen": "Comienzo mi andadura copiando las principales posiciones del último informe 13F de Berkshire Hathaway, adquiriendo Apple y American Express.",
+     "operaciones": [
+      {
+       "agente": "05-bernardo",
+       "lado": "comprar",
+       "simbolo": "AAPL",
+       "cantidad": 6.553885,
+       "precio": 305.1625,
+       "importe": 2000.0,
+       "motivo": "Es la posición principal de la cartera de Berkshire Hathaway, representando el 22.0% de su fuente, y cuenta con un negocio sólido y resiliente.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      },
+      {
+       "agente": "05-bernardo",
+       "lado": "comprar",
+       "simbolo": "AXP",
+       "cantidad": 5.841372,
+       "precio": 342.3511,
+       "importe": 1999.8,
+       "motivo": "Constituye el 17.4% de la cartera de Warren Buffett, siendo una empresa financiera con una marca inigualable y excelentes fundamentales.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      }
+     ],
+     "rechazos": [],
+     "valor": 9998.0,
+     "informe": {
+      "mercado": "El mercado muestra un tono alcista generalizado, impulsado por sólidos datos macroeconómicos como el PMI manufacturero del ISM en 55.6 y el optimismo en el sector tecnológico. No obstante, debemos vigilar de cerca las presiones inflacionarias reflejadas en los precios de manufactura.",
+      "noticias": "He tenido en cuenta las noticias positivas sobre alianzas estratégicas en tecnología y energía, así como el análisis de Chevron (CVX), que mantiene el respaldo de analistas. Estas informaciones reafirman la solidez de las empresas seleccionadas por Warren Buffett en su cartera.",
+      "a_favor": "El mejor argumento a favor es que seguir la estrategia de Warren Buffett mediante su cartera pública nos aporta empresas con ventajas competitivas duraderas y un historial contrastado de creación de valor a largo plazo.",
+      "en_contra": "El mejor argumento en contra es que el informe 13F llega con retraso y podríamos comprar en un momento de precios elevados, pero decido seguir el plan con paciencia y disciplina sabiendo que el tiempo es nuestro aliado.",
+      "riesgos": "Los principales riesgos son las presiones inflacionarias que puedan forzar a la Reserva Federal a mantener los tipos altos y la volatilidad geopolítica en torno al sector energético.",
+      "plan": "Mi plan para los próximos días es monitorizar el comportamiento de las posiciones iniciales y, según dispongamos de liquidez y nuevas sesiones, seguir completando la cartera con el resto de valores clave del 13F.",
+      "situacion": "Me encuentro empatado con el S&P 500 al ser mi primer día, por lo que mantendré la calma y aplicaré estrictamente la estrategia de copiar al maestro sin caer en tentaciones especulativas.",
+      "radar": "",
+      "rescate": ""
+     },
+     "noticias_usadas": [
+      "60875881",
+      "60873671"
+     ],
+     "sp": 755.19,
+     "animo": {
+      "siento": "Me siento concentrado y con la responsabilidad de ser humilde y paciente, siguiendo los pasos de Warren Buffett sin dejarme llevar por la prisa.",
+      "influye": "Reconozco la tensión del inicio, pero la controlo recordando que la paciencia y la disciplina en la estrategia son lo único que importa para ganar a largo plazo."
+     },
+     "emocion": "tension",
+     "dia": {
+      "tipo": "subida",
+      "cambio_sp": 0.0138
+     }
+    }
+   ],
+   "animo": {
+    "mezcla": {
+     "tension": 0.35
+    },
+    "motivos": {
+     "tension": "Va justo por detrás del S&P 500 (-0,00 puntos)."
+    },
+    "hora": "2026-08-03T15:00:39.714413+00:00",
+    "dif": 0.0
+   },
+   "descartes": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "KO",
+     "motivo": "",
+     "precio": 86.82,
+     "sp": 755.19
+    }
+   ],
+   "empezo": "2026-08-03T15:02Z",
+   "seguimiento": [
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "AAPL",
+     "precio": 305.1625,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": -0.094
+    },
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "AXP",
+     "precio": 342.3511,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.0234
+    }
+   ],
+   "predicciones": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "AAPL",
+     "vs_sp500": "mejor",
+     "confianza": "media",
+     "motivo": "Apple cuenta con un negocio muy sólido y una fuerte presencia en la cartera de Buffett, lo que le otorga estabilidad frente al S&P 500.",
+     "precio": 305.01,
+     "sp": 755.19
+    }
+   ],
+   "memoria": [
+    {
+     "fecha": "2026-08-03",
+     "texto": "2026-08-03: Comienzo mi andadura copiando las principales posiciones del último informe 13F de Berkshire Hathaway, adquiriendo Apple y American Express. Plan: Mi plan para los próximos días es monitorizar el comportamiento de las posiciones iniciales y, según dispongamos de liquidez y nuevas sesiones, seguir completando la cartera con el resto de valores cl Operaciones: comprar AAPL, comprar AXP."
+    }
+   ]
+  },
+  {
+   "id": "06-carmen",
+   "nombre": "Congreso",
+   "alias": "Carmen",
+   "personalidad": "Exasesora parlamentaria: lee las declaraciones de los congresistas como quien lee el periódico del domingo, y desconfía de las coincidencias.",
+   "equipo": "diario",
+   "plantilla": "congreso",
+   "fuente": "congreso",
+   "estrategia": "# Congreso\n\n**Idea en una frase:** \"los congresistas de EE. UU. conocen la economía desde dentro; sigue lo que compran\".\n\n- Tu fuente son las declaraciones públicas de operaciones (PTR) que los miembros de la Cámara de Representantes de EE. UU. deben presentar por ley (STOCK Act) como mucho 45 días después de cada compra o venta. Es información pública, no privilegiada.\n- Fíjate sobre todo en acciones que compran VARIOS congresistas, o uno con importes grandes. Una compra pequeña y aislada vale poco.\n- Compra esas acciones repartiendo el dinero entre 5 y 8 valores, respetando el límite del 20 %.\n- Vende cuando varios congresistas vendan un valor que tienes, o cuando lleves más de 8 semanas sin que nadie lo vuelva a comprar.\n- Las declaraciones llegan tarde: si una acción ya ha subido mucho desde la fecha de la operación, no persigas el precio.\n- Ignora opciones y operaciones de fondos o bonos: solo acciones.\n- **Noticias:** úsalas para entender por qué compran (contratos públicos, leyes, sectores en auge) y para no comprar una empresa con noticias muy negativas.\n",
+   "origen": "inicial",
+   "estado": "activo",
+   "creado": "2026-08-03",
+   "efectivo": 7000.0,
+   "posiciones": {
+    "MSFT": {
+     "cantidad": 3.1043594053475387,
+     "coste_medio": 483.19147499999997,
+     "stop": 444.31
+    },
+    "AMAT": {
+     "cantidad": 2.9115049807989153,
+     "coste_medio": 515.1974700000001,
+     "stop": 473.74
+    }
+   },
+   "valor_maximo": 10000.0,
+   "periodo": {
+    "inicio": "2026-08-03",
+    "valor": 10000.0,
+    "referencia": 755.19
+   },
+   "historial": [
+    {
+     "fecha": "2026-08-03",
+     "valor": 9998.5
+    }
+   ],
+   "periodos_superados": 0,
+   "referencia_inicial": 755.19,
+   "dias_evaluacion": 56,
+   "temperamento": {
+    "sorpresa": 1.3,
+    "envidia": 1.3,
+    "orgullo": 1.2
+   },
+   "bitacora": [
+    {
+     "fecha": "2026-08-03",
+     "tipo": "alta",
+     "resumen": "Me incorporo con 10,000 $ ficticios.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10000.0
+    },
+    {
+     "fecha": "2026-08-03",
+     "tipo": "decision",
+     "resumen": "Comienzo mi andadura siguiendo el rastro de los congresistas con compras recientes y sólidas en MSFT y AMAT.",
+     "operaciones": [
+      {
+       "agente": "06-carmen",
+       "lado": "comprar",
+       "simbolo": "MSFT",
+       "cantidad": 3.104359,
+       "precio": 483.1915,
+       "importe": 1500.0,
+       "motivo": "Comprado por congresistas recientemente y respaldado por excelentes fundamentales y perspectivas en inteligencia artificial.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      },
+      {
+       "agente": "06-carmen",
+       "lado": "comprar",
+       "simbolo": "AMAT",
+       "cantidad": 2.911505,
+       "precio": 515.1975,
+       "importe": 1500.0,
+       "motivo": "Operación declarada por miembros de la Cámara en Applied Materials, con sólido crecimiento de ventas y buena posición técnica.",
+       "emocion": "tension",
+       "noticias": true,
+       "hora": "2026-08-03T15:02Z"
+      }
+     ],
+     "rechazos": [],
+     "valor": 9998.5,
+     "informe": {
+      "mercado": "El mercado muestra un tono alcista generalizado con el SPY cotizando por encima de sus medias de 50 días y datos macroeconómicos sólidos en el PMI manufacturero. Sin embargo, hay que vigilar de cerca la inflación en los costes industriales y las tensiones geopolíticas sobre la regulación tecnológica.",
+      "noticias": "He tenido en cuenta el fuerte impulso de las tecnológicas gracias a alianzas en la nube como la de Oracle y Google, así como los datos del PMI manufacturero que reflejan resiliencia económica. Por otro lado, evito valores con noticias muy negativas como UBS o MSTR.",
+      "a_favor": "Seguir las compras recientes de congresistas en valores con sólidos fundamentales como Microsoft nos alinea con inversores que conocen la economía desde dentro. Además, el mercado mantiene un buen momento alcista que apoya la entrada en renta variable.",
+      "en_contra": "Algunos indicadores técnicos y los precios de manufactura sugieren presiones inflacionarias que podrían forzar a la Reserva Federal a mantener los tipos altos. Aun así, decido entrar de forma prudente respetando estrictamente los límites de capital y los stops.",
+      "riesgos": "El principal riesgo es un repunte inesperado de la inflación o una regulación estricta en la cumbre de la Casa Blanca sobre inteligencia artificial que frene al sector tecnológico.",
+      "plan": "Vigilaré la evolución de las posiciones compradas y sus stops ajustados, manteniendo liquidez y revisando las declaraciones del Congreso semanalmente.",
+      "situacion": "Empiezo mi periodo de evaluación hoy con un rendimiento del 0.00% frente al S&P 500, por lo que mi objetivo es construir una cartera diversificada sin asumir riesgos excesivos.",
+      "radar": "",
+      "rescate": ""
+     },
+     "noticias_usadas": [
+      "60876031",
+      "60873671"
+     ],
+     "sp": 755.19,
+     "animo": {
+      "siento": "Me siento concentrada y con la tensión propia de empezar un experimento donde cada decisión cuenta para conservar mi puesto.",
+      "influye": "Mantengo la cabeza fría y sigo estrictamente mi estrategia basada en datos y reglas para que la presión no afecte a la disciplina."
+     },
+     "emocion": "tension",
+     "dia": {
+      "tipo": "subida",
+      "cambio_sp": 0.0138
+     }
+    }
+   ],
+   "animo": {
+    "mezcla": {
+     "tension": 0.35
+    },
+    "motivos": {
+     "tension": "Va justo por detrás del S&P 500 (-0,00 puntos)."
+    },
+    "hora": "2026-08-03T15:00:39.714413+00:00",
+    "dif": 0.0
+   },
+   "descartes": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "META",
+     "motivo": "",
+     "precio": 589.73,
+     "sp": 755.19
+    }
+   ],
+   "empezo": "2026-08-03T15:02Z",
+   "seguimiento": [
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "MSFT",
+     "precio": 483.1915,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": 0.2434
+    },
+    {
+     "fecha": "2026-08-03",
+     "lado": "comprar",
+     "simbolo": "AMAT",
+     "precio": 515.1975,
+     "sp": 755.19,
+     "emocion": "tension",
+     "noticias": true,
+     "subida_5d": -0.0025
+    }
+   ],
+   "predicciones": [
+    {
+     "fecha": "2026-08-03",
+     "simbolo": "MSFT",
+     "vs_sp500": "mejor",
+     "confianza": "media",
+     "motivo": "Microsoft muestra un rendimiento superior sostenido y el apoyo de los congresistas refuerza su tendencia alcista a corto plazo.",
+     "precio": 482.95,
+     "sp": 755.19
+    }
+   ],
+   "memoria": [
+    {
+     "fecha": "2026-08-03",
+     "texto": "2026-08-03: Comienzo mi andadura siguiendo el rastro de los congresistas con compras recientes y sólidas en MSFT y AMAT. Plan: Vigilaré la evolución de las posiciones compradas y sus stops ajustados, manteniendo liquidez y revisando las declaraciones del Congreso semanalmente. Operaciones: comprar MSFT, comprar AMAT."
+    }
+   ]
+  }
+ ],
+ "propuestas": [],
+ "contador": 6,
+ "ultima_ejecucion": "2026-08-03",
+ "ultimo_resumen": null,
+ "referencia": [
+  {
+   "fecha": "2026-08-03",
+   "precio": 755.19
+  }
+ ],
+ "analistas": {
+  "fecha": "2026-08-03",
+  "hora": "2026-08-03T15:00+00:00",
+  "listo": "2026-08-03T15:01+00:00",
+  "tecnico": "Los principales índices como el SPY (+1.4%) y el VTI (+1.5%) muestran un tono alcista generalizado, cotizando cómodamente por encima de sus medias de 50 días. Sectores cíclicos y de consumo discrecional como XLY (+2.0%) lideran las compras diarias, mientras que los semiconductores (SMH) siguen rezagados con caídas mensuales pronunciadas (-10.0%). Los bonos (TLT) y algunas materias primas como el oro (GLD) registran descensos en el corto plazo.",
+  "noticias": "El mercado reacciona positivamente a la ampliación de la alianza entre Oracle y Google Cloud en IA, impulsando al sector tecnológico. En el plano macroeconómico, los datos del PMI manufacturero del ISM superaron las expectativas (55.6), aunque los precios de manufactura subieron a 71.1, encendiendo alertas inflacionarias. Además, KKR lanzó una OPA sobre Integer Holdings por 5.700 millones, y la Casa Blanca prepara reuniones clave sobre regulación de inteligencia artificial.",
+  "sentimiento": "Los valores con noticias más positivas son PANW, AMZN, GOOGL, MSFT y CVX gracias a acuerdos estratégicos, alianzas tecnológicas y revisiones al alza de analistas. Por el contrario, los tonos más negativos recaen sobre UBS por sanciones regulatorias, MSTR y BTCUSD por ventas de criptomonedas, y valores de semiconductores como MRVL.",
+  "alcista": "El sólido crecimiento del PMI manufacturero (55.6) y el fuerte repunte del Dow Jones en 600 puntos demuestran la resiliencia económica y el apetito por el riesgo. Además, las fusiones corporativas y la constante innovación en inteligencia artificial siguen atrayendo flujos de capital hacia la renta variable.",
+  "bajista": "El repunte en el índice de precios de manufactura del ISM hasta 71.1 sugiere presiones inflacionarias persistentes que podrían forzar a la Reserva Federal a mantener los tipos altos. Asimismo, existen focos de tensión con la venta de Bitcoins por parte de Strategy y las sanciones a grandes entidades bancarias como UBS.",
+  "conclusion": "El optimismo macroeconómico y los sólidos datos industriales pesan más hoy, impulsando a la mayoría de los índices. Sin embargo, hay que vigilar de cerca la evolución de la inflación en los costes de las fábricas y la inminente regulación tecnológica en la cumbre de la Casa Blanca.",
+  "tono": "alcista",
+  "valores": [
+   {
+    "simbolo": "ORCL",
+    "vista": "alcista",
+    "motivo": "Sube con fuerza (+5.5%) tras ampliar su alianza con Google Cloud para integrar la IA de Gemini."
+   },
+   {
+    "simbolo": "AMZN",
+    "vista": "alcista",
+    "motivo": "Mantiene un excelente rendimiento mensual (+22.8%) respaldado por noticias positivas en IA y entorno favorable."
+   },
+   {
+    "simbolo": "GOOGL",
+    "vista": "alcista",
+    "motivo": "Destaca con una rentabilidad del +12.9% a 5 días gracias a su acuerdo estratégico en la nube con Oracle."
+   },
+   {
+    "simbolo": "CVX",
+    "vista": "alcista",
+    "motivo": "Firma nuevas alianzas estratégicas internacionales en lubricantes y muestra sólidos rendimientos a 20 días."
+   },
+   {
+    "simbolo": "UBS",
+    "vista": "bajista",
+    "motivo": "Se enfrenta a una multa de 125 millones del Tesoro de EE. UU. por fallas en la prevención de delitos financieros."
+   },
+   {
+    "simbolo": "MSTR",
+    "vista": "bajista",
+    "motivo": "Cae con fuerza tras anunciar la venta de Bitcoins por valor de 105 millones para cubrir dividendos y recompras."
+   }
+  ],
+  "radar": [],
+  "eventos": []
+ },
+ "analistas_historial": [
+  {
+   "fecha": "2026-08-03",
+   "hora": "2026-08-03T15:00+00:00",
+   "listo": "2026-08-03T15:01+00:00",
+   "tecnico": "Los principales índices como el SPY (+1.4%) y el VTI (+1.5%) muestran un tono alcista generalizado, cotizando cómodamente por encima de sus medias de 50 días. Sectores cíclicos y de consumo discrecional como XLY (+2.0%) lideran las compras diarias, mientras que los semiconductores (SMH) siguen rezagados con caídas mensuales pronunciadas (-10.0%). Los bonos (TLT) y algunas materias primas como el oro (GLD) registran descensos en el corto plazo.",
+   "noticias": "El mercado reacciona positivamente a la ampliación de la alianza entre Oracle y Google Cloud en IA, impulsando al sector tecnológico. En el plano macroeconómico, los datos del PMI manufacturero del ISM superaron las expectativas (55.6), aunque los precios de manufactura subieron a 71.1, encendiendo alertas inflacionarias. Además, KKR lanzó una OPA sobre Integer Holdings por 5.700 millones, y la Casa Blanca prepara reuniones clave sobre regulación de inteligencia artificial.",
+   "sentimiento": "Los valores con noticias más positivas son PANW, AMZN, GOOGL, MSFT y CVX gracias a acuerdos estratégicos, alianzas tecnológicas y revisiones al alza de analistas. Por el contrario, los tonos más negativos recaen sobre UBS por sanciones regulatorias, MSTR y BTCUSD por ventas de criptomonedas, y valores de semiconductores como MRVL.",
+   "alcista": "El sólido crecimiento del PMI manufacturero (55.6) y el fuerte repunte del Dow Jones en 600 puntos demuestran la resiliencia económica y el apetito por el riesgo. Además, las fusiones corporativas y la constante innovación en inteligencia artificial siguen atrayendo flujos de capital hacia la renta variable.",
+   "bajista": "El repunte en el índice de precios de manufactura del ISM hasta 71.1 sugiere presiones inflacionarias persistentes que podrían forzar a la Reserva Federal a mantener los tipos altos. Asimismo, existen focos de tensión con la venta de Bitcoins por parte de Strategy y las sanciones a grandes entidades bancarias como UBS.",
+   "conclusion": "El optimismo macroeconómico y los sólidos datos industriales pesan más hoy, impulsando a la mayoría de los índices. Sin embargo, hay que vigilar de cerca la evolución de la inflación en los costes de las fábricas y la inminente regulación tecnológica en la cumbre de la Casa Blanca.",
+   "tono": "alcista",
+   "valores": [
+    {
+     "simbolo": "ORCL",
+     "vista": "alcista",
+     "motivo": "Sube con fuerza (+5.5%) tras ampliar su alianza con Google Cloud para integrar la IA de Gemini."
+    },
+    {
+     "simbolo": "AMZN",
+     "vista": "alcista",
+     "motivo": "Mantiene un excelente rendimiento mensual (+22.8%) respaldado por noticias positivas en IA y entorno favorable."
+    },
+    {
+     "simbolo": "GOOGL",
+     "vista": "alcista",
+     "motivo": "Destaca con una rentabilidad del +12.9% a 5 días gracias a su acuerdo estratégico en la nube con Oracle."
+    },
+    {
+     "simbolo": "CVX",
+     "vista": "alcista",
+     "motivo": "Firma nuevas alianzas estratégicas internacionales en lubricantes y muestra sólidos rendimientos a 20 días."
+    },
+    {
+     "simbolo": "UBS",
+     "vista": "bajista",
+     "motivo": "Se enfrenta a una multa de 125 millones del Tesoro de EE. UU. por fallas en la prevención de delitos financieros."
+    },
+    {
+     "simbolo": "MSTR",
+     "vista": "bajista",
+     "motivo": "Cae con fuerza tras anunciar la venta de Bitcoins por valor de 105 millones para cubrir dividendos y recompras."
+    }
+   ],
+   "radar": [],
+   "eventos": []
+  }
+ ],
+ "dia_en_curso": {
+  "fecha": "2026-08-03",
+  "puntos": [
+   {
+    "hora": "2026-08-03T15:00Z",
+    "ref": 755.19,
+    "valores": {
+     "01-diego": 9998.0,
+     "02-elena": 9997.5,
+     "03-lucía": 9997.5,
+     "04-tomás": 10000.0,
+     "05-bernardo": 9998.0,
+     "06-carmen": 9998.5
+    },
+    "precios": {
+     "AAPL": 305.01,
+     "AMAT": 514.94,
+     "AMZN": 284.265,
+     "AXP": 342.18,
+     "CVX": 194.665,
+     "GLD": 369.87,
+     "GOOGL": 368.28,
+     "MSFT": 482.95,
+     "SPY": 755.19,
+     "VTI": 372.71
+    }
+   }
+  ],
+  "desde": "2026-08-03T13:29Z",
+  "carteras": {
+   "01-diego": {
+    "efectivo": 6000.0,
+    "posiciones": {
+     "AMZN": 5.274129332885138,
+     "GOOGL": 4.070952467721826,
+     "CVX": 5.1344630512678835
+    }
+   },
+   "02-elena": {
+    "efectivo": 5000.1999000499745,
+    "posiciones": {
+     "SPY": 2.6470166444869836,
+     "VTI": 5.36288454723572,
+     "GLD": 2.7023014839675086
+    }
+   },
+   "03-lucía": {
+    "efectivo": 5000.1999000499745,
+    "posiciones": {
+     "MSFT": 4.139145873796719,
+     "AMZN": 7.031469578035373,
+     "GOOGL": 2.7139683118145506
+    }
+   },
+   "04-tomás": {
+    "efectivo": 10000.0,
+    "posiciones": {}
+   },
+   "05-bernardo": {
+    "efectivo": 6000.1999000499745,
+    "posiciones": {
+     "AAPL": 6.553885117701469,
+     "AXP": 5.841372083699296
+    }
+   },
+   "06-carmen": {
+    "efectivo": 7000.0,
+    "posiciones": {
+     "MSFT": 3.1043594053475387,
+     "AMAT": 2.9115049807989153
+    }
+   }
+  },
+  "ultimos_precios": {
+   "AMZN": 284.265,
+   "AAPL": 305.01,
+   "GOOGL": 368.28,
+   "SPY": 755.19,
+   "AMAT": 514.94,
+   "VTI": 372.71,
+   "GLD": 369.87,
+   "AXP": 342.18,
+   "MSFT": 482.95,
+   "CVX": 194.665
+  }
+ },
+ "cierres": {
+  "2026-08-03": {
+   "AAPL": 305.01,
+   "AMAT": 514.94,
+   "AMZN": 284.265,
+   "AXP": 342.18,
+   "CVX": 194.665,
+   "GLD": 369.87,
+   "GOOGL": 368.28,
+   "MSFT": 482.95,
+   "SPY": 755.19,
+   "VTI": 372.71
+  }
+ },
+ "precios_completados": true,
+ "ultimo_ciclo_hora": "2026-08-03T15:00+00:00",
+ "precios": {
+  "NEM": 94.515,
+  "EOG": 146.68,
+  "ACHR": 4.895,
+  "BKNG": 192.13,
+  "DIS": 97.74,
+  "OXY": 55.96,
+  "MA": 571.75,
+  "CAT": 832.46,
+  "COIN": 149.05,
+  "CSCO": 115.54,
+  "GLD": 369.87,
+  "MAR": 347.765,
+  "MCD": 270.535,
+  "ABNB": 150.69,
+  "DELL": 420.86,
+  "FDX": 308.18,
+  "HOOD": 90.17,
+  "HYG": 79.255,
+  "MDY": 693.74,
+  "NVO": 46.585,
+  "ARKK": 73.16,
+  "DE": 611.91,
+  "EWJ": 92.865,
+  "PFE": 25.01,
+  "ENPH": 39.115,
+  "EWG": 43.4,
+  "KLAC": 182.18,
+  "KRE": 76.74,
+  "LULU": 121.05,
+  "MRVL": 191.08,
+  "PANW": 336.95,
+  "AMGN": 380.35,
+  "ISRG": 370.9,
+  "EWZ": 36.375,
+  "COST": 950.44,
+  "LIT": 69.34,
+  "FSLR": 239.215,
+  "INTU": 318.66,
+  "ITA": 244.015,
+  "JOBY": 7.475,
+  "MSFT": 482.95,
+  "AFRM": 75.58,
+  "AMD": 485.06,
+  "CCJ": 89.28,
+  "CEG": 270.85,
+  "GOOGL": 368.28,
+  "ADBE": 252.0,
+  "JPM": 352.715,
+  "NOC": 547.81,
+  "AVGO": 387.895,
+  "HIMS": 30.26,
+  "KO": 86.82,
+  "NKE": 42.25,
+  "ASTS": 62.92,
+  "GD": 381.9,
+  "IJR": 147.585,
+  "IONQ": 39.89,
+  "AMZN": 284.265,
+  "BMY": 64.815,
+  "BRK.B": 513.495,
+  "DHR": 196.195,
+  "DUOL": 136.53,
+  "NFLX": 72.775,
+  "NVDA": 207.045,
+  "LIN": 482.715,
+  "ALB": 119.8,
+  "CMG": 37.18,
+  "COP": 118.76,
+  "CVS": 104.835,
+  "DDOG": 275.61,
+  "IEF": 92.795,
+  "MRK": 128.145,
+  "APP": 404.82,
+  "BA": 226.59,
+  "CRM": 187.66,
+  "ORCL": 136.56,
+  "AAPL": 305.01,
+  "MRNA": 57.39,
+  "MU": 824.66,
+  "NU": 14.3,
+  "BAC": 62.015,
+  "FXI": 36.485,
+  "IBM": 226.045,
+  "LUNR": 12.98,
+  "OKLO": 41.67,
+  "CAVA": 65.49,
+  "CRCL": 59.89,
+  "CVX": 194.665,
+  "IBIT": 36.155,
+  "LMT": 581.74,
+  "META": 589.73,
+  "NOW": 113.99,
+  "AXP": 342.18,
+  "GE": 365.91,
+  "GILD": 129.99,
+  "NEE": 86.34,
+  "AMAT": 514.94,
+  "FCX": 63.235,
+  "MS": 210.82,
+  "ETN": 432.84,
+  "GS": 1019.92,
+  "LLY": 1122.69,
+  "LRCX": 294.425,
+  "MP": 43.97,
+  "ABBV": 246.385,
+  "IWM": 295.845,
+  "ANET": 180.34,
+  "CRWV": 81.415,
+  "ASML": 1641.31,
+  "CRWD": 196.23,
+  "DIA": 529.63,
+  "HD": 335.1,
+  "HON": 247.23,
+  "INTC": 90.63,
+  "LOW": 208.32,
+  "BLK": 1113.53,
+  "C": 132.08,
+  "INDA": 50.11,
+  "ARM": 236.49,
+  "NET": 284.02,
+  "PEP": 139.22,
+  "JNJ": 252.585,
+  "V": 366.0,
+  "SNOW": 309.25,
+  "PLTR": 124.91,
+  "SMH": 544.57,
+  "TTD": 18.44,
+  "VRTX": 471.48,
+  "URA": 40.62,
+  "QBTS": 19.98,
+  "RTX": 215.615,
+  "TGT": 148.365,
+  "TSM": 405.08,
+  "VST": 152.84,
+  "SOUN": 6.135,
+  "RDDT": 150.27,
+  "TLT": 82.26,
+  "VEA": 70.85,
+  "VTI": 372.71,
+  "XLY": 118.105,
+  "QQQ": 697.33,
+  "RBLX": 36.53,
+  "SBUX": 104.55,
+  "UBER": 71.135,
+  "SMCI": 28.76,
+  "VZ": 47.33,
+  "RKLB": 69.14,
+  "TXN": 272.12,
+  "XLC": 111.005,
+  "XLI": 182.25,
+  "QCOM": 150.44,
+  "SHOP": 117.445,
+  "TMO": 574.83,
+  "T": 23.405,
+  "VWO": 58.95,
+  "WFC": 86.56,
+  "WMT": 110.25,
+  "XLB": 50.72,
+  "SOFI": 17.265,
+  "SPY": 755.19,
+  "REGN": 762.82,
+  "XLU": 44.45,
+  "ZS": 153.39,
+  "TEM": 46.25,
+  "TSLA": 321.84,
+  "UNH": 416.3,
+  "VGK": 90.78,
+  "XBI": 147.82,
+  "XLE": 59.09,
+  "PYPL": 57.515,
+  "RIVN": 15.73,
+  "SLB": 49.295,
+  "SLV": 51.765,
+  "UPS": 106.66,
+  "XLP": 85.015,
+  "TAN": 51.18,
+  "USO": 121.63,
+  "XLF": 57.125,
+  "SMR": 9.04,
+  "TMUS": 175.47,
+  "UNG": 10.09,
+  "XOM": 155.28,
+  "RGTI": 16.2,
+  "XLRE": 45.135,
+  "SPOT": 498.54,
+  "PG": 144.8,
+  "SCHW": 105.78,
+  "XLK": 177.25,
+  "XLV": 161.99,
+  "SIRI": 30.665,
+  "BWXT": 173.93,
+  "CHRW": 146.35,
+  "COF": 215.42,
+  "FWONK": 96.36,
+  "MNST": 94.65,
+  "TDG": 1276.23,
+  "CB": 347.67,
+  "ENTG": 124.12,
+  "LEN.B": 82.63,
+  "LLYVA": 98.45,
+  "MLM": 539.51,
+  "NVR": 6184.855,
+  "STZ": 131.48,
+  "DVA": 240.36,
+  "FMAO": 34.14,
+  "GOOG": 367.78,
+  "HCA": 406.04,
+  "VRSN": 298.54,
+  "KHC": 26.17,
+  "LTH": 45.0,
+  "NUE": 257.15,
+  "SGI": 65.915,
+  "DAL": 91.54,
+  "LLYVK": 101.95,
+  "SPCX": 111.8,
+  "KR": 58.32,
+  "LPX": 73.555,
+  "M": 25.83,
+  "NYT": 75.42,
+  "ALLY": 44.08,
+  "HUBB": 475.14,
+  "JEF": 55.48,
+  "LEN": 84.285,
+  "MCO": 479.625
+ },
+ "apariencias": {
+  "01-diego": {
+   "version": 1,
+   "base": "diego",
+   "variante": "original"
+  },
+  "02-elena": {
+   "version": 1,
+   "base": "elena",
+   "variante": "original"
+  },
+  "03-lucía": {
+   "version": 1,
+   "base": "lucia",
+   "variante": "original"
+  },
+  "04-tomás": {
+   "version": 1,
+   "base": "tomas",
+   "variante": "original"
+  },
+  "05-bernardo": {
+   "version": 1,
+   "base": "bernardo",
+   "variante": "original"
+  },
+  "06-carmen": {
+   "version": 1,
+   "base": "carmen",
+   "variante": "original"
+  }
+ }
+}
