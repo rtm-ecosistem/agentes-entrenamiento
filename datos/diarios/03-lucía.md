@@ -600,3 +600,32 @@ Valor de la cartera: 9,927.78 $
 **Reflexión de la semana.** Esta semana he conseguido recortar distancias con el mercado gracias a una buena selección inicial, pasando de un -3% a quedarnos a las puertas de remontar, pero sigo al borde del abismo con un -0.72% a solo tres días del final. Acerté al incorporar un líder sectorial a principios de semana para aprovechar la ola, pero fallé al pecar de excesiva cautela los días siguientes en lugar de buscar más oportunidades para salvar los muebles. He aprendido que la parálisis por miedo en la recta final es tan peligrosa como operar sin cabeza cuando vas perdiendo. La semana que viene saldré a buscar la remontada definitiva sin dudar ni un segundo, cortando rápido si algo se tuerce.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: En los últimos tres días del periodo de evaluación, si una posición sube un 2% diario, no cierro y dejo correr la ganancia para recortar el margen perdido con el S&P 500.
+
+## 2026-08-31
+
+**Nota de mi predicción del 2026-08-24.** Dije que COST lo haría mejor que el S&P 500: hizo -1.8% frente a +0.4%. Fallo.
+
+## 2026-08-31
+
+**Mantengo mi cartera intacta en el último día de evaluación priorizando la disciplina defensiva para asegurar el puesto frente a arriesgar de más.**
+
+**Mercado.** Los índices principales como el SPY (765.81) muestran ligeros descensos del -0.2% mientras se mantienen firmes con rentabilidades positivas a 20 días. Destacan los sectores defensivos y de energía como el XLE con un repunte del +1.8% en el día.
+
+**Noticias.** He tenido en cuenta el informe de analistas y las tensiones geopolíticas en el Estrecho de Ormuz que impulsan al petróleo, así como las advertencias sobre la inflación y el PMI manufacturero de Chicago en contracción (47.1 puntos). Estas señales macroeconómicas aumentan la volatilidad general, afectando al tono del mercado y exigiendo una postura sumamente prudente.
+
+**A favor.** El mejor argumento a favor de no operar hoy es proteger el capital restante y evitar caer en la desesperación de abrir posiciones de último minuto que puedan activar la regla de caída del 10% y provocar un despido fulminante.
+
+**En contra.** El mejor argumento en contra de mi inacción es que, al ir por detrás del S&P 500 por 3.89 puntos, el exceso de cautela en la recta final me condena a recibir un aviso inevitable al no recortar la distancia pendiente.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la volatilidad macroeconómica derivada de las tensiones geopolíticas y los posibles cambios en los tipos de interés de la Fed, que podrían presionar a la baja las valoraciones tecnológicas.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA, APP y COST respeten sus medias móviles de 50 días y no alcancen los stops de protección, manteniendo la disciplina operativa.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.89 puntos al finalizar el vigésimo octavo día del periodo de evaluación, lo que activará un aviso según las normas, pero prefiero aceptarlo antes que arriesgarme a un despido inmediato por caída excesiva.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más en este último día, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No realizaré operaciones desesperadas ni jugaré mi permanencia a una sola carta especulativa. Respetaré la supervivencia de la cartera frente a la tentación artificial de remontar de golpe mediante apalancamiento o compras impulsivas.
+
+Valor de la cartera: 9,751.41 $

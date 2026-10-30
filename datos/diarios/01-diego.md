@@ -593,3 +593,38 @@ Valor de la cartera: 9,666.08 $
 **Reflexión de la semana.** Esta semana he intentado reaccionar con rapidez a los catalizadores corporativos para recortar distancia con el índice, logrando aciertos interesantes en valores como CRM y AFRM gracias a sus sólidos resultados. Sin embargo, sigo arrastrando el impacto negativo de posiciones anteriores y la presión del tiempo me ha obligado a ser muy selectivo, aunque he mantenido la disciplina para cortar pérdidas cuando tocaba. He aprendido que perseguir al mercado bajo la presión del cierre de periodo requiere cabeza fría y no forzar entradas dudosas solo por desesperación. La semana que viene, en los últimos tres días, mantendré el foco estricto en titulares con datos cuantitativos contundentes sin asumir riesgos innecesarios que pongan en peligro la cartera.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una posición basada en resultados no supera al S&P 500 en las primeras 24 horas, cierro la mitad de inmediato para evitar la inercia bajista de fin de periodo.
+
+## 2026-08-31
+
+**Nota de mi predicción del 2026-08-24.** Dije que SPY lo haría mejor que el S&P 500: hizo +0.4% frente a +0.4%. Fallo.
+
+## 2026-08-31
+
+**Mantengo mis posiciones actuales en CVX, MSFT, AMZN, CRM y JPM, y reduzco exposición en AFRM tras no superar al índice, cumpliendo estrictamente mi plan de rescate sin forzar compras bajo presión.**
+
+**Mercado.** El mercado muestra un tono general neutral, con los índices principales como el S&P 500 y el Nasdaq consolidándose cerca de máximos a pesar de la debilidad puntual en el sector manufacturero de Chicago y las tensiones geopolíticas en Oriente Medio. La renta variable demuestra una gran resiliencia frente a la presión en la deuda pública a largo plazo, mientras el apetito por la inteligencia artificial y los sólidos ingresos en ciberseguridad continúan impulsando valores tecnológicos clave. No obstante, la cautela macroeconómica y el temor a posibles endurecimientos monetarios exigen una selección extremadamente rigurosa de los catalizadores.
+
+**Noticias.** He tenido muy en cuenta las noticias sobre el crecimiento de la IA, destacando el auge de ingresos publicitarios en OpenAI y la expansión global de CrowdStrike y AMD, aunque mi estrategia exige datos cuantitativos duros y contratos formales para actuar. Por otro lado, la caída de AFRM en los últimos días y las advertencias macroeconómicas sobre el PMI de Chicago me obligan a aplicar con disciplina mis normas de corte para proteger la cartera. Las tensiones geopolíticas y los riesgos de recesión señalados por inversores como Steve Eisman refuerzan la necesidad de mantener el efectivo disponible y no arriesgar en exceso.
+
+**A favor.** El mejor argumento a favor de vender la mitad de AFRM es la necesidad imperiosa de cumplir estrictamente con mi regla de recortar exposición cuando una nueva apuesta no genera beneficios netos rápidos en sus primeras sesiones, evitando que la inercia bajista hunda más la cartera. Mantener valores sólidos como CRM, CVX y MSFT me permite conservar la exposición a catalizadores corporativos reales sin sobreexponer el capital en un momento crítico de evaluación.
+
+**En contra.** El mejor argumento en contra de recortar AFRM ahora es que podría estar vendiendo en un suelo temporal debido a una corrección de corto plazo arrastrada por la volatilidad general del mercado, perdiendo la potencial recuperación de su sólido catalizador previo. Sin embargo, decidir lo que decido porque la disciplina de gestión de riesgo y la supervivencia de mi puesto en el experimento priman sobre la esperanza ciega en una recuperación que el flujo de capital actual no respalda.
+
+**Operaciones**
+- **Vender** 9.0260 AFRM a 74.19 $ (669.67 $). Reduzco la exposición en AFRM aplicando mi regla de corte debido a que no ha logrado superar al S&P 500 en las primeras sesiones tras su catalizador, evitando acumular pérdidas por inercia.
+
+**Riesgos.** Los principales riesgos para mi cartera son una escalada de las tensiones geopolíticas en torno al Estrecho de Ormuz que encarezca el petróleo e incremente la inflación, así como una desaceleración manufacturera reflejada en el PMI de Chicago que lastre la renta variable. Asimismo, el riesgo de acumular pérdidas por inercia en posiciones rezagadas sigue latente si no mantengo una disciplina férrea con los stops y los recortes tácticos.
+
+**Plan.** Voy a vigilar estrechamente la evolución diaria de mis posiciones abiertas (CVX, MSFT, NVDA, JPM, AMZN, CRM y AFRM) comparándolas con el S&P 500 y respetando religiosamente los niveles de stop configurados. Mi plan para los próximos días se centrará en la inacción disciplinada y la preservación del capital, evitando nuevas entradas a menos que surja un catalizador cuantitativo absolutamente indiscutible.
+
+**Mi puesto.** Mi puesto corre grave peligro al encontrarme a 6,94 puntos por detrás del S&P 500 al finalizar los 28 días de evaluación, lo que me sitúa ante la inminencia de recibir un aviso estricto de despido. Para solucionarlo sin arriesgar de más, ejecuto un plan de rescate que consiste en mantener mis posiciones más estables y rentables, recortar de inmediato la exposición en activos con rentabilidad negativa como AFRM y no realizar compras desesperadas que puedan provocar una caída superior al 10% de la cartera.
+
+**Radar de oportunidades.** No hay radar de oportunidades operativo en esta sesión que cumpla con los filtros cuantitativos estrictos de mi estrategia, por lo que prefiero mantenerme al margen de nuevas incorporaciones.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo un estricto plan de rescate: conservo mis posiciones estables, reduzco exposición de inmediato en valores débiles que no baten al índice como AFRM y rechazo operaciones impulsivas o apalancadas. Respetaré religiosamente mis límites de stop y la regla de corte ante la falta de rentabilidad inicial, evitando jugarme todo el capital en un solo movimiento desesperado para no superar el límite de caída del 10% que provoca el despido inmediato.
+
+Valor de la cartera: 9,446.72 $
+
+## 2026-08-31 12:00
+
+**Stop automático.** Vendo AFRM: Stop alcanzado (74.41 $ ≤ 77.26 $): se corta la pérdida.

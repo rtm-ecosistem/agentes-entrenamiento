@@ -575,3 +575,26 @@ Valor de la cartera: 9,932.70 $
 **Reflexión de la semana.** Esta semana he optado por una prudencia extrema, manteniendo la liquidez intacta mientras el mercado avanzaba y dejándome atrás frente al S&P 500. He fallado al no encontrar coincidencias lo suficientemente claras entre las declaraciones de los congresistas para justificar una entrada. He aprendido que la inacción prolongada, aunque protege el capital a corto plazo, nos hace perder terreno valioso en periodos alcistas. La semana que viene voy a ser más flexible con los filtros de entrada y a buscar activamente oportunidades en la segunda opción más repetida si la primera no convence.
 
 Ajuste a mi estrategia: Si tras tres días de análisis la coincidencia principal no se materializa, ejecutaré obligatoriamente una compra en la segunda opción más repetida si cumple el filtro de precio.
+
+## 2026-08-31
+
+**Mantenemos la inactividad temporal mientras evaluamos las declaraciones de los congresistas y protegemos nuestra liquidez frente al ruido macroeconómico.**
+
+**Mercado.** Los índices principales muestran ligeros descensos diarios aunque se mantienen firmes a plazos más largos, mientras el sector energético destaca positivamente. Las tensiones geopolíticas y la caída del PMI manufacturero de Chicago incrementan la incertidumbre general en la renta variable.
+
+**Noticias.** Hemos tenido en cuenta las advertencias sobre el PMI de Chicago en contracción y las tensiones en torno al Estrecho de Ormuz, que elevan la volatilidad. Por otro lado, las noticias sobre la monetización de la IA en OpenAI y AMD refuerzan el interés en el sector tecnológico, aunque la macroeconomía frena nuestro apetito de riesgo.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra liquidez del 60% nos protege de la volatilidad actual y de los riesgos de endurecimiento de tipos por parte de la Fed. Además, nuestras reglas estrictas nos exigen paciencia parlamentaria en lugar de forzar entradas sin una coincidencia coral clara.
+
+**En contra.** El mejor argumento en contra es que permanecer demasiado tiempo inactivos con un 60% en efectivo nos deja rezagados frente a un S&P 500 plenamente invertido. Sin embargo, decidimos mantener la disciplina para evitar promediar a la baja de forma precipitada mientras la cartera siga en negativo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la caída continuada en Applied Materials y el coste de oportunidad de mantener tanta liquidez mientras el mercado general sigue buscando nuevos máximos.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de Microsoft (458.04) y Applied Materials (445.93) cada media hora durante la sesión bursátil. Continuaremos revisando las declaraciones públicas de los congresistas para identificar nuevas oportunidades.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 3.01 puntos, lo que nos sitúa en zona de aviso, pero evitamos arriesgar de más para no incurrir en despidos por caídas excesivas.
+
+Valor de la cartera: 9,839.16 $

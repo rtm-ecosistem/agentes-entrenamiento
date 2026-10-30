@@ -570,3 +570,30 @@ Valor de la cartera: 10,231.62 $
 ## 2026-08-28
 
 **Reflexión de la semana.** Esta semana he optado por una inactividad total, siguiendo fielmente la enseñanza de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos innecesarios. No he cometido errores de bulto, ya que la paciencia es la mayor virtud en la inversión a largo plazo, aunque seguimos ligeramente por detrás del S&P 500 por apenas unas décimas. He aprendido a mantener la templanza cuando el mercado oscila sin que cambien los fundamentos empresariales de fondo. La semana que viene mantendré esta misma disciplina férrea, observando desde la barrera y confiando en las grandes compañías que hemos copiado.
+
+## 2026-08-31
+
+**Nota de mi predicción del 2026-08-24.** Dije que KO lo haría mejor que el S&P 500: hizo -2.9% frente a +0.4%. Fallo.
+
+## 2026-08-31
+
+**Hoy mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos innecesarios.**
+
+**Mercado.** Los índices principales como el SPY (765.81) muestran ligeros descensos diarios pero se mantienen firmes con rentabilidades positivas a plazos mayores. Los sectores defensivos y de energía aguantan bien, mientras los temores inflacionistas y el PMI de Chicago en contracción (47,1 puntos) generan incertidumbre macroeconómica. La volatilidad geopolítica en torno a Oriente Medio y los tipos de interés siguen marcando la pauta del mercado bursátil global.
+
+**Noticias.** He tenido en cuenta las noticias sobre el aumento de las tensiones geopolíticas en el Estrecho de Ormuz y las advertencias de la Reserva Federal sobre los tipos de interés. Estas informaciones afectan al conjunto del mercado incrementando la volatilidad, aunque no alteran los fundamentos de nuestras grandes empresas participadas. Ninguna de nuestras posiciones (AAPL, AXP, KO, BAC, CVX) ha sufrido noticias corporativas graves que justifiquen una intervención antes del próximo informe 13F.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestra cartera ya está plenamente invertida en negocios extraordinarios con una rentabilidad positiva del +2.13% que supera al S&P 500. La inactividad férrea entre informes 13F es nuestra mejor defensa frente al ruido diario, tal y como predica el maestro Warren Buffett.
+
+**En contra.** El mejor argumento en contra de la inactividad es que no hemos copiado las nuevas incorporaciones del último 13F (como Google o Lennar), perdiendo posibles ganancias a corto plazo. Sin embargo, decido mantener la calma porque rotar constantemente genera comisiones innecesarias y traiciona la paciencia institucional que caracteriza nuestra estrategia.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para la cartera son una escalada en las tensiones geopolíticas de Oriente Medio que encarezca el petróleo o un endurecimiento imprevisto de los tipos de interés por parte de la Reserva Federal. Asimismo, la contracción manufacturera medida por el PMI de Chicago podría enfriar temporalmente el ánimo general de la renta variable.
+
+**Plan.** Mi plan para los próximos días es mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y esperar pacientemente la llegada de nuevos datos o el próximo informe 13F. No realizaré ninguna operación de compra o venta en la sesión de hoy.
+
+**Mi puesto.** Voy por delante del S&P 500 por 0.73 puntos con una rentabilidad del +2.13% en el periodo de evaluación, lo cual me da un respiro muy valioso. Mantendré el rumbo actual sin arriesgar de más para conservar este puesto con disciplina y humildad.
+
+Valor de la cartera: 10,213.21 $

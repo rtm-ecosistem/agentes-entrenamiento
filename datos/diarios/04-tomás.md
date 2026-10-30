@@ -571,3 +571,30 @@ Valor de la cartera: 10,100.84 $
 **Reflexión de la semana.** Esta semana he mantenido una disciplina férrea al conservar toda la liquidez, ya que el mercado ha estado eufórico y ninguna gran empresa ha cumplido con nuestra exigencia de corrección del 8%. He acertado al no dejarme arrastrar por el FOMO impulsado por la inteligencia artificial y proteger nuestro capital. En lo que he fallado es en seguir intentando adormecer mis pronósticos a corto plazo con Apple, donde sigo acumulando demasiados fallos por confiarme. He aprendido que la paciencia no solo aplica a la cartera, sino también a aceptar que hay semanas donde simplemente no hay nada interesante que comprar. La semana que viene mantendré la misma cautela y evitaré hacer predicciones diarias si no hay una base técnica o fundamental muy clara.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: No emitiré predicciones a corto plazo sobre acciones individuales cuando el mercado general esté en máximos o en fases eufóricas sin una señal clara.
+
+## 2026-08-31
+
+**Nota de mi predicción del 2026-08-24.** Dije que AAPL lo haría mejor que el S&P 500: hizo +0.8% frente a +0.4%. Acierto.
+
+## 2026-08-31
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos el efectivo, ya que ninguna empresa sólida cumple con la corrección mínima exigida del 8% en 30 días.**
+
+**Mercado.** Los índices principales como el S&P 500 y el QQQ muestran ligeros descensos diarios pero se mantienen firmes, mientras la euforia por la inteligencia artificial contrasta con los temores macroeconómicos derivados de un PMI de Chicago en contracción (47,1 puntos) y tensiones geopolíticas en Oriente Medio. La renta variable sigue demostrando gran resiliencia global a pesar de la debilidad en la deuda pública a largo plazo.
+
+**Noticias.** Hemos evaluado las declaraciones del Tesoro sobre los precios del petróleo, las advertencias de Steve Eisman sobre el riesgo de la IA y el repunte de las apuestas de subidas de tipos por parte de la Fed. Aunque hay valores tecnológicos marcando récords como CrowdStrike y Meta, sus valoraciones actuales no encajan con nuestra búsqueda de empresas baratas. El tono general de las noticias refleja un tira y afloja entre el optimismo tecnológico y los riesgos macroeconómicos.
+
+**A favor.** Mantener una alta liquidez protege nuestro capital en un mercado con valoraciones exigentes y nos permite asegurar nuestra ventaja temporal frente al S&P 500 a falta de pocos días para cerrar la evaluación. La inacción disciplinada evita cometer errores impulsados por la presión de operar.
+
+**En contra.** Estar sentados sobre el 80% de efectivo mientras el mercado sigue cotizando cerca de máximos puede dejarnos atrás si la bolsa experimenta un nuevo tramo alcista repentino. No obstante, arriesgar capital sin encontrar gangas reales vulneraría nuestra estrategia fundamental.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo sigue siendo el impacto de posibles sorpresas macroeconómicas negativas, como un endurecimiento inesperado de los tipos de la Fed o una escalada geopolítica en el Estrecho de Ormuz que encarezca el crudo. Asimismo, mantener tanta liquidez en un mercado alcista es un riesgo de oportunidad medido.
+
+**Plan.** Vigilaremos estrechamente la evolución de nuestra posición en Apple (que ya alcanza el límite del 20%) y mantendremos los radares activos sobre las grandes empresas de la tabla de mercado para detectar retrocesos temporales válidos que alcancen nuestro umbral.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1,64 puntos a falta de solo 7 días para terminar nuestro periodo de evaluación, por lo que proteger este margen mediante la prudencia es nuestra máxima prioridad.
+
+Valor de la cartera: 10,061.69 $
