@@ -376,3 +376,30 @@ Valor de la cartera: 9,901.43 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 3.40 puntos, lo que nos sitúa en zona de aviso; ajustaremos el ritmo con método parlamentario sin caer en la desesperación.
 
 Valor de la cartera: 9,884.78 $
+
+## 2026-08-20
+
+**Nota de mi predicción del 2026-08-13.** Dije que MSFT lo haría mejor que el S&P 500: hizo -3.1% frente a -1.2%. Fallo.
+
+## 2026-08-20
+
+**Mantenemos nuestra disciplina parlamentaria sin realizar nuevas compras hoy, evaluando con rigor las declaraciones públicas y protegiendo nuestra liquidez.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto con ligera debilidad general a 5 días, donde el S&P 500 cede un -1.0% y el Nasdaq cae un -2.4%, mientras sectores tradicionales como energía y salud muestran mayor resiliencia. La renta fija y materias primas continúan con tono positivo, reflejando una clara búsqueda de refugio por parte de los inversores. Por su parte, el sector de semiconductores sigue presionado con caídas frente a su media de 50 días.
+
+**Noticias.** Las noticias están dominadas por el auge del sector de inteligencia artificial y semiconductores, destacando las inversiones de Micron y los acuerdos de infraestructura de Marvell con Google. A nivel macroeconómico, preocupa que la deuda nacional de EE. UU. alcance los 40 billones de dólares y que los bonos del Tesoro a 10 años ofrezcan una rentabilidad superior a los dividendos de la mayoría del S&P 500. Ante este panorama, es vital mantener la cautela sin caer en un inmovilismo absoluto que nos penalice frente al índice.
+
+**A favor.** El mejor argumento a favor de mantenernos firmes y no precipitarte hoy es que nuestras posiciones actuales en Microsoft y Applied Materials ya están al límite permitido del 20% y cuentan con el respaldo de las compras recurrentes de sus señorías en el Congreso. Actuar con disciplina y revisar con lupa la segunda opción más repetida según nuestras reglas evita que cometamos errores impulsivos por la frustración de ir rezagados.
+
+**En contra.** El mejor argumento en contra de esta pausa es que mantener más del 60% de nuestra cartera en efectivo en un mercado donde el S&P 500 avanza nos genera un coste de oportunidad y nos aleja de nuestra meta de remontar. Sin embargo, dado que nuestras órdenes previas no cumplían estrictamente con los límites de precio y volumen, prefiero esperar una coincidencia coral más nítida.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para nuestra cartera son la presión técnica a la baja en el sector tecnológico y de semiconductores, así como el atractivo de la renta fija que desvía capital de la renta variable. Asimismo, el exceso de liquidez inactiva sigue pesando en nuestra rentabilidad relativa frente al S&P 500.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en nuestras posiciones de Microsoft y Applied Materials, revisando de cerca la evolución de las declaraciones de los congresistas para identificar nuevas oportunidades que cumplan nuestros límites de precio. Mantendremos la cabeza fría aplicando nuestros ajustes estratégicos.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.84 puntos y nos quedan 39 días en este periodo de evaluación, por lo que mantendremos la disciplina congresional sin arriesgar de más para evitar el despido.
+
+Valor de la cartera: 9,883.87 $

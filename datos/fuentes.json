@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-08-19"
+  "revisado": "2026-08-20"
  },
  "congreso": {
   "leidas": {
@@ -4144,9 +4144,77 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "9116311": {
+    "nombre": "Harold Dallas Rogers",
+    "distrito": "KY05",
+    "presentado": "2026-08-20",
+    "operaciones": []
+   },
+   "20035291": {
+    "nombre": "Tim Moore",
+    "distrito": "NC14",
+    "presentado": "2026-08-20",
+    "operaciones": [
+     {
+      "activo": "AT&T Inc.",
+      "ticker": "T",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-14",
+      "importe": "$50,001 - $100,000"
+     }
+    ]
+   },
+   "20035289": {
+    "nombre": "David J. Taylor",
+    "distrito": "OH02",
+    "presentado": "2026-08-20",
+    "operaciones": [
+     {
+      "activo": "Alphabet Inc. - Class A Common Stock",
+      "ticker": "GOOGL",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-11",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Alphabet Inc. - Class A Common Stock",
+      "ticker": "GOOGL",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-11",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Installed Building Products, Inc. Common Stock",
+      "ticker": "IBP",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-14",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Microsoft Corporation - Common Stock",
+      "ticker": "MSFT",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-11",
+      "importe": "$15,001 - $50,000"
+     },
+     {
+      "activo": "Procter & Gamble Company",
+      "ticker": "PG",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-11",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-08-19"
+  "revisado": "2026-08-20"
  }
 }

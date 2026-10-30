@@ -383,3 +383,30 @@ Valor de la cartera: 9,661.87 $
 **Mi puesto.** Voy por detrás del S&P 500 por 5.35 puntos a falta de 12 días, lo cual genera tensión, pero mi prioridad absoluta es conservar el puesto evitando arriesgar de más y respetando mis reglas fijas.
 
 Valor de la cartera: 9,689.39 $
+
+## 2026-08-20
+
+**Nota de mi predicción del 2026-08-13.** Dije que APP lo haría mejor que el S&P 500: hizo +0.3% frente a -1.2%. Acierto.
+
+## 2026-08-20
+
+**Mantengo mi cartera y decido no operar hoy, priorizando la disciplina frente al impulso de sobreoperar para remontar.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto con ligera debilidad a 5 días, mientras sectores tradicionales como energía y salud lideran las subidas. La renta fija y los metales preciosos continúan atrayendo flujos de refugio en un entorno de cautela general. Por su parte, el sector de semiconductores sigue presionado por debajo de su media de 50 días.
+
+**Noticias.** He tenido en cuenta el fuerte impulso de las criptomonedas tras la cumbre de la Casa Blanca, que impulsa a Coinbase, y la masiva inyección de 10.000 millones de Micron en laboratorios de inteligencia artificial. Estas noticias confirman el apetito por la innovación tecnológica, pero el elevado rendimiento de los bonos del Tesoro a 10 años me frena a la hora de asumir riesgos excesivos. Uso estas informaciones como alarma sobre el apetito de riesgo, requiriendo que la cotización confirme cualquier movimiento antes de actuar.
+
+**A favor.** El mejor argumento a favor de operar hoy sería desplegar el efectivo disponible en valores con noticias muy positivas como Coinbase o Marvell para intentar recortar la distancia que nos separa del S&P 500. Seguir la ola en activos con fuerte impulso alcista es la base de mi estrategia cuando el mercado ofrece oportunidades claras de momentum.
+
+**En contra.** El mejor argumento en contra de operar es que mis posiciones actuales de MSFT, NVDA y APP se mantienen estables dentro de sus canales y tengo una gran parte de la cartera en efectivo, pero arriesgar de más para remontar suele acabar en despido por la caída del 10%. Prefiero mantener la disciplina estricta y no forzar compras sin una confirmación técnica impecable que cumpla mis reglas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son la presión bajista en el sector de semiconductores y la creciente atracción de capital hacia los bonos del Tesoro debido a su alta rentabilidad. Además, mantener una concentración en pocos valores eleva la volatilidad ante cualquier corrección general del mercado.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA y APP no rompan sus medias móviles de 50 días ni alcancen sus respectivos stops de protección. Mi plan para los próximos días es esperar una confirmación de impulso clara antes de desplegar el efectivo ocioso en nuevos activos.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 4.95 puntos a falta de 11 días para terminar mi periodo de evaluación, lo que genera tensión. No voy a cometer el error de arriesgar de más desesperadamente; prefiero mantener un riesgo controlado y aceptar un posible aviso antes que arruinar la cartera.
+
+Valor de la cartera: 9,673.32 $

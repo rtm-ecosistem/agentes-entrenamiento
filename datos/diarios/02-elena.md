@@ -375,3 +375,31 @@ Valor de la cartera: 10,176.60 $
 **Mi puesto.** Voy por delante del S&P 500 por 0.29 puntos en mi periodo de evaluación, lo cual valida mi enfoque prudente, por lo que mantendré la estrategia sin forzar operaciones para conservar mi puesto.
 
 Valor de la cartera: 10,253.23 $
+
+## 2026-08-20
+
+**Nota de mi predicción del 2026-08-13.** Dije que SPY lo haría mejor que el S&P 500: hizo -1.2% frente a -1.2%. Fallo.
+
+## 2026-08-20
+
+**Decido realizar un rebalanceo parcial vendiendo una fracción de GLD, que ha superado las expectativas macroeconómicas, para reinvertir en IEF y renta variable de forma muy controlada.**
+
+**Mercado.** El mercado muestra un comportamiento mixto con ligera debilidad a cinco días en los índices principales, mientras sectores como energía y salud exhiben mayor resiliencia. Los bonos y el oro continúan reflejando una clara búsqueda de refugio por parte de los inversores ante el trasfondo de deuda récord y la alta rentabilidad de la deuda pública. Las tensiones geopolíticas y los datos macroeconómicos mantienen un tono de cautela general que aconseja no descuidar los activos defensivos.
+
+**Noticias.** He tenido en cuenta la noticia de que el bono del Tesoro a 10 años supera la rentabilidad por dividendo de la gran mayoría de las grandes empresas del S&P 500, lo que desvía capital hacia la renta fija. Asimismo, el notable rendimiento de GLD (+9.5% de resultado) activa mi regla estratégica de rebalancear un 5% hacia renta variable y otros activos cuando un defensivo supera las expectativas. La inyección récord de 1.900 millones de dólares en el fondo SPY confirma el movimiento hacia una inversión prudente y diversificada.
+
+**A favor.** El mejor argumento a favor de esta operación es que, siguiendo mi ajuste estratégico, aprovecho el excelente rendimiento de GLD para tomar beneficios parciales y rebalancear hacia IEF sin romper mi perfil cauto. Esto evita que me quede demasiado rezagada frente al índice general tras diez sesiones consecutivas sin operar.
+
+**En contra.** El principal argumento en contra es que el mercado muestra cierta debilidad técnica a corto plazo y la tentación de la inmovilidad absoluta garantiza no cometer errores operativos. Sin embargo, decido actuar porque mis propias reglas y notas de oficina advierten que la pasividad excesiva acumula un desfase perjudicial frente al S&P 500.
+
+**Operaciones**
+- **Vender** 0.4809 GLD a 415.66 $ (199.90 $). Tomo beneficios parciales en oro tras su fuerte subida del 9.5% para cumplir con mi regla de rebalanceo estratégico.
+- **Comprar** 2.1466 IEF a 93.17 $ (200.00 $). Incremento ligeramente la posición en bonos del Tesoro IEF aprovechando la liquidez obtenida y manteniendo la base defensiva.
+
+**Riesgos.** Veo riesgos en la volatilidad de los sectores tecnológicos y en la presión que ejerce la deuda soberana de Estados Unidos sobre las valoraciones bursátiles generales. Mantener stops estrictos sigue siendo fundamental para proteger el capital acumulado en caso de giros bruscos del mercado.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis nuevos stops de protección, observar la reacción de los bonos ante los próximos datos económicos y mantener la disciplina de no realizar compras impulsivas fuera de mi estrategia prudente.
+
+**Mi puesto.** Voy por delante del S&P 500 por 0.82 puntos en la recta final de mi periodo de evaluación, lo que me otorga un margen de tranquilidad que no debo comprometer arriesgando de más. Mantendré la cartera equilibrada entre ETFs amplios y refugios para asegurar el puesto sin sobresaltos.
+
+Valor de la cartera: 10,250.45 $

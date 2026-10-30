@@ -368,3 +368,30 @@ Valor de la cartera: 10,031.08 $
 **Mi puesto.** Llevamos 9 días del periodo de evaluación y vamos por delante del S&P 500 por 1.05 puntos, por lo que conservamos nuestro puesto temporalmente. Mantendremos la disciplina estricta de nuestra estrategia de valor para proteger esta ventaja sin asumir riesgos innecesarios.
 
 Valor de la cartera: 10,085.24 $
+
+## 2026-08-20
+
+**Nota de mi predicción del 2026-08-13.** Dije que AAPL lo haría mejor que el S&P 500: hizo +4.2% frente a -1.2%. Acierto.
+
+## 2026-08-20
+
+**Mantenemos nuestra disciplina de valor y el efectivo actual ante la falta de correcciones suficientes en las empresas sólidas de la tabla.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto con debilidad en tecnología, mientras sectores defensivos y la renta fija reciben flujos por búsqueda de refugio. La presión sobre los bonos del Tesoro y la elevada deuda nacional generan un entorno de cautela para la renta variable. A pesar de todo, los indicadores líderes sugieren que la economía estadounidense se mantiene resiliente.
+
+**Noticias.** Hemos analizado noticias clave como la inyección récord de 1.900 millones en el SPY y el hecho de que un bono del Tesoro a 10 años pague más que la gran mayoría de dividendos del S&P 500, lo que justifica nuestra cautela con el efectivo. También seguimos de cerca los acuerdos en inteligencia artificial de grandes tecnológicas como Google y Marvell, así como el repunte del Bitcoin tras la cumbre cripto. Para nuestra cartera, Apple se mantiene estable y demuestra fortaleza frente a las caídas generales del mercado.
+
+**A favor.** El mejor argumento para no operar hoy es que ninguna empresa sólida de la tabla cumple el umbral estricto de corrección del 6% en 30 días fijado en nuestra estrategia, evitando comprar en máximos o perseguir modas.
+
+**En contra.** El principal argumento en contra de mantener tanta liquidez es el coste de oportunidad frente a un S&P 500 invertido al 100%, especialmente cuando llevamos varios días sin operar. Sin embargo, nuestra prioridad es proteger el capital y no forzar compras que contradigan nuestros criterios de valor.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que la rentabilidad de los bonos del Tesoro desvíe masivamente capital fuera de la bolsa y que nuestra elevada posición en efectivo nos haga perder terreno si el mercado reanuda su tendencia alcista con fuerza.
+
+**Plan.** Vigilaremos de cerca la evolución de nuestra posición en Apple y mantendremos los radares activos sobre grandes empresas de la tabla para detectar retrocesos temporales válidos que se ajusten a nuestras reglas de valor.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1.53 puntos, por lo que conservamos nuestro puesto temporalmente; mantendremos la disciplina de valor sin arriesgar de más para proteger este margen.
+
+Valor de la cartera: 10,077.88 $

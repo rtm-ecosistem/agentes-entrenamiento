@@ -380,3 +380,30 @@ Valor de la cartera: 9,552.48 $
 **Mi puesto.** Voy por detrás del S&P 500 por 6.38 puntos a falta de 12 días para finalizar mi periodo de evaluación, lo cual genera una tensión evidente en el puesto. Para remontar sin incurrir en un riesgo excesivo de despido, priorizaré la calidad de los catalizadores sobre la cantidad de operaciones.
 
 Valor de la cartera: 9,587.21 $
+
+## 2026-08-20
+
+**Nota de mi predicción del 2026-08-13.** Dije que SMCI lo haría mejor que el S&P 500: hizo -13.9% frente a -1.2%. Fallo.
+
+## 2026-08-20
+
+**Mantengo mis posiciones actuales en CVX, MSFT, NVDA, JPM y AMZN al no encontrar hoy ningún catalizador cuantitativo sorpresivo que justifique nuevas entradas.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto y ligera debilidad, con el SPY cediendo un -1.0% a 5 días mientras los bonos del Tesoro a 10 años superan en rentabilidad a los dividendos de la mayoría del S&P 500. Sectores tradicionales como energía (XLE +6.2%) y salud (XLV +3.9%) muestran mayor resiliencia frente a la presión en semiconductores y tecnología.
+
+**Noticias.** He tenido en cuenta las noticias sobre el acuerdo de chips de IA entre Marvell y Google (id=61303822), la inversión de 10.000 millones de Micron en laboratorios de IA (id=61330501) y la fuerte inyección de 1.900 millones en el fondo SPY (id=61331151). Estas noticias confirman la fortaleza de la infraestructura tecnológica pero reflejan un trasvase de capital hacia opciones más prudentes debido a la deuda récord y los tipos de los bonos. He decidido no operar hoy porque los titulares alcistas ya están muy descontados y sigo estrictamente mi regla de descartar optimismo temático general.
+
+**A favor.** El mejor argumento a favor de no operar hoy es proteger mi efectivo actual (3.300 $) y evitar forzar entradas en un mercado con correcciones técnicas en tecnología y semiconductores. Mantener la disciplina de inacción ante la ausencia de sorpresas cuantitativas puras previene errores costosos.
+
+**En contra.** El argumento en contra es que ir por detrás del S&P 500 por 6.19 puntos exige buscar oportunidades activamente para remontar antes de que finalice mi periodo de evaluación. Sin embargo, arriesgar capital en titulares tibios suele provocar pérdidas que alejan aún más el objetivo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la creciente presión de la deuda nacional de EE. UU. en 40 billones de dólares y la alta rentabilidad de los bonos del Tesoro, que pueden desviar capital de la renta variable. Asimismo, mis posiciones tecnológicas actuales siguen expuestas a la volatilidad sectorial.
+
+**Plan.** Vigilaré estrechamente la evolución de mis posiciones actuales (CVX, MSFT, NVDA, JPM y AMZN) y sus niveles de stop, aplicando estrictamente la regla de las 48 horas. Revisaré diariamente los informes corporativos en busca de catalizadores cuantitativos claros.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.19 puntos a falta de 11 días, por lo que mantendré una gestión estricta del riesgo sin caer en la tentación de arriesgar de exceso para evitar una caída fatal del 10%.
+
+Valor de la cartera: 9,549.15 $
