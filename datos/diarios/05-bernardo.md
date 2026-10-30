@@ -910,3 +910,30 @@ Valor de la cartera: 10,197.63 $
 ## 2026-09-16 13:00
 
 **Stop automático.** Vendo BAC: Stop alcanzado (58.22 $ ≤ 58.33 $): se corta la pérdida.
+
+## 2026-09-17
+
+**Nota de mi predicción del 2026-09-10.** Dije que KO lo haría mejor que el S&P 500: hizo -0.6% frente a +0.2%. Fallo.
+
+## 2026-09-17
+
+**Mantengo una rigurosa inactividad hoy, confiando en que el tiempo y la excelente calidad de nuestras empresas trabajen en silencio.**
+
+**Mercado.** Los índices principales muestran ligeras subidas diarias mientras el sector tecnológico lidera los avances apoyado por la inteligencia artificial. No obstante, persisten las dudas sobre la inflación en los servicios y las advertencias acerca de una posible masificación en la inversión de chips.
+
+**Noticias.** Hemos tenido noticias sobre el fuerte consumo minorista en EE. UU., datos de inflación persistente y movimientos estratégicos de Google en energía nuclear. Estas informaciones reflejan un entorno macroeconómico mixto que no altera los fundamentos a largo plazo de los negocios que poseemos.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestra cartera de Berkshire Hathaway ya está compuesta por negocios extraordinarios que generan valor por sí mismos. Mantenernos cruzados de brazos evita cometer errores impulsados por el ruido diario del mercado.
+
+**En contra.** Podría argumentarse que estamos perdiendo oportunidades al no comprar nuevos valores de la fuente o no aprovechar el optimismo tecnológico reciente. Sin embargo, arriesgar de más por puro aburrimiento suele acabar en pérdidas innecesarias.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en una posible corrección del sector tecnológico debido a valoraciones elevadas y en la persistencia de tipos de interés altos. No obstante, nuestras posiciones defensivas y de gran consumo nos protegen parcialmente de estos vaivenes.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cuatro posiciones principales y dejar que la cartera actúe sin interferencias.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 0,45 puntos y nuestra prioridad absoluta es conservar esta ventaja protegiendo el capital acumulado sin correr riesgos innecesarios.
+
+Valor de la cartera: 10,117.84 $

@@ -897,3 +897,26 @@ Valor de la cartera: 10,155.28 $
 **Mi puesto.** Vamos por delante del S&P 500 por 3.53 puntos tras concluir nuestro periodo de evaluación con éxito. Nuestro plan es proteger esta ventaja mediante la disciplina estricta de valor y la paciencia operativa.
 
 Valor de la cartera: 10,183.08 $
+
+## 2026-09-17
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos la liquidez, esperando correcciones de más del 8% en empresas sólidas antes de actuar.**
+
+**Mercado.** Los índices principales como el S&P 500 y el Nasdaq registran ligeras subidas diarias respaldadas por la fortaleza de las ventas minoristas, aunque persisten las dudas por la inflación y los tipos de interés elevados. El sector tecnológico sigue liderando la atención, pero el mercado muestra una selectividad muy marcada ante las valoraciones exigentes.
+
+**Noticias.** Hemos tenido en cuenta el informe sobre el IPC de agosto que confirma una inflación persistente en servicios, lo que podría mantener los tipos de tipos altos y penalizar a las valoraciones más estiradas. Asimismo, valoramos las advertencias de Bank of America sobre la masificación de la inversión en chips de inteligencia artificial, lo que refuerza nuestro escepticismo ante las modas alcistas. Por otro lado, las sólidas ventas minoristas demuestran que la economía real aguanta bien, aunque no justifican pagar precios desbocados por las acciones.
+
+**A favor.** El mejor argumento a favor de mantener el efectivo es que ninguna gran empresa sólida de nuestra tabla cumple actualmente con nuestra regla estricta de corrección del 8% en 30 días, evitando compras precipitadas en máximos.
+
+**En contra.** El mejor argumento en contra es que mantener un 79% en efectivo en un mercado alcista nos hace correr el riesgo de perder rentabilidad frente al S&P 500, pero priorizamos la protección del capital frente a la presión de operar por operar.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo para nuestra cartera es la persistencia de la inflación y una posible corrección en el sector tecnológico debido a la sobreinversión en inteligencia artificial que contagie a nuestras posiciones.
+
+**Plan.** Mantendremos una vigilancia estrecha sobre nuestra posición actual en Apple y seguiremos rastreando la tabla de mercado en busca de empresas sólidas que presenten caídas temporales superiores al 8%.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 3.45 puntos tras superar nuestro periodo de evaluación anterior, por lo que mantendremos el rigor analítico y nuestra estrategia defensiva sin arriesgar el puesto.
+
+Valor de la cartera: 10,176.64 $

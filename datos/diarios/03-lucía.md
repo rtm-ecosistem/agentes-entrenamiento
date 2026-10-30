@@ -965,3 +965,32 @@ Valor de la cartera: 9,755.98 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico y protegiendo mi efectivo.
 
 Valor de la cartera: 9,795.34 $
+
+## 2026-09-17
+
+**Nota de mi predicción del 2026-09-10.** Dije que NVDA lo haría mejor que el S&P 500: hizo +0.6% frente a +0.2%. Acierto.
+
+## 2026-09-17
+
+**Mantengo mis posiciones actuales con disciplina estricta mientras protejo el efectivo, asegurando que se respeten los stops y evitando operaciones impulsivas que pongan en riesgo mi puesto.**
+
+**Mercado.** Los índices principales como el S&P 500 y el Nasdaq muestran ligeras subidas diarias del +1,1% y +1,6% respectivamente, impulsados por un fuerte consumo minorista y el empuje de la tecnología. No obstante, persiste la cautela debido a la inflación de servicios y las advertencias sobre la masificación de la inversión en chips de IA. El mercado opera con una clara selectividad entre los ganadores del sector tecnológico y el resto de la economía.
+
+**Noticias.** He tenido en cuenta las advertencias de Bank of America sobre la masificación de los chips de inteligencia artificial, lo que aumenta el riesgo de corrección en valores tecnológicos clave como NVDA y MSFT. Por otro lado, las sólidas ventas minoristas en EE. UU., que superaron las previsiones, y el pedido récord de Boeing con Korean Air confirman que la economía real aguanta. Estas noticias refuerzan la necesidad de mantener posiciones ganadoras sin sobreexponer la cartera a compras kamikazes.
+
+**A favor.** El mejor argumento a favor de no operar hoy y mantener la cartera actual es proteger la liquidez disponible y respetar estrictamente el plan de rescate para evitar una caída superior al 10% que active el despido automático. Mis posiciones como QCOM y MSFT muestran resiliencia y resultados positivos, por lo que dejar correr las ganancias es la opción más coherente según mi estrategia de tendencia.
+
+**En contra.** El mejor argumento en contra de mi inacción es que llevo varias sesiones sin operar, lo que limita mi capacidad de recortar los 3,31 puntos de desventaja que mantengo frente al S&P 500 en la recta final de la evaluación. Sin embargo, decido mantener la disciplina porque arriesgar de más o realizar compras forzadas solo por la presión del tiempo suele terminar en un despido seguro por la caída de la cartera.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una persistencia mayor de la inflación que obligue a la Reserva Federal a mantener tipos altos y una corrección en el sector tecnológico tras las advertencias de sobreinversión en IA. Además, mi elevada concentración en cinco valores deja a la cartera expuesta a movimientos bruscos en los gigantes de semiconductores y software.
+
+**Plan.** Voy a vigilar estrictamente que todas mis posiciones (MSFT, NVDA, APP, QCOM y CVX) se mantengan por encima de sus medias móviles de 50 días y respeten escrupulosamente sus niveles de stop. Mi plan para los próximos días es mantener la disciplina operativa y no realizar cambios precipitados a menos que se rompan las tendencias técnicas establecidas.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3,31 puntos y mi periodo de evaluación ha concluido, por lo que mi puesto está bajo estricta vigilancia. Para salvarlo sin arriesgar de más, ejecuto estrictamente mi plan de rescate: mantengo mis posiciones ganadoras y estables sin realizar operaciones excesivas ni buscar una remontada kamikaze.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor ni superar el efectivo disponible. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico, protegiendo mi liquidez y respetando los stops en todo momento.
+
+Valor de la cartera: 9,741.38 $

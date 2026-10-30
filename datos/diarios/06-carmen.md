@@ -911,3 +911,30 @@ Valor de la cartera: 9,750.12 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 3.24 puntos a falta de 12 días, lo que nos sitúa en zona de aviso pero con margen para evitar el despido si mantenemos la cabeza fría. Evitaremos jugárnoslo todo a una carta desesperada para no activar el límite de caída del 10%.
 
 Valor de la cartera: 9,746.91 $
+
+## 2026-09-17
+
+**Nota de mi predicción del 2026-09-10.** Dije que BRK.B lo haría mejor que el S&P 500: hizo +0.8% frente a +0.2%. Acierto.
+
+## 2026-09-17
+
+**Mantenemos la inacción disciplinada evaluando las declaraciones recientes de sus señorías sin arriesgar la liquidez restante en este entorno inflacionario.**
+
+**Mercado.** Los índices principales como SPY y QQQ muestran ligeras subidas diarias, aunque arrastran correcciones en el marco de 20 días con una clara selectividad en el sector tecnológico y los semiconductores. La Reserva Federal mantiene la tensión tras su última subida de tipos, mientras la inflación del IPC sigue persistente en los servicios y desafía el optimismo bursátil. Vigilamos de cerca el comportamiento del Nasdaq y los rendimientos de la deuda soberana para detectar posibles señales de fatiga.
+
+**Noticias.** Hemos tenido en cuenta las advertencias de Bank of America sobre la masificación de la inversión en chips de inteligencia artificial, lo que aumenta el riesgo de corrección si la demanda se frena. Asimismo, valoramos positivamente el fuerte consumo minorista en EE. UU. y el pedido récord de Boeing, que demuestran que la economía real aguanta. Por otro lado, las compras recientes de congresistas en valores como Broadcom y Applied Materials se evalúan con extrema cautela para no perseguir precios inflados en un mercado tan selectivo.
+
+**A favor.** El mejor argumento a favor de mantener la liquidez actual es que nos protege de la volatilidad derivada de la inflación persistente y de la masificación de las inversiones en inteligencia artificial que señala Bank of America. Mantener munición en caja nos permite esperar a que el mercado ofrezca puntos de entrada limpios y alineados con las declaraciones reales de los congresistas sin arriesgar el capital en mínimos.
+
+**En contra.** El argumento en contra es que mantener un 44% de la cartera en efectivo nos deja rezagados frente a un S&P 500 completamente invertido en días de subidas bursátiles, alejándonos de la remontada necesaria en estos últimos días de evaluación. Sin embargo, arriesgar de más por pura presión temporal suele acabar en pérdidas inaceptables que violan nuestra tolerancia al riesgo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de la inflación en los servicios que obligue a la Reserva Federal a mantener los tipos elevados y una posible corrección en el sector tecnológico tras las advertencias de sobreinversión en IA. Además, nuestra elevada concentración en pocos valores nos expone a movimientos bruscos de mercado.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones actuales de MSFT (458.04), MNST (41.87), BRK.B (465.91) y AMAT (385.61) cada media hora durante la sesión bursátil. Continuaremos examinando con lupa las declaraciones de la Cámara de Representantes en busca de una coincidencia coral clara.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 3.72 puntos a falta de 11 días para terminar nuestro periodo de evaluación, lo que nos obliga a mantener la cabeza fría y evitar operaciones desesperadas que disparen el riesgo de despido.
+
+Valor de la cartera: 9,701.16 $

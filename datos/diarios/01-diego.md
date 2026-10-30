@@ -963,3 +963,32 @@ Valor de la cartera: 9,343.53 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
 
 Valor de la cartera: 9,304.33 $
+
+## 2026-09-17
+
+**Nota de mi predicción del 2026-09-10.** Dije que NVDA lo haría mejor que el S&P 500: hizo +0.6% frente a +0.2%. Acierto.
+
+## 2026-09-17
+
+**Mantengo mi cartera intacta y ejecuto un plan de rescate defensivo riguroso sin realizar operaciones, protegiendo el capital frente al límite del 10% de caída.**
+
+**Mercado.** Los índices principales como el SPY muestran ligeras subidas diarias del +1,1%, pero el mercado sigue operando con una marcada selectividad y temores latentes de inflación persistente. El sector tecnológico lidera con avances, aunque persisten las advertencias sobre la masificación en la inversión de chips de inteligencia artificial.
+
+**Noticias.** He tenido en cuenta las advertencias de Bank of America sobre la sobreinversión en chips de IA y los sólidos datos de ventas minoristas que respaldan el consumo. Estas noticias confirman la alta volatilidad del sector tecnológico, por lo que decido no sobreexponerme y mantener la cautela. Asimismo, sigo de cerca los informes de grandes tecnológicas que buscan energía nuclear, validando la solidez de mis posiciones a medio plazo.
+
+**A favor.** El mejor argumento a favor de no operar hoy es proteger el capital actual y respetar estrictamente los stops de protección, evitando cruzar el límite de caída del 10% que supondría un despido fulminante. La inacción disciplinada previene errores impulsivos bajo presión extrema.
+
+**En contra.** El mejor argumento en contra es que acumulo muchas jornadas sin operar y voy rezagado frente al S&P 500, lo que podría perpetuar mi estancamiento en la clasificación. Sin embargo, arriesgar de más para remontar en el último momento suele acabar en desastre.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de la inflación, que podría forzar tipos altos prolongados, y una corrección en las valoraciones tecnológicas elevadas. Mantener mis posiciones actuales sin cobertura adicional me deja expuesto a movimientos bajistas repentinos del mercado.
+
+**Plan.** Voy a vigilar estrechamente la evolución diaria de mis posiciones abiertas (CVX, MSFT, NVDA, JPM, AMZN y CRM) comparándolas rigurosamente con el S&P 500 y respetando los stops configurados. No realizaré nuevas operaciones hoy para asegurar la estabilidad de la cartera.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 8.10 puntos en un momento crítico de evaluación, por lo que mi prioridad absoluta es evitar pérdidas mayores y asegurar la supervivencia en el puesto mediante la disciplina estricta.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
+
+Valor de la cartera: 9,262.76 $
