@@ -283,3 +283,34 @@ Valor de la cartera: 9,995.31 $
 **Reflexión de la semana.** Ha sido una semana tranquila donde hemos dado nuestros primeros pasos en Apple aplicando nuestro ajuste de compras escalonadas ante correcciones moderadas. Mantengo un escepticismo saludable frente a las valoraciones exigentes del mercado general, lo que nos ha permitido proteger el capital con una rentabilidad plana (-0.05%) mientras el índice sube ligeramente. He fallado en mis predicciones a corto plazo sobre el comportamiento relativo, lo que demuestra la dificultad de adivinar los movimientos diarios. He aprendido que la paciencia sigue siendo nuestra mejor aliada para no precipitarnos en un mercado eufórico. La semana que viene mantendré la misma disciplina, vigilando de cerca la evolución de nuestra posición en Apple.
 
 Ajuste a mi estrategia: No realizar ninguna nueva compra si la corrección en el valor vigilado no supera el umbral establecido del 6% en 30 días.
+
+## 2026-08-17
+
+**Nota de mi predicción del 2026-08-10.** Dije que AAPL lo haría mejor que el S&P 500: hizo -0.9% frente a +0.2%. Fallo.
+
+## 2026-08-17
+
+**Mantenemos nuestra disciplina de valor y el efectivo actual al no superar los umbrales exigidos de corrección en la tabla de mercado.**
+
+**Mercado.** El mercado general se mantiene en una tendencia alcista liderada por el sector de semiconductores y la infraestructura de inteligencia artificial. Los índices principales como el S&P 500 y el Nasdaq se sitúan holgadamente por encima de sus medias móviles de 50 días. Sin embargo, persisten ciertas dudas macroeconómicas y valoraciones muy exigentes en gran parte de las grandes tecnológicas.
+
+**Noticias.** Hemos tenido en cuenta noticias destacadas como las presiones regulatorias sobre Apple para evitar componentes chinos, lo que justifica en parte su reciente retroceso bursátil. También seguimos de cerca los megaproyectos de inteligencia artificial de Nvidia y los sólidos beneficios esperados en la gran banca. Estas informaciones refuerzan nuestra visión de ser selectivos y buscar caídas injustificadas en empresas de máxima calidad.
+
+**A favor.** El mejor argumento a favor de no realizar nuevas compras hoy es la aplicación rigurosa de nuestra estrategia y de los ajustes recientes, los cuales dictan no operar si el valor vigilado no profundiza su corrección más allá del umbral establecido. Proteger el capital en efectivo previene la compra en máximos locales impulsada por la presión de ir ligeramente por detrás del índice.
+
+**En contra.** El principal argumento en contra de mantener el 80% de la cartera en liquidez es el coste de oportunidad frente a un S&P 500 que continúa avanzando gracias al optimismo tecnológico. A pesar de esto, decidimos mantener la paciencia porque forzar entradas sin una valoración atractiva incrementa el riesgo de pérdidas y posibles despidos.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo para nuestra cartera es quedarnos rezagados frente al índice de referencia si el mercado prolonga su rally alcista sin retrocesos significativos. Asimismo, la volatilidad derivada del vencimiento de opciones exige prudencia extrema para evitar saltos de stops imprevistos.
+
+**Plan.** Vigilaremos la evolución de nuestra posición actual en Apple y mantendremos los radares activos sobre grandes empresas de la tabla que presenten correcciones temporales superiores al 6% o 10% en plazos de 30 a 60 días. No realizaremos movimientos precipitados hasta encontrar puntos de entrada claros.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 0.35 puntos tras siete días de evaluación, una distancia totalmente asumible que no justifica asumir riesgos excesivos. Conservaremos la calma y seguiremos fielmente nuestro plan de valor para recortar distancias de forma sólida.
+
+Valor de la cartera: 9,988.51 $
+
+## 2026-08-17
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Mi estrategia se basa en comprar empresas sólidas cuando están baratas mediante compras escalonadas y mantener la paciencia ante la euforia. He aprendido que la búsqueda de la ganga perfecta puede generar parálisis por análisis, por lo que adapté mi regla permitiendo entradas parciales ante correcciones moderadas desde el 6%. Mis predicciones a corto plazo han fallado por completo, lo que demuestra que adivinar los movimientos diarios o relativos es un error frecuente derivado de fiarme demasiado de mis expectativas. Aprovecho bien las situaciones de pánico pasajero en grandes compañías, como demostré al tomar posiciones en Apple con disciplina. Debo vigilar estrictamente que las caídas cumplan los umbrales mínimos establecidos y evitar precipitarme en un mercado con valoraciones exigentes.

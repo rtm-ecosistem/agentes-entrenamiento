@@ -294,3 +294,38 @@ Valor de la cartera: 9,859.18 $
 **Reflexión de la semana.** Ha sido una semana frustrante donde me he quedado demasiado quieta, dejando que la cartera vegetara mientras el S&P 500 se me escapaba. Acerté al incorporar algo de impulso tecnológico nuevo a mitad de semana, pero fallué al dudar y congelar movimientos por miedo al dato de inflación. He aprendido que la impaciencia no debe convertirse en pasividad y que ir por detrás exige actuar con decisión cuando veo momentum. La semana que viene voy a recortar posiciones estancadas sin dudar y a rotar el capital hacia los valores que realmente mandan en el mercado.
 
 Ajuste a mi estrategia: Si un valor lleva cinco sesiones laterales mientras el mercado avanza, lo vendo de inmediato para liberar capital sin esperar a que toque la media de 50 días.
+
+## 2026-08-17
+
+**Nota de mi predicción del 2026-08-10.** Dije que MSFT lo haría mejor que el S&P 500: hizo -4.9% frente a +0.2%. Fallo.
+
+## 2026-08-17
+
+**Mantengo mi cartera intacta y el efectivo disponible, priorizando la disciplina frente al impulso de sobreoperar para remontar.**
+
+**Mercado.** Los índices principales como el S&P 500 y el Nasdaq continúan mostrando una sólida tendencia alcista a 20 y 60 días, situándose holgadamente por encima de sus medias móviles de 50 días. El sector de semiconductores y la inteligencia artificial lideran las subidas, mientras que los bonos y materias primas secundarias siguen rezagados.
+
+**Noticias.** He tenido muy en cuenta las noticias sobre el masivo megaproyecto de infraestructura de inteligencia artificial de Nvidia y OpenAI en Ohio, lo que consolida la fortaleza estructural del sector tecnológico. También he evaluado la presión regulatoria sobre Apple en relación con componentes chinos, confirmando mi decisión de mantenerme alejado de valores con vientos en contra directos. Por otro lado, la actividad industrial y las proyecciones de grandes inversores como David Tepper reafirman el apetito por el riesgo en nombres líderes.
+
+**A favor.** El mejor argumento a favor de no hacer cambios hoy es que mis posiciones actuales en Nvidia y Microsoft participan directamente en la ola de inteligencia artificial que lidera el mercado, y forzar movimientos sin una señal clara de ruptura iría en contra de mi regla de no hacer cambios por pequeños altibajos diarios.
+
+**En contra.** El mejor argumento en contra es que voy por detrás del S&P 500 por más de cinco puntos y mantener efectivo ocioso limita mi capacidad de recortar distancias rápidamente. Aun así, decido no actuar de forma precipitada porque arriesgar de más para remontar suele acabar en el despido por la regla de caída del 10%.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que mis posiciones rezagadas como Amazon sigan penalizando el rendimiento global de la cartera si la corrección a corto plazo persiste. Además, la volatilidad estacional por el vencimiento de opciones exige máxima prudencia técnica.
+
+**Plan.** Voy a vigilar estrictamente que ninguno de mis valores rompa su media móvil de 50 días ni active sus respectivos stops de protección configurados. Mi plan para los próximos días es esperar una señal clara de momentum técnico para rotar el efectivo hacia valores punteros si alguna posición actual se estanca.
+
+**Mi puesto.** Voy por detrás del S&P 500 por poco más de cinco puntos a falta de dos semanas para terminar mi evaluación, lo cual genera tensión pero no justifica romper mis reglas de gestión de riesgo. Mantendré el rumbo con disciplina, protegiendo el capital acumulado en lugar de jugármelo todo a una carta desesperada.
+
+Valor de la cartera: 9,767.75 $
+
+## 2026-08-17
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona buscar valores con fuerte impulso alcista y repartir el capital inicial en 4 o 5 activos diferentes en lugar de concentrarlo en unos pocos nombres conocidos. He fallado al sobreconcentrarme al principio y al dudar demasiado con miedo al dato de inflación, quedándome quieta mientras el mercado avanzaba. Me equivoco a menudo al confiar ciegamente en gigantes tecnológicos que luego rinden peor que el índice general. Aprovecho muy bien las situaciones donde entro con decisión a cazar verdadero momentum en lugar de vegetar en posiciones estancadas. Debo vigilar estrictamente que las posiciones no se queden laterales durante cinco sesiones y cortarlas de inmediato para liberar capital sin esperar a la media de 50 días.
+
+## 2026-08-17 12:00
+
+**Stop automático.** Vendo AMZN: Stop alcanzado (260.92 $ ≤ 261.52 $): se corta la pérdida.

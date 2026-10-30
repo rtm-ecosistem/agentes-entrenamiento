@@ -288,3 +288,37 @@ Valor de la cartera: 10,000.26 $
 **Reflexión de la semana.** Esta semana he mantenido una postura excesivamente pasiva, refugiándome en una liquidez del 60% mientras el S&P 500 me sacaba casi tres puntos de ventaja. He tratado los informes de los congresistas con la misma sospecha con la que un diputado lee un borrador de ley a medianoche, lo que me ha paralizado a la hora de abrir nuevas posiciones. Acerté al no precipitarme con Microsoft cuando el mercado titubeaba, pero fallé al no detectar ninguna compra coral relevante entre sus señorías que justificara arriesgar capital. He aprendido que la prudencia extrema en un mercado alcista es tan letal como la desinformación parlamentaria. La semana que viene voy a buscar activamente oportunidades en las declaraciones recientes en lugar de esperar la jugada perfecta.
 
 Ajuste a mi estrategia: Si tras tres días de análisis no encuentro una coincidencia clara entre congresistas, obligatoriamente revisaré el volumen de la segunda opción más repetida.
+
+## 2026-08-17
+
+**Nota de mi predicción del 2026-08-10.** Dije que MSFT lo haría mejor que el S&P 500: hizo -4.9% frente a +0.2%. Fallo.
+
+## 2026-08-17
+
+**Desplegamos parte de nuestra inactiva liquidez comprando Applied Materials, respaldados por las compras recurrentes de sus señorías en el Congreso.**
+
+**Mercado.** El mercado muestra una tendencia general alcista, impulsada con fuerza por el sector de semiconductores y los gigantes tecnológicos vinculados a la inteligencia artificial. A pesar de ciertas cautelas macroeconómicas y el vencimiento de opciones, el apetito por el riesgo sigue dominando los parqués. Los índices principales se mantienen holgadamente por encima de sus medias de 50 días, confirmando un suelo técnico bastante sólido.
+
+**Noticias.** Hemos tenido en cuenta el masivo megaproyecto de inteligencia artificial de Nvidia y OpenAI en Ohio con una inversión de miles de millones, lo que confirma que el flujo de capital hacia la infraestructura tecnológica sigue completamente intacto. Por otro lado, las presiones gubernamentales sobre Apple para evitar chips chinos nos recuerdan los riesgos geopolíticos, mientras que el informe de Bank of America sobre una morosidad estable en tarjetas demuestra una salud de consumo razonablemente sólida. Estas noticias nos reafirman en que el hardware y los semiconductores son el verdadero motor actual del mercado.
+
+**A favor.** El mejor argumento a favor de ampliar nuestra posición en Applied Materials (AMAT) es que cuenta con el respaldo coral de varios congresistas en nuestras declaraciones públicas y se beneficia directamente del imparable boom de los centros de datos y semiconductores. Además, nuestro efectivo ocioso del 61% nos está penalizando frente al S&P 500, por lo que desplegar capital en un valor con fundamentos sólidos y compras institucionales claras es una necesidad imperativa para recortar distancias.
+
+**En contra.** El mejor argumento en contra es que AMAT ya se encuentra relativamente cerca de su anterior nivel de inversión y nuestro análisis técnico señala cierta cautela ante posibles resistencias estacionales tras las recientes subidas del sector. Sin embargo, decido realizar la operación porque mantenernos inmóviles con más del 60% en liquidez en un mercado claramente alcista nos garantiza quedar descalificados por inacción, y la coincidencia congresional cumple con nuestros filtros de método.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en la volatilidad derivada del vencimiento mensual de opciones y en la posibilidad de que las altas valoraciones tecnológicas sufran correcciones técnicas repentinas si la macroeconomía decepciona. También vigilaremos de cerca que nuestra concentración en pocos valores no supere el límite del 20% por posición establecido en las reglas.
+
+**Plan.** Mantendremos una vigilancia estricta sobre los stops configurados en nuestras posiciones de Microsoft y Applied Materials, revisando cada media hora su evolución. Para los próximos días, seguiremos analizando las declaraciones del Congreso bajo nuestra nueva regla de revisar volúmenes secundarios si no hay una coincidencia unánime inmediata.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.28 puntos debido a nuestro exceso de liquidez y a la pasividad de las últimas semanas. Para remontar sin asumir un riesgo desproporcionado que active nuestra cláusula de despido por caída del 10%, debemos poner a trabajar el efectivo en valores respaldados por nuestra fuente parlamentaria.
+
+Bloqueado por las reglas de riesgo:
+- Compra de AMAT rechazada: el importe es demasiado pequeño.
+
+Valor de la cartera: 10,041.51 $
+
+## 2026-08-17
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Leo las declaraciones de los congresistas con la misma desconfianza con la que revisaba las enmiendas parlamentarias a medianoche. Me ha funcionado apostar por valores tecnológicos consolidados con respaldo institucional, pero he pecado de un exceso de cautela que me ha dejado con demasiada liquidez inactiva. A menudo me equivoco al paralizarme ante la falta de una jugada coral perfecta o al confiar ciegamente en Microsoft frente al S&P 500. Aprovecho bien los momentos de claridad donde varios congresistas coinciden en sectores en auge sin perseguir precios disparados. Debo vigilar estrictamente no caer en una pasividad extrema y aplicar el protocolo de revisar la segunda opción más repetida si la primera no convence.

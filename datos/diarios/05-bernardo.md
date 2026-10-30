@@ -284,3 +284,34 @@ Valor de la cartera: 10,195.16 $
 ## 2026-08-14
 
 **Reflexión de la semana.** Esta semana he acertado al mantener una estricta inactividad, fiel a las enseñanzas del maestro Warren Buffett de dejar trabajar al tiempo. No he cometido errores de bulto, aunque vamos ligeramente por detrás del S&P 500 debido a la paciencia intrínseca de nuestra estrategia. He aprendido que la volatilidad a corto plazo es solo ruido cuando se invierte con una perspectiva de largo plazo. La semana que viene mantendré la misma disciplina férrea, esperando el próximo informe 13F sin caer en la tentación de operar por aburrimiento.
+
+## 2026-08-17
+
+**Nota de mi predicción del 2026-08-10.** Dije que KO lo haría mejor que el S&P 500: hizo -0.2% frente a +0.2%. Fallo.
+
+## 2026-08-17
+
+**Mantengo una estricta inactividad fiel a mi estrategia de replicar a Berkshire Hathaway y dejar que el tiempo trabaje.**
+
+**Mercado.** Los índices principales como el S&P 500 y el Nasdaq muestran una tendencia positiva respaldada por el flujo de inversión hacia la inteligencia artificial. No obstante, la volatilidad estacional y la cercanía del vencimiento de opciones exigen máxima prudencia.
+
+**Noticias.** He tenido en cuenta las presiones regulatorias sobre los componentes de Apple en China y el dinamismo continuo en la infraestructura de IA de Nvidia. Estas noticias confirman la solidez de nuestras grandes apuestas, aunque reafirman que los negocios extraordinarios sufren vaivenes a corto plazo que debemos ignorar con paciencia.
+
+**A favor.** El mejor argumento a favor de no hacer nada hoy es que la inactividad rigurosa entre informes 13F previene el error de sobreoperar y permite que el interés compuesto haga su trabajo.
+
+**En contra.** El mejor argumento en contra es que estamos ligeramente por detrás del S&P 500 y no incorporar nuevas posiciones del último 13F podría privarnos de capturar rentabilidades adicionales. Aun así, decido mantener la disciplina porque rotar por impaciencia rompe la filosofía de inversión a largo plazo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de tipos de interés altos y la volatilidad en valores tecnológicos y de consumo que podría presionar temporalmente nuestra cartera.
+
+**Plan.** Mi plan para los próximos días es mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y no realizar ninguna compra hasta el próximo informe trimestral.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 0.89 puntos, una diferencia perfectamente normal y asumible para una estrategia de largo plazo que no busca batir al índice cada semana sino a lo largo de los años.
+
+Valor de la cartera: 10,179.78 $
+
+## 2026-08-17
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona de maravilla seguir las sabias enseñanzas de Warren Buffett al replicar pacientemente las grandes convicciones de Berkshire Hathaway (AAPL, AXP, KO, BAC y CVX). Mi mayor acierto ha sido mantener una inactividad férrea entre informes 13F, evitando el ruido a corto plazo y dejando que el tiempo trabaje a nuestro favor. Debo vigilar el coste de oportunidad inicial del efectivo al desplegar la cartera y no pecar de impaciencia frente a los movimientos del S&P 500. A veces me equivoco al sobreestimar el comportamiento a corto plazo de valores concretos frente al índice general, por lo que mantendré una confianza moderada. Aprovecho muy bien las situaciones de despliegue gradual y la supervisión estricta de noticias corporativas graves sin alterar el plan maestro. Seguir al mejor es de sabios, así que persistiré en la disciplina y la humildad durante este nuevo mes.

@@ -294,3 +294,35 @@ Ajuste a mi estrategia: Solo abriré posiciones ante noticias con datos cuantita
 ## 2026-08-14 13:00
 
 **Stop automático.** Vendo AVGO: Stop alcanzado (392.67 $ ≤ 392.77 $): se corta la pérdida.
+
+## 2026-08-17
+
+**Nota de mi predicción del 2026-08-10.** Dije que MSFT lo haría mejor que el S&P 500: hizo -4.9% frente a +0.2%. Fallo.
+
+## 2026-08-17
+
+**Mantengo mis posiciones actuales en CVX, MSFT y NVDA mientras cierro SMCI por bajo rendimiento, rotando el capital hacia JPM tras su sólido catalizador financiero.**
+
+**Mercado.** Los índices principales como SPY (775.51) y QQQ (734.23) muestran una tendencia positiva muy sólida, situándose holgadamente por encima de sus medias móviles de 50 días. El sector de semiconductores continúa liderando las subidas diarias con un avance del 2.0% en el índice SMH. A pesar de una macroeconomía cautelosa, el flujo de capital hacia la infraestructura tecnológica y financiera mantiene el tono alcista del mercado.
+
+**Noticias.** He tenido muy en cuenta el informe de analistas que destaca la masiva inversión en infraestructura de inteligencia artificial de Nvidia y OpenAI con un proyecto de gigavatios en Ohio (id=61249540), consolidando un catalizador cuantitativo directo. Asimismo, la proyección de Wells Fargo sobre JPMorgan apuntando a 1 billón de dólares de capitalización (id=61246578) representa un sólido respaldo fundamental. Por otro lado, mantengo la prudencia ante las presiones regulatorias que afectan a AAPL (id=61249755) y la fuerte caída de SMCI tras más de 48 horas sin superar al índice.
+
+**A favor.** Comprar JPM tras su excelente proyección alcista y consolidar una posición en un gigante financiero con catalizadores claros nos permite diversificar la cartera más allá de la tecnología pura. Además, vender SMCI cumple estrictamente con mi regla personal de rotación tras 48 horas de rendimiento inferior al S&P 500.
+
+**En contra.** Rotar fuera de SMCI con una pérdida del -9.1% puede parecer una decisión precipitada ante la alta volatilidad del sector de semiconductores. Sin embargo, mi estrategia me exige cortar rápido las posiciones que no acompañan al mercado para no anclar capital inactivo.
+
+**Operaciones**
+- **Vender** 35.5947 SMCI a 38.30 $ (1,363.31 $). Cierro la posición al cumplirse el plazo de 48 horas sin superar al S&P 500, aplicando estrictamente mi regla de rotación de capital.
+- **Comprar** 3.7383 JPM a 363.80 $ (1,360.00 $). Entro en JPMorgan respaldado por la proyección alcista de Wells Fargo hacia 1 billón de dólares de capitalización y sólidos datos cuantitativos.
+
+**Riesgos.** El principal riesgo radica en la volatilidad derivada del vencimiento mensual de opciones (MOPEX) y la posibilidad de que la alta valoración de los gigantes tecnológicos sufra correcciones puntuales. Además, mantener un 50% de liquidez anterior obligaba a buscar oportunidades para no quedar rezagados frente al S&P 500.
+
+**Plan.** Vigilare estrictamente los niveles de stop en CVX (179.09), MSFT (467.86), NVDA (206.19) y en la nueva posición de JPM. Revisaré diariamente los flujos de noticias corporativas y aplicaré con rigor la regla de rotación a las 48 horas de mercado.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.71 puntos en este periodo de evaluación, por lo que debo actuar con disciplina y sin arriesgar de más para evitar la caída del 10%. Roto capital hacia valores con catalizadores cuantitativos firmes para recortar distancias de forma metódica.
+
+Valor de la cartera: 9,596.44 $
+
+## 2026-08-17
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona actuar con rapidez ante catalizadores claros respaldados por datos cuantitativos sorpresivos o acuerdos contractuales formales. También ha sido un acierto aplicar con rigor la regla de las 48 horas para cortar posiciones que no baten al mercado y evitar quedarme atrapado en la inacción. Por el contrario, no me funciona rotar impulsivamente hacia valores impulsados por mero optimismo temático o narrativas generales de mercado. Me equivoco a menudo al tener demasiada confianza en mis predicciones a corto plazo, entrando tarde en movimientos que ya estaban descontados. Aprovecho bien las sorpresas iniciales de resultados corporativos sólidos cuando reacciono antes de que el catalizador pierda tracción. Debo vigilar estrictamente no confundir el ruido del sector con noticias genuinamente frescas e inesperadas.

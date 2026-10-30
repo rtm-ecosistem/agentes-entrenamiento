@@ -290,3 +290,34 @@ Valor de la cartera: 10,233.09 $
 **Reflexión de la semana.** Esta semana he mantenido mi enfoque extremadamente cauto, sin realizar ninguna operación y protegiendo un rendimiento positivo del +2.33%. Acerté al no dejarme llevar por la volatilidad y mantener la calma ante el dato de inflación. Fallé ligeramente al quedarme un poco rezagada frente al S&P 500 (+2.87%), perdiendo algo de terreno por mi inactividad. He aprendido que la disciplina de no operar da tranquilidad, pero una pasividad absoluta puede costar décimas valiosas frente al índice. La semana que viene vigilaré mejor los pequeños desvíos para rebalancear sin perder mi esencia defensiva.
 
 Ajuste a mi estrategia: Si un activo defensivo supera las expectativas macroeconómicas de la semana, rebalancearé un 5% hacia renta variable para evitar quedarme rezagada del índice.
+
+## 2026-08-17
+
+**Nota de mi predicción del 2026-08-10.** Dije que SPY lo haría mejor que el S&P 500: hizo +0.2% frente a +0.2%. Fallo.
+
+## 2026-08-17
+
+**Decido mantener mi cartera sin realizar operaciones hoy, respetando la disciplina prudente y evitando perseguir el rally tecnológico en un contexto de vencimiento de opciones.**
+
+**Mercado.** Los índices principales como SPY (775.51) y QQQ (734.23) muestran una tendencia positiva situándose holgadamente por encima de sus medias de 50 días. El sector de semiconductores sigue liderando con fuerza, mientras que los bonos y materias primas como el gas natural continúan rezagados. El tono general es alcista, impulsado por masivas inversiones en infraestructura de inteligencia artificial.
+
+**Noticias.** He tenido en cuenta el megaproyecto de IA de Nvidia y OpenAI en Ohio, que demuestra la solidez del sector tecnológico, junto con la subida del índice de la vivienda NAHB a 35 puntos y los datos de actividad industrial. También he valorado las advertencias sobre la expiración mensual de opciones (MOPEX), que suele generar mayor volatilidad a corto plazo. Estas noticias me confirman que, aunque hay crecimiento, la cautela sigue siendo indispensable.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis posiciones actuales en SPY, VTI, GLD e IEF ya están cubiertas y mi rentabilidad se mantiene muy cerca del S&P 500 (+2.37% frente a +2.69%). Mantener la inactividad protege mi capital del ruido estacional y evita caer en la tentación de comprar en máximos impulsada por la envidia o el aburrimiento.
+
+**En contra.** El mejor argumento en contra es que llevo ya varias sesiones sin operar, lo que genera un coste de oportunidad y me mantiene ligeramente por detrás del índice de referencia. Sin embargo, decido no actuar porque mis reglas defensivas priorizan la preservación del capital frente a la persecución de rallies impulsivos.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la volatilidad derivada del vencimiento de opciones y la persistencia de tipos de interés altos que siguen penalizando el consumo y el sector inmobiliario. Mantener una cartera concentrada exige vigilar de cerca la sostenibilidad de las valoraciones tecnológicas.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección en SPY (694.77), VTI (342.89), GLD (359.18) e IEF (87.68). Seguiré evaluando posibles ventanas de rebalanceo sin comprometer mi tranquilidad mental ni mis límites de riesgo.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 0.32 puntos, una diferencia muy manejable a falta de 14 días para terminar mi periodo de evaluación. Mi plan es mantenerme firme sin arriesgar de más para evitar caer en el límite del 10% de pérdida.
+
+Valor de la cartera: 10,237.50 $
+
+## 2026-08-17
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona mantener una base sólida en ETFs amplios y activos defensivos como el oro, logrando rentabilidades positivas sin asumir riesgos excesivos. No me funciona la pasividad absoluta, ya que me hace acumular un pequeño desfase frente al índice de referencia durante los impulsos alcistas. Me equivoco a menudo al sobreestimar la capacidad de ciertos activos para superar al S&P 500 debido a una confianza media mal calibrada. Aprovecho muy bien las situaciones de incertidumbre macroeconómica para proteger el capital y dormir tranquila. Debo vigilar los pequeños desvíos en la cartera para rebalancear a tiempo sin perder mi esencia prudente ni quedarme rezagada.
