@@ -36,11 +36,11 @@ def escribir() -> None:
             caida = min(caida, v / maximo - 1)
         r = h[-1] / config.CAPITAL_INICIAL - 1
         titulo = a["estrategia"].splitlines()[0].lstrip("# ").strip()
-        lineas.append(f"| {a['nombre']} | {titulo} | {h[-1]:,.0f} $ | {r:+.1%} | {(r - sp) * 100:+.1f} puntos | "
+        lineas.append(f"| {a.get('alias', a['nombre'])} | {titulo} | {h[-1]:,.0f} $ | {r:+.1%} | {(r - sp) * 100:+.1f} puntos | "
                       f"{caida:.1%} | {operaciones.get(a['id'], 0)} |")
     lineas += ["", "## Lo que ha aprendido cada uno", ""]
     for a in diarios:
-        lineas += [f"### {a['nombre']}", ""]
+        lineas += [f"### {a.get('alias', a['nombre'])} ({a['nombre']})", ""]
         reglas = [r for r in a.get("reglas", []) if not r.get("tachada")]
         lineas += [f"- {r['texto']}" for r in reglas] or ["- (sin reglas propias)"]
         if a.get("reflexiones"):
