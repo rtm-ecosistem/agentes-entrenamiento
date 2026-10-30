@@ -743,3 +743,30 @@ Ajuste a mi estrategia: No realizaré ninguna orden de compra en las últimas 48
 **Mi puesto.** Vamos por delante del S&P 500 por 1.48 puntos al concluir nuestro periodo, por lo que la prioridad absoluta es asegurar el puesto mediante la protección de los beneficios acumulados y la estricta inacción.
 
 Valor de la cartera: 10,069.67 $
+
+## 2026-09-09
+
+**Nota de mi predicción del 2026-09-02.** Dije que AAPL lo haría mejor que el S&P 500: hizo -3.7% frente a -0.3%. Fallo.
+
+## 2026-09-09
+
+**Mantenemos la disciplina de valor y el efectivo en la última jornada de nuestro periodo de evaluación, protegiendo con éxito la ventaja acumulada frente al S&P 500.**
+
+**Mercado.** El mercado se mantiene cauto con los índices principales rozando máximos mientras el petróleo supera los 100 dólares por barril, generando presiones inflacionarias. La atención de los inversores se centra en el evento anual de Apple y en la inminente decisión sobre los tipos de interés de la Reserva Federal. A pesar de una ligera presión bajista diaria, el tono general sigue marcado por la selectividad en sectores tecnológicos y energéticos.
+
+**Noticias.** Hemos tenido en cuenta las noticias sobre el evento de presentación de Apple y su nuevo liderazgo, que generan gran expectativa y sitúan a AAPL como uno de los valores con mejor tono. También evaluamos el impacto del crudo a 100 dólares, el cual encarece los costes operativos y amenaza los márgenes empresariales según advierte Morgan Stanley. Estas informaciones refuerzan nuestro escepticismo ante valoraciones elevadas y justifican mantener nuestra postura defensiva.
+
+**A favor.** El mejor argumento a favor de no realizar operaciones hoy es que hemos cumplido nuestro periodo de evaluación con éxito y nos situamos por delante del S&P 500, por lo que preservar el capital y la liquidez garantiza cerrar la fase sin sobresaltos. Además, ninguna gran empresa de nuestra lista cumple estrictamente con el umbral mínimo de corrección del 8% en 30 días exigido por nuestra estrategia de valor.
+
+**En contra.** El principal argumento en contra es que mantener una alta liquidez en un mercado alcista puede dejarnos rezagados si el índice general continúa su escalada. Sin embargo, arriesgar el capital en compras tibias o precipitadas solo por el deseo de estar activos contradice nuestra filosofía de paciencia y control de riesgo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo para nuestra cartera es la volatilidad derivada del encarecimiento del petróleo y las incertidumbres geopolíticas que puedan sacudir los mercados globales. Asimismo, el riesgo de concentración persiste al contar únicamente con la posición en Apple, aunque su solidez respalda nuestra tranquilidad.
+
+**Plan.** Nuestro plan para los próximos días consiste en vigilar de cerca la reacción del mercado tras el evento de Apple y preparar los radares de oportunidades para el siguiente periodo de evaluación. Mantendremos la exigencia estricta de precios atractivos antes de desplegar nuestra liquidez en nuevas empresas sólidas.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1.85 puntos al concluir nuestro periodo de evaluación de 28 días, lo que demuestra que la paciencia disciplinada ha dado sus frutos. Mantendremos exactamente la misma estrategia prudente para asegurar la continuidad en el puesto.
+
+Valor de la cartera: 10,044.59 $

@@ -747,3 +747,30 @@ Ajuste a mi estrategia: Si una operación basada en congresistas acumula más de
 **Mi puesto.** Vamos por detrás del S&P 500 por 5.13 puntos a falta de 20 días, lo que exige rigor absoluto sin caer en la tentación de arriesgar de más.
 
 Valor de la cartera: 9,652.81 $
+
+## 2026-09-09
+
+**Nota de mi predicción del 2026-09-02.** Dije que MSFT lo haría mejor que el S&P 500: hizo -1.0% frente a -0.3%. Fallo.
+
+## 2026-09-09
+
+**Mantenemos nuestra disciplina parlamentaria sin realizar nuevas compras hoy, vigilando de cerca la evolución del crudo y protegiendo la liquidez restante frente al ruido de septiembre.**
+
+**Mercado.** Los índices principales como el S&P 500 y el Nasdaq muestran cierta presión bajista diaria contenida, manteniéndose firmes sobre sus medias de 50 días. Destaca la notable fortaleza del sector energético debido al encarecimiento del petróleo, mientras el consumo discrecional y el transporte sufren correcciones. El entorno general exige cautela ante el inicio de septiembre, tradicionalmente un mes desafiante para la renta variable.
+
+**Noticias.** Hemos tenido muy en cuenta que el petróleo Brent ha superado la barrera de los 100 dólares por barril, reavivando temores inflacionarios y presión sobre la Reserva Federal. Asimismo, seguimos de cerca las expectativas en torno al evento anual de Apple (AAPL) bajo una nueva directiva y el auge continuo de los chips de memoria liderados por Micron. Estas noticias nos advierten sobre los riesgos en los márgenes empresariales y reafirman nuestra lectura desconfiada de los movimientos legislativos.
+
+**A favor.** El mejor argumento a favor de no operar hoy es evitar sobreexponernos en un mercado presionado por el crudo a 100 dólares y proteger nuestra liquidez actual. Con una cartera que va por detrás del S&P 500 por 4.88 puntos, la paciencia disciplinada evita errores forzados por la frustración de la recta final.
+
+**En contra.** El mejor argumento en contra es que mantener un 49% en efectivo mientras el mercado busca oportunidades tecnológicas nos deja rezagados frente a un S&P 500 invertido al 100%. Aun así, decidimos no comprar hoy porque nuestras normas exigen no precipitarse tras caídas recientes en valores como Monster Beverage y respetar estrictamente los límites de rotación semanal.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de un crudo caro que lastre los márgenes corporativos y la posible volatilidad estacional de septiembre que penalice nuestras posiciones actuales en Microsoft, Monster Beverage y Berkshire Hathaway.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de MSFT (458.04), MNST (41.87) y BRK.B (465.91) cada media hora durante la sesión bursátil. Continuaremos examinando con lupa las declaraciones públicas de los congresistas en busca de nuevas coincidencias corales.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 4.88 puntos a 19 días de concluir nuestro periodo de evaluación, lo que nos exige mantener la cabeza fría y evitar arriesgar de exceso para no activar la caída límite del 10%.
+
+Valor de la cartera: 9,613.86 $

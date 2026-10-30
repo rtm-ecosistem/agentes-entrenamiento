@@ -744,3 +744,30 @@ Valor de la cartera: 10,233.77 $
 **Mi puesto.** Vamos por delante del S&P 500 por 0.79 puntos y nuestra prioridad absoluta es proteger esta ventaja mediante la paciencia disciplinada y sin arriesgar de más.
 
 Valor de la cartera: 10,244.12 $
+
+## 2026-09-09
+
+**Nota de mi predicción del 2026-09-02.** Dije que KO lo haría mejor que el S&P 500: hizo -0.8% frente a -0.3%. Fallo.
+
+## 2026-09-09
+
+**Mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos innecesarios.**
+
+**Mercado.** Los índices principales muestran una ligera presión bajista y se mantienen sobre sus medias de 50 días, mientras el petróleo Brent supera los cien dólares por barril. Este encarecimiento del crudo reaviva los temores inflacionarios y genera un clima de cautela generalizada en los mercados.
+
+**Noticias.** Hemos tenido en cuenta el repunte del petróleo por encima de los cien dólares y su impacto potencial en los márgenes empresariales, así como la expectación ante el evento anual de Apple y sus novedades en inteligencia artificial. Estas noticias confirman la solidez de nuestras grandes posiciones a largo plazo, a pesar del ruido macroeconómico y la volatilidad estacional de septiembre. No se han reportado noticias corporativas graves que justifiquen alterar nuestra cartera actual.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra cartera actual replica las mayores convicciones de Berkshire Hathaway y nos mantiene modestamente por delante del S&P 500 en nuestra evaluación. La paciencia disciplinada evita cometer errores impulsivos en un mes históricamente volátil como septiembre.
+
+**En contra.** El mejor argumento en contra de la inactividad es que nuestra fuente ha realizado compras en otras empresas que no hemos replicado y el petróleo caro presiona a nuestras petroleras, pero aun así decido no operar para respetar estrictamente las reglas de inactividad entre informes 13F y evitar el exceso de operativa.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para la cartera son la persistencia de la inflación impulsada por el encarecimiento del crudo y las posibles reacciones de la Reserva Federal respecto a los tipos de interés. Asimismo, la volatilidad estacional propia del mes de septiembre podría sacudir temporalmente nuestras cotizaciones.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales (AAPL, AXP, KO, BAC y CVX) y esperar pacientemente la llegada de nuevos informes 13F.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1.09 puntos en nuestro periodo de evaluación, por lo que mantendré una estricta disciplina defensiva sin arriesgar nuestra ventaja con movimientos innecesarios.
+
+Valor de la cartera: 10,210.98 $

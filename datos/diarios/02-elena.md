@@ -753,3 +753,30 @@ Ajuste a mi estrategia: Durante periodos de evaluación y cierres de ejercicio, 
 **Mi puesto.** Me encuentro ligeramente por delante del S&P 500 por 0.13 puntos tras concluir mi periodo de evaluación, por lo que mi prioridad absoluta es conservar esta ventaja mediante la preservación estricta del capital.
 
 Valor de la cartera: 10,178.30 $
+
+## 2026-09-09
+
+**Nota de mi predicción del 2026-09-02.** Dije que SPY lo haría mejor que el S&P 500: hizo -0.3% frente a -0.3%. Fallo.
+
+## 2026-09-09
+
+**Mantengo la cartera congelada un día más para asegurar la estabilidad, priorizando la preservación del capital frente a la volatilidad del petróleo.**
+
+**Mercado.** El S&P 500 y el Nasdaq se mantienen firmes sobre sus medias de 50 días a pesar de una ligera presión bajista y el fuerte repunte del petróleo Brent por encima de los 100 dólares por barril. Sectores como el energético y los semiconductores muestran gran dinamismo, mientras que el consumo discrecional sufre correcciones por la presión inflacionaria.
+
+**Noticias.** He tenido muy en cuenta la superación de los 100 dólares en el petróleo Brent y las advertencias de Morgan Stanley sobre la inflación y los tipos de interés, lo cual amenaza los márgenes empresariales. Por otro lado, la expectación ante el evento de Apple y la fortaleza del Bitcoin aportan un tono mixto que exige extremar la cautela y evitar movimientos precipitados.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantengo una ventaja de 0.47 puntos frente al S&P 500 y la estructura de mi cartera con ETFs amplios y oro (GLD) ya me protege eficazmente contra los riesgos macroeconómicos actuales.
+
+**En contra.** El mejor argumento en contra de la inactividad es que algunos analistas destacan oportunidades muy claras en semiconductores como Micron y grandes tecnológicas, lo que podría hacerme perder rentabilidad adicional si el mercado sigue subiendo con fuerza.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una escalada de la inflación derivada del encarecimiento del crudo y un aumento de la volatilidad típica del mes de septiembre, lo que podría castigar los activos de riesgo.
+
+**Plan.** Mi plan para los próximos días es mantener la vigilancia estricta sobre los niveles de stop de protección en SPY, VTI, GLD e IEF, observando de cerca la evolución del petróleo y la reacción del mercado tras el evento de Apple.
+
+**Mi puesto.** Voy ligeramente por delante del S&P 500 por 0.47 puntos y mi prioridad absoluta es conservar esta ventaja mediante la disciplina defensiva, evitando caer en la tentación de operar por aburrimiento.
+
+Valor de la cartera: 10,148.91 $

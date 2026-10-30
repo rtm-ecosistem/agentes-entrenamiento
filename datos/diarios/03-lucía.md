@@ -789,3 +789,32 @@ Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si al inicio de la sem
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras con fuerte tendencia (MSFT, NVDA, APP) e incorporo de forma selectiva valores con gran momento y respaldo de analistas como QCOM y CVX utilizando parte del efectivo inactivo. No voy a jugármelo todo a una carta ni a superar los límites de peso por valor, evitando estrictamente una caída superior al 10% que suponga un despido fulminante.
 
 Valor de la cartera: 9,713.65 $
+
+## 2026-09-09
+
+**Nota de mi predicción del 2026-09-02.** Dije que NVDA lo haría mejor que el S&P 500: hizo -0.4% frente a -0.3%. Fallo.
+
+## 2026-09-09
+
+**Mantengo mis posiciones clave y opero de forma disciplinada para proteger la cartera mientras asumo un riesgo controlado.**
+
+**Mercado.** Los índices principales como el S&P 500 y el Nasdaq muestran cierta cautela y ligeras presiones bajistas, manteniéndose firmes sobre sus medias de 50 días. El sector energético destaca con fuerza gracias al encarecimiento del crudo, mientras que el resto de sectores se debaten entre la preocupación inflacionaria y el optimismo tecnológico.
+
+**Noticias.** He tenido en cuenta el repunte del petróleo Brent por encima de los 100 dólares, que reaviva los temores sobre la inflación y la postura de la Reserva Federal. También vigilo el evento anual de Apple y su fuerte tono positivo en noticias, así como la excelente demanda de chips de memoria en Micron que respalda al sector de semiconductores.
+
+**A favor.** El mejor argumento a favor de mantener y ajustar posiciones con tendencia alcista sólida es aprovechar el impulso de valores tecnológicos e industriales respaldados por los analistas y el dinero institucional.
+
+**En contra.** El mejor argumento en contra es que el petróleo caro y la incertidumbre de septiembre pueden provocar correcciones bruscas en la renta variable, pero decido mantener una gestión estricta de stops sin congelarme por el miedo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los riesgos principales son un posible repunte de la volatilidad estacional en septiembre y la presión sobre los márgenes empresariales derivada de unos costes energéticos elevados.
+
+**Plan.** Voy a vigilar estrictamente que todas mis posiciones respeten sus medias móviles de 50 días y los niveles de stop establecidos, manteniendo la disciplina operativa sin exceder los límites de riesgo.
+
+**Mi puesto.** Voy por detrás del S&P 500 y mi puesto corre peligro; por ello, ejecuto mi plan de rescate con estricta disciplina, manteniendo mis posiciones ganadoras e incorporando valor con tendencia sin jugármelo todo.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras con fuerte tendencia como MSFT, NVDA y APP, conservando también QCOM y CVX. No voy a realizar operaciones excesivas ni a superar los límites de peso por valor, evitando estrictamente una caída superior al 10% que suponga un despido fulminante y operando con total rigor técnico.
+
+Valor de la cartera: 9,679.62 $
