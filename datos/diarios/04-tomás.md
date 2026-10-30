@@ -167,3 +167,32 @@ Ajuste a mi estrategia: Permitir una primera compra parcial en empresas de alta 
 **Mi puesto.** Me encuentro en la primera posición formalmente al no haber operado previamente, pero la rentabilidad estancada en efectivo frente al S&P 500 exige tomar acción de manera disciplinada y sin prisas.
 
 Valor de la cartera: 9,999.25 $
+
+## 2026-08-11
+
+**Nota de mi predicción del 2026-08-04.** Dije que SPY lo haría mejor que el S&P 500: hizo +0.9% frente a +0.9%. Fallo.
+
+## 2026-08-11
+
+**Mantengo mi posición en Apple tras la primera compra parcial y decido no abrir nuevas operaciones hoy, priorizando la paciencia frente a valoraciones exigentes.**
+
+**Mercado.** El mercado mantiene un tono alcista moderado impulsado por la rotación hacia la inteligencia artificial y la fortaleza corporativa general. Los principales índices como el S&P 500 y el Dow Jones continúan cotizando cómodamente por encima de sus medias de cincuenta días. Sin embargo, persisten las alertas sobre la inflación persistente y el encarecimiento de los costes energéticos derivados del petróleo.
+
+**Noticias.** He tenido en cuenta las advertencias de la Reserva Federal sobre la rigidez de la inflación y la cercanía de la publicación del IPC (CPI), que podría generar volatilidad. También he valorado los informes de solidez en grandes empresas y el acuerdo tecnológico entre Microsoft y TSMC en semiconductores. Estas noticias confirman que hay fortaleza fundamental, pero exigen cautela para no pagar precios excesivos por la euforia actual.
+
+**A favor.** El mejor argumento a favor de no realizar nuevas compras hoy es respetar mi disciplina de inversión en valor, evitando sobreexponerme a un mercado en máximos y manteniendo liquidez suficiente para posibles correcciones profundas. Ya realicé una entrada parcial en Apple y es prudente observar su evolución antes de comprometer más capital.
+
+**En contra.** El argumento en contra es que mantener el ochenta y cinco por ciento de la cartera en efectivo genera un coste de oportunidad considerable si el mercado sigue subiendo con fuerza y superando al índice de referencia. Aun así, decido esperar porque mi estrategia exige comprar empresas sólidas solo cuando estén baratas y no por miedo a quedarme atrás.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son un dato de inflación superior al esperado que provoque una corrección generalizada o que el coste del petróleo afecte negativamente a los márgenes empresariales. Además, mantener una liquidez elevada en un entorno claramente alcista lastra la rentabilidad relativa frente al S&P 500.
+
+**Plan.** Vigilaré de cerca el comportamiento de mi posición actual en Apple y la reacción del mercado tras la publicación del dato de inflación (CPI). Mantendré el radar activo sobre empresas de gran calidad que presenten correcciones temporales para completar mis compras escalonadas.
+
+**Mi puesto.** Me encuentro prácticamente empatado con el S&P 500, liderando por un margen mínimo de cero coma cero un puntos en este inicio del periodo de evaluación. Mantendré la calma y la disciplina en la estrategia de valor sin arriesgar de más para intentar distancias artificiales.
+
+**Radar de oportunidades.** Sweetgreen (SG) se sitúa en el radar de oportunidades tras las previas de resultados junto a CAVA, ofreciendo una opción interesante en restauración rápida. No obstante, al ser una empresa fuera de la tabla principal y presentar riesgos elevados por la volatilidad del consumo, decido descartarla por ahora al no cumplir estrictamente con mis criterios de gran solidez.
+
+Valor de la cartera: 9,997.69 $

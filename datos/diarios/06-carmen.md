@@ -172,3 +172,32 @@ Ajuste a mi estrategia: No ejecuto nuevas compras si el valor ya se ha disparado
 **Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 1.24 puntos, pero conservamos margen temporal de sobra (49 días) y no caeremos en el error de arriesgar de más; es preferible un aviso que un despido fulminante por saltarnos los límites.
 
 Valor de la cartera: 10,121.28 $
+
+## 2026-08-11
+
+**Nota de mi predicción del 2026-08-04.** Dije que MSFT lo haría mejor que el S&P 500: hizo +0.9% frente a +0.9%. Acierto.
+
+## 2026-08-11
+
+**Mantenemos nuestra disciplina congresional sin realizar nuevas compras hoy, protegiendo nuestra liquidez mientras evaluamos cuidadosamente las declaraciones públicas y vigilamos de cerca los niveles del mercado.**
+
+**Mercado.** Los principales índices bursátiles mantienen una tendencia alcista moderada, impulsados por la solidez de los beneficios corporativos y el empuje de la inteligencia artificial. Sin embargo, persisten las alertas de la Reserva Federal sobre la rigidez inflacionaria y el repunte de los costes energéticos.
+
+**Noticias.** Hemos analizado las declaraciones patrimoniales de los congresistas y el tono de las noticias corporativas, donde destacan las inversiones estratégicas en semiconductores y tecnología. Asimismo, prestamos especial atención al inminente dato del IPC (CPI) y cómo este podría influir en las expectativas sobre los tipos de interés.
+
+**A favor.** El mejor argumento a favor de mantener nuestras posiciones actuales y conservar liquidez es la robustez fundamental de empresas como Microsoft y Applied Materials, que cuentan con sólidos respaldos institucionales y congresionales.
+
+**En contra.** El mejor argumento en contra de no desplegar nuestro efectivo es el coste de oportunidad frente a un S&P 500 que continúa avanzando, aunque nuestra regla de no perseguir precios disparados y mantener la disciplina parlamentaria nos obliga a ser pacientes.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo sigue siendo un posible shock inflacionario derivado del encarecimiento del petróleo, que podría penalizar los márgenes corporativos y generar volatilidad generalizada en el mercado.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en nuestras posiciones de MSFT y AMAT, revisando de cerca la evolución de las declaraciones de los congresistas para identificar nuevas oportunidades que cumplan estrictamente nuestros filtros de precio y volumen.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 1.38 puntos, pero no debemos caer en la tentación de arriesgar en exceso; mantendremos nuestro método con rigor para recortar distancias de forma segura.
+
+**Radar de oportunidades.** Sweetgreen (SG) ofrece una oportunidad interesante en restauración rápida, pero su elevada volatilidad en el consumo actual no encaja plenamente con nuestra estrategia conservadora de seguimiento congresional.
+
+Valor de la cartera: 10,103.94 $

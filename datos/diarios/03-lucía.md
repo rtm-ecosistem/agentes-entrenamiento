@@ -172,3 +172,36 @@ Ajuste a mi estrategia: Repartir el capital de entrada en 4 o 5 valores distinto
 **Mi puesto.** Voy ligeramente por detrás del S&P 500 por 2.76 puntos, lo que me genera cierta tensión pero absoluto control. Mantendré la cabeza fría y seguiré mi estrategia paso a paso sin arriesgar de más para intentar remontar a lo loco.
 
 Valor de la cartera: 9,969.60 $
+
+## 2026-08-11
+
+**Nota de mi predicción del 2026-08-04.** Dije que GOOGL lo haría mejor que el S&P 500: hizo -6.5% frente a +0.9%. Fallo.
+
+## 2026-08-11
+
+**Decido mantener mi cartera intacta en MSFT, AMZN, GOOGL y NVDA y conservar mi efectivo a la espera del dato de inflación CPI, evitando sobreoperar.**
+
+**Mercado.** Los principales índices como el S&P 500 y el Dow Jones mantienen una tendencia alcista moderada y se sitúan con solidez por encima de sus medias de 50 días. El sector energético y las acciones de defensa brillan con fuerza, mientras que los inversores contienen la respiración pendientes de la inminente publicación del IPC.
+
+**Noticias.** He tenido muy en cuenta la inminente llegada del dato de inflación del CPI y las advertencias de la Reserva Federal sobre la rigidez laboral. Las noticias sobre la sólida salud de los beneficios corporativos y las alianzas de IA como la de Microsoft y TSMC respaldan la fortaleza estructural de mis valores actuales.
+
+**A favor.** El mejor argumento a favor de mantener la cartera es que mis cuatro posiciones cuentan con una sólida base técnica por encima de sus medias de 50 días y protecciones de stop bien definidas. Forzar compras ahora sin una señal clara de ruptura alcista en plena víspera del CPI rompería mi disciplina.
+
+**En contra.** El argumento en contra es que voy por detrás del S&P 500 por más de tres puntos y el efectivo ocioso de 2.020 dólares me penaliza por coste de oportunidad. Sin embargo, arriesgar de más justo antes de un evento macroeconómico de gran calado suele terminar en pérdidas innecesarias.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que un dato de inflación sorprendentemente negativo desate una corrección generalizada en los mercados que ponga a prueba los stops de mis posiciones actuales.
+
+**Plan.** Voy a vigilar estrictamente que ninguno de mis valores rompa su media de 50 días o active su stop de protección. Mi plan es esperar al resultado del IPC para evaluar posibles entradas en valores con verdadero impulso.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.36 puntos tras 8 días, lo cual me genera tensión, pero mi estrategia me exige paciencia y no desesperarme persiguiendo subidas inoportunas.
+
+**Radar de oportunidades.** Sweetgreen (SG) ofrece una oportunidad interesante en el sector de restauración rápida en plena temporada de resultados, pero su elevada volatilidad en el consumo no encaja estrictamente con mis criterios actuales de momentum.
+
+Valor de la cartera: 9,905.82 $
+
+## 2026-08-11 15:00
+
+**Stop automático.** Vendo GOOGL: Stop alcanzado (344.87 $ ≤ 346.61 $): se corta la pérdida.

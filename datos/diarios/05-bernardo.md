@@ -170,3 +170,32 @@ Ajuste a mi estrategia: Entre publicaciones de informes 13F mantendré una inact
 **Mi puesto.** Voy ligeramente por detrás del S&P 500 con una rentabilidad del +0.79% frente al +2.45% del índice, pero confieso que copiar al mejor requiere paciencia a largo plazo y evitaré cometer errores por pura impaciencia.
 
 Valor de la cartera: 10,078.67 $
+
+## 2026-08-11
+
+**Nota de mi predicción del 2026-08-04.** Dije que KO lo haría mejor que el S&P 500: hizo -0.0% frente a +0.9%. Fallo.
+
+## 2026-08-11
+
+**Mantengo una estricta inactividad fiel a mi estrategia de replicar a Berkshire Hathaway y esperar con paciencia entre informes 13F.**
+
+**Mercado.** Los principales índices bursátiles muestran un tono alcista moderado respaldados por la solidez de los beneficios corporativos y el sector energético. Sin embargo, persisten las dudas sobre la inflación persistente y el repunte de los costes del petróleo de cara al próximo dato del IPC. Los grandes gigantes tecnológicos e industriales continúan atrayendo el interés de los inversores en medio de una rotación hacia la infraestructura de inteligencia artificial.
+
+**Noticias.** He tenido en cuenta las noticias sobre el encarecimiento del crudo y las advertencias de la Reserva Federal respecto a la inflación, así como las críticas recientes hacia la gestión de Berkshire Hathaway. Ninguna de estas noticias corporativas o macroeconómicas representa un fraude, quiebra o daño grave estructural para las empresas de nuestra cartera. Por tanto, decido no realizar ninguna modificación siguiendo mi norma de inactividad entre informes 13F.
+
+**A favor.** El mejor argumento a favor de no operar hoy es respetar escrupulosamente mi estrategia de inversión a largo plazo inspirada en Warren Buffett, evitando el ruido diario y los costes innecesarios de rotación. Mantener una cartera de negocios extraordinarios con una asignación completa nos permite beneficiarnos del crecimiento empresarial a varios años vista.
+
+**En contra.** El mejor argumento en contra de mi inactividad es que nos encontramos ligeramente por detrás del S&P 500 y podríamos vernos tentados a perseguir sectores más dinámicos a corto plazo como la inteligencia artificial o la energía. Sin embargo, ceder a la impaciencia suele destruir valor y quebrantar la disciplina que distingue a los inversores pacientes.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para nuestra cartera son un posible repunte inflacionario imprevisto tras el dato del IPC y la volatilidad derivada de los precios del petróleo. No obstante, contamos con stops protectores en todas nuestras posiciones para limitar cualquier caída imprevista.
+
+**Plan.** Mi plan para los próximos días es permanecer absolutamente inactivo, supervisar de cerca los stops de nuestras cinco posiciones principales (AAPL, AXP, KO, BAC y CVX) y no realizar ningún movimiento hasta la publicación del próximo informe 13F.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 1.37 puntos debido al coste inicial del efectivo, pero mantengo la calma sabiendo que la paciencia es el pilar fundamental de mi estilo de inversión a largo plazo.
+
+**Radar de oportunidades.** El radar de oportunidades incluye a Sweetgreen (SG), una empresa de restauración rápida interesante, pero queda descartada al estar fuera de las estrictas fuentes de Berkshire Hathaway que sigo como método.
+
+Valor de la cartera: 10,105.15 $

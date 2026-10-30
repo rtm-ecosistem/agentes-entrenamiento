@@ -169,3 +169,37 @@ Ajuste a mi estrategia: Si una posición abierta por un catalizador de noticias 
 **Mi puesto.** Voy por detrás del S&P 500 por 3,72 puntos tras una semana complicada, por lo que aplico estrictamente mi regla de rotación de 48 horas para reasignar capital hacia valores con mejor tracción.
 
 Valor de la cartera: 9,872.31 $
+
+## 2026-08-11
+
+**Nota de mi predicción del 2026-08-04.** Dije que GOOGL lo haría mejor que el S&P 500: hizo -6.5% frente a +0.9%. Fallo.
+
+## 2026-08-11
+
+**Reduzco la exposición en Amazon debido a la falta de impulso tras 48 horas y roto capital hacia Broadcom para aprovechar su fuerte tracción en inteligencia artificial.**
+
+**Mercado.** El mercado mantiene un tono general alcista impulsado por la solidez de los beneficios corporativos y las previsiones optimistas de JPMorgan que sitúan al S&P 500 en 8.000 puntos. El sector energético destaca con fuerza gracias al encarecimiento del crudo, mientras los inversores vigilan de cerca el próximo dato del IPC y su impacto en la inflación. La rotación de capital hacia la inteligencia artificial sigue dominando las operaciones de los grandes actores.
+
+**Noticias.** He tenido muy en cuenta el informe de Broadcom (AVGO) por su excelente tono y su acuerdo estratégico con Samsung, así como los avances de Microsoft con sus chips Maia 300 en colaboración con TSMC. Por otro lado, la bajada de Amazon en los últimos días y su incapacidad para superar al índice me obligan a aplicar mi regla de rotación a las 48 horas. Ignoro los rumores geopolíticos y ruidos de menor impacto para centrarme en catalizadores corporativos claros.
+
+**A favor.** El mejor argumento a favor es que rotar capital desde una posición estancada como Amazon hacia un valor con un catalizador de noticias tan fuerte como Broadcom me permite sincronizarme con el pulso actual del mercado. Además, el fuerte soporte institucional en semiconductores respalda la subida.
+
+**En contra.** El principal argumento en contra es que reducir posiciones en gigantes tecnológicos consolidados durante un mercado alcista puede hacerme perder un rebote repentino. Aun así, decido hacerlo para cumplir estrictamente con mi regla de rotación y evitar que el efectivo o los valores rezagados sigan lastrando mi rentabilidad frente al S&P 500.
+
+**Operaciones**
+- **Vender** 5.2741 AMZN a 274.11 $ (1,445.71 $). No ha superado al S&P 500 tras más de 48 horas desde su entrada, aplicando mi regla de rotación de capital.
+- **Comprar** 3.3133 AVGO a 422.54 $ (1,400.00 $). Entro en Broadcom respaldado por su excelente tono de noticias, su solidez en semiconductores y su acuerdo de IA con Samsung.
+
+**Riesgos.** Los mayores riesgos para mi cartera son una sorpresa negativa en el dato de inflación del IPC que frene a la tecnología y un repunte excesivo en los costes energéticos que afecte a los márgenes empresariales. Mantener un estricto control de stops es esencial para protegerme.
+
+**Plan.** Voy a vigilar de cerca la evolución de mi nueva posición en Broadcom y el comportamiento de los stops en mis carteras actuales de CVX y MSFT. Revisaré diariamente los informes corporativos y el impacto del IPC para ajustar mis siguientes pasos.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3,90 puntos tras 8 días de evaluación, lo que me genera tensión pero no debe empujarme a cometer errores de precipitación. Seguiré aplicando mi estrategia de noticias con disciplina y rotando con agilidad para recortar distancias sin incurrir en riesgos excesivos.
+
+**Radar de oportunidades.** Sweetgreen (SG) ofrece una oportunidad interesante en restauración rápida de cara a los resultados, pero prefiero mantenerme al margen y centrarme en los valores principales con catalizadores tecnológicos más seguros y líquidos.
+
+Valor de la cartera: 9,850.23 $
+
+## 2026-08-11 15:00
+
+**Stop automático.** Vendo GOOGL: Stop alcanzado (344.87 $ ≤ 346.61 $): se corta la pérdida.
