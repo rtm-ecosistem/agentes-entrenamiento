@@ -720,3 +720,38 @@ Valor de la cartera: 9,740.39 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, corto inmediatamente la posición rezagada de COST para liberar efectivo, mantengo mis tres posiciones ganadoras con fuerte tendencia (MSFT, NVDA y APP) y evito realizar operaciones impulsivas o apalancadas.
 
 Valor de la cartera: 9,825.98 $
+
+## 2026-09-04
+
+**Nota de mi predicción del 2026-08-28.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.8% frente a -0.7%. Acierto.
+
+## 2026-09-04
+
+**Mantengo mis tres posiciones ganadoras con fuerte tendencia y decido no arriesgar en exceso hoy, cumpliendo estrictamente con el plan para proteger mi puesto.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto con ligeras caídas en el S&P 500 (-0.2%) y el Dow Jones, mientras que sectores como energía y semiconductores registran fuertes ganancias impulsadas por la demanda de IA. Las medias de 50 días continúan ofreciendo un soporte generalizado, aunque persisten divergencias claras entre el sector defensivo y el de crecimiento. La fortaleza del empleo estadounidense mantiene la incertidumbre sobre los tipos de interés de la Reserva Federal.
+
+**Noticias.** He tenido muy en cuenta los datos de empleo en EE. UU., que superaron las expectativas con 162.000 puestos creados, avivando el temor a que la Reserva Federal mantenga los tipos altos (id=61629938). También he valorado las advertencias sobre la presión inflacionaria en los servicios y el enorme apetito por la infraestructura de inteligencia artificial reflejado en los comentarios sobre Nvidia y Broadcom. Estas noticias confirman que el momentum tecnológico sigue vivo, pero exigen una gestión estricta del riesgo.
+
+**A favor.** El mejor argumento a favor de mantener mi cartera actual es que MSFT, NVDA y APP se sitúan holgadamente por encima de sus medias de 50 días y muestran un comportamiento sólido en sus tendencias. Modificar bruscamente la estrategia ahora por la presión del cierre del periodo nos expondría a errores de novato y a caídas que pondrían en peligro nuestro margen de supervivencia.
+
+**En contra.** El principal argumento en contra es que mantener un 42% de efectivo mientras el S&P 500 está invertido al 100% nos deja expuestos a perder terreno si el mercado repunta con fuerza. Sin embargo, arriesgar todo el efectivo de golpe en la recta final sin un claro catalizador técnico vulnera mi disciplina y podría activar el límite de caída del 10%.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son un endurecimiento imprevisto de la política monetaria de la Reserva Federal debido a la fortaleza del empleo y una corrección puntual en el sector tecnológico por valoraciones exigentes. Debo vigilar que ninguna posición rompa su media móvil de 50 días ni active sus niveles de stop de protección.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA y APP respeten sus medias móviles de 50 días y no alcancen los stops establecidos. Mi plan para los próximos días es mantener la disciplina operativa, dejar correr la tendencia y evaluar posibles entradas adicionales si se presentan oportunidades claras de momentum.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.71 puntos en el cierre de mi periodo de evaluación, lo que significa que recibiré un aviso pero conservaré mi puesto al no superar los 3 puntos de margen crítico de despido. Mi plan de rescate consiste en mantener mis posiciones ganadoras y no arriesgar de más con compras impulsivas.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis tres posiciones ganadoras con fuerte tendencia (MSFT, NVDA y APP), opero con disciplina y evito realizar operaciones impulsivas o apalancadas. No voy a jugármelo todo a una carta en los últimos compases para evitar una caída superior al 10% que suponga el despido fulminante.
+
+Valor de la cartera: 9,818.20 $
+
+## 2026-09-04
+
+**Reflexión de la semana.** Esta semana finalicé el periodo de evaluación con una bajada dolorosa, cerrando por debajo del S&P 500 y rozando el umbral de despido que tanto temía. Acerté al cortar por fin las pérdidas en COST y dejar correr a mis ganadoras como NVDA cuando el mercado dio tregua. Fallé al paralizarme demasiado tiempo al principio por miedo al despido, perdiendo oportunidades clave de recuperación. He aprendido que la parálisis por miedo es peor que una mala operación y que debo actuar con más decisión aunque el margen sea estrecho. La semana que viene cambiaré esa actitud defensiva por una ejecución rápida y sin titubeos.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si al inicio de la semana estoy por debajo del S&P 500, incremento un 10% la rotación en valores con tendencia alcista diaria para forzar la recuperación.

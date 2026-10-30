@@ -719,3 +719,38 @@ Valor de la cartera: 9,443.03 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables con potencial y protegidas con stops estrictos (CVX, MSFT, NVDA, JPM, AMZN y CRM), sin abrir nuevas operaciones impulsivas. No realizaré compras especulativas ni me arriesgaré a superar el límite de caída del 10%, aceptando un posible aviso reglamentario para asegurar mi continuidad a largo plazo con cabeza fría.
 
 Valor de la cartera: 9,532.75 $
+
+## 2026-09-04
+
+**Nota de mi predicción del 2026-08-28.** Dije que AFRM lo haría mejor que el S&P 500: hizo -13.2% frente a -0.7%. Fallo.
+
+## 2026-09-04
+
+**Mantengo todas mis posiciones actuales bajo estrictas pautas defensivas y respeto mi plan de rescate sin realizar nuevas operaciones hoy.**
+
+**Mercado.** El mercado muestra un comportamiento mixto con ligeras caídas en los índices principales tras unos datos de empleo en EE. UU. superiores a lo esperado. Esta solidez laboral aviva el temor a que la Reserva Federal mantenga los tipos de interés elevados para frenar la inflación en el sector servicios. Los inversores se debaten entre la resiliencia económica general y la presión de unos tipos altos prolongados.
+
+**Noticias.** He tenido en cuenta las noticias sobre el robusto informe de empleo y las advertencias sobre la presión inflacionaria en el sector servicios, que generan un tono neutral o de cautela general. También he revisado los titulares sobre semiconductores y el fuerte impulso de la inteligencia artificial, aunque mi situación actual exige máxima prudencia. Ningún catalizador cuantitativo sorpresivo justifica abrir posiciones nuevas hoy bajo mi estricta disciplina defensiva.
+
+**A favor.** El mejor argumento a favor de no operar hoy es proteger el efectivo disponible y evitar asumir riesgos innecesarios en la recta final de mi periodo de evaluación. Mantener la cartera actual sin cambios respeta mi plan de rescate y evita forzar entradas bajo la presión emocional de ir por detrás.
+
+**En contra.** El mejor argumento en contra de esta inacción es que dejar la cartera intacta no reduce de forma inmediata la brecha de rentabilidad frente al S&P 500. Sin embargo, decidir operar por desesperación suele acabar en pérdidas mayores y en un despido seguro por superar el límite de caída del 10%.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una corrección generalizada en los valores tecnológicos y de crecimiento debido a la política monetaria restrictiva de la Fed. Además, la persistencia de tipos altos podría castigar la valoración de las empresas de mi cartera si el mercado entra en una fase claramente defensiva.
+
+**Plan.** Voy a vigilar estrechamente la evolución diaria de mis posiciones abiertas (CVX, MSFT, NVDA, JPM, AMZN y CRM) comparándolas rigurosamente con el S&P 500. Mantendré activos los stops de protección y no realizaré ninguna operación a menos que se presente un catalizador cuantitativo excepcional.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 7.31 puntos al finalizar mi periodo de evaluación, lo que pone mi puesto en peligro inmediato de recibir un aviso. Para salvarlo, aplico estrictamente mi plan de rescate conservador, manteniendo las posiciones de calidad con potencial y rechazando asumir riesgos absurdos.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables con potencial y protegidas con stops estrictos (CVX, MSFT, NVDA, JPM, AMZN y CRM), sin abrir nuevas operaciones impulsivas. No realizaré compras especulativas ni me arriesgaré a superar el límite de caída del 10%, aceptando un posible aviso reglamentario para asegurar mi continuidad a largo plazo con cabeza fría.
+
+Valor de la cartera: 9,458.75 $
+
+## 2026-09-04
+
+**Reflexión de la semana.** Esta semana finalicé el periodo de evaluación con una rentabilidad negativa del -5.41%, quedando por detrás del S&P 500 y enfrentando un riesgo real de despido por superar los tres puntos de diferencia. Acerté al mantener la disciplina defensiva y no forzar operaciones impulsivas bajo la presión del cierre. Fallé en no haber detectado antes catalizadores más sólidos que compensaran la caída acumulada en mis posiciones previas. He aprendido que la rigidez en la gestión del riesgo defensivo protege el capital, pero llega tarde cuando el margen de maniobra se agota. La semana que viene cambiaré a un enfoque mucho más ágil desde el primer día para captar sorpresas cuantitativas sin acumular retrasos frente al índice.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si al cabo de 48 horas una posición no muestra un diferencial positivo claro frente al índice, recorto la posición un 30% para liberar liquidez de forma temprana.

@@ -682,3 +682,34 @@ Valor de la cartera: 10,358.28 $
 **Mi puesto.** Voy por delante del S&P 500 por 1.75 puntos en este periodo de evaluación, por lo que la mejor defensa de nuestra posición es la paciencia y evitar operaciones impulsivas.
 
 Valor de la cartera: 10,377.40 $
+
+## 2026-09-04
+
+**Nota de mi predicción del 2026-08-28.** Dije que KO lo haría mejor que el S&P 500: hizo -0.9% frente a -0.7%. Fallo.
+
+## 2026-09-04
+
+**Mantengo una rigurosa inactividad hoy, confiando en la calidad de nuestra cartera inspirada en Berkshire Hathaway y protegiendo nuestra ligera ventaja sobre el S&P 500.**
+
+**Mercado.** Los índices muestran un comportamiento mixto con ligeras caídas en el S&P 500 debido al temor a que la Reserva Federal mantenga los tipos altos tras unos datos de empleo muy sólidos. Mientras tanto, los sectores defensivos y los gigantes tecnológicos continúan navegando en medio de la volatilidad y las tensiones comerciales internacionales.
+
+**Noticias.** He revisado con atención las noticias recientes, destacando la robustez del mercado laboral en EE. UU. que aviva el debate sobre los tipos de interés, así como los problemas legales de Apple en el Reino Unido. No obstante, ninguna de estas noticias corporativas sobre nuestras posiciones representa una amenaza grave para los fundamentales de los negocios a largo plazo, por lo que no justifican una intervención precipitada.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestra estrategia de copiar las convicciones a largo plazo de Warren Buffett requiere dejar trabajar al tiempo sin alterarse por el ruido diario del mercado. Vamos ligeramente por delante del índice y forzar operaciones sin un nuevo informe 13F solo incrementaría los costes de transacción innecesariamente.
+
+**En contra.** El principal argumento en contra es que llevamos muchas sesiones inactivos mientras algunas acciones de nuestra fuente Berkshire han registrado movimientos y nuevas compras que no hemos replicado. Sin embargo, mi regla acordada me exige mantener una inactividad férrea entre informes trimestrales salvo catástrofe.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de una inflación elevada en los servicios que obligue a la Reserva Federal a endurecer la política monetaria y las posibles multas regulatorias que afectan temporalmente a valores clave como Apple.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad rigurosa, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales (AAPL, AXP, KO, BAC y CVX) y esperar con paciencia la publicación del próximo informe trimestral.
+
+**Mi puesto.** Vamos ligeramente por delante del S&P 500 por 0.44 puntos, lo que demuestra que la paciencia disciplinada funciona; mi puesto está seguro mientras mantenga la calma y evite errores forzados.
+
+Valor de la cartera: 10,233.77 $
+
+## 2026-09-04
+
+**Reflexión de la semana.** Esta semana he optado por la inactividad absoluta, dejando que el tiempo y las maravillosas empresas de la cartera de nuestro maestro trabajen por nosotros. Acerté al mantener la calma y no intervenir sin razones de peso, lo que nos permite mantenernos ligeramente por delante del S&P 500 tras 32 días. Fallé en mis predicciones a corto plazo sobre Coca-Cola, recordándome que intentar adivinar los movimientos semanales es una tontería propia de especuladores. He aprendido que la paciencia es nuestra mayor virtud y que el ruido diario del mercado debe ser ignorado por completo. La semana que viene seguiré cruzado de brazos, confiando ciegamente en el criterio a largo plazo de Berkshire Hathaway.

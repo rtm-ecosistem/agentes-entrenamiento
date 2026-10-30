@@ -683,3 +683,36 @@ Valor de la cartera: 9,716.60 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 4.38 puntos y nos quedan 25 días, por lo que debemos desplegar parte de nuestro efectivo de manera disciplinada y sin caer en la desesperación para remontar posiciones.
 
 Valor de la cartera: 9,763.51 $
+
+## 2026-09-04
+
+**Nota de mi predicción del 2026-08-28.** Dije que MSFT lo haría mejor que el S&P 500: hizo -2.9% frente a -0.7%. Fallo.
+
+## 2026-09-04
+
+**Mantenemos nuestra posición actual sin realizar nuevas compras hoy, protegiendo la liquidez restante mientras evaluamos el comportamiento de los valores respaldados por los congresistas.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto con ligeras caídas en el SPY tras unos datos de empleo mejores de lo esperado que avivan el temor a tipos altos. Sectores como energía y semiconductores mantienen fortaleza, pero la cautela domina ante la presión inflacionaria en los servicios. Las medias de 50 días siguen ofreciendo soporte, aunque con divergencias claras entre sectores defensivos y de crecimiento.
+
+**Noticias.** Hemos considerado los sólidos datos de empleo en EE. UU., que crean 162.000 puestos y aumentan el riesgo de que la Reserva Federal mantenga los tipos elevados. También observamos las advertencias sobre el posible sobrecalentamiento del boom de centros de datos de IA y los problemas regulatorios de grandes tecnológicas. Estas noticias macroeconómicas nos recuerdan que la macro manda sobre la noticia individual, justificando una pausa en las compras para evitar riesgos innecesarios.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que ya hemos desplegado capital recientemente en Monster Beverage y Berkshire Hathaway, cumpliendo los criterios de nuestros congresistas sin saturar la cartera. Mantener el 49% en efectivo nos otorga flexibilidad defensiva frente a la incertidumbre de los tipos de interés de la Fed.
+
+**En contra.** El argumento en contra es que mantener tanta liquidez mientras el S&P 500 está totalmente invertido nos deja atrás en los días de subida, penalizando nuestra rentabilidad global. Sin embargo, decidimos esperar para evitar concentrar riesgos y respetar estrictamente nuestras normas semanales de prudencia.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son un endurecimiento de la política monetaria por parte de la Fed y la persistente presión inflacionaria en el sector servicios que pueda castigar a nuestras posiciones en renta variable. Además, ir por detrás del S&P 500 genera presión, pero arriesgar de más con prisas podría llevarnos al despido.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de MSFT (458.04), MNST (41.87) y BRK.B (465.91) cada media hora durante la sesión bursátil. Continuaremos revisando con lupa las declaraciones públicas de los congresistas en busca de nuevas coincidencias corales.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 4.85 puntos a falta de 24 días, por lo que mantendremos la disciplina parlamentaria sin precipitarnos para recortar distancia de forma arriesgada.
+
+Valor de la cartera: 9,703.93 $
+
+## 2026-09-04
+
+**Reflexión de la semana.** Habiendo pasado por los pasillos del Capitolio, sé perfectamente que cuando sus señorías mueven ficha en bolsa, rara vez es por casualidad. Esta semana acerté al activar los protocolos de la segunda opción para adquirir Monster Beverage y Berkshire Hathaway, sacando partido a nuestra liquidez. Sin embargo, fallé al no ser más incisiva con el timing, lo que ha dejado la cartera en un -2.96% frente al S&P. He aprendido que las coincidencias parlamentarias requieren paciencia pero también ejecución firme antes de que el ruido macroeconómico nos paralice. La semana que viene mantendré la vigilancia sobre sus movimientos sin dudar a la hora de desplegar capital.
+
+Ajuste a mi estrategia: Si una operación basada en congresistas acumula más de un 3% de pérdida en sus primeros cinco días, suspenderé nuevas compras en ese mismo valor hasta estabilizar la cartera.

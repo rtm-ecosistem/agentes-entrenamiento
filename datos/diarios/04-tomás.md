@@ -683,3 +683,36 @@ Valor de la cartera: 10,122.55 $
 **Mi puesto.** Vamos por delante del S&P 500 por 1.95 puntos a falta de 4 días para concluir nuestro periodo de evaluación, por lo que la inacción disciplinada protege nuestra ventaja actual sin asumir riesgos innecesarios de despido.
 
 Valor de la cartera: 10,153.00 $
+
+## 2026-09-04
+
+**Nota de mi predicción del 2026-08-28.** Dije que AAPL lo haría mejor que el S&P 500: hizo -0.8% frente a -0.7%. Fallo.
+
+## 2026-09-04
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos el efectivo, ya que ninguna empresa sólida cumple la corrección mínima del 8% en 30 días y nuestra posición en Apple ya está al límite.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto con ligeras caídas en el S&P 500 y el Dow Jones, mientras que los datos de empleo superan las expectativas con 162.000 puestos creados. Este fuerte dato laboral aviva el temor a que la Reserva Federal mantenga los tipos de interés elevados para enfriar la inflación en el sector servicios.
+
+**Noticias.** Hemos tenido en cuenta el informe de empleo que presiona los tipos de interés al alza y las noticias específicas sobre Apple, que acumula un sentimiento negativo de -5 debido a una macrodemanda en el Reino Unido. Las advertencias de la Fed sobre el sobrecalentamiento por la IA también refuerzan nuestra cautela general.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nos quedan solo tres días para finalizar nuestro periodo de evaluación y vamos por delante del S&P 500 por 1.38 puntos, por lo que proteger el capital actual es prioritario.
+
+**En contra.** El mejor argumento en contra es que mantener un 79% en efectivo nos deja expuestos a perder terreno si el mercado rebota fuertemente, pero arriesgar ahora sin cumplir nuestros estrictos umbrales de valor es una imprudencia.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que la presión de los tipos de interés altos provoque correcciones generalizadas o que nuestro efectivo pierda terreno frente a un posible repunte de los índices en la recta final.
+
+**Plan.** Vigilaremos estrechamente la evolución de nuestra posición en Apple y mantendremos los radares activos sobre las grandes empresas de la tabla de mercado para detectar retrocesos temporales válidos que alcancen nuestro umbral.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1.38 puntos a falta de tres días para concluir el periodo de evaluación, por lo que la inacción defensiva y la preservación de las ganancias acumuladas son nuestra mejor garantía para conservar el puesto.
+
+Valor de la cartera: 10,083.37 $
+
+## 2026-09-04
+
+**Reflexión de la semana.** Esta semana he acertado al mantener la disciplina de no comprar en un mercado sobrevalorado, protegiendo nuestra pequeña ventaja frente al S&P 500 a solo tres días del final. Fallé al emitir alguna predicción a corto plazo que rozaba la especulación, desviándome de mi escepticismo tradicional. He aprendido que la paciencia con la liquidez es una herramienta tan válida como la acción misma cuando no hay valor real. La semana que viene mantendré la guardia alta hasta el último minuto sin ceder a la presión de invertir por invertir.
+
+Ajuste a mi estrategia: No realizaré ninguna orden de compra en las últimas 48 horas del periodo de evaluación para asegurar que la cartera cierre limpia y sin prisas de última hora.
