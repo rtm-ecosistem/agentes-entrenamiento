@@ -447,3 +447,32 @@ Valor de la cartera: 9,609.74 $
 **Reflexión de la semana.** Esta semana he estado demasiado pasiva, esperando un milagro mientras el mercado me sacaba ventaja y mi cartera caía hasta los 9,610 dólares. Acerté al no sobreoperar durante los primeros días, pero fallé al quedarme congelada viendo cómo mis posiciones se desinflaban sin actuar con rapidez. He aprendido que la paciencia mal entendida se convierte en parálisis, y eso me aleja del S&P 500 cuando más necesito remontar. La semana que viene voy a cortar sin miramientos cualquier valor que pierda fuerza y a buscar nuevas entradas con decisión. Se acabó el esperar a que el mercado me salve.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una posición acumula tres sesiones consecutivas de descensos o estancamiento mientras el mercado sube, la cierro al instante para reasignar el efectivo.
+
+## 2026-08-24
+
+**Nota de mi predicción del 2026-08-17.** Dije que NVDA lo haría mejor que el S&P 500: hizo -7.6% frente a -1.6%. Fallo.
+
+## 2026-08-24
+
+**Reduzco mi efectivo inmovilizado comprando una nueva posición alcista en un líder del sector para remontar distancias sin arriesgar de más.**
+
+**Mercado.** Los índices principales muestran una rotación clara hacia sectores defensivos y financieros mientras la tecnología y los semiconductores sufren correcciones. El S&P 500 resiste con solidez en 763.04 puntos apoyado por flujos de capital masivos hacia sus ETFs.
+
+**Noticias.** He tenido en cuenta la gran rotación de capital hacia los ETFs del S&P 500 y el comportamiento mixto de los gigantes tecnológicos ante riesgos regulatorios y geopolíticos. Las tensiones en Oriente Medio y las amenazas de aranceles exigen cautela, pero el apetito por el riesgo sigue vivo en criptoactivos y valores defensivos sólidos.
+
+**A favor.** El mejor argumento a favor es que mi efectivo inmovilizado no genera nada frente a un S&P 500 invertido al 100%, por lo que desplegar liquidez en valores con momentum y tendencia alcista clara es imprescindible para recortar la desventaja acumulada.
+
+**En contra.** El mejor argumento en contra es que el sector tecnológico sufre correcciones y la volatilidad geopolítica podría arrastrar al resto del mercado. Aun así, decido comprar porque selecciono activos específicos con soporte y tendencia favorable según mis reglas estrictas.
+
+**Operaciones**
+- **Comprar** 1.4843 COST a 964.10 $ (1,431.00 $). Refuerzo mi posición en Costco por su excelente comportamiento defensivo, su tendencia alcista clara y su cotización por encima de la media de 50 sesiones.
+
+**Riesgos.** Los mayores riesgos para mi cartera son una extensión de la corrección en semiconductores y tecnología que afecte a mis posiciones actuales, así como la presión de los plazos de evaluación que expiran en siete días.
+
+**Plan.** Voy a vigilar estrictamente que ninguna posición rompa su media móvil de 50 sesiones ni active sus stops de protección. Mi plan es dejar correr la tendencia y recortar al instante cualquier valor que acumule tres sesiones de estancamiento mientras el mercado sube.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 5.52 puntos a falta de 7 días, lo que pone mi puesto en peligro inminente.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantendré mis posiciones actuales que respetan los stops y completaré la diversificación comprando valores con fuerte tendencia sin superar el 20% por activo. No voy a realizar operaciones desesperadas ni apostar todo el efectivo en un solo valor especulativo. Respetaré la regla de cortar al instante cualquier activo estancado durante tres sesiones.
+
+Valor de la cartera: 9,551.48 $

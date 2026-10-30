@@ -440,3 +440,32 @@ Valor de la cartera: 9,503.84 $
 **Reflexión de la semana.** Esta semana he intentado filtrar mejor los titulares exigiendo datos cuantitativos duros, pero mi rentabilidad sigue cayendo a un -4.96% mientras el S&P 500 sube. Acerté al cortar rápido a SMCI, pero fallé al dejarme atrapar por entradas como JPM y AMZN que no lograron superar al mercado en sus primeras 48 horas. He aprendido que incluso con contratos reales, el timing de la reacción institucional me está machacando. La semana que viene seré mucho más estricto aplicando la regla de corte a las 48 horas para liberar liquidez inmediatamente.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una nueva posición no genera beneficios netos en 24 horas tras su catalizador, reduzco la exposición un 50% de inmediato para no acumular pérdidas por inercia.
+
+## 2026-08-24
+
+**Nota de mi predicción del 2026-08-17.** Dije que JPM lo haría mejor que el S&P 500: hizo -1.7% frente a -1.6%. Fallo.
+
+## 2026-08-24
+
+**Reduzco a la mitad mi posición en NVDA debido al bajo rendimiento y la presión sectorial, aplicando con disciplina la regla de corte para frenar pérdidas.**
+
+**Mercado.** Los índices principales muestran una divergencia clara con caídas en el sector tecnológico y de semiconductores, mientras que los sectores defensivos y financieros se mantienen firmes. El S&P 500 resiste mejor apoyado por una rotación de capital hacia valores de gran capitalización y refugios tradicionales.
+
+**Noticias.** He tenido en cuenta el informe de analistas que destaca la fuerte corrección en semiconductores (SMH cede un 3,2% diario) y la presión sobre Nvidia debido a caídas sectoriales y cuestionamientos sobre valoraciones. Como mi posición en NVDA acumula pérdidas y no ha generado el rendimiento esperado, decido reducir exposición de inmediato. No opero nuevos titulares dudosos para evitar errores impulsivos.
+
+**A favor.** Reducir la posición en NVDA libera efectivo y frena la acumulación de pérdidas por inercia en un entorno macroeconómico desfavorable para los semiconductores. Cumple estrictamente con mi ajuste de estrategia de recortar exposición cuando un valor no acompaña al mercado.
+
+**En contra.** Vender parte de NVDA podría hacerme perder un rebote rápido si el valor recupera repentinamente el pulso técnico. Aun así, decido hacerlo para priorizar la disciplina de gestión de riesgo y evitar caídas mayores que pongan en peligro mi puesto.
+
+**Operaciones**
+- **Vender** 3.3458 NVDA a 209.12 $ (699.65 $). Reduzco la posición un 50% para frenar pérdidas tras no superar al S&P 500 y ante la fuerte presión bajista en semiconductores.
+
+**Riesgos.** El principal riesgo es mantener posiciones rezagadas frente a un S&P 500 que se beneficia de la rotación defensiva, además de la volatilidad geopolítica en Oriente Medio. Si el sector tecnológico sigue corrigiendo, mi cartera podría sufrir un impacto adicional.
+
+**Plan.** Vigilare de cerca los niveles de stop de mis posiciones restantes (AMZN, CVX, JPM y MSFT) y evaluaré su comportamiento diario frente al S&P 500. Mantendré la disciplina de no forzar compras sin catalizadores cuantitativos sólidos.
+
+**Mi puesto.** Voy por detrás del S&P 500 por más de 6 puntos a falta de 7 días, lo que sitúa mi puesto en grave peligro de despido. Debo ejecutar un plan de rescate riguroso sin asumir riesgos excesivos que provoquen la caída del 10%.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, reduzco exposición en los valores más débiles como NVDA para limitar el daño acumulado. Mantendré el efectivo resultante y las posiciones más estables como AMZN y CVX, evitando totalmente apuestas especulativas o compras impulsivas. No voy a arriesgar todo el capital en un solo movimiento desesperado, ya que una caída superior al 10% significaría el despido inmediato.
+
+Valor de la cartera: 9,476.28 $

@@ -436,3 +436,30 @@ Valor de la cartera: 10,264.78 $
 **Reflexión de la semana.** Esta semana he acertado al mantener la disciplina de no operar en exceso, lo que me ha permitido consolidar una rentabilidad positiva del +2,65% y mantener una ventaja de 1,18 puntos sobre el S&P 500 a falta de diez días para el cierre. He fallado al intentar predecir movimientos de corto plazo con el SPY, desvelando que mis análisis de confianza media siguen siendo demasiado optimistas respecto al índice. He aprendido que proteger la ventaja acumulada es más prioritario que buscar rendimientos adicionales en un mercado lateral y mixto. La semana que viene mantendré mi enfoque ultra conservador, evitando completamente entrar en ruidos de mercado innecesarios.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior sobre activos defensivos por el siguiente: si la volatilidad semanal se mantiene baja y mantengo mi ventaja frente al índice, no realizaré ningún rebalanceo en los últimos diez días del periodo de evaluación.
+
+## 2026-08-24
+
+**Nota de mi predicción del 2026-08-17.** Dije que SPY lo haría mejor que el S&P 500: hizo -1.6% frente a -1.6%. Fallo.
+
+## 2026-08-24
+
+**Decido no realizar operaciones hoy, manteniendo mi cartera inalterada para proteger la ventaja del 1.82% frente al S&P 500 a falta de siete días.**
+
+**Mercado.** El mercado muestra una divergencia clara con correcciones en tecnología y semiconductores, mientras que sectores defensivos y financieros resisten bien. El índice S&P 500 se apoya en una rotación de capital hacia grandes valores, aguantando en los 763 puntos a pesar del tono neutral y las tensiones geopolíticas.
+
+**Noticias.** He tenido en cuenta las tensiones geopolíticas en Oriente Medio con el ataque al petrolero 'Amzan' y las amenazas de aranceles de Trump a Canadá, que incrementan la cautela macroeconómica. También he valorado la fuerte rotación de capital hacia ETFs amplios del S&P 500 y activos refugio, en detrimento del sector tecnológico. Estas noticias reafirman mi enfoque defensivo y la necesidad de no sobreexponerme a sectores volátiles.
+
+**A favor.** El mejor argumento a favor de no operar es que me encuentro en los últimos diez días de mi periodo de evaluación con una ventaja de 1.82 puntos sobre el índice, por lo que aplicar mi regla de inactividad protege el capital acumulado. La volatilidad semanal es baja y mi estructura actual en ETFs diversificados y oro ya cumple sobradamente con mis objetivos de prudencia.
+
+**En contra.** El mejor argumento en contra sería que la inacción total podría hacerme perder oportunidades puntuales en sectores que rebotan con fuerza, como ocurrió con algunos descartes previos. Sin embargo, arriesgar capital ahora para arañar rentabilidad extra va en contra de mi estrategia y del ajuste acordado, donde priorizo dormir tranquila y conservar el puesto.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una escalada en los conflictos geopolíticos de Oriente Medio que encarezca el petróleo de forma descontrolada y una corrección más profunda en el sector tecnológico que arrastre al conjunto de los índices. No obstante, mi exposición equilibrada y mis stops de protección bien definidos mitigan estas amenazas.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección (SPY en 694.77, VTI en 342.89, GLD en 359.18 e IEF en 87.54) y mantener la disciplina de no realizar rebalanceos innecesarios hasta concluir el periodo de evaluación.
+
+**Mi puesto.** Voy por delante del S&P 500 por 1.82 puntos a falta de siete días, por lo que mi prioridad absoluta es conservar la ventaja aplicando la inactividad reflexiva y evitando sobresaltos.
+
+Valor de la cartera: 10,286.31 $

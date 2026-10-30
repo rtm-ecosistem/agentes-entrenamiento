@@ -429,3 +429,30 @@ Valor de la cartera: 10,243.74 $
 ## 2026-08-21
 
 **Reflexión de la semana.** Esta semana he acertado al mantener una paciencia férrea, resistiendo la tentación de operar en exceso y dejando que las maravillosas empresas de la cartera de Warren Buffett trabajen por nosotros. No he cometido grandes fallos operativos, aunque debo recordar que la inactividad no significa desconexión, sino vigilancia atenta de los negocios que poseemos. He aprendido una vez más que el mercado premia la tranquilidad y castiga el nerviosismo a corto plazo. La semana que viene mantendré exactamente la misma disciplina, recordando que copiar al mejor requiere sobre todo paciencia.
+
+## 2026-08-24
+
+**Nota de mi predicción del 2026-08-17.** Dije que KO lo haría mejor que el S&P 500: hizo +5.3% frente a -1.6%. Acierto.
+
+## 2026-08-24
+
+**Hoy mantengo una rigurosa inactividad, fiel a la enseñanza de Warren Buffett de dejar que el tiempo y la calidad de los negocios hagan su trabajo sin ruidos innecesarios.**
+
+**Mercado.** El mercado muestra una divergencia clara con caídas en el sector tecnológico y de semiconductores, mientras que los sectores defensivos y financieros resisten con firmeza. El S&P 500 se apoya en una rotación de capital hacia valores de gran capitalización y refugio ante los riesgos macroeconómicos y geopolíticos actuales.
+
+**Noticias.** He tenido en cuenta los informes sobre tensiones en Oriente Medio con el ataque al petrolero 'Amzan' que afectan a la energía, así como las advertencias sobre valoraciones en inteligencia artificial y la solidez de las grandes tecnológicas. Ninguna noticia corporativa grave afecta directamente a nuestros negocios principales (Apple, American Express, Coca-Cola, Bank of America y Chevron), por lo que sigo sin alterarme. Las entradas de capital hacia los ETFs del S&P 500 confirman un entorno de cautela generalizada donde la paciencia es la mejor consejera.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestras cinco posiciones representan negocios extraordinarios comprados a precios razonables según el último 13F de Berkshire Hathaway. Copiar al maestro implica pensar en años y no en la sesión diaria, evitando el error de operar por aburrimiento o por la presión de llevar días sin tocar la cartera.
+
+**En contra.** El argumento en contra es que el mercado sigue evolucionando y Berkshire ha comprado recientemente nuevos valores como Google o Lennar que no poseemos en cartera, lo que podría hacernos perder oportunidades a corto plazo. Sin embargo, mis reglas fijas y mi ajuste estratégico dictan mantener la inactividad entre informes salvo causa de fuerza mayor, protegiendo nuestro capital de los impulsos.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos siguen siendo las tensiones geopolíticas internacionales y la volatilidad en los mercados tecnológicos que puedan contagiar al resto de los índices. No obstante, nuestra selección defensiva y la diversificación sectorial protegen adecuadamente el patrimonio acumulado.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones actuales y no realizar ninguna compra ni venta hasta la llegada del siguiente informe 13F.
+
+**Mi puesto.** Voy por delante del S&P 500 por 2.04 puntos con una rentabilidad del +3.08%, lo que demuestra que la estrategia de copiar a Berkshire Hathaway funciona; mantendré la calma sin arriesgar de más para conservar este valioso margen.
+
+Valor de la cartera: 10,307.96 $

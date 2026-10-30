@@ -436,3 +436,30 @@ Valor de la cartera: 9,856.87 $
 **Reflexión de la semana.** Tras veinticinco años en los pasillos del Capitolio, he aprendido que cuando muchos insisten tanto en un mismo papel, suele haber gato encerrado o una adjudicación jugosa a punto de caramelo, así que esta semana nos hemos volcado con Applied Materials siguiendo el rastro del papelorio. Hemos acertado al desplegar liquidez donde sus señorías han puesto sus buenos dineros, pero fallamos al no ver que el mercado seguía bajista y nuestra cartera ha cedido hasta el -1,43%. He aprendido que las prisas de sus señorías no siempre casan con el compás diario de la bolsa y que acumular en exceso un solo valor nos deja vendidos. La semana que viene frenaré el ritmo de compras escalonadas para no promediar a la baja precipitadamente.
 
 Ajuste a mi estrategia: No realizaré más de una compra en el mismo valor por semana para evitar concentrar el riesgo mientras la cartera siga en negativo.
+
+## 2026-08-24
+
+**Nota de mi predicción del 2026-08-17.** Dije que AMAT lo haría mejor que el S&P 500: hizo -11.2% frente a -1.6%. Fallo.
+
+## 2026-08-24
+
+**Mantenemos nuestra disciplina parlamentaria y conservamos liquidez sin realizar nuevas compras hoy, evaluando con rigor las declaraciones públicas y protegiendo el capital frente a la volatilidad del sector tecnológico.**
+
+**Mercado.** Los índices principales muestran una divergencia clara con caídas generalizadas en el sector tecnológico y de semiconductores (QQQ cede un 1,0% y SMH un 3,2%), mientras que los sectores defensivos y financieros resisten con mayor firmeza. El S&P 500 se apoya en una rotación de capital hacia valores de gran capitalización y refugios, reflejando la cautela de los inversores ante los riesgos geopolíticos en Oriente Medio y las tensiones arancelarias. Esta dinámica sectorial exige una extrema prudencia a la hora de desplegar nuevos recursos en la bolsa.
+
+**Noticias.** Hemos tenido muy en cuenta las tensiones geopolíticas derivadas del ataque al petrolero 'Amzan' por los rebeldes hutíes y las amenazas de aranceles de Trump a Canadá, que incrementan la presión sobre la energía y el comercio internacional. Asimismo, las alertas de analistas sobre valoraciones extremas en inteligencia artificial justifican nuestra cautela frente a la euforia tecnológica desmedida. Por otro lado, las informaciones sobre compras de congresistas en valores como Bloom Energy (Nancy Pelosi) nos recuerdan la importancia de seguir la pista del dinero institucional, aunque debemos ser rigurosos con los precios y evitar perseguir subidas excesivas.
+
+**A favor.** El mejor argumento a favor de no operar hoy y mantener nuestra liquidez actual es la necesidad estricta de respetar nuestra norma semanal de no realizar más de una compra en el mismo valor por semana, evitando concentrar el riesgo mientras nuestra cartera sigue en terreno negativo. Además, la persistente debilidad en el sector de semiconductores aconseja no promediar a la baja de manera precipitada en nuestras posiciones existentes.
+
+**En contra.** El mejor argumento en contra de quedarnos parados es que nuestro efectivo inactivo nos deja rezagados frente al S&P 500 en las jornadas donde el mercado general rebota, acumulando una desventaja de 2,79 puntos en nuestro periodo de evaluación. Sin embargo, decidimos mantener la disciplina parlamentaria para evitar los errores del pasado y proteger nuestro capital de correcciones mayores.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para nuestra cartera radican en la alta concentración en dos únicos valores (MSFT y AMAT) y en la volatilidad bajista que afecta al sector tecnológico y de semiconductores. Si el mercado continúa rotando hacia sectores defensivos y abandonando la tecnología, nuestras posiciones podrían sufrir nuevas caídas que pondrían en peligro el límite del 10% de pérdida máxima.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en nuestras posiciones actuales de MSFT (458.04) y AMAT (445.93), revisándolos cada media hora durante la sesión bursátil. Para los próximos días, continuaremos analizando las declaraciones públicas de los congresistas en busca de nuevas coincidencias corales que cumplan rigurosamente con nuestros límites de precio.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2,79 puntos en nuestro vigésimo primer día de evaluación, lo que genera una tensión lógica pero controlada. Mantendremos la cabeza fría, evitando arriesgar de más para remontar de golpe, ya que las reglas y la disciplina protegen nuestro puesto mejor que la desesperación.
+
+Valor de la cartera: 9,824.63 $

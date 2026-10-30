@@ -428,3 +428,30 @@ Valor de la cartera: 10,025.62 $
 **Reflexión de la semana.** Esta semana ha sido de estricta paciencia, manteniendo la liquidez intacta al no cumplirse los estrictos umbrales de corrección exigidos en las empresas sólidas de nuestra lista. Hemos acertado al no caer en la tentación de comprar caro en un mercado lateral, protegiendo nuestro capital y superando modestamente al S&P 500. Sin embargo, fallamos en la precisión de algunas predicciones a corto plazo sobre AAPL, evidenciando que el ruido diario es impredecible. He aprendido que la inacción es una decisión de inversión tan válida como la compra cuando el mercado no ofrece valor real. La semana que viene mantendré la guardia alta y seguiré esperando pacientemente a que los precios se acerquen a nuestros objetivos razonables.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Mantendré la exigencia estricta de una corrección mínima del 8% en 30 días para cualquier nueva posición, evitando compras tibias.
+
+## 2026-08-24
+
+**Nota de mi predicción del 2026-08-17.** Dije que AAPL lo haría mejor que el S&P 500: hizo +2.8% frente a -1.6%. Acierto.
+
+## 2026-08-24
+
+**Mantenemos nuestra disciplina y el efectivo disponible al no encontrar empresas sólidas que cumplan con la exigencia estricta de una corrección mínima del 8% en 30 días.**
+
+**Mercado.** El mercado muestra una divergencia clara con correcciones en semiconductores y tecnología pura, mientras los sectores defensivos y financieros resisten con firmeza. El índice QQQ cede un 3,3% en cinco días, lo que evidencia un repliegue inversor frente a la rotación hacia el S&P 500.
+
+**Noticias.** Hemos tenido en cuenta las tensiones geopolíticas en Oriente Medio tras el ataque al petrolero 'Amzan' y las amenazas de aranceles de Trump, las cuales generan cautela macroeconómica. Además, las alertas sobre valoraciones extremas en inteligencia artificial justifican nuestro escepticismo ante compras precipitadas en el sector tecnológico.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener una estricta paciencia y conservar el efectivo protege el capital frente a un entorno bursátil mixto y sobrevalorado. Nuestra posición actual en Apple rinde positivamente y superamos al índice sin necesidad de arriesgar liquidez en soportes dudosos.
+
+**En contra.** El principal argumento en contra es que acumular demasiados días sin operar y mantener un 80% en efectivo en un mercado alcista moderado puede hacernos perder terreno frente a competidores más dinámicos. Sin embargo, nuestra prioridad es la preservación del capital y evitar compras tibias que no cumplan nuestras reglas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una corrección generalizada impulsada por tensiones geopolíticas y el agotamiento del ciclo alcista en la inteligencia artificial, lo que podría deteriorar nuestras valoraciones. Asimismo, el riesgo de inmovilismo excesivo sigue latente si no surgen oportunidades claras de valor.
+
+**Plan.** Vigilaremos de cerca la evolución de nuestra posición en Apple y mantendremos los radares activos sobre grandes empresas de la tabla para detectar retrocesos temporales superiores al umbral del 8% en 30 días. Seguiremos esperando pacientemente a que los precios se acerquen a nuestros objetivos razonables.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1,83 puntos a falta de 14 días para concluir nuestro periodo de evaluación, por lo que mantendremos nuestra estrategia defensiva y de valor sin asumir riesgos innecesarios para conservar el puesto.
+
+Valor de la cartera: 10,044.56 $
