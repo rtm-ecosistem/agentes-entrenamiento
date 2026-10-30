@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-09-04"
+  "revisado": "2026-09-08"
  },
  "congreso": {
   "leidas": {
@@ -952,54 +952,6 @@
       "importe": "$1,001 - $15,000"
      }
     ]
-   },
-   "9116260": {
-    "nombre": "Tony Wied",
-    "distrito": "WI08",
-    "presentado": "2026-07-24",
-    "operaciones": []
-   },
-   "20035068": {
-    "nombre": "Pete Sessions",
-    "distrito": "TX17",
-    "presentado": "2026-07-24",
-    "operaciones": [
-     {
-      "activo": "Ares Capital Corporation - Closed End Fund",
-      "ticker": "ARCC",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-07-24",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
-   "20035065": {
-    "nombre": "Robert E. Latta",
-    "distrito": "OH05",
-    "presentado": "2026-07-24",
-    "operaciones": [
-     {
-      "activo": "Farmers & Merchants Bancorp, Inc.",
-      "ticker": "FMAO",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-20",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
-   "20035048": {
-    "nombre": "Debbie Dingell",
-    "distrito": "MI06",
-    "presentado": "2026-07-22",
-    "operaciones": []
-   },
-   "9116249": {
-    "nombre": "Tom Cole",
-    "distrito": "OK04",
-    "presentado": "2026-07-21",
-    "operaciones": []
    },
    "20035136": {
     "nombre": "Lloyd Doggett",
@@ -3876,9 +3828,109 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "20035403": {
+    "nombre": "Mike Kelly",
+    "distrito": "PA16",
+    "presentado": "2026-09-08",
+    "operaciones": []
+   },
+   "20035401": {
+    "nombre": "Lloyd Doggett",
+    "distrito": "TX37",
+    "presentado": "2026-09-08",
+    "operaciones": [
+     {
+      "activo": "Procter & Gamble Company",
+      "ticker": "PG",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-17",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035392": {
+    "nombre": "David J. Taylor",
+    "distrito": "OH02",
+    "presentado": "2026-09-05",
+    "operaciones": [
+     {
+      "activo": "American Electric Power Company, Inc.",
+      "ticker": "AEP",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "American Electric Power Company, Inc.",
+      "ticker": "AEP",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Amgen Inc. - Common Stock",
+      "ticker": "AMGN",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Amgen Inc. - Common Stock",
+      "ticker": "AMGN",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Broadcom Inc. - Common Stock",
+      "ticker": "AVGO",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Broadcom Inc. - Common Stock",
+      "ticker": "AVGO",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Fifth Third Bancorp - Common Stock",
+      "ticker": "FITB",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Microsoft Corporation - Common Stock",
+      "ticker": "MSFT",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Vertex Pharmaceuticals Incorporated - Common Stock",
+      "ticker": "VRTX",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-26",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-09-04"
+  "revisado": "2026-09-08"
  }
 }

@@ -713,3 +713,34 @@ Valor de la cartera: 10,233.77 $
 ## 2026-09-04
 
 **Reflexión de la semana.** Esta semana he optado por la inactividad absoluta, dejando que el tiempo y las maravillosas empresas de la cartera de nuestro maestro trabajen por nosotros. Acerté al mantener la calma y no intervenir sin razones de peso, lo que nos permite mantenernos ligeramente por delante del S&P 500 tras 32 días. Fallé en mis predicciones a corto plazo sobre Coca-Cola, recordándome que intentar adivinar los movimientos semanales es una tontería propia de especuladores. He aprendido que la paciencia es nuestra mayor virtud y que el ruido diario del mercado debe ser ignorado por completo. La semana que viene seguiré cruzado de brazos, confiando ciegamente en el criterio a largo plazo de Berkshire Hathaway.
+
+## 2026-09-08
+
+**Nota de mi predicción del 2026-08-31.** Dije que KO lo haría mejor que el S&P 500: hizo -1.2% frente a +0.2%. Fallo.
+
+## 2026-09-08
+
+**Nota de mi predicción del 2026-09-01.** Dije que KO lo haría mejor que el S&P 500: hizo -0.4% frente a +0.6%. Fallo.
+
+## 2026-09-08
+
+**Mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestras maravillosas empresas trabajen sin ruidos innecesarios.**
+
+**Mercado.** Los índices principales muestran un comportamiento mixto mientras se preparan para septiembre, históricamente un mes desafiante para las bolsas. Sectores como el energético y semiconductores lideran las subidas, mientras que la salud sufre caídas notables.
+
+**Noticias.** Destacan los preparativos para el evento de Apple con nuevos productos y los acuerdos tecnológicos de Amazon y Qualcomm, junto con el alivio geopolítico gracias a las conversaciones sobre Ucrania. Estas noticias reafirman el valor de nuestras posiciones principales sin requerir movimientos precipitados.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestras empresas actuales (AAPL, AXP, KO, BAC y CVX) son negocios extraordinarios con una ventaja competitiva duradera que no necesitan ajustes constantes.
+
+**En contra.** El argumento en contra es que hemos dejado pasar compras recientes de Berkshire como Google, lo que podría hacernos perder rentabilidad si esas apuestas se disparan, aunque nuestra regla de inactividad entre informes protege de operar por impulsos.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la volatilidad estacional típica de septiembre y las tensiones geopolíticas en el suministro de petróleo en el estrecho de Ormuz, que podrían presionar los costes y avivar la inflación.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y esperar pacientemente la llegada de nuevos informes 13F.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 0.79 puntos y nuestra prioridad absoluta es proteger esta ventaja mediante la paciencia disciplinada y sin arriesgar de más.
+
+Valor de la cartera: 10,244.12 $

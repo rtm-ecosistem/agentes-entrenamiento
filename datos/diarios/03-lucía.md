@@ -755,3 +755,37 @@ Valor de la cartera: 9,818.20 $
 **Reflexión de la semana.** Esta semana finalicé el periodo de evaluación con una bajada dolorosa, cerrando por debajo del S&P 500 y rozando el umbral de despido que tanto temía. Acerté al cortar por fin las pérdidas en COST y dejar correr a mis ganadoras como NVDA cuando el mercado dio tregua. Fallé al paralizarme demasiado tiempo al principio por miedo al despido, perdiendo oportunidades clave de recuperación. He aprendido que la parálisis por miedo es peor que una mala operación y que debo actuar con más decisión aunque el margen sea estrecho. La semana que viene cambiaré esa actitud defensiva por una ejecución rápida y sin titubeos.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si al inicio de la semana estoy por debajo del S&P 500, incremento un 10% la rotación en valores con tendencia alcista diaria para forzar la recuperación.
+
+## 2026-09-08
+
+**Nota de mi predicción del 2026-08-31.** Dije que NVDA lo haría mejor que el S&P 500: hizo +3.5% frente a +0.2%. Acierto.
+
+## 2026-09-08
+
+**Nota de mi predicción del 2026-09-01.** Dije que NVDA lo haría mejor que el S&P 500: hizo +3.9% frente a +0.6%. Acierto.
+
+## 2026-09-08
+
+**Voy por detrás del S&P 500 y mi puesto peligra, por lo que decido desplegar parte de mi efectivo inactivo en valores con clara tendencia alcista y respaldo analítico, ajustándome estrictamente a las reglas.**
+
+**Mercado.** El S&P 500 se mantiene firme cotizando a 767.70 puntos por encima de su media de 50 días, con sectores como energía y semiconductores liderando las subidas. Septiembre arranca con cierta volatilidad estacional, pero los acuerdos de IA y la distensión geopolítica ofrecen un soporte sólido.
+
+**Noticias.** He tenido muy en cuenta el acuerdo de chips de IA entre Qualcomm (QCOM) y Amazon (AMZN), así como el impulso en energía respaldado por CVX debido a las tensiones en Ormuz. Asimismo, valoro positivamente el entorno de semiconductores (SMH) que sigue mostrando fortaleza técnica y un tono alcista claro.
+
+**A favor.** Mantener un 42% en efectivo mientras el S&P 500 sube me penaliza y me deja por detrás, por lo que rotar hacia valores con fuerte momento alcista y soporte de analistas es la única vía lógica para recortar distancias sin caer en la inacción paralizante.
+
+**En contra.** Septiembre es históricamente un mes desafiante y hay riesgos latentes en el mercado que podrían volverse en contra si la volatilidad aumenta de repente. Aun así, decido operar con disciplina milimétrica y stops estrictos para no quedarme rezagada frente al índice.
+
+**Operaciones**
+- **Comprar** 5.6664 QCOM a 176.48 $ (1,000.00 $). Fuerte tendencia alcista a 20 y 60 días, por encima de su media de 50 días y respaldado por el nuevo acuerdo de chips de IA con Amazon.
+- **Comprar** 4.7276 CVX a 211.53 $ (1,000.00 $). Excelente momento en el sector energético con subidas claras a 20 y 60 días, respaldado por tensiones en el estrecho de Ormuz y mejores precios objetivo.
+
+**Riesgos.** El principal riesgo es una corrección generalizada de septiembre impulsada por el sector energético o la cautela macroeconómica, lo que activaría los stops de protección de mis posiciones.
+
+**Plan.** Voy a vigilar estrictamente que todas mis posiciones (MSFT, NVDA, APP, QCOM y CVX) respeten sus medias móviles de 50 días y sus niveles de stop. Mi plan para los próximos días es mantener la disciplina y cortar al instante cualquier valor que muestre debilidad.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 4.51 puntos y mi puesto corre peligro real, por lo que aplico mi plan de rescate aumentando la rotación hacia valores con tendencia alcista diaria para forzar una recuperación controlada.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras con fuerte tendencia (MSFT, NVDA, APP) e incorporo de forma selectiva valores con gran momento y respaldo de analistas como QCOM y CVX utilizando parte del efectivo inactivo. No voy a jugármelo todo a una carta ni a superar los límites de peso por valor, evitando estrictamente una caída superior al 10% que suponga un despido fulminante.
+
+Valor de la cartera: 9,713.65 $

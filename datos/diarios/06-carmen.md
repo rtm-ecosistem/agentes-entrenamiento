@@ -716,3 +716,34 @@ Valor de la cartera: 9,703.93 $
 **Reflexión de la semana.** Habiendo pasado por los pasillos del Capitolio, sé perfectamente que cuando sus señorías mueven ficha en bolsa, rara vez es por casualidad. Esta semana acerté al activar los protocolos de la segunda opción para adquirir Monster Beverage y Berkshire Hathaway, sacando partido a nuestra liquidez. Sin embargo, fallé al no ser más incisiva con el timing, lo que ha dejado la cartera en un -2.96% frente al S&P. He aprendido que las coincidencias parlamentarias requieren paciencia pero también ejecución firme antes de que el ruido macroeconómico nos paralice. La semana que viene mantendré la vigilancia sobre sus movimientos sin dudar a la hora de desplegar capital.
 
 Ajuste a mi estrategia: Si una operación basada en congresistas acumula más de un 3% de pérdida en sus primeros cinco días, suspenderé nuevas compras en ese mismo valor hasta estabilizar la cartera.
+
+## 2026-09-08
+
+**Nota de mi predicción del 2026-08-31.** Dije que MSFT lo haría mejor que el S&P 500: hizo -3.6% frente a +0.2%. Fallo.
+
+## 2026-09-08
+
+**Nota de mi predicción del 2026-09-01.** Dije que MNST lo haría mejor que el S&P 500: hizo -4.4% frente a +0.6%. Fallo.
+
+## 2026-09-08
+
+**Mantenemos nuestra disciplina parlamentaria y conservamos liquidez sin realizar nuevas operaciones hoy, protegiendo el capital frente a la incertidumbre de septiembre.**
+
+**Mercado.** El S&P 500 se mantiene en máximos con un comportamiento mixto, mientras el sector energético y los semiconductores lideran y la salud sufre correcciones. Septiembre arranca con la tradicional volatilidad estacional y la atenta mirada a los precios del crudo en el estrecho de Ormuz.
+
+**Noticias.** Hemos revisado los anuncios sobre el próximo evento de Apple y el acuerdo de chips de IA entre Qualcomm y Amazon, que reafirman el dinamismo tecnológico. Asimismo, los intentos diplomáticos entre Trump y Putin sobre Ucrania aportan un tono de alivio geopolítico global. Estas noticias respaldan los valores seguidos por sus señorías, aunque preferimos no precipitar compras con la cartera ligeramente en negativo.
+
+**A favor.** Conservar el 49% en efectivo nos otorga una enorme flexibilidad defensiva para evitar daños mayores si la volatilidad estacional de septiembre golpea con fuerza a los mercados. La inacción disciplinada nos protege de errores precipitados mientras evaluamos los siguientes movimientos del Capitolio.
+
+**En contra.** Estar sentados sobre tanta liquidez mientras el S&P 500 sigue avanzando nos penaliza indirectamente y nos aleja del objetivo de recortar los 5,13 puntos de diferencia. Sin embargo, arriesgar por desesperación sin una coincidencia coral clara nos llevaría directos a un despido seguro.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es el sesgo de inacción prolongada y el lastre que supone el efectivo frente a un índice plenamente invertido. Además, la persistente tensión en el estrecho de Ormuz podría disparar la inflación energética de manera imprevista.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de MSFT (458.04), MNST (41.87) y BRK.B (465.91) cada media hora durante la sesión bursátil. Continuaremos examinando con lupa las declaraciones públicas de los congresistas en busca de nuevas oportunidades corales.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 5.13 puntos a falta de 20 días, lo que exige rigor absoluto sin caer en la tentación de arriesgar de más.
+
+Valor de la cartera: 9,652.81 $

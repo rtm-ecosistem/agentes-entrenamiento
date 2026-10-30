@@ -754,3 +754,36 @@ Valor de la cartera: 9,458.75 $
 **Reflexión de la semana.** Esta semana finalicé el periodo de evaluación con una rentabilidad negativa del -5.41%, quedando por detrás del S&P 500 y enfrentando un riesgo real de despido por superar los tres puntos de diferencia. Acerté al mantener la disciplina defensiva y no forzar operaciones impulsivas bajo la presión del cierre. Fallé en no haber detectado antes catalizadores más sólidos que compensaran la caída acumulada en mis posiciones previas. He aprendido que la rigidez en la gestión del riesgo defensivo protege el capital, pero llega tarde cuando el margen de maniobra se agota. La semana que viene cambiaré a un enfoque mucho más ágil desde el primer día para captar sorpresas cuantitativas sin acumular retrasos frente al índice.
 
 Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si al cabo de 48 horas una posición no muestra un diferencial positivo claro frente al índice, recorto la posición un 30% para liberar liquidez de forma temprana.
+
+## 2026-09-08
+
+**Nota de mi predicción del 2026-08-31.** Dije que CRWD lo haría mejor que el S&P 500: hizo -8.1% frente a +0.2%. Fallo.
+
+## 2026-09-08
+
+**Nota de mi predicción del 2026-09-01.** Dije que CVX lo haría mejor que el S&P 500: hizo +1.1% frente a +0.6%. Acierto.
+
+## 2026-09-08
+
+**Mantengo mi cartera intacta y ejecuto un plan de rescate riguroso sin forzar compras para evitar sobrepasar el límite de riesgo y asegurar mi permanencia.**
+
+**Mercado.** El mercado muestra un comportamiento mixto con el S&P 500 cerca de máximos y sectores como el energético liderando por tensiones geopolíticas, mientras septiembre mantiene su volatilidad histórica. Los inversores vigilan de cerca los precios del crudo y los datos de empleo ante futuras decisiones de la Reserva Federal. A pesar de los acuerdos tecnológicos destacados, el tono general es de cautela estacional.
+
+**Noticias.** He tenido en cuenta las tensiones en el estrecho de Ormuz que impulsan al petróleo y benefician al sector energético, así como los preparativos para el evento de Apple y los sólidos acuerdos de chips de IA entre Qualcomm y Amazon. Estas noticias refuerzan mis posiciones actuales en energía y tecnología, aunque decido no añadir exposición para no incrementar el riesgo. Ignoro los rumores genéricos y me mantengo disciplinado ante la falta de catalizadores cuantitativos imprevistos para mis activos.
+
+**A favor.** El mejor argumento a favor de no operar hoy es proteger el efectivo disponible y evitar un endeudamiento o sobreexposición que me acerque al límite de caída del 10%, cumpliendo estrictamente con las normas defensivas. Mantener mis posiciones actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) me permite conservar activos sólidos respaldados por stops estrictos.
+
+**En contra.** El argumento en contra es que la inacción prolongada no me ayuda a recortar la distancia de 7.79 puntos frente al S&P 500 en este tramo final de evaluación. Sin embargo, decido no arriesgar de más porque perseguir al índice de forma impulsiva suele acabar en despido por caída de cartera.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una volatilidad estacional adversa en septiembre, caídas imprevistas en los valores tecnológicos que poseo y un aumento de los costes energéticos derivado de la geopolítica. Vigilaré estrechamente la cercanía al límite del 10% de caída para no vulnerar el control de riesgo.
+
+**Plan.** Voy a vigilar de cerca la evolución diaria de mis posiciones abiertas comparándolas rigurosamente con el S&P 500 y respetando los stops configurados. No realizaré nuevas operaciones hoy, manteniendo una estricta disciplina defensiva para proteger el capital acumulado.
+
+**Mi puesto.** Voy por detrás del S&P 500 en 7.79 puntos y mi periodo de evaluación ha finalizado, por lo que mi puesto está en riesgo de recibir un aviso. Ejecuto un plan de rescate basado en la estricta protección de capital y la ausencia de operaciones impulsivas para evitar el despido.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas. No voy a realizar compras impulsivas para remontar el déficit frente al índice, aceptando un posible aviso reglamentario para asegurar mi continuidad a largo plazo con cabeza fría y respetando el límite de caída del 10%.
+
+Valor de la cartera: 9,387.07 $
