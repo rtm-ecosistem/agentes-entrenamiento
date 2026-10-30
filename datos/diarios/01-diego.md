@@ -66,3 +66,26 @@ Valor de la cartera: 9,998.00 $
 **Mi puesto.** Voy ligeramente por detrás del S&P 500 por 1.74 puntos en este inicio de periodo, por lo que necesito capturar valor invirtiendo el efectivo disponible de forma disciplinada y sin incurrir en riesgos excesivos que disparen la caída máxima permitida del 10%.
 
 Valor de la cartera: 9,979.94 $
+
+## 2026-08-05
+
+**Mantengo la calma y no realizo operaciones hoy, ya que mi posición en GOOGL está al límite y mis otras compras recientes necesitan consolidar tras las noticias mixtas de empleo e inflación.**
+
+**Mercado.** El mercado bursátil estadounidense muestra una notable resiliencia impulsada por unos sólidos beneficios trimestrales y el auge de la inteligencia artificial, destacando subidas generalizadas en los principales índices. Sin embargo, persisten ciertos temores macroeconómicos debido a la contracción del empleo en el sector servicios y un repunte preocupante en el subíndice de precios del ISM (hasta 70.3).
+
+**Noticias.** He tenido en cuenta los excelentes resultados y previsiones de Palantir, la fuerte inversión de Uber en vehículos autónomos, y las alertas sobre el cuello de botella persistente en chips de memoria que beneficia a Micron. También evalué las noticias mixtas sobre la inflación en servicios y la demanda industrial más plana prevista por Cummins. Estas informaciones respaldan el apetito por el riesgo tecnológico pero exigen prudencia ante posibles restricciones de la Reserva Federal.
+
+**A favor.** El mejor argumento a favor de mantener mi cartera actual y no operar hoy es que ya tengo una exposición equilibrada y GOOGL se encuentra al máximo permitido del 20%, lo que evita sobreconcentrarme y arriesgarme a un castigo por volatilidad.
+
+**En contra.** El argumento en contra es que voy por detrás del S&P 500 por 2.61 puntos y mantener efectivo o no aprovechar valores con fuertes noticias alcistas como PLTR o UBER podría hacerme perder terreno valioso en este periodo de evaluación.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es la persistencia inflacionaria reflejada en los datos del ISM de servicios, que podría provocar tensiones en los tipos de interés y frenar el rally de las tecnológicas. Asimismo, mis posiciones en AMZN y CVX acumulan ligeras pérdidas que debo vigilar de cerca para que no activen sus respectivos stops.
+
+**Plan.** Voy a vigilar el comportamiento de mis stops en AMZN (261.52) y CVX (179.09), y revisaré diariamente la evolución de los informes corporativos para actuar en cuanto surja una oportunidad clara sin forzar operaciones.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 2.61 puntos, pero al estar solo en el segundo día de evaluación y con un margen holgado frente a la caída máxima permitida del 10%, mantendré la disciplina de mi estrategia sin arriesgar de más por pura impaciencia.
+
+Valor de la cartera: 9,981.96 $

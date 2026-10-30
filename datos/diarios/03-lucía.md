@@ -67,3 +67,29 @@ Valor de la cartera: 9,997.50 $
 **Mi puesto.** Voy por detrás del S&P 500 por 1.20 puntos tras apenas un día de evaluación, por lo que necesito poner a trabajar el efectivo ocioso en valores con clara tendencia fuerte sin incurrir en un riesgo excesivo.
 
 Valor de la cartera: 10,034.24 $
+
+## 2026-08-05
+
+**Voy por detrás del S&P 500 y tengo liquidez ociosa, así que despliego el efectivo sobrante comprando más GOOGL para aprovechar su fuerte tendencia alcista.**
+
+**Mercado.** El mercado muestra un tono general alcista impulsado por sólidos resultados trimestrales, destacando el Dow Jones con una subida diaria del +1.4% y el sector tecnológico (QQQ) firme con un +9.3% a 5 días. La macroeconomía presenta señales mixtas con un PMI de servicios sólido pero con una subida en los precios del ISM hasta 70.3 que mantiene la presión inflacionaria. Los inversores continúan apostando fuertemente por la inteligencia artificial y el beneficio empresarial por encima de lo esperado.
+
+**Noticias.** He tenido en cuenta las excelentes noticias de Alphabet y su alianza con Oracle para herramientas de inteligencia artificial, así como la fuerte demanda en chips y centros de datos que benefician a los gigantes tecnológicos. Por otro lado, la demanda antimonopolio contra Amazon en Nueva Jersey y el repunte en los precios del subíndice ISM de servicios son señales de riesgo que vigilo de cerca. Estas noticias confirman que la fortaleza en GOOGL está respaldada por fundamentales sólidos y alianzas estratégicas.
+
+**A favor.** GOOGL cuenta con un rendimiento a 5 días del +13.3% y se encuentra cómodamente por encima de su media de 50 días, cumpliendo con creces los criterios de mi estrategia de tendencia. Además, tengo 4,020 dólares de efectivo ocioso que no me aportan nada compitiendo contra un S&P 500 invertido al 100%, por lo que debo ponerlo a trabajar.
+
+**En contra.** Aunque GOOGL está al límite del 20% en mi cartera (2,025$), las reglas me permiten añadir una pequeña cantidad adicional de hasta 51 dólares, y debo usar el efectivo restante en otra oportunidad con gran tendencia como NVDA para no dejar dinero quieto. El argumento en contra es la volatilidad macroeconómica y la presión inflacionaria, pero la tendencia actual del mercado manda y debo seguirla sin dudar.
+
+**Operaciones**
+- **Comprar** 9.1243 NVDA a 219.19 $ (2,000.00 $). Despliego parte del efectivo sobrante en NVIDIA, que registra un +15.4% a 5 días y está claramente por encima de su media de 50 días.
+
+**Riesgos.** El principal riesgo es la persistencia de la inflación según el ISM de servicios, lo que podría provocar correcciones en las valoraciones tecnológicas elevadas. Asimismo, mantener posiciones tan concentradas en pocos valores incrementa la volatilidad de mi cartera.
+
+**Plan.** Voy a vigilar estrechamente que ninguna posición caiga por debajo de su media de 50 días ni active su stop de protección. Mi plan es dejar correr las ganancias y recortar rápidamente si la tendencia alcista general se rompe.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 2.11 puntos en apenas dos días, lo que me genera tensión pero no voy a cometer el error de arriesgar de más con apuestas desesperadas. Mantendré mi disciplina de tendencia invirtiendo el efectivo disponible en valores fuertes para recortar distancia de forma constante.
+
+Bloqueado por las reglas de riesgo:
+- Compra de GOOGL rechazada: en un mismo valor caben como mucho 2006 $ (20%).
+
+Valor de la cartera: 10,030.79 $

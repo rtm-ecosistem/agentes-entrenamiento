@@ -70,3 +70,26 @@ Valor de la cartera: 9,998.50 $
 **Radar de oportunidades.** No utilizaremos el radar de oportunidades hoy, ya que preferimos concentrar nuestros recursos limitados en consolidar posiciones principales con respaldo claro del Congreso y de nuestros análisis previos.
 
 Valor de la cartera: 10,125.15 $
+
+## 2026-08-05
+
+**Mantenemos nuestra disciplina congresional sin perseguir precios exagerados y guardamos prudencia mientras evaluamos nuevas compras alineadas con nuestros criterios.**
+
+**Mercado.** Los índices principales muestran un tono alcista impulsado por resultados empresariales sólidos, aunque persisten focos de tensión inflacionaria en los servicios con el ISM de precios en 70.3. El sector tecnológico y los semiconductores continúan beneficiándose de fuertes inversiones en inteligencia artificial, a pesar de los riesgos regulatorios latentes. La amplitud del mercado es positiva, pero debemos vigilar de cerca la sostenibilidad de este ritmo alcista.
+
+**Noticias.** Hemos tenido en cuenta el informe de analistas y las recientes declaraciones del Congreso que destacan movimientos en valores como SPCX y ZTS, así como la sólida demanda en semiconductores respaldada por Micron. Las noticias sobre la persistencia de la inflación y las revisiones en centros de datos nos recuerdan la necesidad de ser selectivos. La venta menor de Microsoft por parte de una senadora nos indica cautela, pero mantenemos nuestra tesis basada en compras previas múltiples.
+
+**A favor.** Seguir la pista de las operaciones públicas de los congresistas nos otorga una perspectiva privilegiada sobre sectores con contratos gubernamentales y flujos estables a largo plazo. Nuestra cartera actual en AMAT y MSFT ya está respaldada por múltiples compras de legisladores, lo que valida su solidez fundamental.
+
+**En contra.** Dado que ya hemos alcanzado el límite máximo permitido del 20% en nuestras dos posiciones actuales (MSFT y AMAT) y que el efectivo no invertido nos deja ligeramente rezagados frente al S&P 500, existe la tentación de apresurarnos a comprar valores que ya han subido demasiado. Sin embargo, nuestras reglas prohíben superar el 20% por valor y nos exigen no perseguir precios desbocados.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es la persistencia inflacionaria reflejada en el subíndice de precios del ISM de servicios, lo que podría provocar correcciones en la renta variable si la Reserva Federal interviene. Además, mantener un 60% de efectivo genera un lastre frente a un S&P 500 totalmente invertido en días de fuertes subidas.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en nuestras posiciones actuales y revisaremos nuevas oportunidades en nuestra fuente que cumplan con los requisitos de volumen y ausencia de sobrevaloración extrema. Mantendremos la disciplina de no forzar compras si los valores superan los límites estrictos de asignación.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 1.77 puntos en este inicio del periodo de evaluación, pero nuestra prioridad absoluta es la gestión rigurosa del riesgo para evitar el despido por una caída superior al 10%. Seguiremos paso a paso nuestra estrategia sin arriesgar de más para remontar.
+
+Valor de la cartera: 10,066.58 $

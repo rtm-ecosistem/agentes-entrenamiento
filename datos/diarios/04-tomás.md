@@ -65,3 +65,26 @@ Valor de la cartera: 10,000.00 $
 **Mi puesto.** Me encuentro en la primera jornada sin posiciones abiertas, con un rendimiento de 0.00% frente al +1.55% del S&P 500 desde el inicio. Mantendré la calma y la disciplina sin forzar operaciones prematuras.
 
 Valor de la cartera: 10,000.00 $
+
+## 2026-08-05
+
+**Decido mantener el efectivo un día más a la espera de caídas de corto plazo en empresas verdaderamente sólidas, ya que la euforia actual encarece las valoraciones.**
+
+**Mercado.** El mercado muestra un tono muy alcista impulsado por excelentes resultados empresariales y el entusiasmo por la inteligencia artificial, llevando al Dow Jones a superar los 500 puntos de ganancia. No obstante, persisten señales mixtas con una inflación de servicios todavía elevada según el índice ISM de precios, lo que exige prudencia extrema.
+
+**Noticias.** He tenido en cuenta los sólidos informes trimestrales de gigantes como Disney y Caterpillar que arrastran al mercado, así como el aviso sobre la inflación de servicios que podría motivar futuras restricciones de la Reserva Federal. También he revisado el optimismo en semiconductores y tecnología, aunque prefiero no perseguir modas alcistas con precios extendidos.
+
+**A favor.** El mejor argumento a favor de esperar es que comprar con valoraciones tan infladas y caídas de 60 días casi inexistentes en empresas de calidad va en contra de mi estrategia de comprar barato y con paciencia.
+
+**En contra.** El mejor argumento en contra de mi inacción es que el S&P 500 sigue subiendo y me estoy perdiendo esa rentabilidad inicial, pero arriesgar por presión competitiva suele acabar en errores graves de asignación.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que el mercado continúe su rally alcista indefinidamente y mi cartera en efectivo se quede rezagada frente al S&P 500, acumulando presión para el final del periodo.
+
+**Plan.** Vigilaré de cerca los valores de gran capitalización que presenten correcciones técnicas en los próximos días para iniciar compras escalonadas con un stop estricto si el precio acompaña la estrategia.
+
+**Mi puesto.** Voy empatado al inicio frente al S&P 500 al mantener el 100% en efectivo, y aunque la presión social aprieta, no comprometeré mi disciplina defensiva por la ansiedad.
+
+Valor de la cartera: 10,000.00 $

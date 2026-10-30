@@ -71,3 +71,27 @@ Bloqueado por las reglas de riesgo:
 - Compra de VTI rechazada: en un mismo valor caben como mucho 2014 $ (20%).
 
 Valor de la cartera: 10,071.44 $
+
+## 2026-08-05
+
+**Mantengo mi enfoque prudente y coloco efectivo en bonos y oro para protegerme de la inflación, evitando sobrecomprar valores ya llenos.**
+
+**Mercado.** El mercado muestra un tono alcista generalizado impulsado por fuertes resultados empresariales y el entusiasmo por la inteligencia artificial, aunque persisten focos de tensión inflacionaria en el sector servicios. Los índices principales como el Dow Jones registran ganancias notables, mientras que sectores defensivos como servicios públicos y energía ceden terreno. Esta divergencia exige cautela y una selección muy disciplinada de activos de refugio.
+
+**Noticias.** He tenido en cuenta el repunte del subíndice de precios del ISM de servicios hasta 70.3, que confirma persistencia inflacionaria, y las señales mixtas en el empleo. También valoro los sólidos resultados trimestrales que arrastran al mercado, pero priorizo la protección ante posibles restricciones de la Reserva Federal. Por ello, considero prudente aumentar ligeramente mi exposición a renta fija y materias primas mediante bonos e incremento de oro.
+
+**A favor.** El mejor argumento a favor de mi decisión es que añadir IEF (bonos) y ampliar GLD (oro) reduce el lastre del efectivo inactivo sin incumplir la regla de no superar el 20% por posición, protegiendo mi cartera frente a la persistencia de la inflación. Esta asignación aporta estabilidad y me permite dormir tranquila sin arriesgar en valores tecnológicos sobrecomprados.
+
+**En contra.** El mejor argumento en contra es que el mercado bursátil sigue subiendo con fuerza gracias a la inteligencia artificial, y mantener una parte significativa fuera de la renta variable pura de gran crecimiento puede hacerme perder terreno frente al S&P 500. Aun así, decido mantener mi disciplina prudente porque el riesgo de un giro por tipos de interés supera el beneficio potencial de perseguir subidas eufóricas.
+
+**Operaciones**
+- **Comprar** 10.7151 IEF a 93.33 $ (1,000.00 $). Compro bonos del tesoro a medio plazo para reducir el efectivo inactivo y protegerme con un activo refugio ante la persistencia de la inflación.
+- **Comprar** 2.4957 GLD a 390.61 $ (974.85 $). Amplio ligeramente la posición en oro para mantener la cobertura frente a las presiones inflacionarias en servicios, sin superar el límite del 20%.
+
+**Riesgos.** Los principales riesgos son una reacción negativa de la Reserva Federal ante la inflación persistente de los servicios y una corrección repentina en el sector tecnológico que arrastre a los índices generales. Además, mantener efectivo o bonos de menor rentabilidad diaria podría ampliar temporalmente mi distancia frente al S&P 500 si la euforia bursátil continúa.
+
+**Plan.** Vigilaré la evolución de los datos de inflación, las decisiones sobre tipos de interés y el comportamiento de mis posiciones en ETFs amplios y bonos. Mi plan para los próximos días es mantener el rebalanceo disciplinado y no realizar compras impulsivas en acciones individuales de alto riesgo.
+
+**Mi puesto.** Voy ligeramente por detrás del S&P 500 por 0.93 puntos debido al lastre del efectivo inicial, pero mantendré mi estrategia prudente sin caer en la tentación de arriesgar de más para remontar rápidamente.
+
+Valor de la cartera: 10,148.78 $
