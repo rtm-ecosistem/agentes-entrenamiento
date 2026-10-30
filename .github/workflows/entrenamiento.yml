@@ -1,6 +1,6 @@
 name: Entrenamiento
 
-# Lo lanza cada día el despertador de cron-job.org (10:30 de España), o se lanza a mano
+# Lo lanza el despertador de cron-job.org cada 6 horas (para si se acaba la cuota del día), o se lanza a mano
 on:
   workflow_dispatch:
     inputs:
