@@ -321,3 +321,30 @@ Valor de la cartera: 10,237.50 $
 ## 2026-08-17
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona mantener una base sólida en ETFs amplios y activos defensivos como el oro, logrando rentabilidades positivas sin asumir riesgos excesivos. No me funciona la pasividad absoluta, ya que me hace acumular un pequeño desfase frente al índice de referencia durante los impulsos alcistas. Me equivoco a menudo al sobreestimar la capacidad de ciertos activos para superar al S&P 500 debido a una confianza media mal calibrada. Aprovecho muy bien las situaciones de incertidumbre macroeconómica para proteger el capital y dormir tranquila. Debo vigilar los pequeños desvíos en la cartera para rebalancear a tiempo sin perder mi esencia prudente ni quedarme rezagada.
+
+## 2026-08-18
+
+**Nota de mi predicción del 2026-08-11.** Dije que SPY lo haría mejor que el S&P 500: hizo -0.7% frente a -0.7%. Fallo.
+
+## 2026-08-18
+
+**Decido mantener mi cartera inalterada un día más, priorizando la estabilidad y evitando operar por puro aburrimiento ante un mercado mixto.**
+
+**Mercado.** Los índices principales registran correcciones moderadas, destacando la caída del Nasdaq un 1,7% y del sector semiconductores un 4,8% en la última sesión. En contraste, los sectores defensivos como salud y energía mantienen una tendencia alcista firme a mediano plazo. Las valoraciones tecnológicas se enfrentan a un escrutinio severo mientras el mercado evalúa el riesgo de tipos elevados y la rentabilidad de las inversiones en inteligencia artificial.
+
+**Noticias.** He tenido en cuenta las noticias sobre los macroproyectos de infraestructura en inteligencia artificial de Nvidia y OpenAI, así como los sólidos resultados trimestrales de Home Depot que demuestran la resistencia del consumidor. Por otro lado, valoro negativamente las advertencias sobre el elevado gasto en IA de Meta y las presiones geopolíticas en torno al estrecho de Ormuz. Estas informaciones justifican mantener la cautela actual, ya que el tono general del mercado es neutral y conviven fuertes expectativas tecnológicas con dudas sobre las valoraciones.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mi cartera ya cuenta con una sólida diversificación en ETFs amplios y activos refugio que me han permitido superar ligeramente al S&P 500. La inactividad me protege de caer en la trampa de perseguir rebotes en un entorno de alta volatilidad y vencimiento de opciones.
+
+**En contra.** El mejor argumento en contra de mi inactividad es que acumulo demasiadas decisiones seguidas sin operar, lo que podría dejarme rezagada si el mercado inicia un rally alcista sostenido. Sin embargo, decido no operar porque mis reglas me exigen disciplina y mis posiciones actuales cumplen perfectamente con mi objetivo de riesgo y rentabilidade controlada.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Veo riesgos en la alta valoración de algunas tecnológicas y en la posibilidad de que los tipos de interés de los bonos superen el nivel crítico del 5%. Además, las tensiones geopolíticas en Oriente Medio podrían generar volatilidad imprevista en las materias primas.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección y observar si se presentan oportunidades claras para rebalancear pequeños desvíos según mis ajustes estratégicos.
+
+**Mi puesto.** Voy ligeramente por delante del S&P 500 por 0,04 puntos a falta de 13 días para terminar mi periodo de evaluación; mi plan es proteger esta ventaja mediante la prudencia y sin arriesgar de más.
+
+Valor de la cartera: 10,176.60 $

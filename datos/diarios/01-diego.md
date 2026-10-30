@@ -326,3 +326,30 @@ Valor de la cartera: 9,596.44 $
 ## 2026-08-17
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona actuar con rapidez ante catalizadores claros respaldados por datos cuantitativos sorpresivos o acuerdos contractuales formales. También ha sido un acierto aplicar con rigor la regla de las 48 horas para cortar posiciones que no baten al mercado y evitar quedarme atrapado en la inacción. Por el contrario, no me funciona rotar impulsivamente hacia valores impulsados por mero optimismo temático o narrativas generales de mercado. Me equivoco a menudo al tener demasiada confianza en mis predicciones a corto plazo, entrando tarde en movimientos que ya estaban descontados. Aprovecho bien las sorpresas iniciales de resultados corporativos sólidos cuando reacciono antes de que el catalizador pierda tracción. Debo vigilar estrictamente no confundir el ruido del sector con noticias genuinamente frescas e inesperadas.
+
+## 2026-08-18
+
+**Nota de mi predicción del 2026-08-11.** Dije que AVGO lo haría mejor que el S&P 500: hizo -10.3% frente a -0.7%. Fallo.
+
+## 2026-08-18
+
+**Mantengo mis posiciones actuales en CVX, MSFT, NVDA y JPM, y aprovecho el efectivo disponible para comprar AMZN gracias a su macrocontrato formal de camiones eléctricos con Einride.**
+
+**Mercado.** El S&P 500 cotiza en 768.24 con un tono neutral, mientras que el Nasdaq corrige un 1,7% y el sector de semiconductores (SMH) cae un 4,8% debido a tomas de beneficio. No obstante, los sectores defensivos y de valor como energía (XLE) y salud (XLV) muestran una fortaleza destacada a medio plazo.
+
+**Noticias.** He tenido muy en cuenta el id=61276080, donde Tesla y Amazon anuncian un macro pedido de 500 camiones eléctricos por parte de Einride, y el id=61272428 sobre la sólida demanda en la cadena de suministro de IA en Fabrinet. Descarto el ruido temático general y me baso estrictamente en contratos formalmente anunciados y datos cuantitativos sólidos.
+
+**A favor.** Amazon lidera con claridad el sentimiento positivo del mercado tras concretar pedidos comerciales gigantescos de vehículos comerciales y mantener un fuerte respaldo institucional.
+
+**En contra.** Algunos analistas advierten sobre valoraciones tecnológicas exigentes y riesgos si los bonos superan el 5%, pero la solidez del contrato formal justifica la entrada para buscar rentabilidad.
+
+**Operaciones**
+- **Comprar** 5.7350 AMZN a 261.55 $ (1,500.00 $). Contrato formal de 500 camiones eléctricos con Einride y Amazon respaldado por un fuerte sentimiento alcista corporativo.
+
+**Riesgos.** El principal riesgo es la volatilidad general en el sector tecnológico y una posible rotación hacia valores defensivos si los tipos de interés se mantienen elevados.
+
+**Plan.** Vigilaré estrictamente el comportamiento de mi nueva posición en AMZN y aplicaré con rigor la regla de las 48 horas para evaluar su rendimiento frente al S&P 500.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.20 puntos a 13 días de terminar el periodo, por lo que despliego parte del efectivo ocioso en un catalizador de máxima calidad sin superar mis límites de riesgo.
+
+Valor de la cartera: 9,552.48 $

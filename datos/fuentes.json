@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-08-17"
+  "revisado": "2026-08-18"
  },
  "congreso": {
   "leidas": {
@@ -4037,9 +4037,116 @@
     "distrito": "CA50",
     "presentado": "2026-08-17",
     "operaciones": []
+   },
+   "9116308": {
+    "nombre": "Tony Wied",
+    "distrito": "WI08",
+    "presentado": "2026-08-18",
+    "operaciones": []
+   },
+   "20035275": {
+    "nombre": "Ed Case",
+    "distrito": "HI01",
+    "presentado": "2026-08-18",
+    "operaciones": [
+     {
+      "activo": "Apple Inc. - Common Stock",
+      "ticker": "AAPL",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-13",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035273": {
+    "nombre": "Thomas H. Kean",
+    "distrito": "NJ07",
+    "presentado": "2026-08-18",
+    "operaciones": [
+     {
+      "activo": "Alphabet Inc. - Class A Common Stock",
+      "ticker": "GOOGL",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-07-22",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Amazon.com, Inc. - Common Stock",
+      "ticker": "AMZN",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-08",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "EQT Corporation Common Stock",
+      "ticker": "EQT",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-07",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "ESAB Corporation Common Stock",
+      "ticker": "ESAB",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-07",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Stryker Corporation Common Stock",
+      "ticker": "SYK",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-07-22",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Toast, Inc. Class A Common Stock",
+      "ticker": "TOST",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-08",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035260": {
+    "nombre": "Richard W. Allen",
+    "distrito": "GA12",
+    "presentado": "2026-08-18",
+    "operaciones": [
+     {
+      "activo": "Abbott Laboratories Common Stock",
+      "ticker": "ABT",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-07-14",
+      "importe": "$15,001 - $50,000"
+     },
+     {
+      "activo": "Advanced Micro Devices, Inc.",
+      "ticker": "AMD",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-14",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Broadcom Inc. - Common Stock",
+      "ticker": "AVGO",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-14",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-08-17"
+  "revisado": "2026-08-18"
  }
 }

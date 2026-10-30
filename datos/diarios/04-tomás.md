@@ -314,3 +314,30 @@ Valor de la cartera: 9,988.51 $
 ## 2026-08-17
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Mi estrategia se basa en comprar empresas sólidas cuando están baratas mediante compras escalonadas y mantener la paciencia ante la euforia. He aprendido que la búsqueda de la ganga perfecta puede generar parálisis por análisis, por lo que adapté mi regla permitiendo entradas parciales ante correcciones moderadas desde el 6%. Mis predicciones a corto plazo han fallado por completo, lo que demuestra que adivinar los movimientos diarios o relativos es un error frecuente derivado de fiarme demasiado de mis expectativas. Aprovecho bien las situaciones de pánico pasajero en grandes compañías, como demostré al tomar posiciones en Apple con disciplina. Debo vigilar estrictamente que las caídas cumplan los umbrales mínimos establecidos y evitar precipitarme en un mercado con valoraciones exigentes.
+
+## 2026-08-18
+
+**Nota de mi predicción del 2026-08-11.** Dije que AAPL lo haría mejor que el S&P 500: hizo +1.3% frente a -0.7%. Acierto.
+
+## 2026-08-18
+
+**Mantenemos nuestra disciplina de valor y el efectivo actual al no cumplir ninguna empresa de la tabla los umbrales estrictos de corrección exigidos.**
+
+**Mercado.** Los índices muestran correcciones técnicas recientes, destacando la caída del Nasdaq y un fuerte retroceso en semiconductores, mientras sectores defensivos como salud y energía mantienen una tendencia firme. El S&P 500 se mantiene por encima de su media móvil de 50 días en un entorno de valoraciones exigentes y tipos de interés vigilados de cerca. La moderación en algunas tecnológicas contrasta con el apetito institucional por grandes proyectos de infraestructura de inteligencia artificial.
+
+**Noticias.** Hemos tenido en cuenta las noticias sobre las enormes inversiones en inteligencia artificial de Nvidia y OpenAI, así como la presión regulatoria y de seguridad nacional sobre Apple respecto al uso de chips chinos. También analizamos los sólidos resultados de Home Depot, que demuestran la resistencia del consumidor en mejoras para el hogar a pesar de la inflación. Estas informaciones justifican las caídas puntuales por ruido regulatorio en valores como Apple, pero exigen cautela general ante valoraciones elevadas.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra posición actual en Apple está consolidada tras las compras recientes y el efectivo restante nos protege ante la volatilidad de un mercado con valoraciones exigentes. Cumplimos estrictamente nuestra regla de no realizar nuevas compras si la corrección en los valores vigilados no supera el umbral establecido del 6% en 30 días.
+
+**En contra.** El mejor argumento en contra de mantener el ochenta por ciento de la cartera en efectivo es el coste de oportunidad frente a un mercado bursátil que, aunque corrige puntualmente, sigue demostrando resiliencia estructural. Sin embargo, decidir invertir por pura impaciencia o miedo a quedarse rezagados violaría nuestra estrategia principal de esperar empresas sólidas a buen precio.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en el elevado coste de oportunidad de mantener una liquidez tan alta si el S&P 500 reanuda con fuerza su tendencia alcista, sumado a las tensiones geopolíticas y al riesgo de que los tipos de los bonos superen el nivel clave del 5%. No obstante, la disciplina de valor nos protege de caídas mayores en caso de un giro bajista generalizado.
+
+**Plan.** Vigilaremos de cerca la evolución de nuestra posición en Apple (AAPL) y mantendremos los radares activos sobre el resto de grandes empresas de la tabla de mercado para detectar retrocesos temporales superiores al 6% o 10%. Si se presenta una oportunidad clara de valor que cumpla nuestros requisitos, actuaremos de forma escalonada.
+
+**Mi puesto.** Llevamos 8 días de nuestro periodo de evaluación de 28 y vamos por delante del S&P 500 por 1.02 puntos; mantendremos nuestra estrategia paciente y escéptica para conservar el puesto sin arriesgar de más.
+
+Valor de la cartera: 10,031.08 $

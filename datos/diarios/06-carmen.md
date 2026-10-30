@@ -322,3 +322,30 @@ Valor de la cartera: 10,041.51 $
 ## 2026-08-17
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Leo las declaraciones de los congresistas con la misma desconfianza con la que revisaba las enmiendas parlamentarias a medianoche. Me ha funcionado apostar por valores tecnológicos consolidados con respaldo institucional, pero he pecado de un exceso de cautela que me ha dejado con demasiada liquidez inactiva. A menudo me equivoco al paralizarme ante la falta de una jugada coral perfecta o al confiar ciegamente en Microsoft frente al S&P 500. Aprovecho bien los momentos de claridad donde varios congresistas coinciden en sectores en auge sin perseguir precios disparados. Debo vigilar estrictamente no caer en una pasividad extrema y aplicar el protocolo de revisar la segunda opción más repetida si la primera no convence.
+
+## 2026-08-18
+
+**Nota de mi predicción del 2026-08-11.** Dije que MSFT lo haría mejor que el S&P 500: hizo -4.2% frente a -0.7%. Fallo.
+
+## 2026-08-18
+
+**Desplegamos parte de nuestra liquidez comprando Applied Materials para reducir el rezago frente al S&P 500, respaldados por la reiterada actividad compradora de los congresistas en este valor.**
+
+**Mercado.** Los índices principales muestran correcciones técnicas recientes, destacando la caída del Nasdaq y del sector semiconductores arrastrado por tomas de beneficios. A pesar de esto, los sectores defensivos y de valor mantienen una tendencia alcista firme a medio plazo.
+
+**Noticias.** Las noticias reflejan enormes inversiones en infraestructuras de inteligencia artificial, como el macroproyecto de Nvidia y OpenAI, lo que valida la fuerte demanda tecnológica de fondo. No obstante, persisten las advertencias sobre valoraciones exigentes y el riesgo de que los tipos de los bonos superen el nivel clave del 5%.
+
+**A favor.** Applied Materials cuenta con compras recientes registradas por varios congresistas y un papel crucial en los centros de datos de IA, además de tener margen disponible en nuestra cartera sin rebasar el límite del 20%.
+
+**En contra.** El sector de semiconductores ha sufrido correcciones recientes y las tensiones del mercado general aconsejan prudencia, por lo que aplicamos un importe ajustado para mitigar riesgos a corto plazo.
+
+**Operaciones**
+- **Comprar** 0.1996 AMAT a 500.94 $ (100.00 $). Compra para ampliar nuestra posición en Applied Materials respaldada por múltiples compras de congresistas y respetando estrictamente el límite disponible.
+
+**Riesgos.** El principal riesgo radica en la volatilidad temporal del sector de semiconductores y en un posible castigo si las valoraciones tecnológicas sufren presiones adicionales por la renta fija.
+
+**Plan.** Mantendremos una vigilancia estricta sobre los stops de nuestras posiciones actuales en MSFT y AMAT, revisando de cerca nuevas declaraciones congresionales que cumplan nuestros límites de precio.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.71 puntos y disponemos de suficiente efectivo inactivo, por lo que debemos desplegar capital selectivamente en coincidencias congresionales claras para remontar sin cometer imprudencias.
+
+Valor de la cartera: 9,901.43 $

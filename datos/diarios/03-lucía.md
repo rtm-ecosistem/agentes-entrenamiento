@@ -329,3 +329,30 @@ Valor de la cartera: 9,767.75 $
 ## 2026-08-17 12:00
 
 **Stop automático.** Vendo AMZN: Stop alcanzado (260.92 $ ≤ 261.52 $): se corta la pérdida.
+
+## 2026-08-18
+
+**Nota de mi predicción del 2026-08-11.** Dije que MSFT lo haría mejor que el S&P 500: hizo -4.2% frente a -0.7%. Fallo.
+
+## 2026-08-18
+
+**Decido mantener mi cartera intacta en MSFT, NVDA y APP y conservar el efectivo para no forzar entradas sin una confirmación clara de impulso.**
+
+**Mercado.** Los índices principales experimentan correcciones destacadas, con descensos importantes en el Nasdaq y en el sector de semiconductores tras una toma de beneficios generalizada. A pesar de ello, el S&P 500 se mantiene con solidez por encima de su media móvil de 50 días, apoyado por sectores defensivos y de valor. La presión sobre las valoraciones tecnológicas contrasta con el apetito institucional por grandes proyectos de inteligencia artificial.
+
+**Noticias.** He tenido muy en cuenta las noticias sobre las advertencias acerca del elevado gasto corporativo en inteligencia artificial de empresas como Meta y las presiones regulatorias sobre Apple respecto a los chips de memoria. Asimismo, valoro los sólidos resultados de Home Depot que confirman la resistencia del consumo, aunque prefiero centrarme en mis reglas de tendencia estricta. Las tensiones geopolíticas en torno al estrecho de Ormuz y el riesgo de que el bono a 10 años supere el 5% actúan como señales de alarma para no sobreexponer la cartera.
+
+**A favor.** El mejor argumento a favor de no operar hoy y mantener la liquidez es que mis posiciones actuales están plenamente consolidadas dentro de sus límites y no han roto ninguna regla de salida. Forzar compras en un día de corrección sectorial tecnológica iría en contra de mi disciplina y aumentaría el riesgo de caídas innecesarias.
+
+**En contra.** El principal argumento en contra es que ir por detrás del S&P 500 por más de cinco puntos exige velocidad y mantener efectivo ocioso genera un coste de oportunidad evidente. Sin embargo, arriesgar de más para remontar suele acabar en el despido por superar el límite de caída del 10%, por lo que prefiero preservar el capital actual.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Veo claros riesgos de volatilidad en el sector tecnológico debido a la revisión de costes en inteligencia artificial y la amenaza latente de unos tipos de interés elevados. Mantener una elevada concentración en tres valores me expone a movimientos bruscos si el mercado decide penalizar a las grandes tecnológicas.
+
+**Plan.** Voy a vigilar estrictamente que ninguna de mis posiciones cruce por debajo de su media móvil de 50 días o active sus respectivos stops de protección. Mi plan para los próximos días es esperar una confirmación clara de momentum alcista en los valores líderes antes de desplegar el efectivo disponible.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 5.11 puntos a falta de 13 días para finalizar mi periodo de evaluación, lo cual genera tensión pero no voy a cometer el error de arriesgar de más jugándome la cartera. Mantendré la cabeza fría y seguiré estrictamente mis reglas para recortar distancias sin incurrir en despidos.
+
+Valor de la cartera: 9,661.87 $
