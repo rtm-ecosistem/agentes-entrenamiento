@@ -1,6 +1,6 @@
 name: Entrenamiento
 
-# Lo lanza el despertador de cron-job.org cada 6 horas (un día simulado tarda ~30 min), o se lanza a mano
+# Lo lanza cada día el despertador de cron-job.org (10:30 de España), o se lanza a mano
 on:
   workflow_dispatch:
     inputs:
@@ -37,6 +37,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
           ESPEJO_ALPACA: "0"
+          # El modelo principal solo deja 20 peticiones al día: el entrenamiento usa el ligero para todo
+          MODELO_GEMINI: gemini-3.5-flash-lite
         run: |
           git config user.name "rtm-ecosistem"
           git config user.email "340233035+rtm-ecosistem@users.noreply.github.com"
