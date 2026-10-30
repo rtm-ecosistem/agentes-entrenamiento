@@ -8,4 +8,4 @@ Entrenamiento del equipo diario de la oficina de agentes de inversión: viven ot
 - Cada ejecución sigue por donde iba la anterior (`datos/progreso.json`) hasta que se acaba la cuota diaria de la IA.
 - `RESULTADOS.md` resume cómo le habría ido a cada estrategia y las reglas que ha aprendido cada agente.
 
-Lo lanza cada día cron-job.org a las 10:30 de España, o a mano desde Actions → Entrenamiento → Run workflow.
+Lo lanza cron-job.org cada 6 horas, o a mano desde Actions → Entrenamiento → Run workflow.

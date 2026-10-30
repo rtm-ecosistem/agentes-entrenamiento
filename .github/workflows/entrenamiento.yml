@@ -1,6 +1,6 @@
 name: Entrenamiento
 
-# Lo lanza cada día el despertador de cron-job.org (10:30 de España), o se lanza a mano desde Actions
+# Lo lanza el despertador de cron-job.org cada 6 horas (un día simulado tarda ~30 min), o se lanza a mano
 on:
   workflow_dispatch:
     inputs:
@@ -29,19 +29,23 @@ jobs:
           python-version: "3.12"
       - run: pip install -r requirements.txt
       - run: (sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils) || true
+      # Un día cada vez y se guarda en seguida: si la ejecución se corta, no se pierde lo hecho
       - name: Simular días
         env:
           ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
           ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SEC_USER_AGENT: ${{ vars.SEC_USER_AGENT }}
           ESPEJO_ALPACA: "0"
-        run: python -m entrenamiento.simulador --dias=${{ inputs.dias || '0' }} --minutos=320
-      - name: Guardar progreso
-        if: always()
         run: |
           git config user.name "rtm-ecosistem"
           git config user.email "340233035+rtm-ecosistem@users.noreply.github.com"
-          git add datos RESULTADOS.md || true
-          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
-          git commit -m "Entrenamiento $(date -u +%Y-%m-%d)"
-          git push
+          fin=$((SECONDS + 300 * 60)); hechos=0; maximo=${{ inputs.dias || '0' }}
+          while [ $SECONDS -lt $fin ] && { [ "$maximo" = 0 ] || [ $hechos -lt "$maximo" ]; }; do
+            antes=$(cat datos/progreso.json 2>/dev/null | wc -c)
+            python -m entrenamiento.simulador --dias=1
+            git add datos; [ -f RESULTADOS.md ] && git add RESULTADOS.md
+            git diff --cached --quiet || { git commit -qm "Entrenamiento: día simulado"; git push -q; }
+            [ "$(cat datos/progreso.json 2>/dev/null | wc -c)" = "$antes" ] && break  # sin cuota o terminado
+            hechos=$((hechos + 1))
+          done
