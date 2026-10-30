@@ -490,3 +490,26 @@ Valor de la cartera: 9,824.63 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 2.73 puntos con una rentabilidad de -1.51% y nos quedan 34 días en el puesto. Para remontar este desfase sin incurrir en un riesgo excesivo que active nuestra cláusula de despido por caída del 10%, seguiremos estrictamente nuestro método de seguimiento institucional sin perseguir precios disparados.
 
 Valor de la cartera: 9,849.15 $
+
+## 2026-08-26
+
+**Mantenemos la cautela parlamentaria y conservamos nuestra liquidez actual sin realizar nuevas operaciones hoy, a la espera de una coincidencia coral más clara entre los congresistas.**
+
+**Mercado.** El S&P 500 cotiza en 766.14 con una ligera subida del +0.3%, mientras el sector energético destaca con un +1.4% y los semiconductores muestran debilidad. La persistencia de la inflación PCE en el 3.7% y las advertencias de la Reserva Federal sobre los tipos altos mantienen la cautela general.
+
+**Noticias.** Hemos tenido en cuenta las declaraciones de la Fed sobre tipos altos y la inflación PCE en el 3.7%, lo cual frena el entusiasmo en los mercados. Asimismo, la previa de resultados de NVIDIA genera gran expectación tecnológica, mientras que el abaratamiento del petróleo alivia costes logísticos.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener el 60% de efectivo nos protege temporalmente frente a la volatilidad macroeconómica y las advertencias de tipos de interés de la Reserva Federal.
+
+**En contra.** El mejor argumento en contra es que mantener tanto efectivo nos deja rezagados frente a un S&P 500 plenamente invertido, pero preferimos la disciplina parlamentaria a perseguir precios sin una señal clara.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de tipos de interés altos por parte de la Fed y la debilidad continuada en el sector de semiconductores, que presiona nuestra posición en Applied Materials.
+
+**Plan.** Vigilaremos estrictamente los stops en nuestras posiciones de MSFT (458.04) y AMAT (445.93) cada media hora, y revisaremos nuevas declaraciones de los congresistas aplicando nuestras reglas de precios.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.76 puntos con una rentabilidad de -1.31%; mantendremos la disciplina sin arriesgar de más para evitar caer en el límite del 10% de pérdida.
+
+Valor de la cartera: 9,869.22 $

@@ -498,3 +498,32 @@ Valor de la cartera: 9,476.28 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo un estricto plan de rescate: mantendré mis posiciones más estables como AMZN y CVX, y el efectivo resultante para evitar sorpresas. No voy a realizar compras impulsivas ni especulativas y cortaré de inmediato cualquier posición que no supere al mercado en 24-48 horas. No me jugaré todo el capital en un solo movimiento desesperado, priorizando la preservación del capital para no superar el límite de caída del 10% que provoca el despido inmediato.
 
 Valor de la cartera: 9,459.72 $
+
+## 2026-08-26
+
+**Nota de mi predicción del 2026-08-19.** Dije que AMZN lo haría mejor que el S&P 500: hizo -1.6% frente a -0.8%. Fallo.
+
+## 2026-08-26
+
+**Mantengo mis posiciones actuales en CVX, AMZN, JPM y MSFT aplicando estrictamente mi plan de rescate conservador para proteger el capital.**
+
+**Mercado.** El S&P 500 cotiza en 766.14 con una ligera subida del 0.3%, manteniendo una postura cautelosa ante la persistencia de la inflación PCE en el 3.7% y las advertencias de la Reserva Federal sobre tipos altos. El sector energético destaca con un avance del 1.4% diario, mientras que el mercado en general sopesa la geopolítica y los próximos reportes tecnológicos.
+
+**Noticias.** He tenido en cuenta las noticias sobre el acuerdo de Chevron (CVX) en Libia, que refuerza su potencial de ingresos a largo plazo, y la previa de resultados de Nvidia (NVDA), aunque decido no operar en ella por el riesgo sectorial. Las tensiones geopolíticas y los datos de inflación marcan un tono defensivo general que exige prudencia extrema.
+
+**A favor.** Mantener la estructura actual de la cartera y no forzar compras sin catalizadores cuantitativos claros evita cometer errores impulsivos motivados por el miedo al despido.
+
+**En contra.** Mantener un 42% en efectivo en un mercado alcista puede dejarme ligeramente rezagado frente al índice, pero es el precio necesario para cumplir mi plan de rescate y evitar caídas fatales.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es la presión macroeconómica de los tipos de interés altos de la Fed y la volatilidad en torno a los resultados tecnológicos que pueda arrastrar a mis posiciones.
+
+**Plan.** Vigilare estrechamente los niveles de stop de mis posiciones actuales (CVX, MSFT, JPM y AMZN) y evaluaré su comportamiento diario frente al S&P 500, aplicando estrictamente la regla de las 48 horas si fuera necesario.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.69 puntos a falta de 5 días para terminar mi periodo de evaluación, por lo que mi puesto peligra y debo seguir estrictamente el plan de rescate.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo un estricto plan de rescate: conservo mis posiciones más estables como CVX y AMZN, no realizaré compras impulsivas ni especulativas, y mantendré el efectivo restante para evitar sorpresas. No me jugaré todo el capital en un solo movimiento desesperado, priorizando la preservación del capital para no superar el límite de caída del 10% que provoca el despido inmediato.
+
+Valor de la cartera: 9,476.22 $

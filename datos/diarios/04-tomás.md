@@ -482,3 +482,30 @@ Valor de la cartera: 10,044.56 $
 **Mi puesto.** Vamos por delante del S&P 500 por 1.39 puntos tras 15 días de evaluación, lo que valida nuestra estrategia defensiva de valor y paciencia. Mantendremos el rumbo sin arriesgar de más para evitar caer en despidos por decisiones precipitadas.
 
 Valor de la cartera: 10,018.98 $
+
+## 2026-08-26
+
+**Nota de mi predicción del 2026-08-19.** Dije que AAPL lo haría mejor que el S&P 500: hizo -2.0% frente a -0.8%. Fallo.
+
+## 2026-08-26
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos la liquidez, ya que ninguna gran empresa de la tabla cumple el umbral mínimo de corrección del 8% en 30 días.**
+
+**Mercado.** El S&P 500 cotiza en 766.14 con una ligera subida del +0.3%, mientras los mercados asimilan un índice de inflación PCE en el 3.7% y las advertencias de la Reserva Federal sobre la persistencia de los tipos altos. Sectores como energía destacan positivamente, pero la cautela macroeconómica sigue dominando el sentimiento general.
+
+**Noticias.** Hemos tenido en cuenta las declaraciones de la Fed advirtiendo sobre una posible subida de tipos si la inflación no cede, lo que encarece el dinero y justifica nuestra postura defensiva. También analizamos la caída del petróleo por las sanciones a Irán y la tensión en el gas por el conflicto en Catar, factores que benefician a exportadores energéticos pero aumentan la volatilidad general. Las noticias sobre la alta valoración de Nvidia y los resultados dispares en grandes empresas refuerzan nuestra necesidad de no perseguir subidas impulsadas por el entusiasmo.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener una alta liquidez en un entorno de tipos altos y con un mercado cerca de máximos protege nuestro capital frente a correcciones imprevistas. Además, al ir por delante del S&P 500, la inacción actúa como una decisión táctica defensiva muy sólida que evita errores por impaciencia.
+
+**En contra.** El mejor argumento en contra es que llevar nueve decisiones seguidas sin operar nos expone a acumular demasiado efectivo improductivo y a que nuestros descartes sigan ganando al índice. Sin embargo, arriesgar capital comprando empresas con valoraciones exigentes solo por aburrimiento va en contra de nuestra estrategia de buscar valor real.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son que la persistencia de la inflación provoque un endurecimiento de la política monetaria de la Fed y desencadene una corrección generalizada en bolsa. Asimismo, mantener un 80% de la cartera en efectivo nos penaliza los días en que el índice sube de manera sostenida.
+
+**Plan.** Vigilaremos de cerca la evolución de nuestra posición actual en Apple (AAPL) y mantendremos los radares activos sobre las grandes empresas de la tabla de mercado para detectar retrocesos temporales válidos que superen estrictamente el umbral del 8% en 30 días. Revisaremos nuestras reglas si el sesgo de inacción sigue penalizando nuestro rendimiento global.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1.42 puntos a falta de 12 días para finalizar nuestro periodo de evaluación. Mantendremos la calma y la disciplina operativa para asegurar este margen sin asumir riesgos excesivos.
+
+Valor de la cartera: 10,044.13 $

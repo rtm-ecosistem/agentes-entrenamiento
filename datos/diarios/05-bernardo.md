@@ -483,3 +483,30 @@ Valor de la cartera: 10,307.96 $
 **Mi puesto.** Voy por delante del S&P 500 por 0.94 puntos con una rentabilidad del +2.17%, por lo que mi puesto está seguro temporalmente. Seguiré aplicando estrictamente la disciplina de copiar al maestro sin arriesgar de más.
 
 Valor de la cartera: 10,216.86 $
+
+## 2026-08-26
+
+**Nota de mi predicción del 2026-08-19.** Dije que KO lo haría mejor que el S&P 500: hizo +1.0% frente a -0.8%. Acierto.
+
+## 2026-08-26
+
+**Hoy mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos entre informes 13F.**
+
+**Mercado.** El S&P 500 cotiza en 766.14 con una ligera subida del +0.3%, mientras los mercados asimilan un índice de inflación PCE en el 3.7% y las advertencias de la Reserva Federal sobre la persistencia de los tipos altos. El sector energético destaca con fuerza, mientras que los inversores vigilan de cerca los reportes tecnológicos clave.
+
+**Noticias.** Hemos procesado noticias importantes como las advertencias de la Fed sobre los tipos de interés y la evolución de los inventarios energéticos, además de la previa de los resultados de Nvidia. Ninguna de estas informaciones afecta de manera grave a los fundamentos a largo plazo de nuestras cinco grandes posiciones actuales (AAPL, AXP, KO, BAC y CVX).
+
+**A favor.** El mejor argumento a favor de no hacer nada hoy es que nuestra cartera está compuesta por negocios extraordinarios y nuestro rendimiento va por delante del S&P 500, por lo que intervenir sin un nuevo informe 13F violaría nuestra disciplina.
+
+**En contra.** El principal argumento en contra de la inactividad es el aburrimiento y la presión de ver que Berkshire Hathaway ha comprado nuevas acciones en su último 13F que aún no hemos incorporado. Sin embargo, nuestras reglas internas dictan mantener la calma entre publicaciones de informes para evitar sobrecostes innecesarios.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos siguen siendo la persistencia de la inflación, una posible política monetaria más restrictiva por parte de la Reserva Federal y la volatilidad general en los mercados tecnológicos.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y no realizar ninguna operación hasta la llegada del próximo informe 13F.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 0.66 puntos tras 23 días de evaluación, lo que demuestra que la paciencia y la réplica de Berkshire Hathaway están dando sus frutos. Mantendré el rumbo sin arriesgar de más.
+
+Valor de la cartera: 10,211.13 $

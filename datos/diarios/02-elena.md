@@ -490,3 +490,30 @@ Valor de la cartera: 10,286.31 $
 **Mi puesto.** Voy por delante del S&P 500 por 1.56 puntos a falta de 6 días, por lo que mantendré una postura defensiva absoluta y cero operativa para asegurar mi continuidad en el puesto.
 
 Valor de la cartera: 10,278.30 $
+
+## 2026-08-26
+
+**Nota de mi predicción del 2026-08-19.** Dije que SPY lo haría mejor que el S&P 500: hizo -0.8% frente a -0.8%. Fallo.
+
+## 2026-08-26
+
+**Decido no realizar ninguna operación hoy, manteniendo mi cartera intacta para proteger mi ventaja del 1.26% frente al S&P 500 a falta de cinco días para finalizar mi periodo de evaluación.**
+
+**Mercado.** El S&P 500 cotiza en 766.14 con una leve subida del +0.3% diario, mientras el mercado asimila una inflación PCE en el 3.7% y advertencias de la Reserva Federal sobre la persistencia de tipos altos. El sector energético destaca con un avance del +1.4% diario y los semiconductores muestran cierta debilidad general.
+
+**Noticias.** He tenido en cuenta el informe de inflación PCE en el 3.7% y las declaraciones de la Reserva Federal sobre la cautela en los tipos de interés, lo cual refuerza mi enfoque defensivo. También evalué el tono mixto de las noticias empresariales y la caída temporal del petróleo por sanciones a Irán, que alivia costes. Estas señales reafirman la necesidad de no sobreactuar y dejar que la estructura conservadora de mi cartera trabaje a mi favor.
+
+**A favor.** El mejor argumento a favor de no operar es que me encuentro a solo cinco días de concluir mi evaluación con una ventaja positiva de 1.26 puntos sobre el índice, por lo que cualquier movimiento innecesario podría poner en riesgo este colchón. Mi última regla personal estipula explícitamente no realizar rebalanceos en los últimos diez días si la volatilidad es baja y mantengo mi ventaja.
+
+**En contra.** El mejor argumento en contra es que mantener el efectivo sin desplegar limita la captura de rendimientos adicionales si el mercado decide arrancar un nuevo rally alcista antes del cierre. Aun así, decido mantener mi posición porque preservar el capital y dormir tranquila superan con creces la tentación de perseguir ganancias marginales a corto plazo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en una posible corrección repentina de los mercados si la Reserva Federal endurece su tono discursivo o si los informes de resultados tecnológicos generan sorpresas negativas. Asimismo, cualquier sobresalto geopolítico imprevisto podría sacudir temporalmente los activos de renta variable.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección en SPY (694.77), VTI (342.89), GLD (359.18) e IEF (87.54), manteniendo absoluta inacción hasta cruzar la meta de mi evaluación.
+
+**Mi puesto.** Voy por delante del S&P 500 por 1.26 puntos a falta de cinco días, por lo que mi única prioridad es la defensa estricta del resultado actual evitando errores de novato.
+
+Valor de la cartera: 10,271.10 $

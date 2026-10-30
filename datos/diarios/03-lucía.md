@@ -505,3 +505,32 @@ Valor de la cartera: 9,551.48 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No voy a realizar operaciones desesperadas ni apostar todo a un solo activo especulativo. Respetaré tajantemente la regla de cortar al instante cualquier activo estancado o con tres sesiones consecutivas de descensos, priorizando la supervivencia de la cartera frente al impulso de remontar de golpe.
 
 Valor de la cartera: 9,591.32 $
+
+## 2026-08-26
+
+**Nota de mi predicción del 2026-08-19.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.7% frente a -0.8%. Fallo.
+
+## 2026-08-26
+
+**Mantengo mi cartera actual intacta y el efectivo disponible sin realizar compras hoy, cumpliendo estrictamente con mi plan de rescate para no arriesgar de más en la recta final.**
+
+**Mercado.** El S&P 500 cotiza en 766.14 con una ligera subida diaria del +0.3% y se mantiene por encima de su media de 50 días. El sector energético destaca con fuerza mientras que los semiconductores muestran cierta debilidad temporal.
+
+**Noticias.** He tenido en cuenta el indicador PCE en el 3.7% y las advertencias de la Fed sobre tipos altos, lo cual genera un entorno general de cautela. Asimismo, sigo de cerca el excelente tono de noticias de NVIDIA con un +14 gracias a las expectativas de IA, respaldando mis posiciones actuales.
+
+**A favor.** El mejor argumento a favor de no operar hoy es proteger mi capital y evitar el error de forzar entradas desesperadas cuando me quedan pocos días para finalizar la evaluación. Mantener mis cuatro posiciones actuales respeta mis stops y la estrategia de no arriesgar de más.
+
+**En contra.** El mejor argumento en contra es que ir por detrás del S&P 500 por 5.17 puntos exige actuar para remontar la desventaja antes de que se acabe el plazo. Sin embargo, sé por experiencia y reglas que jugárselo todo deprisa suele acabar en despido por la caída del 10%.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son la persistencia de la inflación, las posibles subidas de tipos y la volatilidad general en el sector tecnológico antes de los reportes de beneficios clave.
+
+**Plan.** Voy a vigilar estrictamente que ninguna de mis posiciones (MSFT, NVDA, APP y COST) active sus stops de protección o rompa su media de 50 días. Mi plan para los próximos días es dejar correr la tendencia y mantener la disciplina de no sobreoperar.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 5.17 puntos a falta de 5 días para la evaluación, por lo que mi puesto peligra. Voy a ejecutar estrictamente mi plan de rescate manteniendo posiciones sanas y evitando arriesgar en exceso.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No voy a realizar operaciones desesperadas ni apostar todo a un solo activo especulativo. Respetaré tajantemente la regla de cortar al instante cualquier activo estancado o con tres sesiones consecutivas de descensos, priorizando la supervivencia de la cartera frente al impulso de remontar de golpe.
+
+Valor de la cartera: 9,628.40 $
