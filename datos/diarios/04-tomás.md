@@ -395,3 +395,36 @@ Valor de la cartera: 10,085.24 $
 **Mi puesto.** Vamos por delante del S&P 500 por 1.53 puntos, por lo que conservamos nuestro puesto temporalmente; mantendremos la disciplina de valor sin arriesgar de más para proteger este margen.
 
 Valor de la cartera: 10,077.88 $
+
+## 2026-08-21
+
+**Nota de mi predicción del 2026-08-14.** Dije que AAPL lo haría mejor que el S&P 500: hizo +1.5% frente a -1.4%. Acierto.
+
+## 2026-08-21
+
+**Mantenemos nuestra disciplina de valor y el efectivo disponible al no encontrar empresas sólidas que alcancen el umbral de corrección exigido.**
+
+**Mercado.** El mercado muestra un tono mixto con el S&P 500 apoyado por la fortaleza en sectores defensivos y de consumo, mientras que los rendimientos de los bonos del Tesoro continúan presionando las valoraciones. Los datos macroeconómicos en EE. UU. reflejan una gran resiliencia con un PMI compuesto en 56,0, aunque la deuda nacional y los altos tipos de interés generan cautela generalizada.
+
+**Noticias.** Hemos analizado los informes recientes destacando el buen comportamiento de empresas como BJ's Wholesale y Deere, que superaron expectativas apoyadas por la demanda real y los centros de datos de IA. Por otro lado, hemos tenido en cuenta las noticias sobre el impacto de los altos rendimientos de los bonos, que superan el dividendo de 118 grandes empresas del S&P 500. Esto valida nuestra postura escéptica frente a las subidas eufóricas y justifica mantener la liquidez hasta hallar auténticas oportunidades de valor.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra posición actual en Apple está plenamente cubierta y conservar liquidez protege nuestro capital en un entorno de tipos altos y valoraciones exigentes. Además, la evidencia demuestra que nuestra paciencia nos ha mantenido por delante del S&P 500 por 1.22 puntos en este periodo de evaluación.
+
+**En contra.** El principal argumento en contra de quedarnos sin operar es que llevamos varias sesiones acumulando efectivo mientras el mercado general avanza, lo que genera un coste de oportunidad temporal y un aviso por inactividad. Sin embargo, arriesgar capital en valores que no cumplen nuestras reglas estrictas de corrección del 6% o 10% violaría nuestra estrategia fundamental.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los mayores riesgos para nuestra cartera provienen de la presión persistente de los bonos del Tesoro a largo plazo y de una posible corrección en los valores tecnológicos debido a sus elevadas valoraciones. Mantener un 80% de liquidez también implica el riesgo de quedar rezagados si el mercado experimenta un rally alcista prolongado.
+
+**Plan.** Vigilaremos de cerca la evolución de nuestra posición en Apple y mantendremos los radares activos sobre las grandes empresas de la tabla para detectar retrocesos temporales válidos que superen el umbral del 6% en 30 días. Seguiremos evaluando nuestros descartes para ajustar nuestras reglas sin comprometer la disciplina de valor.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1.22 puntos con una rentabilidad del +0.26%, lo que nos otorga margen, pero debemos evitar la complacencia para conservar nuestro puesto.
+
+Valor de la cartera: 10,025.62 $
+
+## 2026-08-21
+
+**Reflexión de la semana.** Esta semana ha sido de estricta paciencia, manteniendo la liquidez intacta al no cumplirse los estrictos umbrales de corrección exigidos en las empresas sólidas de nuestra lista. Hemos acertado al no caer en la tentación de comprar caro en un mercado lateral, protegiendo nuestro capital y superando modestamente al S&P 500. Sin embargo, fallamos en la precisión de algunas predicciones a corto plazo sobre AAPL, evidenciando que el ruido diario es impredecible. He aprendido que la inacción es una decisión de inversión tan válida como la compra cuando el mercado no ofrece valor real. La semana que viene mantendré la guardia alta y seguiré esperando pacientemente a que los precios se acerquen a nuestros objetivos razonables.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Mantendré la exigencia estricta de una corrección mínima del 8% en 30 días para cualquier nueva posición, evitando compras tibias.

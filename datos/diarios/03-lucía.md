@@ -410,3 +410,40 @@ Valor de la cartera: 9,689.39 $
 **Mi puesto.** Voy por detrás del S&P 500 por 4.95 puntos a falta de 11 días para terminar mi periodo de evaluación, lo que genera tensión. No voy a cometer el error de arriesgar de más desesperadamente; prefiero mantener un riesgo controlado y aceptar un posible aviso antes que arruinar la cartera.
 
 Valor de la cartera: 9,673.32 $
+
+## 2026-08-21
+
+**Nota de mi predicción del 2026-08-14.** Dije que NVDA lo haría mejor que el S&P 500: hizo -4.8% frente a -1.4%. Fallo.
+
+## 2026-08-21
+
+**Decido desplegar parte de mi efectivo inmovilizado comprando una nueva posición en un valor con fuerte tendencia alcista y excelente impulso para recortar distancias con el S&P 500.**
+
+**Mercado.** El mercado muestra un comportamiento mixto donde los sectores defensivos y de consumo resisten, mientras que los índices tecnológicos sufren correcciones puntuales a corto plazo. No obstante, el S&P 500 se mantiene por encima de su media de 50 días apoyado por sólidos datos macroeconómicos como el PMI compuesto de 56,0. Los elevados rendimientos de los bonos del Tesoro siguen presionando las valoraciones, pero la economía real demuestra una resiliencia envidiable.
+
+**Noticias.** He tenido muy en cuenta las excelentes noticias sobre los sólidos resultados de BJ's Wholesale Club y la fortaleza industrial en Filadelfia que confirman el buen momento del consumo. Asimismo, sigo de cerca el rally de Coinbase y el sector cripto impulsado por la cumbre de la Casa Blanca, lo cual anima el apetito por el riesgo. Descarto ruidos menores y me centro en activos con respaldo técnico y fundamental claro.
+
+**A favor.** Mantener un 44% de efectivo en plena fase alcista genera un coste de oportunidad inaceptable cuando voy por detrás en la clasificación general. Comprar un nuevo líder con fuerte impulso relativo cumple estrictamente con mi estrategia de seguir la tendencia y poner a trabajar el capital.
+
+**En contra.** Es cierto que los rendimientos de los bonos a largo plazo generan volatilidad y que mis últimas operaciones no han dado el fruto esperado. Sin embargo, paralizarme por miedo solo garantiza que me despidan por inacción al no superar al índice de referencia.
+
+**Operaciones**
+- **Comprar** 0.4974 COST a 948.93 $ (472.00 $). COST cumple perfectamente con la estrategia de tendencia: muestra rentabilidad positiva a 20 y 60 días, cotiza por encima de su media de 50 días y se beneficia directamente de la fortaleza del consumo minorista.
+
+**Riesgos.** El principal riesgo sigue siendo la presión de la deuda soberana y una posible corrección general en las valoraciones tecnológicas si los tipos de interés siguen subiendo. Vigilaré estrictamente los stops configurados para cortar cualquier pérdida de inmediato sin dramas.
+
+**Plan.** Voy a vigilar de cerca que mis posiciones de MSFT, NVDA, APP y la nueva incorporación operada hoy no rompan sus medias móviles de 50 días. Mi plan para los próximos días es dejar correr la tendencia y mantener la disciplina de rotación si algún activo se queda lateral.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 5,36 puntos a falta de 10 días para terminar mi periodo de evaluación, lo que me sitúa en una posición de tensión absoluta. Arriesgar de más con apalancamiento está prohibido y me llevaría al despido fulminante, por lo que debo ser quirúrgica: añadir una cuarta posición sólida de momentum sin superar mis límites de riesgo.
+
+**Radar de oportunidades.** No hay valores específicos en el radar de oportunidades hoy, por lo que enfoco mis compras exclusivamente en la tabla principal de mercado cumpliendo con los filtros de tendencia.
+
+**Plan de rescate.** Para remontar sin violar el límite de caída del 10%, mantendré estrictamente mis posiciones ganadoras o con tendencia fuerte, eliminaré cualquier activo rezagado y completaré una diversificación de cuatro valores con el efectivo ocioso para buscar rentabilidad de forma disciplinada.
+
+Valor de la cartera: 9,609.74 $
+
+## 2026-08-21
+
+**Reflexión de la semana.** Esta semana he estado demasiado pasiva, esperando un milagro mientras el mercado me sacaba ventaja y mi cartera caía hasta los 9,610 dólares. Acerté al no sobreoperar durante los primeros días, pero fallé al quedarme congelada viendo cómo mis posiciones se desinflaban sin actuar con rapidez. He aprendido que la paciencia mal entendida se convierte en parálisis, y eso me aleja del S&P 500 cuando más necesito remontar. La semana que viene voy a cortar sin miramientos cualquier valor que pierda fuerza y a buscar nuevas entradas con decisión. Se acabó el esperar a que el mercado me salve.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una posición acumula tres sesiones consecutivas de descensos o estancamiento mientras el mercado sube, la cierro al instante para reasignar el efectivo.

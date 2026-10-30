@@ -403,3 +403,36 @@ Valor de la cartera: 10,253.23 $
 **Mi puesto.** Voy por delante del S&P 500 por 0.82 puntos en la recta final de mi periodo de evaluación, lo que me otorga un margen de tranquilidad que no debo comprometer arriesgando de más. Mantendré la cartera equilibrada entre ETFs amplios y refugios para asegurar el puesto sin sobresaltos.
 
 Valor de la cartera: 10,250.45 $
+
+## 2026-08-21
+
+**Nota de mi predicción del 2026-08-14.** Dije que SPY lo haría mejor que el S&P 500: hizo -1.4% frente a -1.4%. Fallo.
+
+## 2026-08-21
+
+**Mantengo mi postura prudente sin realizar nuevas operaciones hoy, protegiendo mi ventaja actual frente al S&P 500 mientras evalúo la estabilidad macroeconómica.**
+
+**Mercado.** El S&P 500 muestra un comportamiento mixto con soporte en sectores defensivos y de consumo, aunque los altos rendimientos de los bonos continúan presionando a las valoraciones tecnológicas. Los indicadores PMI reflejan una economía estadounidense fuerte y resiliente, pero la elevada deuda nacional y la rentabilidad de la deuda pública generan cautela entre los inversores.
+
+**Noticias.** He tenido en cuenta el informe sobre el fuerte PMI compuesto de S&P en 56,0 y la resistencia del sector servicios, lo cual confirma la solidez de la economía real a pesar de las presiones de los tipos de interés. Asimismo, las noticias sobre el alto rendimiento del bono a 10 años que supera el dividendo de gran parte del S&P 500 refuerzan mi convicción de mantener una postura defensiva y equilibrada. Estas señales macroeconómicas me recuerdan que la prudencia sigue siendo el mejor escudo para preservar el capital.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que me encuentro por delante del S&P 500 en la recta final de mi evaluación y mantener la estabilidad de la cartera evita errores innecesarios por exceso de actividad. La disciplina de conservar los pesos actuales en ETFs amplios y activos refugio protege mi rentabilidad sin asumir riesgos de última hora.
+
+**En contra.** El argumento en contra es que mantener liquidez o inactividad podría hacerme perder oportunidades puntuales de revalorización en sectores industriales o tecnológicos impulsados por buenos datos recientes. Sin embargo, arriesgar de más para buscar una mayor rentabilidad en este punto podría destruir el margen positivo conseguido con tanto esfuerzo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Veo riesgos en la presión continuada de los elevados rendimientos de los bonos del Tesoro y en la volatilidad de las valoraciones tecnológicas ligadas a las expectativas de la inteligencia artificial. Cualquier repunte inesperado en la aversión al riesgo podría sacudir temporalmente la renta variable.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección en SPY, VTI, GLD e IEF, y mantener la calma hasta finalizar mi periodo de evaluación sin caer en la tentación de operar por aburrimiento.
+
+**Mi puesto.** Voy por delante del S&P 500 por 1.18 puntos a falta de 10 días para terminar mi periodo de evaluación, por lo que mi prioridad absoluta es conservar esta ventaja mediante la gestión prudente del riesgo.
+
+Valor de la cartera: 10,264.78 $
+
+## 2026-08-21
+
+**Reflexión de la semana.** Esta semana he acertado al mantener la disciplina de no operar en exceso, lo que me ha permitido consolidar una rentabilidad positiva del +2,65% y mantener una ventaja de 1,18 puntos sobre el S&P 500 a falta de diez días para el cierre. He fallado al intentar predecir movimientos de corto plazo con el SPY, desvelando que mis análisis de confianza media siguen siendo demasiado optimistas respecto al índice. He aprendido que proteger la ventaja acumulada es más prioritario que buscar rendimientos adicionales en un mercado lateral y mixto. La semana que viene mantendré mi enfoque ultra conservador, evitando completamente entrar en ruidos de mercado innecesarios.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior sobre activos defensivos por el siguiente: si la volatilidad semanal se mantiene baja y mantengo mi ventaja frente al índice, no realizaré ningún rebalanceo en los últimos diez días del periodo de evaluación.

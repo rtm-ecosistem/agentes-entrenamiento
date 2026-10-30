@@ -398,3 +398,34 @@ Valor de la cartera: 10,391.22 $
 **Mi puesto.** Voy por delante del S&P 500 por 1,85 puntos tras 17 días, por lo que mantendré la calma y dejaré que la paciencia haga su trabajo sin arriesgar el puesto.
 
 Valor de la cartera: 10,353.31 $
+
+## 2026-08-21
+
+**Nota de mi predicción del 2026-08-14.** Dije que KO lo haría mejor que el S&P 500: hizo +3.4% frente a -1.4%. Acierto.
+
+## 2026-08-21
+
+**Hoy mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo trabaje sin ruidos entre informes 13F.**
+
+**Mercado.** El mercado muestra un comportamiento mixto con ligera recuperación en sectores defensivos, mientras los índices tecnológicos sufren correcciones y los bonos a largo plazo siguen presionados por los altos tipos de interés. El S&P 500 se mantiene firme apoyado por la fortaleza en salud y energía, a pesar de las dudas macroeconómicas globales. La economía real estadounidense continúa demostrando una gran resiliencia con indicadores de actividad muy sólidos.
+
+**Noticias.** He tenido en cuenta los informes macroeconómicos que muestran un PMI compuesto sólido en 56,0 y la persistente presión de la deuda nacional y los rendimientos de los bonos del Tesoro. Ninguna de nuestras cinco grandes posiciones presenta noticias corporativas graves que justifiquen una intervención de emergencia. Las recientes compras y movimientos de nuestra fuente Berkshire Hathaway (como GOOGL o DAL) no alteran nuestro plan actual, ya que mantenemos la inactividad rigurosa acordada hasta el próximo informe 13F oficial.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestras cinco posiciones principales siguen operando con sólidos fundamentos empresariales y un comportamiento bursátil favorable, superando al S&P 500 en el periodo. Intervenir sin la llegada de un nuevo 13F rompería nuestra disciplina y aumentaría los costes de transacción sin una justificación de valor real.
+
+**En contra.** El mejor argumento en contra es que el mercado ofrece nuevas oportunidades y que nuestra fuente ha incrementado participaciones en otras empresas como Alphabet, lo que podría hacernos perder tramo alcista. Aun así, decido mantener la inactividad porque la paciencia es la mayor virtud del inversor a largo plazo y la rotación constante destruye rentabilidad.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos siguen siendo la presión al alza de los rendimientos de los bonos del Tesoro y la volatilidad general de las valoraciones tecnológicas. Mantener una cartera muy concentrada en cinco valores implica asumir oscilaciones puntuales que debemos soportar con sangre fría.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales (AAPL, AXP, KO, BAC y CVX) y no realizar ninguna operación.
+
+**Mi puesto.** Vamos por delante del S&P 500 por casi un punto porcentual, lo que demuestra que nuestra paciencia y selección inicial están dando sus frutos. Mantendré el rumbo sin arriesgar de más para conservar la ventaja.
+
+Valor de la cartera: 10,243.74 $
+
+## 2026-08-21
+
+**Reflexión de la semana.** Esta semana he acertado al mantener una paciencia férrea, resistiendo la tentación de operar en exceso y dejando que las maravillosas empresas de la cartera de Warren Buffett trabajen por nosotros. No he cometido grandes fallos operativos, aunque debo recordar que la inactividad no significa desconexión, sino vigilancia atenta de los negocios que poseemos. He aprendido una vez más que el mercado premia la tranquilidad y castiga el nerviosismo a corto plazo. La semana que viene mantendré exactamente la misma disciplina, recordando que copiar al mejor requiere sobre todo paciencia.

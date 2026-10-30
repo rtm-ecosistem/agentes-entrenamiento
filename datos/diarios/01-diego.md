@@ -407,3 +407,36 @@ Valor de la cartera: 9,587.21 $
 **Mi puesto.** Voy por detrás del S&P 500 por 6.19 puntos a falta de 11 días, por lo que mantendré una gestión estricta del riesgo sin caer en la tentación de arriesgar de exceso para evitar una caída fatal del 10%.
 
 Valor de la cartera: 9,549.15 $
+
+## 2026-08-21
+
+**Nota de mi predicción del 2026-08-14.** Dije que MSFT lo haría mejor que el S&P 500: hizo -2.6% frente a -1.4%. Fallo.
+
+## 2026-08-21
+
+**Mantengo mis posiciones actuales en CVX, MSFT, NVDA, JPM y AMZN al no encontrar ningún catalizador cuantitativo sorpresivo que cumpla con los requisitos estrictos de mi estrategia de noticias.**
+
+**Mercado.** El mercado muestra un comportamiento mixto con una ligera recuperación en sectores defensivos y de consumo, mientras que los índices tecnológicos y de semiconductores sufren correcciones a corto plazo. El S&P 500 se mantiene respaldado por la fortaleza en salud y energía, pero la presión de los altos rendimientos de los bonos del Tesoro sigue limitando el avance general de las bolsas.
+
+**Noticias.** He analizado los últimos flujos informativos destacando informes positivos como los de BJ's Wholesale por sus sólidos resultados y el optimismo industrial en Filadelfia en máximos de 43 años. Sin embargo, muchas de estas noticias y los movimientos en criptomonedas o semiconductores responden a narrativas temáticas generales o no traen los datos cuantitativos sorpresivos o contratos formalmente anunciados que exige mi filtro estratégico. Por tanto, decido no realizar nuevas incorporaciones para evitar entrar tarde en movimientos ya descontados por el mercado.
+
+**A favor.** El mejor argumento a favor de no operar hoy es mantener el capital disponible y proteger la cartera de los riesgos derivados de la alta rentabilidad de los bonos, evitando forzar compras impulsadas por la frustración o la tensión por ir por detrás del índice. La disciplina de esperar un catalizador genuino y cuantitativamente sorpresivo es vital para evitar errores acumulativos.
+
+**En contra.** El mejor argumento en contra de esta inacción es que mantengo un 35% de efectivo en un contexto donde el S&P 500 continúa avanzando, lo que genera un coste de oportunidad y retrasa la necesaria remontada en los pocos días que restan del periodo de evaluación. Aun así, decido no actuar porque las reglas de mis reflexiones semanales prohíben estrictamente rotar hacia valores sin un catalizador formal inmaculado.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son la presión bajista continuada sobre las grandes tecnológicas debido a los elevados rendimientos de la deuda soberana y la posibilidad de que mi efectivo inactivo lastre aún más mi rendimiento frente al S&P 500 en la recta final del periodo.
+
+**Plan.** Voy a vigilar de cerca la evolución y los niveles de stop de mis posiciones actuales en CVX, MSFT, NVDA, JPM y AMZN, aplicando rigurosamente la regla de las 48 horas. Revisaré diariamente los flujos de noticias corporativas a la espera de un catalizador cuantitativo claro que justifique una asignación de capital.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.42 puntos a falta de 10 días para concluir el periodo de evaluación, lo cual genera tensión pero no justifica asumir riesgos excesivos o saltarme mis reglas fijas de estrategia.
+
+Valor de la cartera: 9,503.84 $
+
+## 2026-08-21
+
+**Reflexión de la semana.** Esta semana he intentado filtrar mejor los titulares exigiendo datos cuantitativos duros, pero mi rentabilidad sigue cayendo a un -4.96% mientras el S&P 500 sube. Acerté al cortar rápido a SMCI, pero fallé al dejarme atrapar por entradas como JPM y AMZN que no lograron superar al mercado en sus primeras 48 horas. He aprendido que incluso con contratos reales, el timing de la reacción institucional me está machacando. La semana que viene seré mucho más estricto aplicando la regla de corte a las 48 horas para liberar liquidez inmediatamente.
+
+Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una nueva posición no genera beneficios netos en 24 horas tras su catalizador, reduzco la exposición un 50% de inmediato para no acumular pérdidas por inercia.

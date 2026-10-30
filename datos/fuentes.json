@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-08-20"
+  "revisado": "2026-08-21"
  },
  "congreso": {
   "leidas": {
@@ -2938,51 +2938,6 @@
     "presentado": "2026-07-07",
     "operaciones": []
    },
-   "9116206": {
-    "nombre": "Rohit Khanna",
-    "distrito": "CA17",
-    "presentado": "2026-07-06",
-    "operaciones": []
-   },
-   "20034923": {
-    "nombre": "Lloyd Doggett",
-    "distrito": "TX37",
-    "presentado": "2026-07-06",
-    "operaciones": [
-     {
-      "activo": "Home Depot, Inc.",
-      "ticker": "HD",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-06-18",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "International Business Machines Corporation Common Stock",
-      "ticker": "IBM",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-06-10",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Johnson & Johnson Common Stock",
-      "ticker": "JNJ",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-06-09",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "PPG Industries, Inc. Common Stock",
-      "ticker": "PPG",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-06-12",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
    "20035146": {
     "nombre": "David J. Taylor",
     "distrito": "OH02",
@@ -4212,9 +4167,46 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "20035274": {
+    "nombre": "Suzan K. DelBene",
+    "distrito": "WA01",
+    "presentado": "2026-08-21",
+    "operaciones": []
+   },
+   "20035143": {
+    "nombre": "Nancy Pelosi",
+    "distrito": "CA11",
+    "presentado": "2026-08-21",
+    "operaciones": [
+     {
+      "activo": "Bloom Energy Corporation Class A Common Stock",
+      "ticker": "BE",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-24",
+      "importe": "$1,000,001 - $5,000,000"
+     },
+     {
+      "activo": "Bloom Energy Corporation Class A Common Stock",
+      "ticker": "BE",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-28",
+      "importe": "$500,001 - $1,000,000"
+     },
+     {
+      "activo": "Intel Corporation - Common Stock",
+      "ticker": "INTC",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-07-24",
+      "importe": "$500,001 - $1,000,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-08-20"
+  "revisado": "2026-08-21"
  }
 }

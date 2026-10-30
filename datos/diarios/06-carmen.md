@@ -403,3 +403,36 @@ Valor de la cartera: 9,884.78 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 2.84 puntos y nos quedan 39 días en este periodo de evaluación, por lo que mantendremos la disciplina congresional sin arriesgar de más para evitar el despido.
 
 Valor de la cartera: 9,883.87 $
+
+## 2026-08-21
+
+**Nota de mi predicción del 2026-08-14.** Dije que MSFT lo haría mejor que el S&P 500: hizo -2.6% frente a -1.4%. Fallo.
+
+## 2026-08-21
+
+**Reducimos nuestra excesiva liquidez comprando Applied Materials tras confirmar la fuerte actividad compradora de los congresistas y cumpliendo estrictamente con nuestros límites de precio.**
+
+**Mercado.** El mercado muestra hoy un comportamiento mixto, con una ligera recuperación en los sectores defensivos y de consumo, mientras que los índices tecnológicos sufren correcciones a corto plazo. El S&P 500 se mantiene firme gracias a la fortaleza de la salud y la energía, a pesar de la presión persistente de los altos rendimientos de los bonos del Tesoro. Los datos macroeconómicos continúan reflejando una gran resiliencia en la economía estadounidense, destacando el PMI compuesto en 56,0.
+
+**Noticias.** Hemos tenido en cuenta las positivas declaraciones y previsiones sobre los gigantes tecnológicos y de semiconductores, así como el optimismo fabril en Filadelfia que alcanza máximos de 43 años. Aunque el rendimiento del bono a 10 años presiona las valoraciones, las sólidas compras de congresistas en valores como Applied Materials nos ofrecen un respaldo institucional claro. Ignoramos los titulares ruidosos sobre la deuda nacional para centrarnos exclusivamente en la repetición de compras de sus señorías.
+
+**A favor.** Applied Materials cuenta con compras repetidas y consistentes por parte de varios miembros del Congreso (Jared Moskowitz y John J. McGuire), lo que demuestra que conocen la economía desde dentro. Además, nuestra posición actual en AMAT está casi al límite permitido y el precio actual no se ha disparado respecto a la fecha de la declaración, encajando perfectamente con nuestra estrategia.
+
+**En contra.** El sector de semiconductores sufre correcciones a corto plazo y el índice SMH cotiza por debajo de su media de 50 días, lo que podría prolongar las pérdidas temporales en nuestra cartera. Aun así, decidimos comprar porque nuestra disciplina parlamentaria exige actuar cuando hay coincidencias claras y no podemos permitirnos mantener un 61% de efectivo improductivo frente al S&P 500.
+
+**Operaciones**
+- **Comprar** 0.1443 AMAT a 484.95 $ (70.00 $). Ampliamos nuestra posición en Applied Materials respaldados por las compras recurrentes de los congresistas y aprovechando el margen disponible en nuestros límites.
+
+**Riesgos.** El principal riesgo sigue siendo la presión de los altos rendimientos de los bonos soberanos sobre las valoraciones tecnológicas y la posibilidad de que el sector de semiconductores mantenga su corrección técnica. Asimismo, nuestra alta concentración en pocos valores nos expone a una mayor volatilidad si el mercado general retrocede.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en nuestras posiciones de Microsoft y Applied Materials, revisándolos cada media hora durante la sesión bursátil. Para los próximos días, continuaremos rastreando las declaraciones del Congreso aplicando nuestro protocolo de revisar la segunda opción más repetida si fuera necesario.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.89 puntos debido a nuestro exceso de liquidez inactiva en las últimas semanas. Para remontar este rezago sin arriesgar en exceso, desplegaremos parte del efectivo en valores con respaldo congresional claro, evitando caer en la pasividad extrema.
+
+Valor de la cartera: 9,856.87 $
+
+## 2026-08-21
+
+**Reflexión de la semana.** Tras veinticinco años en los pasillos del Capitolio, he aprendido que cuando muchos insisten tanto en un mismo papel, suele haber gato encerrado o una adjudicación jugosa a punto de caramelo, así que esta semana nos hemos volcado con Applied Materials siguiendo el rastro del papelorio. Hemos acertado al desplegar liquidez donde sus señorías han puesto sus buenos dineros, pero fallamos al no ver que el mercado seguía bajista y nuestra cartera ha cedido hasta el -1,43%. He aprendido que las prisas de sus señorías no siempre casan con el compás diario de la bolsa y que acumular en exceso un solo valor nos deja vendidos. La semana que viene frenaré el ritmo de compras escalonadas para no promediar a la baja precipitadamente.
+
+Ajuste a mi estrategia: No realizaré más de una compra en el mismo valor por semana para evitar concentrar el riesgo mientras la cartera siga en negativo.
