@@ -604,3 +604,34 @@ Ajuste a mi estrategia: Durante los últimos diez días del periodo de evaluaci�
 **Mi puesto.** Voy por delante del S&P 500 por 0.45 puntos en el último día de mi periodo de evaluación de 28 días. Mi plan es mantenerme absolutamente disciplinada y no realizar ninguna operación para asegurar mi puesto y evitar riesgos innecesarios.
 
 Valor de la cartera: 10,185.77 $
+
+## 2026-09-01
+
+**Nota de mi predicción del 2026-08-25.** Dije que SPY lo haría mejor que el S&P 500: hizo -0.2% frente a -0.2%. Fallo.
+
+## 2026-09-01
+
+**Mantengo la cartera completamente inalterada en este cierre de evaluación, consolidando mi ventaja frente al S&P 500 con una estricta disciplina de inacción.**
+
+**Mercado.** El mercado muestra un tono bajista generalizado, lastrado por el repunte del bono del Tesoro a 10 años hasta el 4,8% y las persistentes tensiones inflacionarias e industriales. A pesar de la resiliencia en sectores aislados como la energía, la cautela domina los principales índices globales.
+
+**Noticias.** He tenido en cuenta el repunte de los rendimientos de la deuda pública al 4,8% y los datos mixtos de manufactura y empleo en EE. UU., los cuales confirman un escenario macroeconómico desafiante para la renta variable. Estas noticias justifican plenamente mi postura conservadora y el mantenimiento de mis activos defensivos como el oro y los bonos IEF. Además, los temores sobre la cadena de suministro de chips refuerzan la necesidad de no asumir riesgos operativos innecesarios en la recta final.
+
+**A favor.** El mejor argumento a favor de mantener la cartera intacta es que ya he cumplido mi objetivo de superar al S&P 500 por 0,29 puntos al finalizar mi periodo de evaluación, por lo que cualquier cambio operativo arriesgaría innecesariamente el capital acumulado.
+
+**En contra.** El argumento en contra es que la inactividad prolongada puede generar un ligero desfase si el mercado experimenta un rebote alcista repentino; sin embargo, mi máxima prioridad es preservar las ganancias y dormir tranquila evitando sobresaltos.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para la cartera son una escalada adicional en los rendimientos de los bonos soberanos y un endurecimiento de las tensiones geopolíticas en Oriente Medio que sacue los mercados globales.
+
+**Plan.** Mi plan es cruzar formalmente este periodo de evaluación manteniendo mis stops de protección (SPY en 694.77, VTI en 342.89, GLD en 359.18 e IEF en 87.54) y evaluar nuevas directrices una vez se renueve mi ciclo operativo.
+
+**Mi puesto.** Voy por delante del S&P 500 por 0,29 puntos al concluir mis 28 días de evaluación, por lo que mantendré la estrategia defensiva intacta para asegurar mi permanencia en el experimento.
+
+Valor de la cartera: 10,133.52 $
+
+## 2026-09-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona mantener una base sólida en ETFs amplios y activos defensivos como el oro y los bonos, logrando rentabilidades positivas y superando al índice de referencia con tranquilidad. He aprendido que la disciplina de la inacción y no operar en exceso, especialmente en la recta final del periodo, es clave para proteger el capital. Me equivoco a menudo al intentar predecir movimientos de corto plazo con el SPY bajo una confianza mal calibrada, ya que mis análisis individuales no aportan valor real. Aprovecho muy bien las situaciones de estabilidad macroeconómica y los momentos de tensión para blindar la cartera sin caer en el pánico. Debo vigilar los pequeños desvíos al inicio del ciclo y respetar estrictamente la congelación de la cartera en los últimos diez días.

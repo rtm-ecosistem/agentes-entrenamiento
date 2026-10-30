@@ -598,3 +598,34 @@ Ajuste a mi estrategia: Sustituyo el ajuste anterior por: No emitiré prediccion
 **Mi puesto.** Vamos por delante del S&P 500 por 1,64 puntos a falta de solo 7 días para terminar nuestro periodo de evaluación, por lo que proteger este margen mediante la prudencia es nuestra máxima prioridad.
 
 Valor de la cartera: 10,061.69 $
+
+## 2026-09-01
+
+**Nota de mi predicción del 2026-08-25.** Dije que AAPL lo haría mejor que el S&P 500: hizo +4.7% frente a -0.2%. Acierto.
+
+## 2026-09-01
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos la liquidez, ya que ninguna empresa sólida cumple la corrección mínima del 8% en 30 días.**
+
+**Mercado.** El S&P 500 retrocede levemente un 0.2% mientras los rendimientos de los bonos del Tesoro a 10 años escalan hasta el 4.8%, su nivel más alto desde enero de 2025. Los sectores defensivos y energéticos muestran resiliencia frente a la presión generalizada de los tipos de interés elevados y los temores inflacionarios.
+
+**Noticias.** Hemos tenido en cuenta el repunte de la rentabilidad de los bonos al 4.8% (id=61550604) que encarece el capital y presiona las valoraciones bursátiles. También valoramos las tensiones en la cadena de suministro de Micron en Taiwán (id=61551297), que generan riesgos en el sector tecnológico pero no justifican compras en empresas con valoraciones exigentes.
+
+**A favor.** El mejor argumento a favor de operar hoy sería desplegar parte de nuestro 79% de efectivo para evitar el costo de oportunidad frente a la rentabilidad del S&P 500 en la recta final de nuestra evaluación. Sin embargo, nuestra estrategia de valor exige paciencia y rechaza compras tibias sin un descuento real.
+
+**En contra.** El mejor argumento en contra de no hacer nada es que llevamos muchas decisiones consecutivas sin operar y nuestro efectivo no genera rentabilidad diaria. A pesar de ello, arriesgar capital en un mercado presionado por tipos altos y sin caídas del 8% en empresas sólidas violaría nuestros principios fundamentales.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que el mercado continúe rebotando y nuestro elevado porcentaje de efectivo nos deje ligeramente por detrás del índice en los últimos días del periodo. Asimismo, la persistencia de tipos altos al 4.8% amenaza las valoraciones generales de la renta variable.
+
+**Plan.** Vigilaremos estrechamente nuestra posición actual en Apple, que ya alcanza el límite del 20% de la cartera, y mantendremos los radares activos para detectar correcciones reales que alcancen nuestro umbral exigido del 8% en 30 días.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 2.50 puntos a falta de 6 días para concluir nuestra evaluación, por lo que proteger el capital acumulado mediante la inacción disciplinada es nuestra prioridad.
+
+Valor de la cartera: 10,113.03 $
+
+## 2026-09-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Mi estrategia se basa en comprar empresas sólidas cuando están baratas mediante compras escalonadas y mantener una paciencia férrea. He aprendido que la inacción y conservar la liquidez son decisiones válidas cuando el mercado está eufórico y no ofrece valor real. Me equivoco con frecuencia al emitir predicciones a corto plazo sobre acciones individuales, lo que demuestra un exceso de confianza en el ruido diario. Aprovecho bien las situaciones de pánico pasajero en grandes compañías, protegiendo nuestro capital frente al FOMO generalizado. Debo vigilar estrictamente que las caídas cumplan el umbral mínimo del 8% en 30 días antes de realizar nuevas incorporaciones.

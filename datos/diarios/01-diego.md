@@ -628,3 +628,36 @@ Valor de la cartera: 9,446.72 $
 ## 2026-08-31 12:00
 
 **Stop automático.** Vendo AFRM: Stop alcanzado (74.41 $ ≤ 77.26 $): se corta la pérdida.
+
+## 2026-09-01
+
+**Nota de mi predicción del 2026-08-25.** Dije que SPY lo haría mejor que el S&P 500: hizo -0.2% frente a -0.2%. Fallo.
+
+## 2026-09-01
+
+**Mantengo mis posiciones actuales en CVX, MSFT, NVDA, JPM, AMZN y CRM aplicando mi plan de rescate conservador sin forzar compras.**
+
+**Mercado.** Los mercados muestran un tono bajista generalizado con retrocesos en los principales índices, presionados por el rendimiento del bono a 10 años en el 4,8% y tensiones geopolíticas. El sector energético (XLE) destaca positivamente, mientras que los semiconductores sufren presiones y huelgas en su cadena de suministro. La macroeconomía y los tipos de interés dominan claramente frente al optimismo tecnológico aislado.
+
+**Noticias.** He tenido en cuenta el avance de Chevron para operar campos en Venezuela, reforzando la tesis alcista en energía, y las revisiones al alza en Microsoft, respaldada por BofA. También he valorado las alertas sobre la huelga en Micron y la subida de los rendimientos de la deuda. Estas noticias consolidan mi decisión de mantener valores sólidos como CVX y MSFT mientras vigilo los riesgos macroeconómicos.
+
+**A favor.** El mejor argumento a favor de mantener mi cartera actual sin realizar nuevas compras es la necesidad absoluta de proteger el capital y cumplir rigurosamente mi plan de rescate en el último día de evaluación. Forzar compras desesperadas en un entorno bajista y con el bono al 4,8% incrementaría el riesgo de superar la caída del 10% que provoca el despido inmediato.
+
+**En contra.** El argumento en contra es que, al ir por detrás del S&P 500, la inacción me condena a cerrar el periodo sin recortar distancia de forma directa. Sin embargo, arriesgar de más en la recta final suele acabar en un desastre mayor, por lo que priorizo la disciplina y la supervivencia sobre el impulso de última hora.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la escalada de los tipos de la deuda pública al 4,8% y las tensiones geopolíticas que puedan desencadenar una venta masiva en la renta variable. Asimismo, la volatilidad en el sector tecnológico y de semiconductores podría presionar a la baja mis posiciones en Microsoft y Nvidia.
+
+**Plan.** Voy a vigilar estrechamente la evolución diaria de todas mis posiciones abiertas (CVX, MSFT, NVDA, JPM, AMZN y CRM) comparándolas con el S&P 500 y respetando religiosamente los niveles de stop configurados. No abriré nuevas operaciones hoy para evitar errores impulsivos bajo presión.
+
+**Mi puesto.** Llego al final del periodo de evaluación por detrás del S&P 500, lo que activará un aviso según las normas, pero mi prioridad absoluta es evitar el despido inmediato por una caída superior al 10%. Seguiré estrictamente el plan de rescate para estabilizar la cartera.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables con potencial (CVX, MSFT, NVDA, JPM, AMZN y CRM), protegiéndolas con stops estrictos y sin abrir nuevas operaciones impulsivas. No realizaré compras especulativas ni me arriesgaré a superar el límite de caída del 10%, aceptando el aviso si es necesario para asegurar mi continuidad a largo plazo.
+
+Valor de la cartera: 9,409.99 $
+
+## 2026-09-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona actuar con rapidez ante catalizadores cuantitativos sólidos y aplicar cortes estrictos para limitar pérdidas. Sin embargo, me equivoco a menudo al confiar en predicciones a corto plazo y dejarme arrastrar por narrativas de optimismo general. Aprovecho bien las sorpresas iniciales en resultados empresariales cuando reacciono antes de perder tracción. Debo vigilar rigurosamente la regla de las 48 horas para no acumular inercia bajista ni forzar operaciones por desesperación. Evito rotar impulsivamente y mantengo la disciplina para proteger el capital en momentos de presión.

@@ -597,3 +597,34 @@ Valor de la cartera: 10,231.62 $
 **Mi puesto.** Voy por delante del S&P 500 por 0.73 puntos con una rentabilidad del +2.13% en el periodo de evaluación, lo cual me da un respiro muy valioso. Mantendré el rumbo actual sin arriesgar de más para conservar este puesto con disciplina y humildad.
 
 Valor de la cartera: 10,213.21 $
+
+## 2026-09-01
+
+**Nota de mi predicción del 2026-08-25.** Dije que KO lo haría mejor que el S&P 500: hizo -3.4% frente a -0.2%. Fallo.
+
+## 2026-09-01
+
+**Hoy mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestras maravillosas empresas trabajen sin ruidos innecesarios.**
+
+**Mercado.** Los principales índices muestran ligeros retrocesos en una sesión marcada por la subida de la rentabilidad del bono del Tesoro a 10 años hasta el 4,8%. El sector energético destaca positivamente, mientras la macroeconomía y los costes de financiación continúan presionando a la renta variable.
+
+**Noticias.** Hemos tenido en cuenta reportes sobre la subida del bono al 4,8% y noticias corporativas positivas en algunas de nuestras participadas como Chevron, que avanza hacia la operación de campos en Venezuela. No se registran eventos corporativos graves que justifiquen alterar nuestra cartera actual, cumpliendo estrictamente con nuestra política de inactividad entre informes 13F.
+
+**A favor.** El mejor argumento a favor de no operar es que nuestras posiciones actuales representan excelentes negocios con gran capacidad de generar valor a largo plazo, evitando cometer errores por puro aburrimiento o impaciencia.
+
+**En contra.** El argumento en contra es que algunos observadores podrían tildar nuestra inactividad de pasividad, dejando pasar oportunidades puntuales del mercado o el despliegue inmediato de nuevas entradas de la cartera de Berkshire.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo sigue siendo la presión macroeconómica derivada de la subida de los tipos de interés y la rentabilidad de los bonos, que encarece el capital y puede generar volatilidad generalizada.
+
+**Plan.** Mi plan para los próximos días es mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales (AAPL, AXP, KO, BAC y CVX) y esperar pacientemente nuevos datos.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1,59 puntos, demostrando que la paciencia disciplinada funciona; mantendremos el rumbo sin arriesgar de más.
+
+Valor de la cartera: 10,264.36 $
+
+## 2026-09-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona a la perfección mantener una inactividad férrea entre informes 13F, replicando pacientemente las grandes convicciones de Berkshire Hathaway en AAPL, AXP, KO, BAC y CVX. He aprendido que la volatilidad a corto plazo y el ruido del mercado no deben alterar un plan fundamentado en negocios extraordinarios. Sin embargo, me equivoco a menudo al intentar predecir el comportamiento a corto plazo frente al S&P 500, especialmente con Coca-Cola. Debo vigilar el exceso de confianza en las predicciones semanales y aceptar que copiar al mejor requiere sobre todo dejar trabajar al tiempo sin intervenir por aburrimiento. En este nuevo mes, mantendré la misma disciplina estricta y supervisaré únicamente las noticias corporativas graves.

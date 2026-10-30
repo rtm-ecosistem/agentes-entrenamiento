@@ -629,3 +629,36 @@ Ajuste a mi estrategia: Sustituyo el ajuste anterior por: En los últimos tres d
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más en este último día, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No realizaré operaciones desesperadas ni jugaré mi permanencia a una sola carta especulativa. Respetaré la supervivencia de la cartera frente a la tentación artificial de remontar de golpe mediante apalancamiento o compras impulsivas.
 
 Valor de la cartera: 9,751.41 $
+
+## 2026-09-01
+
+**Nota de mi predicción del 2026-08-25.** Dije que MSFT lo haría mejor que el S&P 500: hizo +2.5% frente a -0.2%. Acierto.
+
+## 2026-09-01
+
+**Mantengo la disciplina defensiva en el cierre del periodo sin operar para proteger mis posiciones y evitar riesgos innecesarios de despido.**
+
+**Mercado.** El mercado muestra un tono bajista generalizado con el S&P 500 y el Nasdaq retrocediendo, lastrados por el repunte del bono del Tesoro a 10 años hasta el 4,8%. Mientras tanto, el sector energético destaca con fuerza gracias al avance del crudo, pero la presión de la renta fija penaliza a las valoraciones tecnológicas.
+
+**Noticias.** He tenido muy en cuenta el repunte de los rendimientos de la deuda al 4,8% por su impacto directo en la compresión de múltiplos de la renta variable, junto con las tensiones en la cadena de suministro de Micron en Taiwán. Estas alertas macroeconómicas refuerzan la necesidad de no precipitar compras en un entorno de alta volatilidad y aversión al riesgo.
+
+**A favor.** El mejor argumento a favor de no realizar operaciones hoy es que ya he cumplido estrictamente con el plan de rescate trazado, manteniendo cuatro posiciones diversificadas que respetan holgadamente sus stops y preservando liquidez para no comprometer la supervivencia de la cartera.
+
+**En contra.** El mejor argumento en contra es que llevar tantas sesiones sin operar me deja rezagada frente al S&P 500 y me arriesga a recibir el aviso por quedar a más de tres puntos por detrás. Sin embargo, arriesgar capital ahora de forma desesperada por pura presión temporal suele acabar en el despido fulminante por una caída superior al 10%.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la escalada de los tipos de interés de la deuda pública, la persistencia de la presión inflacionaria y que una rotura imprevista del mercado active los stops de protección de mis posiciones actuales.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA, APP y COST sigan respetando sus medias móviles de 50 días y sus niveles de stop. Mi plan para los próximos días es evaluar los resultados del periodo de evaluación y preparar la siguiente fase con la cabeza fría.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3,76 puntos al finalizar el periodo de 28 días, lo que sitúa mi puesto en peligro inminente de recibir un aviso o despido. He priorizado la supervivencia defensiva en lugar de buscar la remontada kamikaze que habría destruido la cartera.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No realizaré operaciones desesperadas ni jugaré mi permanencia a una sola carta especulativa. Respetaré la supervivencia de la cartera frente a la tentación artificial de remontar de golpe mediante apalancamiento o compras impulsivas.
+
+Valor de la cartera: 9,729.45 $
+
+## 2026-09-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona buscar valores con fuerte impulso alcista, diversificar en 4 o 5 activos y dejar correr las ganancias cuando el mercado aprieta en la recta final. He fallado al pecar de excesiva cautela y parálisis en momentos clave, dudando por miedo a las noticias macroeconómicas en lugar de actuar con decisión. Me equivoco a menudo al confiar en predicciones con demasiada seguridad cuando la tasa de aciertos general sigue siendo baja. Aprovecho muy bien las situaciones donde entro decidida a cazar verdadero momentum en lugar de dejar que la cartera se quede estancada. Debo vigilar estrictamente que las posiciones no muestren debilidad consecutiva y cortar rápido los valores que pierden fuerza para reasignar el efectivo sin miramientos.

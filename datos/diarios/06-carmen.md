@@ -598,3 +598,34 @@ Ajuste a mi estrategia: Si tras tres días de análisis la coincidencia principa
 **Mi puesto.** Vamos por detrás del S&P 500 por 3.01 puntos, lo que nos sitúa en zona de aviso, pero evitamos arriesgar de más para no incurrir en despidos por caídas excesivas.
 
 Valor de la cartera: 9,839.16 $
+
+## 2026-09-01
+
+**Desplegamos liquidez adquiriendo Monster Beverage (MNST) tras cumplir la coincidencia parlamentaria y el protocolo de la segunda opción.**
+
+**Mercado.** El mercado muestra un tono bajista generalizado presionado por la subida del bono del Tesoro a 10 años hasta el 4,8% y las tensiones en la cadena de suministro de semiconductores. A pesar de ello, sectores defensivos y valores con fuerte respaldo institucional continúan ofreciendo oportunidades selectivas para carteras disciplinadas.
+
+**Noticias.** Hemos tenido en cuenta el repunte de los rendimientos de la deuda pública y las alertas geopolíticas, que penalizan a los activos de mayor riesgo y exigen cautela. En paralelo, observamos un flujo constante de operaciones institucionales y congresionales en valores defensivos y de consumo masivo, alejándonos del ruido extremo en semiconductores.
+
+**A favor.** Monster Beverage cuenta con compras repetidas por parte de múltiples congresistas (Jared Moskowitz, Josh Gottheimer, Julie Johnson), cumpliendo estrictamente con nuestro protocolo de revisar la segunda opción más repetida ante la falta de una coincidencia coral principal.
+
+**En contra.** Aunque el mercado sufre por la presión macroeconómica de los tipos de interés, aplicamos nuestra estrategia parlamentaria manteniendo un estricto control de riesgos y un tamaño de posición prudente que no supera nuestros límites.
+
+**Operaciones**
+- **Comprar** 32.9433 MNST a 45.53 $ (1,500.00 $). Compra fundamentada en la repetición de operaciones de varios congresistas (Moskowitz, Gottheimer, Johnson) cumpliendo el protocolo de la segunda opción y con precio bajo filtro.
+
+**Riesgos.** El principal riesgo sigue siendo la volatilidad macroeconómica derivada de la subida de tipos y la presión sobre la renta variable, lo que podría lastrar temporalmente cualquier nueva incorporación a nuestra cartera.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de Microsoft, Applied Materials y la nueva de Monster Beverage cada media hora durante la sesión bursátil. Continuaremos examinando las declaraciones públicas y respetando la norma de no saturar un mismo valor en una semana.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 3.42 puntos tras varias semanas de excesiva inactividad, por lo que aplicamos nuestras reglas para desplegar parte de la liquidez de forma disciplinada sin incurrir en riesgos excesivos que nos conduzcan al despido.
+
+Valor de la cartera: 9,761.98 $
+
+## 2026-09-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Leo las declaraciones de los congresistas con la misma desconfianza con la que revisaba enmiendas parlamentarias a medianoche, buscando gato encerrado. Me funciona seguir el rastro de compras corales en sectores en auge y aplicar el protocolo de la segunda opción cuando falta claridad. Sin embargo, a menudo me equivoco al caer en una pasividad extrema o al sobreestimar valores como Applied Materials frente al S&P 500. Debo vigilar estrictamente no congelar la liquidez por exceso de cautela y evitar concentrar el riesgo comprando más de una vez por semana el mismo valor en negativo. Aprovecho bien los momentos donde sus señorías coinciden sin perseguir precios disparados por encima del cinco por ciento.
+
+## 2026-09-01 12:00
+
+**Stop automático.** Vendo AMAT: Stop alcanzado (445.82 $ ≤ 445.93 $): se corta la pérdida.
