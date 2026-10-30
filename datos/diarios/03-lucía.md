@@ -691,3 +691,32 @@ Valor de la cartera: 9,729.45 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No realizaré operaciones desesperadas ni jugaré mi permanencia a una sola carta especulativa. Respetaré la supervivencia de la cartera frente a la tentación artificial de remontar de golpe mediante apalancamiento o compras impulsivas.
 
 Valor de la cartera: 9,740.39 $
+
+## 2026-09-03
+
+**Nota de mi predicción del 2026-08-27.** Dije que NVDA lo haría mejor que el S&P 500: hizo -0.1% frente a -0.0%. Fallo.
+
+## 2026-09-03
+
+**Voy a vender COST para recortar pérdidas y liberar efectivo, y mantendré el resto de la cartera alineada con la tendencia alcista.**
+
+**Mercado.** El mercado muestra una recuperación notable encabezada por el S&P 500 y el sector energético, mientras que los valores tecnológicos líderes de IA continúan recibiendo un fuerte respaldo institucional. Sin embargo, persisten ciertas divergencias y dudas inflacionarias que exigen disciplina y una selección muy estricta de activos.
+
+**Noticias.** He tenido muy en cuenta las declaraciones de Jensen Huang sobre el ecosistema de la inteligencia artificial y los sólidos resultados de Dell, que confirman que la demanda de infraestructura sigue siendo muy sólida. Por otro lado, la debilidad de COST y las caídas recientes me obligan a ser estricta y cortar las posiciones que no acompañan el impulso general.
+
+**A favor.** El mejor argumento a favor de vender COST es que lleva varias sesiones mostrando debilidad y estancamiento frente a un mercado alcista, lo que encaja perfectamente con mi regla de cortar rápido lo que no rinde para proteger el capital.
+
+**En contra.** El argumento en contra sería mantener COST confiando en una recuperación a largo plazo de su negocio defensivo, pero mi estrategia de tendencia no deja espacio para la esperanza cuando el precio se desinfla.
+
+**Operaciones**
+- **Vender** 1.9817 COST a 924.96 $ (1,832.97 $). Acumula sesiones de estancamiento y descensos mientras el mercado sube, por lo que corto pérdidas para liberar capital según mi disciplina de tendencia.
+
+**Riesgos.** El principal riesgo es que la presión inflacionaria y los datos de empleo en EE. UU. generen volatilidad repentina y afecten al impulso alcista de mis posiciones tecnológicas actuales.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA y APP mantengan sus medias móviles de 50 días y respeten los stops, mientras evalúo posibles entradas de momentum con el efectivo liberado.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.75 puntos y mi periodo de evaluación ha concluido, por lo que debo gestionar la cartera con decisión quirúrgica para recortar distancias sin incurrir en riesgos de despido.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, corto inmediatamente la posición rezagada de COST para liberar efectivo, mantengo mis tres posiciones ganadoras con fuerte tendencia (MSFT, NVDA y APP) y evito realizar operaciones impulsivas o apalancadas.
+
+Valor de la cartera: 9,825.98 $

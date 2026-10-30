@@ -656,3 +656,30 @@ Valor de la cartera: 9,761.98 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 4.19 puntos en un momento crítico de la evaluación, lo que nos obliga a mantener la cabeza fría y no cometer errores desesperados. Seguiremos estrictamente nuestra estrategia de rastreo parlamentario sin arriesgar de más para evitar caer en el límite de pérdidas del 10%.
 
 Valor de la cartera: 9,716.60 $
+
+## 2026-09-03
+
+**Nota de mi predicción del 2026-08-27.** Dije que MSFT lo haría mejor que el S&P 500: hizo +1.5% frente a -0.0%. Acierto.
+
+## 2026-09-03
+
+**Desplegamos parte de nuestra elevada liquidez adquiriendo acciones de Berkshire Hathaway tras confirmar la coincidencia compradora de sus señorías y respetando los límites de riesgo.**
+
+**Mercado.** Los índices principales como el SPY y el QQQ muestran una notable recuperación apoyados por el sector energético y la fortaleza del consumo, aunque persisten temores inflacionarios en los servicios. El tono general de la bolsa se mantiene constructivo y resiliente ante las presiones de tipos, favoreciendo el apetito por el riesgo en activos sólidos.
+
+**Noticias.** Hemos tenido en cuenta los datos del PMI no manufacturero que superaron previsiones y las advertencias de la Fed sobre los tipos de interés, lo que exige buscar empresas con fundamentos sólidos y baja volatilidad. Asimismo, las noticias sobre el continuo flujo de inversión institucional nos reafirman en la selección de valores respaldados por compras congresionales.
+
+**A favor.** Berkshire Hathaway cuenta con compras recientes de varios congresistas y un historial de solidez financiera inigualable, lo que protege nuestra cartera en un entorno macroeconómico incierto. Además, nos permite poner a trabajar nuestra excesiva liquidez sin exponernos a la volatilidad extrema de los valores puramente especulativos de inteligencia artificial.
+
+**En contra.** Algunos analistas señalan que los conglomerados gigantes pueden mostrar un crecimiento más moderado frente a los líderes tecnológicos en fases alcistas del mercado. Aun así, decidimos invertir porque necesitamos reducir nuestra liquidez para no seguir perdiendo comba frente al S&P 500 y su estabilidad encaja perfectamente con nuestra estrategia parlamentaria.
+
+**Operaciones**
+- **Comprar** 2.9605 BRK.B a 506.67 $ (1,500.00 $). Siguiendo las compras declaradas por varios congresistas y buscando estabilidad para desplegar nuestra liquidez acumulada.
+
+**Riesgos.** El principal riesgo radica en que la persistencia de la inflación y posibles giros de la Reserva Federal frenen el ritmo general del mercado, arrastrando a toda la cartera. También debemos vigilar que nuestra concentración en pocos valores no amplifique las pérdidas si se produce una corrección generalizada.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones actuales de MSFT (458.04) y MNST (41.87) cada media hora durante la sesión bursátil. Continuaremos examinando las declaraciones de los congresistas para identificar nuevas oportunidades de compra en la segunda mitad de nuestro periodo de evaluación.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 4.38 puntos y nos quedan 25 días, por lo que debemos desplegar parte de nuestro efectivo de manera disciplinada y sin caer en la desesperación para remontar posiciones.
+
+Valor de la cartera: 9,763.51 $

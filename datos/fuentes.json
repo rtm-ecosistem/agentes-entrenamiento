@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-09-02"
+  "revisado": "2026-09-03"
  },
  "congreso": {
   "leidas": {
@@ -1031,49 +1031,6 @@
       "importe": "$15,001 - $50,000"
      }
     ]
-   },
-   "20035042": {
-    "nombre": "William R. Timmons",
-    "distrito": "SC04",
-    "presentado": "2026-07-19",
-    "operaciones": []
-   },
-   "20034694": {
-    "nombre": "Laurel Lee",
-    "distrito": "FL15",
-    "presentado": "2026-07-19",
-    "operaciones": [
-     {
-      "activo": "Bank of America Corporation Common Stock",
-      "ticker": "BAC",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-06-02",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Nokia Corporation Sponsored American Depositary Shares",
-      "ticker": "NOK",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-05-11",
-      "importe": "$15,001 - $50,000"
-     },
-     {
-      "activo": "Nokia Corporation Sponsored American Depositary Shares",
-      "ticker": "NOK",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-06-02",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
-   "20022577": {
-    "nombre": "William R. Timmons",
-    "distrito": "SC04",
-    "presentado": "2026-07-19",
-    "operaciones": []
    },
    "20035136": {
     "nombre": "Lloyd Doggett",
@@ -3402,9 +3359,24 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "20035370": {
+    "nombre": "Jonathan Jackson",
+    "distrito": "IL01",
+    "presentado": "2026-09-03",
+    "operaciones": [
+     {
+      "activo": "ViaSat, Inc. - Common Stock",
+      "ticker": "VSAT",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-28",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-09-02"
+  "revisado": "2026-09-03"
  }
 }
