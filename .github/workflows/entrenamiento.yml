@@ -1,0 +1,47 @@
+name: Entrenamiento
+
+# Lo lanza cada día el despertador de cron-job.org (10:30 de España), o se lanza a mano desde Actions
+on:
+  workflow_dispatch:
+    inputs:
+      dias:
+        description: "Simular como mucho estos días (0 = hasta que se acabe la cuota o el tiempo)"
+        type: string
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: entrenamiento
+  cancel-in-progress: false
+
+jobs:
+  simular:
+    runs-on: ubuntu-latest
+    timeout-minutes: 345
+    env:
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: (sudo apt-get update -qq && sudo apt-get install -y -qq --no-install-recommends poppler-utils) || true
+      - name: Simular días
+        env:
+          ALPACA_API_KEY: ${{ secrets.ALPACA_API_KEY }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ESPEJO_ALPACA: "0"
+        run: python -m entrenamiento.simulador --dias=${{ inputs.dias || '0' }} --minutos=320
+      - name: Guardar progreso
+        if: always()
+        run: |
+          git config user.name "rtm-ecosistem"
+          git config user.email "340233035+rtm-ecosistem@users.noreply.github.com"
+          git add datos RESULTADOS.md || true
+          if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
+          git commit -m "Entrenamiento $(date -u +%Y-%m-%d)"
+          git push
