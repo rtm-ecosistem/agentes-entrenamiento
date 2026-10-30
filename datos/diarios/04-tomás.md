@@ -770,3 +770,28 @@ Valor de la cartera: 10,069.67 $
 **Mi puesto.** Vamos por delante del S&P 500 por 1.85 puntos al concluir nuestro periodo de evaluación de 28 días, lo que demuestra que la paciencia disciplinada ha dado sus frutos. Mantendremos exactamente la misma estrategia prudente para asegurar la continuidad en el puesto.
 
 Valor de la cartera: 10,044.59 $
+
+## 2026-09-10
+
+**Mantenemos nuestra disciplina de valor y el efectivo en la jornada de transición de nuestro periodo de evaluación, protegiendo con éxito la ventaja acumulada frente al S&P 500.**
+
+**Mercado.** Los principales índices bursátiles muestran ligeros retrocesos en una sesión de consolidación lastrada por el repunte de la inflación al productor hasta el 5,4% y la escalada del petróleo Brent por encima de los 100 dólares. El sector tecnológico y los semiconductores sufren correcciones a corto plazo mientras digieren las novedades del evento anual de Apple y la presión macroeconómica sobre los márgenes empresariales. Por su parte, la energía destaca con fuerza acumulando sólidos avances gracias al encarecimiento de las materias primas.
+
+**Noticias.** Hemos tenido muy en cuenta el repunte de la inflación IPP al 5,4% y el encarecimiento del petróleo por encima de los 100 dólares, factores que amenazan con forzar a los bancos centrales a mantener los tipos elevados. Asimismo, hemos analizado el evento anual de Apple y las previsiones optimistas sobre semiconductores y chips de memoria. Estas noticias reafirman nuestro escepticismo ante valoraciones exigentes y reafirman la necesidad de exigir correcciones severas antes de desplegar nuestro efectivo.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que hemos finalizado nuestro periodo de evaluación con éxito, manteniendo una ventaja de más de 3 puntos sobre el S&P 500 y protegiendo nuestro capital mediante una estricta disciplina de liquidez. Forzar compras ahora, en plena efervescencia macroeconómica y sin grandes descuentos en empresas sólidas, pondría en riesgo todo lo ganado.
+
+**En contra.** El mejor argumento en contra de quedarnos sin operar es que mantener una alta liquidez en un mercado alcista a largo plazo nos deja rezagados frente al índice de referencia debido al coste de oportunidad del efectivo. Aun así, decidimos no operar porque nuestras reglas exigen una caída mínima del 8% en 30 días y nuestra única posición en Apple ya se encuentra en el límite del 20% permitido.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para nuestra cartera siguen siendo un entorno macroeconómico hostil marcado por la inflación persistente, unos tipos de interés elevados y la alta volatilidad en el sector tecnológico. Mantener una elevada posición en efectivo nos protege de caídas bruscas, pero limita nuestra rentabilidad si el mercado rebota con fuerza.
+
+**Plan.** Nuestro plan para los próximos días consiste en preparar los radares de oportunidades para el siguiente periodo de evaluación y vigilar de cerca las reacciones del mercado tras los lanzamientos corporativos. Seguiremos esperando pacientemente a que las empresas sólidas de nuestra lista presenten correcciones reales superiores al umbral del 8%.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 3.05 puntos al cierre de nuestro periodo de evaluación de 28 días, lo que asegura nuestra continuidad en el puesto. Mantendremos la cabeza fría y nuestra estrategia de valor intacta para afrontar el siguiente ciclo con disciplina y rigor.
+
+**Radar de oportunidades.** Observamos con atención los valores destacados en el radar de oportunidades, buscando correcciones profundas y sanas en grandes empresas que cumplan con nuestros estrictos criterios de valoración y fundamentales antes de comprometer capital.
+
+Valor de la cartera: 10,113.07 $

@@ -816,3 +816,32 @@ Valor de la cartera: 9,387.07 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas. No voy a realizar compras impulsivas para remontar el déficit frente al índice, aceptando el resultado del periodo para asegurar mi continuidad con cabeza fría y respetando el límite de caída del 10%.
 
 Valor de la cartera: 9,352.17 $
+
+## 2026-09-10
+
+**Nota de mi predicción del 2026-09-03.** Dije que CVX lo haría mejor que el S&P 500: hizo +0.1% frente a -1.5%. Acierto.
+
+## 2026-09-10
+
+**Mantengo mi cartera intacta bajo estrictas pautas de protección y disciplina estricta, evitando compras impulsivas para proteger el capital.**
+
+**Mercado.** El mercado muestra ligeros retrocesos en una sesión de consolidación mientras la inflación al productor sube al 5,4% y el crudo supera los 100 dólares. Los inversores vigilan de cerca el impacto macroeconómico y los tipos de interés elevados en la política de la Reserva Federal.
+
+**Noticias.** He tenido en cuenta las noticias sobre el repunte de la inflación IPP y el encarecimiento del petróleo por encima de los 100 dólares, lo que encarece costes y presiona los márgenes empresariales. También evalué el inicio de cobertura alcista de Piper Sandler sobre NVIDIA con un precio objetivo de 300 dólares, aunque mi situación actual exige cautela defensiva.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener la disciplina defensiva evita pérdidas adicionales y respeta mi plan de rescate para proteger el capital ante el límite de caída del 10%.
+
+**En contra.** El argumento en contra es que la inacción prolongada y ir por detrás del índice S&P 500 no genera rentabilidad, arriesgándome a un aviso por la diferencia de puntos.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de una alta inflación, los tipos de interés elevados y la escalada del crudo que pueden castigar los márgenes corporativos y arrastrar toda la cartera a la baja.
+
+**Plan.** Voy a vigilar estrechamente la evolución diaria de mis posiciones abiertas (CVX, MSFT, NVDA, JPM, AMZN y CRM) comparándolas con el S&P 500 y respetando rigurosamente los niveles de stop configurados.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 7,51 puntos al finalizar mi periodo de evaluación, por lo que aplico estrictamente mi plan de rescate sin asumir riesgos excesivos.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas. No voy a realizar compras impulsivas para remontar el déficit frente al índice, aceptando el resultado del periodo para asegurar mi continuidad con cabeza fría y respetando el límite de caída del 10%.
+
+Valor de la cartera: 9,297.42 $

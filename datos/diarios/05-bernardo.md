@@ -771,3 +771,30 @@ Valor de la cartera: 10,244.12 $
 **Mi puesto.** Vamos por delante del S&P 500 por 1.09 puntos en nuestro periodo de evaluación, por lo que mantendré una estricta disciplina defensiva sin arriesgar nuestra ventaja con movimientos innecesarios.
 
 Valor de la cartera: 10,210.98 $
+
+## 2026-09-10
+
+**Nota de mi predicción del 2026-09-03.** Dije que KO lo haría mejor que el S&P 500: hizo -0.8% frente a -1.5%. Acierto.
+
+## 2026-09-10
+
+**Hoy mantengo una rigurosa inactividad, fiel a la enseñanza de Warren Buffett de que la paciencia es la mayor virtud del inversor.**
+
+**Mercado.** El mercado muestra ligeros retrocesos en medio de temores inflacionarios tras un repunte en el índice de precios al productor y la subida del petróleo por encima de los cien dólares. A pesar de estas tensiones macroeconómicas, nuestras grandes empresas se mantienen estables y el sector energético destaca con fuerza.
+
+**Noticias.** He tenido en cuenta el repunte de la inflación al productor hasta el 5,4% y el encarecimiento del crudo, que amenazan los márgenes corporativos y generan volatilidad generalizada. Asimismo, observo el evento de Apple con atención, aunque sin alterar nuestra postura a largo plazo. Estas noticias reafirman que el ruido a corto plazo no debe dictar decisiones de inversión.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestra cartera está compuesta por negocios extraordinarios que ya poseen una gran solidez y protegen nuestra ventaja actual sobre el S&P 500.
+
+**En contra.** El mejor argumento en contra de la inactividad es el aburrimiento y la tentación de ignorar que Berkshire ha ampliado posiciones en valores como Alphabet, lo que podría hacernos perder oportunidades. Aun así, decido mantener la calma porque operar por puro impulso suele destruir valor.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una persistente presión inflacionaria y un posible encarecimiento de los costos energéticos que afecten la rentabilidad empresarial general.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y esperar pacientemente nuevos informes.
+
+**Mi puesto.** Voy por delante del S&P 500 por algo más de dos puntos y mi puesto está seguro por ahora; proteger esta ventaja mediante la inactividad disciplinada es la mejor opción.
+
+Valor de la cartera: 10,257.12 $

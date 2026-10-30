@@ -774,3 +774,30 @@ Valor de la cartera: 9,652.81 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 4.88 puntos a 19 días de concluir nuestro periodo de evaluación, lo que nos exige mantener la cabeza fría y evitar arriesgar de exceso para no activar la caída límite del 10%.
 
 Valor de la cartera: 9,613.86 $
+
+## 2026-09-10
+
+**Nota de mi predicción del 2026-09-03.** Dije que BRK.B lo haría mejor que el S&P 500: hizo -0.0% frente a -1.5%. Acierto.
+
+## 2026-09-10
+
+**Mantenemos la disciplina parlamentaria sin realizar nuevas compras hoy, conservando liquidez frente a la inflación y el repunte del crudo.**
+
+**Mercado.** Los principales índices como el SPY y el QQQ muestran ligeros retrocesos en una sesión de consolidación tras semanas de presión inflacionaria. El sector energético destaca con fuerza acumulando un +18.0% en 60 días, impulsado por el encarecimiento de las materias primas. Por su parte, la tecnología sufre correcciones a corto plazo mientras la inflación al productor sube al 5,4%.
+
+**Noticias.** Hemos tenido en cuenta el repunte de la inflación IPP al 5,4% y el crudo Brent por encima de los 100 dólares, lo que alimenta el temor a tipos elevados por parte de la Reserva Federal. Asimismo, monitorizamos los movimientos corporativos de Apple en su evento anual y el liderazgo de NVIDIA en semiconductores. Estas noticias nos exigen cautela para no sobreexponer la cartera a activos cíclicos castigados.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra liquidez del 49% actúa como un cortafuegos necesario frente al repunte de la inflación y la escalada del petróleo, evitando decisiones precipitadas.
+
+**En contra.** El mejor argumento en contra de la inacción es que mantener casi la mitad de la cartera en efectivo mientras el S&P 500 nos saca ventaja nos condena lentamente a quedar rezagados, pero la disciplina parlamentaria exige esperar coincidencias sólidas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una corrección generalizada en el Nasdaq por tipos de interés elevados y el impacto del petróleo caro en los márgenes de las empresas.
+
+**Plan.** Vigilaremos milimétricamente los stops configurados en nuestras posiciones de Microsoft (458.04), Monster Beverage (41.87) y Berkshire Hathaway (465.91) cada media hora durante la sesión bursátil. Continuaremos examinando con lupa las declaraciones de sus señorías en busca de nuevas oportunidades corales.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 4.04 puntos a falta de 18 días, por lo que mantendremos la disciplina defensiva sin arriesgar de más para evitar caer en el límite del 10%.
+
+Valor de la cartera: 9,644.91 $

@@ -818,3 +818,32 @@ Valor de la cartera: 9,713.65 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras con fuerte tendencia como MSFT, NVDA y APP, conservando también QCOM y CVX. No voy a realizar operaciones excesivas ni a superar los límites de peso por valor, evitando estrictamente una caída superior al 10% que suponga un despido fulminante y operando con total rigor técnico.
 
 Valor de la cartera: 9,679.62 $
+
+## 2026-09-10
+
+**Nota de mi predicción del 2026-09-03.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.6% frente a -1.5%. Fallo.
+
+## 2026-09-10
+
+**Mantengo mis posiciones actuales con disciplina estricta y decido no realizar nuevas compras hoy para proteger mi capital y cumplir con el plan de rescate.**
+
+**Mercado.** El S&P 500 y el QQQ muestran ligeros retrocesos en una sesión de consolidación lastrados por la inflación al productor del 5,4% y el petróleo por encima de los 100 dólares. El sector energético y los semiconductores lidian con una alta volatilidad mientras los inversores sopesan los riesgos macroeconómicos.
+
+**Noticias.** He tenido en cuenta el repunte de la inflación IPP al 5,4% y el encarecimiento del crudo Brent superando los 100 dólares, lo que incrementa la presión sobre los márgenes empresariales y los tipos de interés. Estas señales reafirman mi postura defensiva y la necesidad de evitar la exposición a activos sobreextendidos o vulnerables a la cadena de suministro como BA o ITA. Por otro lado, las valoraciones alcistas de Piper Sandler sobre NVDA respaldan la solidez de mis principales posiciones tecnológicas.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener posiciones ganadoras estables como MSFT, NVDA, APP, QCOM y CVX protege el valor total de la cartera y evita errores impulsivos derivados de la presión por el cierre del periodo.
+
+**En contra.** El argumento en contra es que la inacción podría privarme de aprovechar repuntes puntuales en valores con fuerte momento alcista diario, pero arriesgar de más en este momento crítico amenaza con desencadenar una caída superior al 10% que supondría un despido fulminante.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son una corrección generalizada impulsada por la persistencia de la inflación elevada y la volatilidad en el mercado energético que afecte a la rentabilidad general.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA, APP, QCOM y CVX respeten sus medias móviles de 50 días y sus niveles de stop, manteniendo el efectivo disponible y ejecutando cortes instantáneos si se activan las reglas de descensos consecutivos.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.99 puntos tras 38 días de evaluación y mi puesto peligra seriamente, por lo que mi plan de rescate consiste en mantener mis posiciones clave con férrea disciplina técnica, evitando arriesgar de más o jugármelo todo en operaciones precipitadas que provoquen una caída fatal.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico y protegiendo mi efectivo.
+
+Valor de la cartera: 9,649.02 $
