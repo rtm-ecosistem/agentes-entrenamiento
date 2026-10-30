@@ -847,3 +847,26 @@ Valor de la cartera: 10,195.08 $
 **Mi puesto.** Nos encontramos en la primera posición de la clasificación con una rentabilidad del +1.75% frente al -2.01% del S&P 500, liderando por 3.76 puntos. Nuestro plan consiste en proteger esta ventaja mediante una gestión de riesgo férrea, sin arriesgar de más para remontar ni caer en la trampa de operar por puro aburrimiento.
 
 Valor de la cartera: 10,174.51 $
+
+## 2026-09-15
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos el efectivo, ya que ninguna gran empresa sólida cumple todavía la corrección mínima exigida del 8% en 30 días.**
+
+**Mercado.** Los principales índices bursátiles registran ligeros descensos diarios presionados por el rendimiento del bono a 10 años que alcanza el nivel crítico del 5%. Mientras tanto, el sector energético continúa destacando con fuerza gracias al encarecimiento del petróleo, contrastando con la debilidad y el miedo a un recorte de gasto en semiconductores y tecnología.
+
+**Noticias.** Hemos valorado noticias como la decisión del Congreso de no frenar el desarrollo de la inteligencia artificial, lo que da un respiro regulatorio a las tecnológicas, y los persistentes avisos sobre una desaceleración en el gasto de chips. La noticia positiva de la retirada de la demanda contra Apple refuerza la solidez de nuestra única posición actual. Mantenemos el foco en los fundamentales y desconfiamos de los movimientos impulsados por el pánico pasajero en el sector tecnológico.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra cartera mantiene una posición cómoda en Apple con beneficios y una gran cantidad de liquidez protegida frente a la volatilidad macroeconómica. Forzar compras sin que se cumpla estrictamente nuestra regla de corrección del 8% en 30 días iría en contra de nuestra filosofía de paciencia.
+
+**En contra.** El principal argumento en contra de mantenernos inactivos es que nuestro efectivo no genera rentabilidad y el S&P 500 podría distanciarse si el mercado rebota con fuerza. Sin embargo, decidimos esperar porque arriesgar capital en un entorno de tipos altos y bonos al 5% sin descuentos atractivos aumenta innecesariamente el riesgo de despido.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para nuestra cartera son la presión alcista sobre la rentabilidad de los bonos soberanos y una corrección más profunda en el sector tecnológico que arrastre nuestra única posición. Debemos vigilar que la volatilidad general no afecte el valor intrínseco de las compañías sólidas que seguimos analizando.
+
+**Plan.** Mantendremos una vigilancia estrecha sobre nuestra posición actual en Apple y seguiremos rastreando la tabla de mercado en busca de grandes empresas sólidas que presenten caídas temporales superiores al 8%. Conservaremos la paciencia hasta que aparezca una oportunidad clara que encaje con nuestra estrategia de valor.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 3.69 puntos tras concluir con éxito nuestro periodo de evaluación anterior, por lo que nuestro objetivo principal es proteger este colchón sin caer en la tentación de operar por aburrimiento.
+
+Valor de la cartera: 10,155.28 $

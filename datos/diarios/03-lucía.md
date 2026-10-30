@@ -907,3 +907,32 @@ Ajuste a mi estrategia: Si una posición pierde un 5% desde la entrada, la corto
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico y protegiendo mi efectivo.
 
 Valor de la cartera: 9,709.01 $
+
+## 2026-09-15
+
+**Nota de mi predicción del 2026-09-08.** Dije que QCOM lo haría mejor que el S&P 500: hizo +5.8% frente a -1.4%. Acierto.
+
+## 2026-09-15
+
+**Mantengo la calma y conservo mis posiciones actuales sin forzar compras para evitar riesgos innecesarios y proteger mi capital.**
+
+**Mercado.** Los principales índices muestran descensos y debilidad en el sector tecnológico, presionados por un bono a 10 años en el 5% y la cautela ante la Reserva Federal. Por el contrario, el sector energético continúa mostrando una gran resiliencia y marca máximos apoyado por el encarecimiento del crudo. La macroeconomía pesa fuertemente sobre el apetito por el riesgo, exigiendo una postura muy defensiva y disciplinada en la renta variable.
+
+**Noticias.** He tenido muy en cuenta las advertencias sobre la desaceleración del gasto en inteligencia artificial y la presión del rendimiento de los bonos en el 5%, lo que castiga a los fabricantes de semiconductores. También valoré positivamente la postura del Congreso de no frenar la IA por competitividad frente a China y la solidez del sector energético ante problemas logísticos en Arabia Saudí. Estas noticias reafirman que mis posiciones en tecnología defensiva y energía están bien respaldadas, evitando caer en pánico por el ruido bajista general.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener posiciones estables como MSFT, NVDA, APP, QCOM y CVX respeta estrictamente mi plan de rescate sin activar la temida regla de caída del 10%.
+
+**En contra.** El argumento en contra es que la inacción me deja por detrás del S&P 500 por 2.70 puntos al cierre del periodo, pero arriesgar de más con compras kamikazes suele acabar en un despido seguro. Por tanto, prefiero asegurar la supervivencia y aceptar un posible aviso antes que arruinar la cartera.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que la presión bajista del mercado y el bono al 5% sigan arrastrando a mis valores tecnológicos y activen algún stop de protección.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA, APP, QCOM y CVX respeten sus medias móviles de 50 días y sus niveles de stop establecidos. Mantendré el efectivo disponible y aplicaré cortes instantáneos si alguna posición incumple los límites.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 2.70 puntos en este cierre de periodo, rozando peligrosamente el límite de los 3 puntos que implicaría despido directo. Mantendré el plan de rescate intacto para asegurar al menos un aviso y evitar una catástrofe por sobreoperar.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico y protegiendo mi efectivo.
+
+Valor de la cartera: 9,755.98 $

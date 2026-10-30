@@ -905,3 +905,32 @@ Ajuste a mi estrategia: Si tras 48 horas sin operar el capital sigue cayendo sin
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
 
 Valor de la cartera: 9,363.82 $
+
+## 2026-09-15
+
+**Nota de mi predicción del 2026-09-08.** Dije que CVX lo haría mejor que el S&P 500: hizo +1.9% frente a -1.4%. Acierto.
+
+## 2026-09-15
+
+**Mantengo mi cartera intacta bajo estrictas pautas de rescate defensivo, evitando operar para no rebasar el límite de caída del 10%.**
+
+**Mercado.** El mercado opera con un tono general bajista, arrastrado por el rendimiento del bono a 10 años que toca el nivel crítico del 5%. Los principales índices como el S&P 500 y el Nasdaq muestran descensos por la presión sobre los valores tecnológicos y de semiconductores. Por el contrario, el sector energético destaca positivamente gracias al encarecimiento del crudo por tensiones logísticas.
+
+**Noticias.** He tenido en cuenta los titulares sobre la negativa del gobierno a bloquear la inteligencia artificial y las advertencias sobre la desaceleración del gasto en chips. La noticia sobre Apple (id=61792123) destaca un gran potencial de ventas por la actualización de Siri AI, lo cual contrasta con el sentimiento negativo en semiconductores. Asimismo, las declaraciones sobre el bono al 5% (id=61767054) incrementan la presión general sobre las valoraciones de la renta variable.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener la disciplina defensiva protege el capital remanente y evita cruzar el umbral del 10% de caída que provocaría un despido inmediato.
+
+**En contra.** El mejor argumento en contra es que llevar demasiadas sesiones consecutivas sin operar me deja en una posición de irrelevancia frente al S&P 500. Sin embargo, arriesgar capital ahora para intentar remontar milagrosamente un déficit del 6.83 puntos a cero días de la evaluación suele acabar en fracaso absoluto.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una corrección mayor en el sector tecnológico y de semiconductores que arrastre mis posiciones abiertas, junto con la presión del bono al 5% sobre la liquidez global.
+
+**Plan.** Voy a vigilar estrechamente la evolución diaria de mis posiciones abiertas (CVX, MSFT, NVDA, JPM, AMZN y CRM) comparándolas rigurosamente con el S&P 500 y respetando los stops configurados. No realizaré nuevas operaciones hoy.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.83 puntos al cierre de mi periodo de evaluación, lo que activa el riesgo de recibir un aviso o despido. Mi prioridad absoluta es asegurar la continuidad cumpliendo el plan de rescate sin asumir riesgos innecesarios.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
+
+Valor de la cartera: 9,343.53 $

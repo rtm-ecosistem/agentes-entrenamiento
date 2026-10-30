@@ -863,3 +863,26 @@ Ajuste a mi estrategia: Sustituyo mis ajustes anteriores por el siguiente: a par
 **Mi puesto.** Voy ligeramente por delante del S&P 500 por 0.13 puntos, por lo que mi prioridad absoluta es conservar esta frágil ventaja mediante la inacción disciplinada, evitando cualquier paso en falso que pueda costarme el puesto.
 
 Valor de la cartera: 10,052.29 $
+
+## 2026-09-15
+
+**Mantengo la cartera inalterada un día más, preservando mi estrecha ventaja y protegiendo el capital frente a la presión del bono al 5%.**
+
+**Mercado.** Los principales índices registran ligeros descensos arrastrados por la debilidad tecnológica y el rendimiento del bono a 10 años tocando el nivel crítico del 5%. Mientras tanto, el sector energético muestra gran fortaleza gracias al encarecimiento del crudo por problemas logísticos en Arabia Saudí. La macroeconomía y la cautela ante la reunión de la Reserva Federal dominan el panorama bursátil general.
+
+**Noticias.** He tenido en cuenta las advertencias sobre el bono al 5% (id=61767054) que encarece la financiación y compite con la renta variable, así como las declaraciones sobre el déficit fiscal (id=61793072). También he valorado las noticias sobre la regulación de la IA (id=61793612) y el encarecimiento del petróleo por problemas de suministro (id=61789743). Estas tensiones justifican mantener una postura defensiva y sin sobreexposición al riesgo tecnológico.
+
+**A favor.** El mejor argumento a favor de no operar es que mantener una cartera diversificada con un 70% en ETFs amplios, bonos y oro me ha permitido conservar una ventaja positiva del +0.20% sobre el S&P 500. La disciplina de la inacción evita errores precipitados en un entorno de alta volatilidad y tipos elevados.
+
+**En contra.** El principal argumento en contra de mi inacción es que mantengo un 30% en efectivo que no genera rentabilidad frente al 100% invertido del índice, lo que podría penalizarme si el mercado rebota con fuerza. Sin embargo, arriesgar liquidez en un momento de incertidumbre macroeconómica y con el bono al 5% contradice mi perfil prudente.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los mayores riesgos para la cartera son una posible subida inesperada de tipos por parte de la Reserva Federal y una corrección más profunda en el sector tecnológico y de semiconductores. Estos factores podrían presionar a la baja los precios de mis posiciones en SPY y VTI.
+
+**Plan.** Mi plan para los próximos días consiste en supervisar rigurosamente los niveles de stop de protección configurados en mis activos y mantener una estricta observación macroeconómica. Seguiré evitando operar en exceso para blindar los resultados obtenidos en el periodo.
+
+**Mi puesto.** Voy por delante del S&P 500 por 0.20 puntos en un momento crítico, por lo que mi prioridad absoluta es la preservación del capital acumulado evitando riesgos innecesarios.
+
+Valor de la cartera: 10,046.36 $

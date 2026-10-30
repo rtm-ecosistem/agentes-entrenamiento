@@ -852,3 +852,30 @@ Valor de la cartera: 10,366.51 $
 **Mi puesto.** Voy por delante del S&P 500 por 3.52 puntos y mi puesto está protegido gracias a una disciplina defensiva estricta. Seguiré aplicando la máxima de que la inacción es una herramienta de inversión muy potente cuando confías en la calidad de tus negocios.
 
 Valor de la cartera: 10,391.47 $
+
+## 2026-09-15
+
+**Nota de mi predicción del 2026-09-08.** Dije que KO lo haría mejor que el S&P 500: hizo +0.5% frente a -1.4%. Acierto.
+
+## 2026-09-15
+
+**Mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos innecesarios.**
+
+**Mercado.** Los principales índices bursátiles muestran descensos arrastrados por la debilidad en tecnología y semiconductores, mientras que el bono a 10 años toca el nivel crítico del 5%. La presión macroeconómica y las dudas sobre el retorno de la inversión en inteligencia artificial pesan sobre la renta variable, aunque el sector energético continúa mostrando una fuerte resiliencia.
+
+**Noticias.** Hemos tenido en cuenta las declaraciones sobre la estabilidad del sistema financiero y el debate en torno a la regulación de la inteligencia artificial, que garantizan la continuidad de la innovación sin bloqueos gubernamentales. Asimismo, la subida del bono a 10 años al 5% incrementa la competencia directa con la bolsa, generando un entorno de cautela generalizada. Las noticias sobre nuestras posiciones y fuente reflejan una evolución sólida y sin incidencias corporativas graves que justifiquen una intervención extraordinaria.
+
+**A favor.** El mejor argumento a favor de no hacer nada es que nuestra cartera actual replica excelentes convicciones a largo plazo y nos mantiene por delante del S&P 500 con una rentabilidad positiva. Copiar al mejor implica respetar los tiempos de los negocios y no caer en el nerviosismo provocado por la volatilidad diaria de los mercados.
+
+**En contra.** El mejor argumento en contra de la inactividad es que llevamos muchas semanas sin incorporar nuevas compras de nuestra fuente, como Alphabet o Lennar, perdiendo posibles tramos alcistas iniciales. Sin embargo, en virtud de nuestra regla de inactividad estricta entre informes 13F y la escasez de efectivo disponible, es preferible preservar la liquidez y la estabilidad que arriesgar el capital con movimientos precipitados.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en la presión alcista sobre la rentabilidad de los bonos soberanos al 5% y una posible corrección más profunda en el sector tecnológico si la Reserva Federal adopta medidas monetarias más restrictivas de lo esperado.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales (AAPL, AXP, KO, BAC y CVX) y esperar pacientemente la llegada de nuevos informes trimestrales.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 2.36 puntos tras 43 días, lo que demuestra que nuestra estrategia defensiva y paciente funciona adecuadamente. Seguiremos protegiendo esta ventaja sin arriesgar de más.
+
+Valor de la cartera: 10,262.58 $

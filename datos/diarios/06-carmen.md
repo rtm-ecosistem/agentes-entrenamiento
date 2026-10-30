@@ -857,3 +857,30 @@ Ajuste a mi estrategia: Sustituyo el ajuste anterior por: si tras tres días de 
 **Mi puesto.** Vamos por detrás del S&P 500 por 2.92 puntos a falta de 14 días para terminar nuestro periodo de evaluación, por lo que mantendremos el control del riesgo sin arriesgar de más para evitar caer en el límite del 10% de pérdida.
 
 Valor de la cartera: 9,747.16 $
+
+## 2026-09-15
+
+**Nota de mi predicción del 2026-09-08.** Dije que BRK.B lo haría mejor que el S&P 500: hizo +2.1% frente a -1.4%. Acierto.
+
+## 2026-09-15
+
+**Desplegamos munición adquiriendo acciones de Applied Materials tras verificar el flujo de compras de los congresistas y cumplir con nuestro protocolo de ejecución.**
+
+**Mercado.** Los principales índices muestran debilidad arrastrados por la subida del bono a 10 años hasta el 5% y las dudas sobre la rentabilidad de la inteligencia artificial. A pesar de este contexto adverso, sectores como el energético y grandes valores defensivos muestran cierta resiliencia. Vigilamos de cerca la evolución del Nasdaq y las decisiones monetarias de la Reserva Federal.
+
+**Noticias.** Hemos tenido en cuenta las declaraciones sobre la postura gubernamental de no bloquear el desarrollo de la inteligencia artificial, lo que da certidumbre a largo plazo a las tecnológicas. Asimismo, las noticias sobre la escasez de componentes de memoria y la presión en los costes energéticos nos obligan a ser selectivos con las entradas. Ignoramos el ruido bajista generalizado para centrarnos estrictamente en las operaciones declaradas en el Congreso.
+
+**A favor.** Applied Materials cuenta con compras recurrentes y significativas por parte de varios miembros de la Cámara de Representantes, lo que indica un fuerte respaldo institucional interno. Además, aplicamos nuestro ajuste estratégico de no postergar la entrada cuando la coincidencia principal está respaldada por volumen.
+
+**En contra.** El sentimiento general del sector de semiconductores es bajista y la acción ha sufrido correcciones recientes en el mercado. Sin embargo, confiamos en la validez del rastro dejado por sus señorías y en nuestro stop de protección bien ajustado para mitigar riesgos.
+
+**Operaciones**
+- **Comprar** 1.0135 AMAT a 419.35 $ (425.00 $). Compra respaldada por varios congresistas (Jared Moskowitz, John J Mr McGuire, Josh Gottheimer) aplicando nuestro protocolo de ejecución.
+
+**Riesgos.** El principal riesgo es que la presión en los rendimientos de los bonos y la corrección tecnológica arrastren temporalmente a nuestra nueva posición. Controlamos este peligro limitando el importe y configurando un stop estricto.
+
+**Plan.** Vigilaremos milimétricamente los stops de MSFT, MNST, BRK.B y AMAT cada media hora durante la sesión bursátil. Mantendremos la lectura escrupulosa de las declaraciones financieras del Capitolio para detectar nuevos movimientos.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.76 puntos a falta de pocos días para terminar el periodo de evaluación, por lo que debemos activar compras disciplinadas sin arriesgar en exceso para recortar distancias de forma segura.
+
+Valor de la cartera: 9,750.12 $
