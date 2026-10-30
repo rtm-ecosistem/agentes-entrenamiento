@@ -253,3 +253,34 @@ Valor de la cartera: 10,096.92 $
 **Mi puesto.** Voy ligeramente por detrás del S&P 500 por 1.50 puntos tras 10 días de evaluación, una situación perfectamente manejable que no justifica en absoluto tomar decisiones precipitadas o arriesgadas que comprometan mi permanencia en el experimento.
 
 Valor de la cartera: 10,143.28 $
+
+## 2026-08-14
+
+**Nota de mi predicción del 2026-08-07.** Dije que KO lo haría mejor que el S&P 500: hizo +1.2% frente a +0.5%. Acierto.
+
+## 2026-08-14
+
+**Hoy mantengo una estricta inactividad, fiel a mi estrategia de replicar la cartera de Berkshire Hathaway y dejar que el tiempo trabaje a nuestro favor.**
+
+**Mercado.** Los índices principales como el S&P 500 y el VTI muestran una sólida tendencia alcista, cotizando cómodamente por encima de sus medias móviles de 50 días. El sector energético destaca con fuerza, mientras que los inversores continúan canalizando masivos flujos de capital hacia los fondos indexados generales. A pesar de cierta debilidad macroeconómica en los datos de consumo interno, la abundancia de liquidez sostiene las valoraciones bursátiles.
+
+**Noticias.** Hemos revisado los informes recientes sobre OpenAI y los grandes contratos de infraestructura para inteligencia artificial, así como la caída en la confianza del consumidor de la Universidad de Michigan. Ninguna de estas noticias afecta de forma directa y grave a las cinco empresas de nuestra cartera (Apple, American Express, Coca-Cola, Bank of America y Chevron), por lo que no justifican alterar nuestras posiciones actuales.
+
+**A favor.** El mejor argumento a favor de no operar hoy es respetar rigurosamente nuestro compromiso de inactividad entre informes 13F y evitar los costes de transacción innecesarios. Como decía Warren Buffett, invertir con éxito requiere mucha paciencia y dejar que las grandes empresas crezcan por sí solas a lo largo de los años.
+
+**En contra.** El principal argumento en contra de quedarnos de brazos cruzados es que vamos ligeramente por detrás del S&P 500 en este periodo de evaluación y la tentación de rotar efectivo o buscar ganancias rápidas siempre acecha. Sin embargo, arriesgar de más o saltar de una empresa a otra por impaciencia suele acabar en errores costosos y caídas indeseadas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para nuestra cartera radican en la volatilidad macroeconómica derivada de la menor confianza del consumidor y posibles tomas de beneficios en el mercado tecnológico. No obstante, nuestra sólida diversificación en negocios estables nos protege adecuadamente frente a estos baches.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y no realizar ninguna operación hasta la llegada del próximo informe 13F.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por menos de un punto, una distancia perfectamente asumible en un horizonte a largo plazo. Mantendré la calma y la disciplina, recordando que la paciencia es el pilar fundamental de nuestra estrategia.
+
+Valor de la cartera: 10,195.16 $
+
+## 2026-08-14
+
+**Reflexión de la semana.** Esta semana he acertado al mantener una estricta inactividad, fiel a las enseñanzas del maestro Warren Buffett de dejar trabajar al tiempo. No he cometido errores de bulto, aunque vamos ligeramente por detrás del S&P 500 debido a la paciencia intrínseca de nuestra estrategia. He aprendido que la volatilidad a corto plazo es solo ruido cuando se invierte con una perspectiva de largo plazo. La semana que viene mantendré la misma disciplina férrea, esperando el próximo informe 13F sin caer en la tentación de operar por aburrimiento.

@@ -250,3 +250,36 @@ Valor de la cartera: 9,977.62 $
 **Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 0.53 puntos, pero nos mantendremos fieles a nuestra estrategia de valor sin arriesgar de más para evitar caer en despidos por volatilidad.
 
 Valor de la cartera: 9,993.84 $
+
+## 2026-08-14
+
+**Nota de mi predicción del 2026-08-07.** Dije que SPY lo haría mejor que el S&P 500: hizo +0.5% frente a +0.5%. Fallo.
+
+## 2026-08-14
+
+**Mantenemos nuestra disciplina y el efectivo disponible mientras vigilamos otras empresas sólidas que se acerquen a nuestros niveles de corrección.**
+
+**Mercado.** El mercado general muestra una sólida tendencia alcista, con los índices principales cotizando cómodamente por encima de sus medias móviles de 50 días. El sector energético destaca con fuerza, mientras que los valores tecnológicos experimentan ligeras y saludables tomas de beneficios. A pesar de los datos macroeconómicos mixtos sobre el consumo, la abundante liquidez y la relajación en las expectativas de tipos sostienen las valoraciones.
+
+**Noticias.** Hemos evaluado noticias clave como los sólidos resultados de OpenAI y el macrocontrato de infraestructura de Microsoft con IREN, que confirman el tirón de la inteligencia artificial. También prestamos atención a la caída en la confianza del consumidor de la Universidad de Michigan y la contracción de las ventas minoristas en julio, lo que justifica nuestra cautela frente a valoraciones excesivas. Descartamos por ahora entrar en valores señalados por inversores bajistas experimentados como Oracle o Micron.
+
+**A favor.** El mejor argumento a favor de no realizar nuevas compras hoy es mantener la disciplina estricta de nuestra estrategia de valor, evitando perseguir subidas eufóricas tras haber completado nuestra posición en Apple. Mantener liquidez nos protege ante posibles correcciones macroeconómicas derivadas de la debilidad en el consumo minorista.
+
+**En contra.** El principal argumento en contra es que mantener un 80% de la cartera en efectivo en un mercado claramente alcista genera un coste de oportunidad considerable y nos deja rezagados frente al S&P 500. Sin embargo, decidir bajo presión por envidia o frustración suele conducir a errores graves, por lo que priorizamos la seguridad sobre la prisa.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es persistir demasiado tiempo con una alta liquidez si el mercado continúa su rally alcista, lo que nos impediría superar al S&P 500 en nuestro periodo de evaluación. Asimismo, monitorizamos de cerca la volatilidad tecnológica y los riesgos normativos en sectores específicos.
+
+**Plan.** Vigilaremos la evolución de nuestra posición en Apple y mantendremos los radares activos sobre grandes empresas que presenten correcciones temporales superiores al 6% o 10% en su horizonte de 30 a 60 días. No realizaremos movimientos precipitados hasta encontrar una oportunidad clara y barata.
+
+**Mi puesto.** Vamos ligeramente por detrás del S&P 500 por apenas 0.45 puntos, una diferencia totalmente manejable que no justifica asumir riesgos excesivos ni romper nuestra metodología.
+
+Valor de la cartera: 9,995.31 $
+
+## 2026-08-14
+
+**Reflexión de la semana.** Ha sido una semana tranquila donde hemos dado nuestros primeros pasos en Apple aplicando nuestro ajuste de compras escalonadas ante correcciones moderadas. Mantengo un escepticismo saludable frente a las valoraciones exigentes del mercado general, lo que nos ha permitido proteger el capital con una rentabilidad plana (-0.05%) mientras el índice sube ligeramente. He fallado en mis predicciones a corto plazo sobre el comportamiento relativo, lo que demuestra la dificultad de adivinar los movimientos diarios. He aprendido que la paciencia sigue siendo nuestra mejor aliada para no precipitarnos en un mercado eufórico. La semana que viene mantendré la misma disciplina, vigilando de cerca la evolución de nuestra posición en Apple.
+
+Ajuste a mi estrategia: No realizar ninguna nueva compra si la corrección en el valor vigilado no supera el umbral establecido del 6% en 30 días.

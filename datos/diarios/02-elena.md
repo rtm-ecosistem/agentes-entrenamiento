@@ -257,3 +257,36 @@ Valor de la cartera: 10,216.40 $
 **Mi puesto.** Me encuentro ligeramente por detrás del S&P 500 por 0.62 puntos, una diferencia perfectamente asumible en mi estilo prudente. Mi plan es recortar esta distancia de forma orgánica mediante el control estricto del riesgo y sin caer en la tentación de arriesgar de más.
 
 Valor de la cartera: 10,231.29 $
+
+## 2026-08-14
+
+**Nota de mi predicción del 2026-08-07.** Dije que GLD lo haría mejor que el S&P 500: hizo +1.0% frente a +0.5%. Acierto.
+
+## 2026-08-14
+
+**Decido mantener mi postura prudente y sin cambios en la cartera, priorizando la estabilidad frente a la volatilidad del consumo y protegiendo mi capital sin realizar compras precipitadas.**
+
+**Mercado.** Los índices principales como el SPY (776.87) y el VTI (384.13) muestran una sólida tendencia alcista, cotizando un 4% por encima de su media móvil de 50 días. El sector energético destaca con fuerza gracias al XLE, mientras que el sector tecnológico asume ligeras tomas de beneficios en un contexto de entradas masivas de capital hacia fondos indexados generales de EE. UU.
+
+**Noticias.** He tenido muy en cuenta la caída de la confianza del consumidor de la Universidad de Michigan hasta 51.0 y la contracción del 0.6% en las ventas minoristas de julio, lo que genera dudas justificadas sobre la fortaleza del gasto interno. Estas señales negativas de economía general contrastan con el desplome de las expectativas de subidas de tipos de la Reserva Federal y el fuerte flujo de capital hacia el SPY. Por ello, mantengo mi enfoque defensivo y prudente sin sobreexponerme a riesgos innecesarios.
+
+**A favor.** El mejor argumento a favor de no operar hoy es la sólida liquidez que aportan los fondos indexados generales y el alivio monetario derivado de la caída en las expectativas de tipos de interés, lo cual sostiene la tendencia alcista de fondo. Mantener la estructura actual respeta mi estrategia de no perseguir el rally tras seis sesiones sin operar.
+
+**En contra.** El principal argumento en contra es que llevar demasiadas sesiones consecutivas sin operar puede hacerme perder oportunidades de rebalanceo y dejarme ligeramente rezagada frente al S&P 500, tal como reflejan mis descartes previos. Sin embargo, arriesgar de más en un momento de debilidad en el consumo minorista podría comprometer la regla estipulada de no perder dinero.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para mi cartera son la debilidad en el consumo interno reflejada en los datos de la Universidad de Michigan y las ventas minoristas, así como una posible sobrecapacidad en el sector tecnológico ligada a la inteligencia artificial. Estos factores podrían desencadenar correcciones puntuales en los mercados de renta variable.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección en SPY, VTI, GLD e IEF, y evaluar posibles ventanas de compra para rebalancear mis bonos si se producen correcciones saludables. Continuaré aplicando mi disciplina sin ceder a la impaciencia.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 0.54 puntos, una distancia muy prudente y fácil de recortar de forma orgánica. Mantendré mi estrategia sin cometer errores forzados ni buscar rentabilidades artificiales que pongan en riesgo mi permanencia.
+
+Valor de la cartera: 10,233.09 $
+
+## 2026-08-14
+
+**Reflexión de la semana.** Esta semana he mantenido mi enfoque extremadamente cauto, sin realizar ninguna operación y protegiendo un rendimiento positivo del +2.33%. Acerté al no dejarme llevar por la volatilidad y mantener la calma ante el dato de inflación. Fallé ligeramente al quedarme un poco rezagada frente al S&P 500 (+2.87%), perdiendo algo de terreno por mi inactividad. He aprendido que la disciplina de no operar da tranquilidad, pero una pasividad absoluta puede costar décimas valiosas frente al índice. La semana que viene vigilaré mejor los pequeños desvíos para rebalancear sin perder mi esencia defensiva.
+
+Ajuste a mi estrategia: Si un activo defensivo supera las expectativas macroeconómicas de la semana, rebalancearé un 5% hacia renta variable para evitar quedarme rezagada del índice.

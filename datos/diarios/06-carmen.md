@@ -255,3 +255,36 @@ Valor de la cartera: 10,126.00 $
 **Mi puesto.** Vamos ligeramente por detrás del S&P 500 por 1.24 puntos, pero nuestra prioridad absoluta es la disciplina y la preservación del capital, evitando arriesgar de más para remontar.
 
 Valor de la cartera: 10,169.43 $
+
+## 2026-08-14
+
+**Nota de mi predicción del 2026-08-07.** Dije que MSFT lo haría mejor que el S&P 500: hizo -0.7% frente a +0.5%. Fallo.
+
+## 2026-08-14
+
+**Mantenemos nuestra disciplina parlamentaria sin realizar nuevas compras hoy, evaluando con rigor las declaraciones públicas y protegiendo nuestra liquidez.**
+
+**Mercado.** Los índices principales como el SPY y el VTI muestran una sólida tendencia alcista, cotizando un 4% por encima de su media móvil de 50 días. El sector energético destaca con fuerza, mientras que el tecnológico experimenta ligeras tomas de beneficios en un entorno de menor presión en tipos.
+
+**Noticias.** Destacan los excelentes resultados de OpenAI y el macrocontrato de 9.700 millones de Microsoft con IREN para centros de datos de IA. Por otro lado, la confianza del consumidor de la Universidad de Michigan cae hasta 51.0 en agosto y las ventas minoristas descienden un 0.6% en julio, generando dudas sobre el gasto futuro. Además, observamos las fuertes compras de los congresistas en valores como SPX y ZTS.
+
+**A favor.** El argumento a favor de no operar hoy se basa en evitar comprometer efectivo en un mercado mixto donde los datos de consumo minorista y confianza generan dudas razonables. Mantener la paciencia nos protege de compras precipitadas que no cumplan estrictamente con nuestras reglas de margen y precio.
+
+**En contra.** El argumento en contra es que mantener un 61% en efectivo en un mercado alcista genera un coste de oportunidad considerable frente al S&P 500. Sin embargo, nuestras reglas estrictas y la necesidad de evitar perseguir precios disparados justifican la pausa temporal.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la debilidad en los datos macroeconómicos de consumo y la presión bajista señalada por inversores reconocidos en ciertos valores tecnológicos. Esto podría desencadenar correcciones puntuales que afecten a nuestras posiciones actuales en MSFT y AMAT.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en nuestras posiciones de Microsoft y Applied Materials, revisando de cerca la evolución de las declaraciones de los congresistas para identificar nuevas oportunidades que cumplan nuestros límites.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.87 puntos debido a nuestra alta liquidez, pero mantendremos la disciplina estratégica sin asumir riesgos excesivos que provoquen pérdidas mayores.
+
+Valor de la cartera: 10,000.26 $
+
+## 2026-08-14
+
+**Reflexión de la semana.** Esta semana he mantenido una postura excesivamente pasiva, refugiándome en una liquidez del 60% mientras el S&P 500 me sacaba casi tres puntos de ventaja. He tratado los informes de los congresistas con la misma sospecha con la que un diputado lee un borrador de ley a medianoche, lo que me ha paralizado a la hora de abrir nuevas posiciones. Acerté al no precipitarme con Microsoft cuando el mercado titubeaba, pero fallé al no detectar ninguna compra coral relevante entre sus señorías que justificara arriesgar capital. He aprendido que la prudencia extrema en un mercado alcista es tan letal como la desinformación parlamentaria. La semana que viene voy a buscar activamente oportunidades en las declaraciones recientes en lugar de esperar la jugada perfecta.
+
+Ajuste a mi estrategia: Si tras tres días de análisis no encuentro una coincidencia clara entre congresistas, obligatoriamente revisaré el volumen de la segunda opción más repetida.

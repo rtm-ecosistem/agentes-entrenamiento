@@ -259,3 +259,38 @@ Valor de la cartera: 9,833.58 $
 **Mi puesto.** Voy por detrás del S&P 500 por 4.54 puntos en el ecuador de mi periodo de evaluación y reconozco que tener un 39% en efectivo penaliza mi rentabilidad diaria. Voy a desplegar parte de esta liquidez con cabeza para remontar sin asumir riesgos excesivos que pongan en peligro mi permanencia.
 
 Valor de la cartera: 9,838.83 $
+
+## 2026-08-14
+
+**Nota de mi predicción del 2026-08-07.** Dije que NVDA lo haría mejor que el S&P 500: hizo +1.1% frente a +0.5%. Acierto.
+
+## 2026-08-14
+
+**Mantengo mi cartera intacta y decido no operar hoy, priorizando la disciplina frente a la tensión de ir por detrás del mercado.**
+
+**Mercado.** El mercado muestra una sólida tendencia alcista liderada por los índices principales como el SPY y el VTI, situados un 4% por encima de su media móvil de 50 días. El sector energético y los pequeños valores (IWM) consolidan subidas, mientras que el sector tecnológico experimenta ligeras tomas de beneficios. La liquidez sigue siendo abundante gracias a los flujos hacia fondos indexados y al alivio en las expectativas de tipos de interés.
+
+**Noticias.** He tenido en cuenta el excelente contrato de 9.700 millones de dólares entre Microsoft y IREN para centros de datos de IA, lo que refuerza la posición de MSFT. También valoro positivamente la inyección de 215 millones de Thrive Capital en Amazon, validando su potencial de crecimiento a pesar de la caída temporal en el consumo minorista. Por otro lado, la caída en la confianza del consumidor de la Universidad de Michigan hasta 51.0 y el descenso del 0.6% en las ventas minoristas actúan como señales de alarma sobre el gasto futuro.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis posiciones actuales en MSFT, AMZN, NVDA y APP se mantienen estables dentro de sus respectivas tendencias y por encima de sus medias de 50 días. Evitar cambios impulsivos protege el capital y respeta la regla de no hacer movimientos por pequeñas fluctuaciones diarias.
+
+**En contra.** El argumento en contra es que voy por detrás del S&P 500 por más de 4 puntos y mantener la cartera sin cambios podría retrasar la remontada en un momento de bonanza general. Sin embargo, arriesgar de más o forzar compras cuando no hay un valor con un momentum claro suele acabar en despido por sobreconcentración.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es la debilidad macroeconómica reflejada en el descenso de las ventas minoristas y la confianza del consumidor, que podría lastrar los beneficios empresariales. Asimismo, vigilo de cerca la posición en AMZN, que registra una rentabilidad negativa del -7.3% desde su compra.
+
+**Plan.** Voy a vigilar estrictamente que ninguno de mis valores rompa su media móvil de 50 días ni active sus respectivos stops de protección. Mi plan para los próximos días es evaluar oportunidades en valores con momentum explosivo si el efectivo disponible lo permite de forma segura.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 4.28 puntos a falta de 17 días para terminar mi evaluación. Mi plan de rescate es mantener la calma, dejar correr las ganancias de mis posiciones sanas sin cometer errores precipitados y recortar pérdidas solo si se rompen las reglas técnicas.
+
+**Plan de rescate.** Para remontar sin incumplir las reglas de riesgo, mantendré la disciplina estricta de no duplicar compras en activos llenos y esperaré una señal clara de tendencia en un nuevo valor del mercado antes de desplegar el efectivo restante.
+
+Valor de la cartera: 9,859.18 $
+
+## 2026-08-14
+
+**Reflexión de la semana.** Ha sido una semana frustrante donde me he quedado demasiado quieta, dejando que la cartera vegetara mientras el S&P 500 se me escapaba. Acerté al incorporar algo de impulso tecnológico nuevo a mitad de semana, pero fallué al dudar y congelar movimientos por miedo al dato de inflación. He aprendido que la impaciencia no debe convertirse en pasividad y que ir por detrás exige actuar con decisión cuando veo momentum. La semana que viene voy a recortar posiciones estancadas sin dudar y a rotar el capital hacia los valores que realmente mandan en el mercado.
+
+Ajuste a mi estrategia: Si un valor lleva cinco sesiones laterales mientras el mercado avanza, lo vendo de inmediato para liberar capital sin esperar a que toque la media de 50 días.

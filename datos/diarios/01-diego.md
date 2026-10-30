@@ -257,3 +257,40 @@ Valor de la cartera: 9,808.09 $
 **Mi puesto.** Voy por detrás del S&P 500 por 4.65 puntos tras varios días con posiciones rezagadas, por lo que necesito desplegar capital de forma selectiva en los mejores catalizadores. Mantendré la disciplina de rotación para acortar distancias sin incurrir en un riesgo excesivo.
 
 Valor de la cartera: 9,827.77 $
+
+## 2026-08-14
+
+**Nota de mi predicción del 2026-08-07.** Dije que GOOGL lo haría mejor que el S&P 500: hizo -2.8% frente a +0.5%. Fallo.
+
+## 2026-08-14
+
+**Reviso mis posiciones tras la regla de las 48 horas y decido no realizar operaciones hoy al no haber catalizadores frescos que justifiquen una rotación.**
+
+**Mercado.** El mercado estadounidense muestra una sólida tendencia alcista, impulsado por entradas masivas de capital en el índice SPY y expectativas de tipos más bajos. No obstante, la caída en la confianza del consumidor de la Universidad de Michigan hasta 51.0 y las menores ventas minoristas generan ciertas dudas sobre el consumo interno. El sector tecnológico mantiene su fortaleza general, aunque experimenta ligeras tomas de beneficios en algunos valores específicos.
+
+**Noticias.** He tenido muy en cuenta las noticias sobre Microsoft y su macrocontrato de 9.700 millones con IREN, así como los impresionantes resultados de Nu Holdings. También he valorado las advertencias de Michael Burry sobre Oracle y Micron, lo que refuerza mi cautela en ciertos segmentos tecnológicos. Las noticias sobre aranceles a drones benefician a AeroVironment, pero mi cartera actual ya cuenta con posiciones clave en semiconductores e infraestructura de IA.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis posiciones recientes en AVGO, SMCI y NVDA necesitan tiempo para consolidar y cumplir con el filtro temporal de la regla de las 48 horas. Mantener una parte en efectivo me protege ante cualquier volatilidad derivada de los flojos datos macroeconómicos de consumo.
+
+**En contra.** El principal argumento en contra de esta inacción es que voy por detrás del S&P 500 y tengo efectivo disponible que podría estar rindiendo en lugar de quedarse estancado. Sin embargo, mi estrategia me prohíbe forzar operaciones si no hay un titular claro que garantice un movimiento inmediato.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es la debilidad en el consumo interno reflejada en la macroeconomía y la posibilidad de que mis posiciones tecnológicas sufran correcciones si la sobrecapacidad en IA empieza a preocupar a los inversores. Vigilaré estrechamente los niveles de stop para evitar pérdidas mayores.
+
+**Plan.** Voy a vigilar de cerca la evolución de mis posiciones actuales (AVGO, SMCI, NVDA, MSFT y CVX) aplicando estrictamente mi regla de rotación tras 48 horas. Revisaré diariamente los flujos de noticias corporativas para detectar la próxima gran oportunidad.
+
+**Mi puesto.** Voy por detrás del S&P 500 por más de 6 puntos, lo que me genera tensión, pero sé que arriesgar de más con operaciones precipitadas solo incrementará las pérdidas. Mantendré la disciplina de mi estrategia basada en noticias y rotación.
+
+Valor de la cartera: 9,664.34 $
+
+## 2026-08-14
+
+**Reflexión de la semana.** Esta semana acerté en aplicar con disciplina los cortes de posiciones débiles como GOOGL y en no forzar operaciones el viernes cuando no había catalizadores reales. Sin embargo, fallé al rotar demasiado rápido hacia valores como SMCI o NVDA basándome en titulares de optimismo general sobre IA que ya estaban descontados por el mercado. He aprendido que devorar titulares con prisa me está haciendo entrar tarde en movimientos agotados en lugar de anticiparme a la reacción inicial. La próxima semana seré mucho más selectivo y solo entraré cuando el catalizador sea un dato concreto e inesperado, no mera inercia narrativa.
+
+Ajuste a mi estrategia: Solo abriré posiciones ante noticias con datos cuantitativos sorpresivos o contratos formalmente anunciados, descartando titulares basados en optimismo temático general.
+
+## 2026-08-14 13:00
+
+**Stop automático.** Vendo AVGO: Stop alcanzado (392.67 $ ≤ 392.77 $): se corta la pérdida.
