@@ -135,7 +135,23 @@ def _cuota_agotada(post):
     return envoltura
 
 
-def preparar() -> None:
+class Mixta:
+    """El modelo bueno mientras le quede cuota del día; después, el ligero. Solo para lo que más enseña."""
+
+    def __init__(self, buena, ligera):
+        self.buena, self.ligera, self.agotada = buena, ligera, False
+
+    def pedir_json(self, *args, **kwargs) -> dict:
+        if not self.agotada:
+            try:
+                return self.buena.pedir_json(*args, **kwargs)
+            except SinCuota:
+                print("El modelo bueno ya no tiene cuota hoy: se sigue con el ligero")
+                self.agotada = True
+        return self.ligera.pedir_json(*args, **kwargs)
+
+
+def preparar(mixta=None) -> None:
     """Ajustes del entrenamiento sobre los programas de la oficina (sin tocar sus archivos)."""
     from agentes import ciclo, fuentes
 
@@ -143,6 +159,11 @@ def preparar() -> None:
     config.MAX_NOTICIAS_CONSULTA = 100  # menos lotes que clasificar: cuota de la IA
     ia_modulo._post_con_reintentos = _cuota_agotada(ia_modulo._post_con_reintentos)
     ciclo.evaluar = lambda *a, **k: None  # nadie es despedido: es un entrenamiento
+    if mixta:  # la reflexión semanal y el resumen mensual (lo que pasará a la oficina) con el modelo bueno
+        from agentes import aprendizaje
+        reflexionar, resumir = ciclo.reflexionar, aprendizaje.resumir_memoria
+        ciclo.reflexionar = lambda agente, fecha, precios, ia, *a, **k: reflexionar(agente, fecha, precios, mixta, *a, **k)
+        aprendizaje.resumir_memoria = lambda agente, fecha, ia, *a, **k: resumir(agente, fecha, mixta, *a, **k)
     plantilla = ciclo.plantilla_inicial
     ciclo.plantilla_inicial = lambda: [p for p in plantilla() if p.get("equipo", "diario") == "diario"]
 
@@ -213,9 +234,11 @@ def main() -> None:
     maximo = int(next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--dias=")), "0")) or None
     limite = time.monotonic() + float(next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--minutos=")),
                                            "320")) * 60
-    preparar()
+    # Las decisiones, con el ligero (el bueno solo deja 20 peticiones al día); lo que más enseña, con el bueno
+    from agentes.ia import Gemini
+    ia = ia_ligera = crear_ia(ligera=True)
+    preparar(Mixta(Gemini(config.MODELO_GEMINI, respaldo=None), ia_ligera))
     mercado, avisos = MercadoHistorico(), AvisosMudos()
-    ia, ia_ligera = crear_ia(), crear_ia(ligera=True)
     progreso = json.loads(PROGRESO.read_text()) if PROGRESO.exists() else {"hechos": []}
     pendientes = [d for d in dias_de_bolsa(mercado, INICIO, FIN) if d not in progreso["hechos"]]
     print(f"Días por simular: {len(pendientes)}")
