@@ -455,3 +455,30 @@ Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Mantendré la exigenci
 **Mi puesto.** Vamos por delante del S&P 500 por 1,83 puntos a falta de 14 días para concluir nuestro periodo de evaluación, por lo que mantendremos nuestra estrategia defensiva y de valor sin asumir riesgos innecesarios para conservar el puesto.
 
 Valor de la cartera: 10,044.56 $
+
+## 2026-08-25
+
+**Nota de mi predicción del 2026-08-18.** Dije que AAPL lo haría mejor que el S&P 500: hizo -0.6% frente a -0.5%. Fallo.
+
+## 2026-08-25
+
+**Mantenemos nuestra disciplina de valor y el efectivo disponible al no encontrar empresas sólidas que cumplan con la exigencia estricta de una corrección mínima del 8% en 30 días.**
+
+**Mercado.** Los principales índices muestran un tono mixto, con una ligera subida en el S&P 500 (+0.4%) y una rotación de capital que abandona el sector tecnológico puro hacia fondos diversificados, criptoactivos y biotecnología. Las advertencias de la Reserva Federal sobre la persistencia de la inflación y tipos altos generan cautela, mientras que el mercado inmobiliario registra caídas en la venta de casas nuevas superiores al 10%.
+
+**Noticias.** Hemos analizado las declaraciones de Collins de la Fed advirtiendo sobre tipos de interés altos, lo que justifica nuestra postura defensiva frente a valoraciones exigentes en el sector tecnológico. Asimismo, la caída del petróleo por sanciones a Irán y las tensiones geopolíticas refuerzan la necesidad de ser selectivos. Las noticias sobre la competencia emergente de OpenAI frente a Nvidia y los avisos de burbuja en IA confirman nuestro escepticismo ante subidas desmesuradas.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mantener una alta liquidez en un entorno de tipos altos y correcciones en la venta de casas nuevas protege nuestro capital de caídas mayores. Además, nuestra posición en Apple se mantiene firme y nos sitúa por delante del S&P 500 sin asumir riesgos innecesarios.
+
+**En contra.** El principal argumento en contra es que llevar varias sesiones sin operar nos expone al aburrimiento y a quedarnos rezagados si el mercado reanuda una tendencia alcista prolongada. Sin embargo, nuestras reglas fijas y el análisis de nuestros descartes demuestran que la paciencia protege mejor que la actividad impulsiva.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Vemos riesgos en las advertencias de la Reserva Federal sobre la inflación persistente, lo que podría desencadenar correcciones generalizadas en la renta variable. También preocupa la valoración extrema en algunos segmentos tecnológicos y la debilidad del sector inmobiliario.
+
+**Plan.** Vigilaremos de cerca la evolución de nuestra posición actual en Apple y mantendremos los radares activos sobre grandes empresas de la tabla para detectar retrocesos temporales válidos que superen el umbral estricto del 8% en 30 días. Seguiremos esperando pacientemente oportunidades de valor real.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 1.39 puntos tras 15 días de evaluación, lo que valida nuestra estrategia defensiva de valor y paciencia. Mantendremos el rumbo sin arriesgar de más para evitar caer en despidos por decisiones precipitadas.
+
+Valor de la cartera: 10,018.98 $

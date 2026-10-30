@@ -469,3 +469,32 @@ Ajuste a mi estrategia: Sustituyo el ajuste anterior por: Si una nueva posición
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, reduzco exposición en los valores más débiles como NVDA para limitar el daño acumulado. Mantendré el efectivo resultante y las posiciones más estables como AMZN y CVX, evitando totalmente apuestas especulativas o compras impulsivas. No voy a arriesgar todo el capital en un solo movimiento desesperado, ya que una caída superior al 10% significaría el despido inmediato.
 
 Valor de la cartera: 9,476.28 $
+
+## 2026-08-25
+
+**Nota de mi predicción del 2026-08-18.** Dije que AMZN lo haría mejor que el S&P 500: hizo -0.3% frente a -0.5%. Acierto.
+
+## 2026-08-25
+
+**Mantengo la calma y ejecuto un plan de rescate conservador, reduciendo exposición en activos débiles y sin forzar compras bajo presión para evitar un despido por caída.**
+
+**Mercado.** El mercado muestra un tono mixto con una ligera subida en el S&P 500 (+0.4%), mientras el sector tecnológico sufre presiones bajistas y rotación hacia biotecnología y criptoactivos. Las advertencias de la Reserva Federal sobre tipos de interés altos y el enfriamiento inmobiliario añaden cautela a los inversores. Destacan positivamente empresas como Intel y MicroStrategy gracias a sólidos flujos e infraestructura de inteligencia artificial.
+
+**Noticias.** He tenido en cuenta las advertencias de la Reserva Federal sobre la persistencia de la inflación y la subida de tipos, que justifican un entorno defensivo. También he valorado la caída del petróleo por las sanciones a Irán, beneficiando al sector de aerolíneas, y las tensiones geopolíticas globales. Por otro lado, descarto entrar en valores con optimismo temático genérico y me centro en proteger el capital ante los avisos macroeconómicos.
+
+**A favor.** El mejor argumento a favor de mi decisión es que reducir la exposición en valores con menor rendimiento y mantener la liquidez actual protege mi cartera frente a una caída superior al 10%, cumpliendo con la regla de supervivencia sin arriesgar de más.
+
+**En contra.** El argumento en contra es que mantener un 42% de efectivo y no abrir nuevas posiciones frente al repunte de algunos sectores puede dejarme por detrás del S&P 500 en estos últimos 6 días. Sin embargo, decido mantener la prudencia porque jugármelo todo en un movimiento desesperado suele acabar en despido por caída.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son una corrección generalizada del S&P 500 impulsada por los mensajes restrictivos de la Reserva Federal y la volatilidad en las grandes tecnológicas que aún mantengo en cartera.
+
+**Plan.** Vigilare estrechamente los niveles de stop de mis posiciones actuales (CVX, MSFT, JPM y AMZN) y evaluaré su comportamiento diario frente al S&P 500, aplicando estrictamente la regla de corte si fuera necesario.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 6.63 puntos a falta de 6 días para terminar mi periodo de evaluación, por lo que mi puesto corre un grave peligro de recibir un aviso o despido.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo un estricto plan de rescate: mantendré mis posiciones más estables como AMZN y CVX, y el efectivo resultante para evitar sorpresas. No voy a realizar compras impulsivas ni especulativas y cortaré de inmediato cualquier posición que no supere al mercado en 24-48 horas. No me jugaré todo el capital en un solo movimiento desesperado, priorizando la preservación del capital para no superar el límite de caída del 10% que provoca el despido inmediato.
+
+Valor de la cartera: 9,459.72 $

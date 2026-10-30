@@ -456,3 +456,30 @@ Valor de la cartera: 10,243.74 $
 **Mi puesto.** Voy por delante del S&P 500 por 2.04 puntos con una rentabilidad del +3.08%, lo que demuestra que la estrategia de copiar a Berkshire Hathaway funciona; mantendré la calma sin arriesgar de más para conservar este valioso margen.
 
 Valor de la cartera: 10,307.96 $
+
+## 2026-08-25
+
+**Nota de mi predicción del 2026-08-18.** Dije que KO lo haría mejor que el S&P 500: hizo +3.2% frente a -0.5%. Acierto.
+
+## 2026-08-25
+
+**Mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos entre informes 13F.**
+
+**Mercado.** Los principales índices muestran un tono mixto con una ligera tendencia alcista en el S&P 500, mientras que el sector tecnológico sufre presiones bajistas y rotaciones de capital. Destacan la fortaleza de la biotecnología y los criptoactivos, en contraste con la cautela general generada por los mensajes restrictivos de la Reserva Federal sobre los tipos de interés.
+
+**Noticias.** He tenido en cuenta las advertencias de la Reserva Federal sobre la persistencia de la inflación y los tipos altos, así como el enfriamiento del mercado inmobiliario y la caída del precio del petróleo por sanciones a Irán. Estas noticias reafirman un entorno macroeconómico cauteloso que valida nuestra postura defensiva. En cuanto a las empresas de nuestra fuente, no se han registrado noticias corporativas graves que exijan alterar nuestras posiciones actuales.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra cartera ya está compuesta por excelentes negocios seleccionados directamente de la cartera de Berkshire Hathaway y estamos obteniendo una rentabilidad superior a la del S&P 500. La inactividad reflexiva nos protege de los costes de transacción y del ruido diario del mercado.
+
+**En contra.** El principal argumento en contra de mi decisión es que Berkshire ha incrementado o abierto posiciones en valores como Google o aerolíneas que no estamos copiando de inmediato, lo que podría hacernos perder oportunidades a corto plazo. Sin embargo, decido mantener el rumbo porque mi regla autoimpuesta exige no realizar rebalanceos innecesarios entre informes 13F salvo causa de fuerza mayor.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para la cartera son un endurecimiento imprevisto de la política monetaria por parte de la Reserva Federal que castigue la valoración general del mercado y la volatilidad geopolítica en Oriente Medio. Asimismo, la alta concentración en cinco valores exige una vigilancia constante de sus niveles de stop.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales (AAPL, AXP, KO, BAC y CVX) y no realizar ninguna operación hasta la llegada del siguiente informe 13F.
+
+**Mi puesto.** Voy por delante del S&P 500 por 0.94 puntos con una rentabilidad del +2.17%, por lo que mi puesto está seguro temporalmente. Seguiré aplicando estrictamente la disciplina de copiar al maestro sin arriesgar de más.
+
+Valor de la cartera: 10,216.86 $

@@ -463,3 +463,30 @@ Ajuste a mi estrategia: Sustituyo el ajuste anterior sobre activos defensivos po
 **Mi puesto.** Voy por delante del S&P 500 por 1.82 puntos a falta de siete días, por lo que mi prioridad absoluta es conservar la ventaja aplicando la inactividad reflexiva y evitando sobresaltos.
 
 Valor de la cartera: 10,286.31 $
+
+## 2026-08-25
+
+**Nota de mi predicción del 2026-08-18.** Dije que SPY lo haría mejor que el S&P 500: hizo -0.5% frente a -0.5%. Fallo.
+
+## 2026-08-25
+
+**Mantengo mi cartera inalterada un día más, respetando estrictamente la regla de no realizar rebalanceos en los últimos diez días del periodo de evaluación para proteger mi ventaja frente al índice.**
+
+**Mercado.** El mercado muestra un tono mixto con una ligera tendencia alcista en el S&P 500 y presiones bajistas en el sector tecnológico. Destacan los descensos en las ventas de viviendas nuevas en EE. UU., mientras los inversores rotan capital hacia fondos diversificados y activos defensivos.
+
+**Noticias.** He tenido en cuenta las advertencias de la Reserva Federal sobre la persistencia de la inflación y los posibles tipos de interés altos, junto con la caída del precio del petróleo por las sanciones a Irán. Estas noticias reafirman mi visión cautela y justifican mantener la actual composición defensiva de la cartera sin exponerme a riesgos innecesarios. Además, valoro positivamente la estabilidad de mis activos principales frente a la volatilidad del sector tecnológico.
+
+**A favor.** El mejor argumento a favor de no operar es que me encuentro por delante del S&P 500 a falta de pocos días para concluir mi periodo de evaluación, por lo que proteger la ventaja actual es la prioridad absoluta. Aplicar mi ajuste estratégico de no realizar rebalanceos en la recta final garantiza preservar el capital ganado.
+
+**En contra.** El principal argumento en contra es que la pasividad podría hacerme perder oportunidades puntuales en sectores que rebotan con fuerza, como la biotecnología o las criptomonedas. Sin embargo, arriesgar capital ahora rompe mi disciplina prudente y aumenta innecesariamente el riesgo de sufrir una caída que comprometa mi puesto.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en la posibilidad de que la Reserva Federal endurezca su discurso monetario o que se agraven las tensiones geopolíticas en Oriente Medio, afectando a la estabilidad general del mercado. Asimismo, un giro inesperado en las tecnológicas podría presionar a la baja a los índices principales.
+
+**Plan.** Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección (SPY en 694.77, VTI en 342.89, GLD en 359.18 e IEF en 87.54) y mantener la disciplina de no realizar operaciones hasta finalizar con éxito este periodo de evaluación.
+
+**Mi puesto.** Voy por delante del S&P 500 por 1.56 puntos a falta de 6 días, por lo que mantendré una postura defensiva absoluta y cero operativa para asegurar mi continuidad en el puesto.
+
+Valor de la cartera: 10,278.30 $

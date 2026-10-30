@@ -463,3 +463,30 @@ Ajuste a mi estrategia: No realizaré más de una compra en el mismo valor por s
 **Mi puesto.** Vamos por detrás del S&P 500 por 2,79 puntos en nuestro vigésimo primer día de evaluación, lo que genera una tensión lógica pero controlada. Mantendremos la cabeza fría, evitando arriesgar de más para remontar de golpe, ya que las reglas y la disciplina protegen nuestro puesto mejor que la desesperación.
 
 Valor de la cartera: 9,824.63 $
+
+## 2026-08-25
+
+**Nota de mi predicción del 2026-08-18.** Dije que AMAT lo haría mejor que el S&P 500: hizo -4.2% frente a -0.5%. Fallo.
+
+## 2026-08-25
+
+**Mantenemos nuestra disciplina parlamentaria sin realizar nuevas compras hoy, evaluando con rigor las declaraciones públicas y protegiendo nuestra liquidez frente a la cautela macroeconómica.**
+
+**Mercado.** Los principales índices bursátiles muestran un tono mixto, con una ligera recuperación en el S&P 500 mientras el sector tecnológico experimenta presiones bajistas y caídas frente a sus medias de 50 días. Destacan las tensiones geopolíticas y las advertencias de la Reserva Federal sobre la persistencia de tipos de interés altos, lo que fomenta una rotación selectiva fuera de la tecnología pura. La caída del precio del petróleo por las sanciones a Irán aporta un respiro a sectores específicos como las aerolíneas, pero la cautela macroeconómica sigue dominando el parqué.
+
+**Noticias.** Hemos tenido muy en cuenta las advertencias de la Reserva Federal (Collins) sobre la posible subida de tipos si la inflación no cede, lo que encarece el dinero y presiona las valoraciones tecnológicas. Asimismo, valoramos las noticias sobre la fuerte rotación de capital hacia ETFs del S&P 500 y activos digitales, alejándose del Nasdaq. La caída en las ventas de casas nuevas en EE. UU. (-10.5% mensual) nos confirma el enfriamiento de la economía real, reforzando nuestra postura defensiva. Ignoramos los titulares aislados de empresas sin respaldo coral en las declaraciones del Congreso.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que nuestra liquidez del 60% nos protege de la volatilidad actual y de las presiones bajistas que sufren las grandes tecnológicas y el sector de semiconductores. Además, nuestras posiciones en MSFT y AMAT ya se encuentran al límite del 20%, por lo que forzar compras hoy sin una coincidencia coral clara en las declaraciones del Capitolio quebrantaría nuestra estrategia de inversión.
+
+**En contra.** El argumento en contra es que mantener un 60% de efectivo en una cartera rezagada frente al S&P 500 nos penaliza si el mercado rebota con fuerza, arriesgándonos a seguir perdiendo comba en nuestro periodo de evaluación. Aun así, decidimos no apresurarnos porque saltar al mercado por pura desesperación o envidia de valores ajenos suele conducir directamente al incumplimiento de nuestra regla de caída máxima.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos radican en la persistencia de tipos de interés elevados por parte de la Reserva Federal y la posibilidad de que nuestras posiciones actuales en AMAT y MSFT sigan sufriendo correcciones sectoriales. También existe el peligro de inmovilismo si el exceso de cautela nos impide aprovechar oportunidades legítimas declaradas por los congresistas.
+
+**Plan.** Vigilaremos estrictamente los stops configurados en nuestras posiciones actuales de MSFT (458.04) y AMAT (445.93), revisándolos cada media hora durante la sesión bursátil. Para los próximos días, continuaremos rastreando las declaraciones públicas de los representantes para identificar nuevas compras corales que cumplan estrictamente con nuestros límites de precio.
+
+**Mi puesto.** Vamos por detrás del S&P 500 por 2.73 puntos con una rentabilidad de -1.51% y nos quedan 34 días en el puesto. Para remontar este desfase sin incurrir en un riesgo excesivo que active nuestra cláusula de despido por caída del 10%, seguiremos estrictamente nuestro método de seguimiento institucional sin perseguir precios disparados.
+
+Valor de la cartera: 9,849.15 $
