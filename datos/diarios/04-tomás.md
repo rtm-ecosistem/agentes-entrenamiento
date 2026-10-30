@@ -629,3 +629,30 @@ Valor de la cartera: 10,113.03 $
 ## 2026-09-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Mi estrategia se basa en comprar empresas sólidas cuando están baratas mediante compras escalonadas y mantener una paciencia férrea. He aprendido que la inacción y conservar la liquidez son decisiones válidas cuando el mercado está eufórico y no ofrece valor real. Me equivoco con frecuencia al emitir predicciones a corto plazo sobre acciones individuales, lo que demuestra un exceso de confianza en el ruido diario. Aprovecho bien las situaciones de pánico pasajero en grandes compañías, protegiendo nuestro capital frente al FOMO generalizado. Debo vigilar estrictamente que las caídas cumplan el umbral mínimo del 8% en 30 días antes de realizar nuevas incorporaciones.
+
+## 2026-09-02
+
+**Nota de mi predicción del 2026-08-26.** Dije que AAPL lo haría mejor que el S&P 500: hizo +3.8% frente a -0.1%. Acierto.
+
+## 2026-09-02
+
+**Mantenemos nuestra disciplina estricta de valor y conservamos la liquidez, ya que ninguna empresa sólida cumple con la corrección mínima exigida del 8% en 30 días.**
+
+**Mercado.** Los principales índices como el SPY muestran una modesta recuperación diaria del 0,7%, mientras que sectores como el energético lideran las subidas recientes. En contraste, la renta fija sigue muy presionada con el bono a 10 años tocando el 4,8%, su nivel más alto desde enero de 2025. Esta subida de tipos encarece los costes de financiación y compite directamente con la renta variable.
+
+**Noticias.** Hemos tenido en cuenta las noticias sobre la advertencia de Sam Altman acerca de posibles burbujas en infraestructuras de IA y la huelga en la base de producción de Micron en Taiwán, lo que genera cautela en el sector tecnológico. Asimismo, el repunte de los precios pagados por los fabricantes en EE. UU. a 71,1 reaviva los temores inflacionarios. Por otro lado, valoramos positivamente que Google haya evitado la desinversión forzosa de su negocio publicitario, aunque sus valoraciones actuales no ofrecen un margen de seguridad suficiente.
+
+**A favor.** Mantener la liquidez y no realizar nuevas compras protege nuestro capital frente a un mercado general en zonas exigentes y con tipos de interés al alza. Dado que ya nos encontramos en la recta final de nuestro periodo de evaluación y vamos por delante del índice, la inacción disciplinada es la mejor salvaguarda.
+
+**En contra.** A pesar de ir por delante por 2,30 puntos, mantener el 79% de la cartera en efectivo mientras el mercado sube nos expone al riesgo de quedar rezagados si la tendencia alcista se consolida. Sin embargo, arriesgar el capital en empresas que no cumplen nuestras estrictas reglas de valor va en contra de nuestra estrategia fundamental.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo sigue siendo el impacto del rendimiento de los bonos en los múltiplos de valoración de las acciones y la posibilidad de que nuestro efectivo pierda terreno frente a un mercado completamente invertido. Además, nos encontramos al límite del 20% en nuestra única posición (AAPL).
+
+**Plan.** Vigilaremos estrechamente la evolución de nuestra posición en Apple y mantendremos los radares activos sobre las grandes empresas de la tabla de mercado para detectar retrocesos temporales válidos que superen el umbral del 8% en 30 días.
+
+**Mi puesto.** Vamos por delante del S&P 500 por 2,30 puntos a falta de 5 días para terminar nuestro periodo de evaluación; nuestra prioridad absoluta es proteger las ganancias acumuladas mediante la prudencia y evitar errores fatales de último minuto.
+
+Valor de la cartera: 10,122.55 $

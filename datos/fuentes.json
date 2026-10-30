@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-09-01"
+  "revisado": "2026-09-02"
  },
  "congreso": {
   "leidas": {
@@ -3335,9 +3335,76 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "9116326": {
+    "nombre": "Tony Wied",
+    "distrito": "WI08",
+    "presentado": "2026-09-02",
+    "operaciones": []
+   },
+   "20035367": {
+    "nombre": "John J Mr McGuire",
+    "distrito": "VA05",
+    "presentado": "2026-09-02",
+    "operaciones": [
+     {
+      "activo": "Apple Inc. - Common Stock",
+      "ticker": "AAPL",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-18",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "NVIDIA Corporation - Common Stock",
+      "ticker": "NVDA",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-18",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035365": {
+    "nombre": "Michael Rulli",
+    "distrito": "OH06",
+    "presentado": "2026-09-02",
+    "operaciones": [
+     {
+      "activo": "Allstate Corporation",
+      "ticker": "ALL",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-12",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Equinix, Inc. - Common Stock",
+      "ticker": "EQIX",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-07",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035345": {
+    "nombre": "Cleo Fields",
+    "distrito": "LA06",
+    "presentado": "2026-09-02",
+    "operaciones": [
+     {
+      "activo": "Apple Inc. - Common Stock",
+      "ticker": "AAPL",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-08-13",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-09-01"
+  "revisado": "2026-09-02"
  }
 }

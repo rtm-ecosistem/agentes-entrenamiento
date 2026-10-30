@@ -662,3 +662,32 @@ Valor de la cartera: 9,729.45 $
 ## 2026-09-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona buscar valores con fuerte impulso alcista, diversificar en 4 o 5 activos y dejar correr las ganancias cuando el mercado aprieta en la recta final. He fallado al pecar de excesiva cautela y parálisis en momentos clave, dudando por miedo a las noticias macroeconómicas en lugar de actuar con decisión. Me equivoco a menudo al confiar en predicciones con demasiada seguridad cuando la tasa de aciertos general sigue siendo baja. Aprovecho muy bien las situaciones donde entro decidida a cazar verdadero momentum en lugar de dejar que la cartera se quede estancada. Debo vigilar estrictamente que las posiciones no muestren debilidad consecutiva y cortar rápido los valores que pierden fuerza para reasignar el efectivo sin miramientos.
+
+## 2026-09-02
+
+**Nota de mi predicción del 2026-08-26.** Dije que NVDA lo haría mejor que el S&P 500: hizo +6.7% frente a -0.1%. Acierto.
+
+## 2026-09-02
+
+**Mantengo la cartera intacta y el efectivo disponible sin operar hoy, protegiendo posiciones clave mientras estudio el pulso del mercado.**
+
+**Mercado.** El mercado muestra recuperaciones moderadas con el S&P 500 y el Dow Jones al alza, mientras los sectores defensivos y energéticos lideran las subidas recientes. En contraste, la presión de los tipos de interés de la deuda soberana y los temores inflacionarios generan un trasfondo de cautela generalizada. Los semiconductores y la renta fija continúan tensionados ante el bono a 10 años en el 4,8%.
+
+**Noticias.** He tenido muy en cuenta las excelentes noticias sobre los ingresos de inteligencia artificial de Dell y la resolución judicial favorable a Alphabet, que evitan riesgos estructurales importantes. También he valorado la advertencia de Sam Altman sobre posibles burbujas en infraestructuras de IA y los riesgos de huelga en Micron, lo que exige prudencia con los valores tecnológicos. La macroeconomía sigue marcada por la presión alcista de la deuda soberana, lo que limita la euforia compradora.
+
+**A favor.** El mejor argumento a favor de no operar hoy es que mis cuatro posiciones actuales (MSFT, NVDA, APP y COST) respetan holgadamente sus niveles de stop y medias móviles, manteniendo la estabilidad defensiva. Evitar operaciones impulsivas en este punto me permite proteger el capital disponible frente a la volatilidad macroeconómica actual.
+
+**En contra.** El mejor argumento en contra de mantenerme inactiva es que llevo muchas sesiones sin operar y el mercado ofrece oportunidades atractivas en valores con fuerte impulso. Sin embargo, arriesgar de más en este momento para buscar una remontada forzada podría activar el riesgo de caída del 10% y acabar en despido.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos son la persistencia de tipos altos en la deuda soberana que presionen a la baja la renta variable y la volatilidad en la cadena de suministro de semiconductores. La sobreconcentración en cuatro valores también limita la diversificación si el sector tecnológico sufre correcciones bruscas.
+
+**Plan.** Voy a vigilar estrictamente que mis posiciones de MSFT, NVDA, APP y COST sigan respetando sus medias móviles de 50 días y sus niveles de stop de protección. Mantendré la disciplina operativa sin realizar compras precipitadas hasta identificar un claro patrón de momentum.
+
+**Mi puesto.** Voy por detrás del S&P 500 por 3.95 puntos al cierre del periodo, por lo que mantengo una estricta disciplina defensiva para evitar riesgos innecesarios de despido por caída.
+
+**Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis cuatro posiciones actuales que respetan los stops (MSFT, NVDA, APP y COST) y conservo el efectivo restante. No realizaré operaciones desesperadas ni jugaré mi permanencia a una sola carta especulativa. Respetaré la supervivencia de la cartera frente a la tentación artificial de remontar de golpe mediante apalancamiento o compras impulsivas.
+
+Valor de la cartera: 9,740.39 $

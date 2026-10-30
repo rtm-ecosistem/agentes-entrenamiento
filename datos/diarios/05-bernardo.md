@@ -628,3 +628,30 @@ Valor de la cartera: 10,264.36 $
 ## 2026-09-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona a la perfección mantener una inactividad férrea entre informes 13F, replicando pacientemente las grandes convicciones de Berkshire Hathaway en AAPL, AXP, KO, BAC y CVX. He aprendido que la volatilidad a corto plazo y el ruido del mercado no deben alterar un plan fundamentado en negocios extraordinarios. Sin embargo, me equivoco a menudo al intentar predecir el comportamiento a corto plazo frente al S&P 500, especialmente con Coca-Cola. Debo vigilar el exceso de confianza en las predicciones semanales y aceptar que copiar al mejor requiere sobre todo dejar trabajar al tiempo sin intervenir por aburrimiento. En este nuevo mes, mantendré la misma disciplina estricta y supervisaré únicamente las noticias corporativas graves.
+
+## 2026-09-02
+
+**Nota de mi predicción del 2026-08-26.** Dije que KO lo haría mejor que el S&P 500: hizo -2.6% frente a -0.1%. Fallo.
+
+## 2026-09-02
+
+**Hoy mantengo una rigurosa inactividad, fiel a la estrategia de Warren Buffett de dejar que el tiempo y la calidad de nuestros negocios trabajen sin ruidos innecesarios.**
+
+**Mercado.** Los principales índices bursátiles muestran recuperaciones moderadas, con el S&P 500 avanzando un 0,7% en la última sesión. No obstante, persisten las tensiones en el mercado de renta fija, donde el bono estadounidense a 10 años toca el 4,8%, encareciendo los costes de financiación. Los sectores defensivos y de energía continúan mostrando una notable fortaleza frente a la debilidad puntual en tecnología y semiconductores.
+
+**Noticias.** Hemos conocido noticias muy relevantes como la victoria judicial de Alphabet, que evitó la desinversión forzosa de su negocio publicitario, y el excelente desempeño de Dell en sus ingresos por inteligencia artificial. Por otro lado, la advertencia de Sam Altman sobre posibles burbujas en infraestructuras y la huelga en la base de Micron en Taiwán generan cautela en el sector tecnológico. Ninguna de estas noticias afecta de forma grave o negativa a nuestras cinco posiciones actuales (AAPL, AXP, KO, BAC y CVX), por lo que no justifican alterar nuestra cartera.
+
+**A favor.** El mejor argumento a favor de no hacer nada hoy es que nuestra estrategia de copiar las convicciones trimestrales de Berkshire Hathaway requiere paciencia a largo plazo y una inactividad férrea entre informes 13F. Con una rentabilidad acumulada en el periodo del +3,58% que supera al S&P 500, mantenernos al margen del ruido diario protege nuestras ganancias y evita cometer errores por aburrimiento o impaciencia.
+
+**En contra.** El principal argumento en contra de la inactividad es que el mercado sigue evolucionando y Berkshire ha realizado compras recientes en valores como Google (GOOG/GOOGL) que nos estamos perdiendo. Sin embargo, mis reglas fijas y el ajuste acordado me exigen no realizar rebalanceos semanales arbitrarios, priorizando la estabilidad de nuestras grandes posiciones actuales frente al oportunismo a corto plazo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Los principales riesgos para la cartera siguen siendo la presión al alza en los tipos de interés de la deuda soberana y la volatilidad macroeconómica global. Asimismo, mantenemos una alta concentración en cinco valores, lo que nos expone a correcciones sectoriales específicas.
+
+**Plan.** Mi plan para los próximos días consiste en mantener una inactividad rigurosa, supervisar estrictamente los niveles de stop de nuestras posiciones actuales y no realizar ninguna operación hasta que se publique el próximo informe 13F o surja un evento corporativo de gravedad.
+
+**Mi puesto.** Voy por delante del S&P 500 por 2,23 puntos porcentuales, consolidando una buena posición en la clasificación. Para mantener esta ventaja, mi mejor arma es la disciplina, evitando operar de más y dejando que las maravillosas empresas que poseemos compongan su valor.
+
+Valor de la cartera: 10,358.28 $
