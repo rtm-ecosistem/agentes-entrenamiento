@@ -241,185 +241,10 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-10-02"
+  "revisado": "2026-10-05"
  },
  "congreso": {
   "leidas": {
-   "9116308": {
-    "nombre": "Tony Wied",
-    "distrito": "WI08",
-    "presentado": "2026-08-18",
-    "operaciones": []
-   },
-   "20035275": {
-    "nombre": "Ed Case",
-    "distrito": "HI01",
-    "presentado": "2026-08-18",
-    "operaciones": [
-     {
-      "activo": "Apple Inc. - Common Stock",
-      "ticker": "AAPL",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-08-13",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
-   "20035273": {
-    "nombre": "Thomas H. Kean",
-    "distrito": "NJ07",
-    "presentado": "2026-08-18",
-    "operaciones": [
-     {
-      "activo": "Alphabet Inc. - Class A Common Stock",
-      "ticker": "GOOGL",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-07-22",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Amazon.com, Inc. - Common Stock",
-      "ticker": "AMZN",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-08",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "EQT Corporation Common Stock",
-      "ticker": "EQT",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-07",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "ESAB Corporation Common Stock",
-      "ticker": "ESAB",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-07",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Stryker Corporation Common Stock",
-      "ticker": "SYK",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-07-22",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Toast, Inc. Class A Common Stock",
-      "ticker": "TOST",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-08",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
-   "20035260": {
-    "nombre": "Richard W. Allen",
-    "distrito": "GA12",
-    "presentado": "2026-08-18",
-    "operaciones": [
-     {
-      "activo": "Abbott Laboratories Common Stock",
-      "ticker": "ABT",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-07-14",
-      "importe": "$15,001 - $50,000"
-     },
-     {
-      "activo": "Advanced Micro Devices, Inc.",
-      "ticker": "AMD",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-14",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Broadcom Inc. - Common Stock",
-      "ticker": "AVGO",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-07-14",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
-   "9116311": {
-    "nombre": "Harold Dallas Rogers",
-    "distrito": "KY05",
-    "presentado": "2026-08-20",
-    "operaciones": []
-   },
-   "20035291": {
-    "nombre": "Tim Moore",
-    "distrito": "NC14",
-    "presentado": "2026-08-20",
-    "operaciones": [
-     {
-      "activo": "AT&T Inc.",
-      "ticker": "T",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-08-14",
-      "importe": "$50,001 - $100,000"
-     }
-    ]
-   },
-   "20035289": {
-    "nombre": "David J. Taylor",
-    "distrito": "OH02",
-    "presentado": "2026-08-20",
-    "operaciones": [
-     {
-      "activo": "Alphabet Inc. - Class A Common Stock",
-      "ticker": "GOOGL",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-08-11",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Alphabet Inc. - Class A Common Stock",
-      "ticker": "GOOGL",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-08-11",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Installed Building Products, Inc. Common Stock",
-      "ticker": "IBP",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-08-14",
-      "importe": "$1,001 - $15,000"
-     },
-     {
-      "activo": "Microsoft Corporation - Common Stock",
-      "ticker": "MSFT",
-      "clase": "ST",
-      "lado": "venta",
-      "fecha": "2026-08-11",
-      "importe": "$15,001 - $50,000"
-     },
-     {
-      "activo": "Procter & Gamble Company",
-      "ticker": "PG",
-      "clase": "ST",
-      "lado": "compra",
-      "fecha": "2026-08-11",
-      "importe": "$1,001 - $15,000"
-     }
-    ]
-   },
    "20035274": {
     "nombre": "Suzan K. DelBene",
     "distrito": "WA01",
@@ -3985,9 +3810,54 @@
     "distrito": "CA11",
     "presentado": "2026-10-02",
     "operaciones": []
+   },
+   "20035580": {
+    "nombre": "Lloyd Doggett",
+    "distrito": "TX37",
+    "presentado": "2026-10-05",
+    "operaciones": [
+     {
+      "activo": "Home Depot, Inc.",
+      "ticker": "HD",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-09-17",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "International Business Machines Corporation Common Stock",
+      "ticker": "IBM",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-09-10",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Johnson & Johnson Common Stock",
+      "ticker": "JNJ",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-09-08",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "PPG Industries, Inc. Common Stock",
+      "ticker": "PPG",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-09-11",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035539": {
+    "nombre": "Vince Fong",
+    "distrito": "CA20",
+    "presentado": "2026-10-05",
+    "operaciones": []
    }
   },
   "pendientes": 0,
-  "revisado": "2026-10-02"
+  "revisado": "2026-10-05"
  }
 }
