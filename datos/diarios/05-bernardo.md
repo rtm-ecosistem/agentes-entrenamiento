@@ -965,3 +965,11 @@ No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: htt
 ## 2026-09-22 12:00
 
 **Stop automático.** Vendo AXP: Stop alcanzado (306.75 $ ≤ 307.96 $): se corta la pérdida.
+
+## 2026-09-23
+
+**Nota de mi predicción del 2026-09-16.** Dije que KO lo haría mejor que el S&P 500: hizo +0.2% frente a +1.2%. Fallo.
+
+## 2026-09-23
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
