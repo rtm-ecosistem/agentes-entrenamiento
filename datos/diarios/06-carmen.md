@@ -970,3 +970,11 @@ No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: htt
 ## 2026-09-23
 
 No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
+
+## 2026-09-24
+
+**Nota de mi predicción del 2026-09-17.** Dije que BRK.B lo haría mejor que el S&P 500: hizo -0.7% frente a +0.5%. Fallo.
+
+## 2026-09-24
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
