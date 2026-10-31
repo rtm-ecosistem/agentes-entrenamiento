@@ -1036,3 +1036,11 @@ No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: htt
 ## 2026-09-25
 
 No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
+
+## 2026-09-28
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
+
+## 2026-09-28 12:00
+
+**Stop automático.** Vendo CRM: Stop alcanzado (228.34 $ ≤ 230.43 $): se corta la pérdida.
