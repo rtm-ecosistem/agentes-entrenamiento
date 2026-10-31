@@ -1,5 +1,5 @@
 {
- "revisado": "2026-10-06",
+ "revisado": "2026-10-13",
  "empresas": {
   "AAPL": {
    "bpa": 7.46,
@@ -917,10 +917,6 @@
   }
  },
  "resultados": {
-  "PEP": {
-   "fecha": "2026-10-08",
-   "hora": ""
-  },
   "JPM": {
    "fecha": "2026-10-13",
    "hora": ""
@@ -1057,319 +1053,175 @@
    "fecha": "2026-10-26",
    "hora": ""
   },
-  "ENPH": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "COST": {
-   "fecha": "2026-10-12",
-   "estimada": true
-  },
-  "NOW": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "VRTX": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "AFRM": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "DELL": {
-   "fecha": "2026-11-30",
-   "estimada": true
-  },
-  "HIMS": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "RIVN": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "LLY": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "LUNR": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "CMG": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "MRVL": {
-   "fecha": "2026-11-30",
-   "estimada": true
-  },
-  "PLTR": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "MSFT": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "MU": {
-   "fecha": "2026-10-07",
-   "estimada": true
-  },
-  "OKLO": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "MCD": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "USO": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "LULU": {
-   "fecha": "2026-12-01",
-   "estimada": true
+  "V": {
+   "fecha": "2026-10-27",
+   "hora": ""
   },
   "KO": {
-   "fecha": "2026-10-30",
-   "estimada": true
+   "fecha": "2026-10-27",
+   "hora": ""
   },
-  "RBLX": {
-   "fecha": "2026-10-30",
-   "estimada": true
+  "BA": {
+   "fecha": "2026-10-27",
+   "hora": ""
   },
-  "CRWD": {
-   "fecha": "2026-11-30",
-   "estimada": true
+  "FCX": {
+   "fecha": "2026-10-27",
+   "hora": ""
   },
-  "CEG": {
-   "fecha": "2026-10-30",
-   "estimada": true
+  "UPS": {
+   "fecha": "2026-10-27",
+   "hora": ""
   },
-  "CAT": {
-   "fecha": "2026-10-30",
-   "estimada": true
+  "HOOD": {
+   "fecha": "2026-10-27",
+   "hora": ""
   },
-  "BMY": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "OXY": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "RKLB": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "UBER": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "WMT": {
-   "fecha": "2026-11-30",
-   "estimada": true
-  },
-  "TTD": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "NVDA": {
-   "fecha": "2026-11-24",
-   "estimada": true
-  },
-  "SBUX": {
-   "fecha": "2026-11-09",
-   "estimada": true
-  },
-  "SOUN": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "COIN": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "KLAC": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "IONQ": {
-   "fecha": "2026-10-30",
-   "estimada": true
+  "PYPL": {
+   "fecha": "2026-10-27",
+   "hora": ""
   },
   "SOFI": {
-   "fecha": "2026-10-30",
-   "estimada": true
+   "fecha": "2026-10-27",
+   "hora": ""
+  },
+  "ENPH": {
+   "fecha": "2026-10-27",
+   "hora": ""
+  },
+  "MSFT": {
+   "fecha": "2026-10-28",
+   "hora": ""
   },
   "GOOGL": {
-   "fecha": "2026-10-30",
-   "estimada": true
+   "fecha": "2026-10-28",
+   "hora": ""
+  },
+  "KLAC": {
+   "fecha": "2026-10-28",
+   "hora": ""
   },
   "TMUS": {
+   "fecha": "2026-10-28",
+   "hora": ""
+  },
+  "NOW": {
+   "fecha": "2026-10-28",
+   "hora": ""
+  },
+  "FDX": {
+   "fecha": "2026-10-28",
+   "hora": ""
+  },
+  "CMG": {
+   "fecha": "2026-10-28",
+   "hora": ""
+  },
+  "AMZN": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "LLY": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "MA": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "INTC": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "MRK": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "CAT": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "LIN": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "GILD": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "BMY": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "SBUX": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "COIN": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "RBLX": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "RDDT": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "FSLR": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "RIVN": {
+   "fecha": "2026-10-29",
+   "hora": ""
+  },
+  "XOM": {
    "fecha": "2026-10-30",
-   "estimada": true
+   "hora": "antes de abrir"
   },
-  "ORCL": {
-   "fecha": "2026-12-30",
-   "estimada": true
-  },
-  "ETN": {
+  "ABBV": {
    "fecha": "2026-10-30",
-   "estimada": true
+   "hora": "antes de abrir"
   },
-  "LOW": {
-   "fecha": "2026-11-30",
-   "estimada": true
-  },
-  "MRNA": {
+  "CVX": {
    "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "AMD": {
-   "fecha": "2026-10-27",
-   "estimada": true
-  },
-  "ARM": {
-   "fecha": "2026-10-30",
-   "estimada": true
+   "hora": "antes de abrir"
   },
   "GD": {
    "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "AAPL": {
-   "fecha": "2026-11-06",
-   "estimada": true
-  },
-  "AMAT": {
-   "fecha": "2026-12-07",
-   "estimada": true
-  },
-  "ACHR": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "BKNG": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "FDX": {
-   "fecha": "2026-12-30",
-   "estimada": true
-  },
-  "BA": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "DUOL": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "EOG": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "DDOG": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "ZS": {
-   "fecha": "2026-11-30",
-   "estimada": true
-  },
-  "SMCI": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "AMZN": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "TGT": {
-   "fecha": "2026-11-30",
-   "estimada": true
-  },
-  "GILD": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "JOBY": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "PFE": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "COP": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "DE": {
-   "fecha": "2026-12-14",
-   "estimada": true
-  },
-  "MA": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "UPS": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "ADBE": {
-   "fecha": "2027-01-07",
-   "estimada": true
-  },
-  "HD": {
-   "fecha": "2026-12-01",
-   "estimada": true
+   "hora": "antes de abrir"
   },
   "REGN": {
    "fecha": "2026-10-30",
-   "estimada": true
+   "hora": "antes de abrir"
   },
-  "MRK": {
+  "CCJ": {
    "fecha": "2026-10-30",
-   "estimada": true
+   "hora": "antes de abrir"
   },
-  "INTC": {
-   "fecha": "2026-10-27",
-   "estimada": true
+  "AAPL": {
+   "fecha": "2026-11-02",
+   "hora": "tras el cierre"
   },
-  "FSLR": {
-   "fecha": "2026-10-30",
-   "estimada": true
+  "PLTR": {
+   "fecha": "2026-11-02",
+   "hora": "tras el cierre"
   },
-  "MP": {
-   "fecha": "2026-10-30",
-   "estimada": true
+  "VRTX": {
+   "fecha": "2026-11-02",
+   "hora": "tras el cierre"
   },
-  "PANW": {
-   "fecha": "2026-11-30",
-   "estimada": true
+  "MAR": {
+   "fecha": "2026-11-02",
+   "hora": "antes de abrir"
   },
-  "CRWV": {
-   "fecha": "2026-10-30",
-   "estimada": true
+  "TEM": {
+   "fecha": "2026-11-02",
+   "hora": "antes de abrir"
   },
-  "V": {
-   "fecha": "2026-11-09",
-   "estimada": true
-  },
-  "SMR": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "ALB": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "LIN": {
+  "CRCL": {
    "fecha": "2026-10-30",
    "estimada": true
   },
@@ -1377,87 +1229,19 @@
    "fecha": "2026-10-30",
    "estimada": true
   },
-  "RDDT": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "INTU": {
-   "fecha": "2026-11-30",
-   "estimada": true
-  },
-  "QCOM": {
-   "fecha": "2026-11-09",
-   "estimada": true
-  },
-  "FCX": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "SNOW": {
-   "fecha": "2026-11-30",
-   "estimada": true
-  },
-  "NKE": {
-   "fecha": "2026-12-30",
-   "estimada": true
-  },
-  "ABNB": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "QBTS": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "RGTI": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "ASTS": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "AVGO": {
-   "fecha": "2026-12-14",
-   "estimada": true
-  },
-  "ANET": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "HOOD": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "MAR": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "CAVA": {
-   "fecha": "2026-10-28",
-   "estimada": true
-  },
-  "PYPL": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "CVS": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "NET": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
-  "ABBV": {
-   "fecha": "2026-10-30",
-   "estimada": true
-  },
   "AMGN": {
    "fecha": "2026-10-30",
    "estimada": true
   },
-  "SHOP": {
+  "ETN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "DE": {
+   "fecha": "2026-12-14",
+   "estimada": true
+  },
+  "MCD": {
    "fecha": "2026-10-30",
    "estimada": true
   },
@@ -1465,11 +1249,155 @@
    "fecha": "2026-11-25",
    "estimada": true
   },
+  "AVGO": {
+   "fecha": "2026-12-14",
+   "estimada": true
+  },
+  "TTD": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "COP": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "RGTI": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ADBE": {
+   "fecha": "2027-01-07",
+   "estimada": true
+  },
+  "MRNA": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "SNOW": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "CAVA": {
+   "fecha": "2026-10-28",
+   "estimada": true
+  },
+  "HIMS": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ALB": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "DDOG": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "CRWD": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "IONQ": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "NET": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ZS": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "BKNG": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "CEG": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "HD": {
+   "fecha": "2026-12-01",
+   "estimada": true
+  },
+  "DUOL": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ORCL": {
+   "fecha": "2026-12-30",
+   "estimada": true
+  },
+  "PFE": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ANET": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "OXY": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "SMR": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "UBER": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "EOG": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "NKE": {
+   "fecha": "2026-12-30",
+   "estimada": true
+  },
+  "PEP": {
+   "fecha": "2026-10-27",
+   "estimada": true
+  },
+  "USO": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "LOW": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "DELL": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
   "CRM": {
    "fecha": "2026-11-30",
    "estimada": true
   },
-  "CRCL": {
+  "ACHR": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "ASTS": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "AFRM": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "AMD": {
+   "fecha": "2026-10-27",
+   "estimada": true
+  },
+  "JOBY": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "OKLO": {
    "fecha": "2026-10-30",
    "estimada": true
   },
@@ -1477,7 +1405,67 @@
    "fecha": "2026-11-06",
    "estimada": true
   },
-  "TEM": {
+  "SHOP": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "MRVL": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "PANW": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "INTU": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "WMT": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "MU": {
+   "fecha": "2026-12-28",
+   "estimada": true
+  },
+  "LULU": {
+   "fecha": "2026-12-01",
+   "estimada": true
+  },
+  "ARM": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "QCOM": {
+   "fecha": "2026-11-09",
+   "estimada": true
+  },
+  "CVS": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "TGT": {
+   "fecha": "2026-11-30",
+   "estimada": true
+  },
+  "ABNB": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "SOUN": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "CRWV": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "MP": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "RKLB": {
    "fecha": "2026-10-30",
    "estimada": true
   },
@@ -1485,8 +1473,28 @@
    "fecha": "2026-10-30",
    "estimada": true
   },
-  "CVX": {
+  "NVDA": {
+   "fecha": "2026-11-24",
+   "estimada": true
+  },
+  "SMCI": {
    "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "QBTS": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "AMAT": {
+   "fecha": "2026-12-07",
+   "estimada": true
+  },
+  "LUNR": {
+   "fecha": "2026-10-30",
+   "estimada": true
+  },
+  "COST": {
+   "fecha": "2026-12-30",
    "estimada": true
   }
  }
