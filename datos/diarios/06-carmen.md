@@ -1066,3 +1066,7 @@ No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: htt
 ## 2026-10-22 12:00
 
 **Stop automático.** Vendo AMAT: Stop alcanzado (382.32 $ ≤ 385.61 $): se corta la pérdida.
+
+## 2026-10-23
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
