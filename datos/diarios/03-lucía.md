@@ -1010,3 +1010,11 @@ No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: htt
 ## 2026-09-21
 
 No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
+
+## 2026-09-22
+
+**Nota de mi predicción del 2026-09-15.** Dije que QCOM lo haría mejor que el S&P 500: hizo +4.3% frente a +2.2%. Acierto.
+
+## 2026-09-22
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
