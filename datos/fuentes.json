@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-10-28"
+  "revisado": "2026-10-29"
  },
  "congreso": {
   "leidas": {
@@ -3134,9 +3134,80 @@
     "distrito": "WA01",
     "presentado": "2026-10-28",
     "operaciones": []
+   },
+   "20035727": {
+    "nombre": "David J. Taylor",
+    "distrito": "OH02",
+    "presentado": "2026-10-29",
+    "operaciones": [
+     {
+      "activo": "AT&T Inc.",
+      "ticker": "T",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-15",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Lam Research Corporation - Common Stock",
+      "ticker": "LRCX",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-15",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Marathon Petroleum Corporation Common Stock",
+      "ticker": "MPC",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-10-15",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Marathon Petroleum Corporation Common Stock",
+      "ticker": "MPC",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-10-15",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Prologis, Inc. Common Stock",
+      "ticker": "PLD",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-15",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Prologis, Inc. Common Stock",
+      "ticker": "PLD",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-15",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "RPM International Inc. Common Stock",
+      "ticker": "RPM",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-15",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Visa Inc.",
+      "ticker": "V",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-10-15",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-10-28"
+  "revisado": "2026-10-29"
  }
 }

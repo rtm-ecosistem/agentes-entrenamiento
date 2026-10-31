@@ -289,6 +289,10 @@
     {
      "fecha": "2026-10-28",
      "valor": 9284.42
+    },
+    {
+     "fecha": "2026-10-29",
+     "valor": 9229.23
     }
    ],
    "periodos_superados": 0,
@@ -299,25 +303,6 @@
     "envidia": 1.2
    },
    "bitacora": [
-    {
-     "fecha": "2026-08-14",
-     "tipo": "stop",
-     "resumen": "Vendo AVGO: Stop alcanzado (392.67 $ ≤ 392.77 $): se corta la pérdida.",
-     "operaciones": [
-      {
-       "agente": "01-diego",
-       "lado": "vender",
-       "simbolo": "AVGO",
-       "cantidad": 3.313287,
-       "precio": 392.4737,
-       "importe": 1300.38,
-       "motivo": "Stop alcanzado (392.67 $ ≤ 392.77 $): se corta la pérdida.",
-       "hora": "2026-08-14T17:00Z"
-      }
-     ],
-     "rechazos": [],
-     "valor": 9660.3
-    },
     {
      "fecha": "2026-08-17",
      "tipo": "decision",
@@ -1501,6 +1486,14 @@
      "operaciones": [],
      "rechazos": [],
      "valor": 9284.42
+    },
+    {
+     "fecha": "2026-10-29",
+     "tipo": "error",
+     "resumen": "Hoy no pude decidir porque la IA no respondió. No opero.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 9229.23
     }
    ],
    "animo": {
@@ -1514,16 +1507,16 @@
      "arrepentimiento": 0.35
     },
     "motivos": {
-     "tension": "Va 9,21 puntos por detrás del S&P 500 y tiene que remontar.",
-     "sorpresa": "CVX se ha movido un +18,2 % desde que lo compró.",
-     "miedo": "Quedan 0 días para su evaluación y va 9,21 puntos por detrás del S&P 500.",
-     "panico": "Ha caído un 7,2 % desde su máximo y el límite de despido es un 10%.",
+     "tension": "Va 9,59 puntos por detrás del S&P 500 y tiene que remontar.",
+     "sorpresa": "CVX se ha movido un +17,9 % desde que lo compró.",
+     "miedo": "Quedan 0 días para su evaluación y va 9,59 puntos por detrás del S&P 500.",
+     "panico": "Ha caído un 7,7 % desde su máximo y el límite de despido es un 10%.",
      "aburrimiento": "Lleva demasiado tiempo sin operar.",
      "envidia": "Dejó pasar LLY y después hizo +1,4 %.",
-     "arrepentimiento": "Vendió JPM y desde entonces ha ido mejor que el S&P 500 (+1,3 %)."
+     "arrepentimiento": "Vendió JPM y desde entonces ha ido mejor que el S&P 500 (+3,4 %)."
     },
-    "hora": "2026-10-28T15:00:00.014880+00:00",
-    "dif": -0.09213
+    "hora": "2026-10-29T15:00:00.015766+00:00",
+    "dif": -0.09589
    },
    "descartes": [
     {
@@ -2522,6 +2515,10 @@
     {
      "fecha": "2026-10-28",
      "valor": 10010.02
+    },
+    {
+     "fecha": "2026-10-29",
+     "valor": 10002.98
     }
    ],
    "periodos_superados": 0,
@@ -2534,39 +2531,6 @@
     "codicia": 0.5
    },
    "bitacora": [
-    {
-     "fecha": "2026-08-12",
-     "tipo": "decision",
-     "resumen": "Mantengo la cartera intacta a la espera de asimilar el nuevo dato de inflación del 3.4% y su impacto real en los mercados.",
-     "operaciones": [],
-     "rechazos": [],
-     "valor": 10216.4,
-     "informe": {
-      "mercado": "Los principales índices como el S&P 500 y el Nasdaq muestran una sólida tendencia alcista, cotizando cómodamente por encima de sus medias móviles de 50 días. El sector tecnológico lidera las ganancias respaldado por la fuerte demanda de infraestructura de inteligencia artificial, mientras que el mercado digiere la desaceleración del IPC.",
-      "noticias": "He tenido muy en cuenta la publicación del Índice de Precios al Consumidor en EE. UU., que muestra una moderación de la inflación al 3.4% en julio. Esta bajada es clave porque acerca las esperadas reducciones de tipos de interés por parte de la Reserva Federal, aunque las advertencias sobre la rigidez salarial exigen cautela. Mantenemos la vigilancia sobre las reservas de petróleo y el comportamiento de nuestras posiciones principales en ETFs amplios y oro.",
-      "a_favor": "El mejor argumento a favor de no operar hoy es la estabilidad macroeconómica demostrada por la moderación inflacionaria, lo que justifica mantener nuestra asignación del 80% en renta variable y oro sin incurrir en costes de transacción innecesarios.",
-      "en_contra": "El mejor argumento en contra es que el mercado está avanzando con fuerza y podríamos quedar ligeramente rezagados frente al índice si continúa el rally tecnológico. Aun así, decido mantener la disciplina y no perseguir subidas repentinas para evitar errores de timing que comprometan mi capital.",
-      "riesgos": "Los principales riesgos son una corrección repentina por recogida de beneficios en grandes tecnológicas y que las presiones inflacionarias subyacentes retrasen los recortes de tipos de la Reserva Federal. Además, debo vigilar estrictamente que ninguna posición supere el límite del 20% tras los movimientos recientes.",
-      "plan": "Mi plan para los próximos días es vigilar estrictamente la evolución de mis stops de protección, seguir de cerca las reacciones del mercado al dato de inflación y mantener la disciplina de no realizar compras impulsivas.",
-      "situacion": "Voy ligeramente por detrás del S&P 500 por apenas 0.04 puntos, lo cual es una diferencia mínima y manejable. Mantendré la calma y confiaré en la solidez de mi estrategia prudente sin arriesgar de más para remontar.",
-      "radar": "",
-      "rescate": ""
-     },
-     "noticias_usadas": [
-      "61142429",
-      "61113638"
-     ],
-     "sp": 771.87,
-     "animo": {
-      "siento": "Siento una ligera tensión por ir ligeramente por detrás del S&P 500 y por haber dejado escapar oportunidades en valores tecnológicos.",
-      "influye": "Reconozco que esta tensión podría impulsarme a perseguir el rally actual, pero lo controlo aplicando estrictamente mi estrategia prudente y mis límites de riesgo."
-     },
-     "emocion": "tension",
-     "dia": {
-      "tipo": "tranquilo",
-      "cambio_sp": 0.0042
-     }
-    },
     {
      "fecha": "2026-08-13",
      "tipo": "decision",
@@ -3719,6 +3683,14 @@
      "operaciones": [],
      "rechazos": [],
      "valor": 10010.02
+    },
+    {
+     "fecha": "2026-10-29",
+     "tipo": "error",
+     "resumen": "Hoy no pude decidir porque la IA no respondió. No opero.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10002.98
     }
    ],
    "animo": {
@@ -3731,11 +3703,11 @@
     "motivos": {
      "envidia": "Dejó pasar AAPL y después hizo +1,4 %.",
      "aburrimiento": "Lleva demasiado tiempo sin operar.",
-     "miedo": "Quedan 0 días para su evaluación y va 1,96 puntos por detrás del S&P 500.",
-     "tension": "Va justo por detrás del S&P 500 (1,96 puntos)."
+     "miedo": "Quedan 0 días para su evaluación y va 1,85 puntos por detrás del S&P 500.",
+     "tension": "Va justo por detrás del S&P 500 (1,85 puntos)."
     },
-    "hora": "2026-10-28T15:00:00.014880+00:00",
-    "dif": -0.01957
+    "hora": "2026-10-29T15:00:00.015766+00:00",
+    "dif": -0.01851
    },
    "descartes": [
     {
@@ -4535,6 +4507,10 @@
     {
      "fecha": "2026-10-28",
      "valor": 9739.63
+    },
+    {
+     "fecha": "2026-10-29",
+     "valor": 9680.45
     }
    ],
    "periodos_superados": 0,
@@ -4546,41 +4522,6 @@
     "arrepentimiento": 0.6
    },
    "bitacora": [
-    {
-     "fecha": "2026-08-14",
-     "tipo": "decision",
-     "resumen": "Mantengo mi cartera intacta y decido no operar hoy, priorizando la disciplina frente a la tensión de ir por detrás del mercado.",
-     "operaciones": [],
-     "rechazos": [],
-     "valor": 9859.18,
-     "informe": {
-      "mercado": "El mercado muestra una sólida tendencia alcista liderada por los índices principales como el SPY y el VTI, situados un 4% por encima de su media móvil de 50 días. El sector energético y los pequeños valores (IWM) consolidan subidas, mientras que el sector tecnológico experimenta ligeras tomas de beneficios. La liquidez sigue siendo abundante gracias a los flujos hacia fondos indexados y al alivio en las expectativas de tipos de interés.",
-      "noticias": "He tenido en cuenta el excelente contrato de 9.700 millones de dólares entre Microsoft y IREN para centros de datos de IA, lo que refuerza la posición de MSFT. También valoro positivamente la inyección de 215 millones de Thrive Capital en Amazon, validando su potencial de crecimiento a pesar de la caída temporal en el consumo minorista. Por otro lado, la caída en la confianza del consumidor de la Universidad de Michigan hasta 51.0 y el descenso del 0.6% en las ventas minoristas actúan como señales de alarma sobre el gasto futuro.",
-      "a_favor": "El mejor argumento a favor de no operar hoy es que mis posiciones actuales en MSFT, AMZN, NVDA y APP se mantienen estables dentro de sus respectivas tendencias y por encima de sus medias de 50 días. Evitar cambios impulsivos protege el capital y respeta la regla de no hacer movimientos por pequeñas fluctuaciones diarias.",
-      "en_contra": "El argumento en contra es que voy por detrás del S&P 500 por más de 4 puntos y mantener la cartera sin cambios podría retrasar la remontada en un momento de bonanza general. Sin embargo, arriesgar de más o forzar compras cuando no hay un valor con un momentum claro suele acabar en despido por sobreconcentración.",
-      "riesgos": "El principal riesgo es la debilidad macroeconómica reflejada en el descenso de las ventas minoristas y la confianza del consumidor, que podría lastrar los beneficios empresariales. Asimismo, vigilo de cerca la posición en AMZN, que registra una rentabilidad negativa del -7.3% desde su compra.",
-      "plan": "Voy a vigilar estrictamente que ninguno de mis valores rompa su media móvil de 50 días ni active sus respectivos stops de protección. Mi plan para los próximos días es evaluar oportunidades en valores con momentum explosivo si el efectivo disponible lo permite de forma segura.",
-      "situacion": "Voy por detrás del S&P 500 por 4.28 puntos a falta de 17 días para terminar mi evaluación. Mi plan de rescate es mantener la calma, dejar correr las ganancias de mis posiciones sanas sin cometer errores precipitados y recortar pérdidas solo si se rompen las reglas técnicas.",
-      "radar": "",
-      "rescate": "Para remontar sin incumplir las reglas de riesgo, mantendré la disciplina estricta de no duplicar compras en activos llenos y esperaré una señal clara de tendencia en un nuevo valor del mercado antes de desplegar el efectivo restante."
-     },
-     "noticias_usadas": [
-      "61177758",
-      "61212039",
-      "61210349",
-      "61209330"
-     ],
-     "sp": 776.865,
-     "animo": {
-      "siento": "Me siento un poco tensa por ir por detrás del S&P 500 y sentir la presión del tiempo.",
-      "influye": "Reconozco que la tensión me tienta a forzar operaciones, pero lo controlo aplicando estrictamente mi estrategia y mis reglas de riesgo."
-     },
-     "emocion": "tension",
-     "dia": {
-      "tipo": "tranquilo",
-      "cambio_sp": 0.0012
-     }
-    },
     {
      "fecha": "2026-08-14",
      "tipo": "reflexion",
@@ -5734,6 +5675,14 @@
      "operaciones": [],
      "rechazos": [],
      "valor": 9739.63
+    },
+    {
+     "fecha": "2026-10-29",
+     "tipo": "error",
+     "resumen": "Hoy no pude decidir porque la IA no respondió. No opero.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 9680.45
     }
    ],
    "animo": {
@@ -5744,13 +5693,13 @@
      "aburrimiento": 0.45
     },
     "motivos": {
-     "tension": "Va 4,66 puntos por detrás del S&P 500 y tiene que remontar.",
-     "miedo": "Quedan 0 días para su evaluación y va 4,66 puntos por detrás del S&P 500.",
-     "sorpresa": "MSFT se ha movido un +9,4 % desde que lo compró.",
+     "tension": "Va 5,08 puntos por detrás del S&P 500 y tiene que remontar.",
+     "miedo": "Quedan 0 días para su evaluación y va 5,08 puntos por detrás del S&P 500.",
+     "sorpresa": "MSFT se ha movido un +8,5 % desde que lo compró.",
      "aburrimiento": "Lleva demasiado tiempo sin operar."
     },
-    "hora": "2026-10-28T15:00:00.014880+00:00",
-    "dif": -0.04661
+    "hora": "2026-10-29T15:00:00.015766+00:00",
+    "dif": -0.05077
    },
    "descartes": [
     {
@@ -6656,6 +6605,10 @@
     {
      "fecha": "2026-10-28",
      "valor": 10258.23
+    },
+    {
+     "fecha": "2026-10-29",
+     "valor": 10285.73
     }
    ],
    "periodos_superados": 0,
@@ -6668,52 +6621,6 @@
     "aburrimiento": 0.5
    },
    "bitacora": [
-    {
-     "fecha": "2026-08-12",
-     "tipo": "decision",
-     "resumen": "Ampliamos ligeramente nuestra posición en Apple aprovechando su corrección reciente y mantenemos el resto de la liquidez con paciencia.",
-     "operaciones": [
-      {
-       "agente": "04-tomás",
-       "lado": "comprar",
-       "simbolo": "AAPL",
-       "cantidad": 1.652749,
-       "precio": 302.5262,
-       "importe": 500.0,
-       "motivo": "Ampliación parcial de nuestra posición en Apple aprovechando su corrección del -7.6% en 60 días, siguiendo nuestro ajuste estratégico para empresas de alta calidad.",
-       "emocion": "confianza",
-       "noticias": true,
-       "hora": "2026-08-12T15:02Z"
-      }
-     ],
-     "rechazos": [],
-     "valor": 9977.62,
-     "informe": {
-      "mercado": "El mercado muestra una sólida tendencia alcista respaldada por la moderación de la inflación al 3.4% en julio y previsiones optimistas en el S&P 500. El sector tecnológico y los semiconductores lideran las ganancias, aunque persisten avisos de la Reserva Federal sobre presiones inflacionarias subyacentes. La euforia generalizada exige cautela y evitar compras impulsivas en máximos.",
-      "noticias": "Hemos tenido en cuenta el dato de inflación que sitúa el CPI en el 3.4%, lo que alimenta expectativas de futuras bajadas de tipos y dinamiza la renta variable. Asimismo, valoramos las previsiones alcistas de Yardeni Research para el S&P 500 y la fortaleza continuada en gigantes tecnológicos como Nvidia y TSMC. Estas noticias confirman la salud macroeconómica general, aunque no justifican comprar cualquier activo sin mirar el precio.",
-      "a_favor": "El mejor argumento a favor de ampliar en Apple es que cumple rigurosamente con nuestro perfil de empresa sólida, cotizando con una corrección temporal atractiva respecto a su tendencia y permitiéndonos desplegar parte de la elevada liquidez sin arriesgar demasiado. Aplicamos nuestro ajuste estratégico de compras parciales ante correcciones moderadas.",
-      "en_contra": "El principal argumento en contra es que el mercado global se encuentra eufórico y nuestra posición anterior ya acumula una leve pérdida, por lo que añadir capital podría incrementar el riesgo si se produce una recogida de beneficios generalizada. Sin embargo, decidimos comprar porque la empresa mantiene fundamentales excelentes y un precio razonable frente al resto del mercado sobrevalorado.",
-      "riesgos": "Los principales riesgos radican en una posible corrección técnica imprevista en las grandes tecnológicas tras sus recientes rallys y la rigidez inflacionaria señalada por la Reserva Federal. Mantener un stop estricto y un 80% de liquidez nos protege frente a caídas bruscas del mercado.",
-      "plan": "Vigilaré de cerca el comportamiento de Apple y la reacción de los precios tras los datos de inflación, manteniendo el resto de la liquidez reservada para oportunidades claras de valor. No dudaremos en mantener las posiciones semanas si la tesis de negocio permanece intacta.",
-      "situacion": "Vamos ligeramente por delante del S&P 500 por 0.02 puntos en este inicio del periodo, por lo que mantendremos nuestra disciplina de valor sin caer en la tentación de arriesgar de más para buscar rentabilidades ficticias.",
-      "radar": "",
-      "rescate": ""
-     },
-     "noticias_usadas": [
-      "61142429",
-      "61144810"
-     ],
-     "sp": 771.87,
-     "animo": {
-      "siento": "Me siento prudente y con la cabeza fría ante un mercado eufórico que intenta tentarme a correr riesgos innecesarios.",
-      "influye": "Reconozco que la envidia por haber dejado pasar oportunidades pasadas ronda mi mente, pero controlo mis emociones aplicando estrictamente mi estrategia de valor y mis reglas de riesgo."
-     },
-     "emocion": "confianza",
-     "dia": {
-      "tipo": "tranquilo",
-      "cambio_sp": 0.0042
-     }
-    },
     {
      "fecha": "2026-08-13",
      "tipo": "decision",
@@ -7845,6 +7752,14 @@
      "operaciones": [],
      "rechazos": [],
      "valor": 10258.23
+    },
+    {
+     "fecha": "2026-10-29",
+     "tipo": "error",
+     "resumen": "Hoy no pude decidir porque la IA no respondió. No opero.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10285.73
     }
    ],
    "animo": {
@@ -7855,11 +7770,11 @@
     },
     "motivos": {
      "aburrimiento": "Lleva demasiado tiempo sin operar.",
-     "sorpresa": "AAPL se ha movido un +12,9 % desde que lo compró.",
-     "euforia": "Le saca 2,97 puntos al S&P 500."
+     "sorpresa": "AAPL se ha movido un +14,3 % desde que lo compró.",
+     "euforia": "Le saca 3,42 puntos al S&P 500."
     },
-    "hora": "2026-10-28T15:00:00.014880+00:00",
-    "dif": 0.02969
+    "hora": "2026-10-29T15:00:00.015766+00:00",
+    "dif": 0.03416
    },
    "descartes": [
     {
@@ -8664,6 +8579,10 @@
     {
      "fecha": "2026-10-28",
      "valor": 10470.14
+    },
+    {
+     "fecha": "2026-10-29",
+     "valor": 10497.7
     }
    ],
    "periodos_superados": 0,
@@ -8676,39 +8595,6 @@
     "aburrimiento": 0.5
    },
    "bitacora": [
-    {
-     "fecha": "2026-08-14",
-     "tipo": "decision",
-     "resumen": "Hoy mantengo una estricta inactividad, fiel a mi estrategia de replicar la cartera de Berkshire Hathaway y dejar que el tiempo trabaje a nuestro favor.",
-     "operaciones": [],
-     "rechazos": [],
-     "valor": 10195.16,
-     "informe": {
-      "mercado": "Los índices principales como el S&P 500 y el VTI muestran una sólida tendencia alcista, cotizando cómodamente por encima de sus medias móviles de 50 días. El sector energético destaca con fuerza, mientras que los inversores continúan canalizando masivos flujos de capital hacia los fondos indexados generales. A pesar de cierta debilidad macroeconómica en los datos de consumo interno, la abundancia de liquidez sostiene las valoraciones bursátiles.",
-      "noticias": "Hemos revisado los informes recientes sobre OpenAI y los grandes contratos de infraestructura para inteligencia artificial, así como la caída en la confianza del consumidor de la Universidad de Michigan. Ninguna de estas noticias afecta de forma directa y grave a las cinco empresas de nuestra cartera (Apple, American Express, Coca-Cola, Bank of America y Chevron), por lo que no justifican alterar nuestras posiciones actuales.",
-      "a_favor": "El mejor argumento a favor de no operar hoy es respetar rigurosamente nuestro compromiso de inactividad entre informes 13F y evitar los costes de transacción innecesarios. Como decía Warren Buffett, invertir con éxito requiere mucha paciencia y dejar que las grandes empresas crezcan por sí solas a lo largo de los años.",
-      "en_contra": "El principal argumento en contra de quedarnos de brazos cruzados es que vamos ligeramente por detrás del S&P 500 en este periodo de evaluación y la tentación de rotar efectivo o buscar ganancias rápidas siempre acecha. Sin embargo, arriesgar de más o saltar de una empresa a otra por impaciencia suele acabar en errores costosos y caídas indeseadas.",
-      "riesgos": "Los principales riesgos para nuestra cartera radican en la volatilidad macroeconómica derivada de la menor confianza del consumidor y posibles tomas de beneficios en el mercado tecnológico. No obstante, nuestra sólida diversificación en negocios estables nos protege adecuadamente frente a estos baches.",
-      "plan": "Mi plan para los próximos días consiste en mantener una inactividad férrea, supervisar estrictamente los niveles de stop de nuestras cinco posiciones principales y no realizar ninguna operación hasta la llegada del próximo informe 13F.",
-      "situacion": "Vamos ligeramente por detrás del S&P 500 por menos de un punto, una distancia perfectamente asumible en un horizonte a largo plazo. Mantendré la calma y la disciplina, recordando que la paciencia es el pilar fundamental de nuestra estrategia.",
-      "radar": "",
-      "rescate": ""
-     },
-     "noticias_usadas": [
-      "61210349",
-      "61177204"
-     ],
-     "sp": 776.865,
-     "animo": {
-      "siento": "Me siento tranquilo y paciente, observando cómo nuestras grandes empresas maduran con el paso del tiempo.",
-      "influye": "Reconozco una ligera tensión por ir por detrás del índice, pero mantengo la cabeza fría y sigo estrictamente mi plan de inactividad."
-     },
-     "emocion": "tension",
-     "dia": {
-      "tipo": "tranquilo",
-      "cambio_sp": 0.0012
-     }
-    },
     {
      "fecha": "2026-08-14",
      "tipo": "reflexion",
@@ -9793,6 +9679,14 @@
      "operaciones": [],
      "rechazos": [],
      "valor": 10470.14
+    },
+    {
+     "fecha": "2026-10-29",
+     "tipo": "error",
+     "resumen": "Hoy no pude decidir porque la IA no respondió. No opero.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 10497.7
     }
    ],
    "animo": {
@@ -9804,12 +9698,12 @@
     },
     "motivos": {
      "envidia": "Dejó pasar GOOGL y después hizo +3,0 %.",
-     "sorpresa": "AAPL se ha movido un +13,1 % desde que lo compró.",
+     "sorpresa": "AAPL se ha movido un +14,5 % desde que lo compró.",
      "aburrimiento": "Lleva demasiado tiempo sin operar.",
-     "euforia": "Le saca 2,64 puntos al S&P 500."
+     "euforia": "Le saca 3,10 puntos al S&P 500."
     },
-    "hora": "2026-10-28T15:00:00.014880+00:00",
-    "dif": 0.02644
+    "hora": "2026-10-29T15:00:00.015766+00:00",
+    "dif": 0.03096
    },
    "descartes": [
     {
@@ -10655,6 +10549,10 @@
     {
      "fecha": "2026-10-28",
      "valor": 9822.28
+    },
+    {
+     "fecha": "2026-10-29",
+     "valor": 9805.48
     }
    ],
    "periodos_superados": 0,
@@ -10666,14 +10564,6 @@
     "orgullo": 1.2
    },
    "bitacora": [
-    {
-     "fecha": "2026-08-14",
-     "tipo": "reflexion",
-     "resumen": "Esta semana he mantenido una postura excesivamente pasiva, refugiándome en una liquidez del 60% mientras el S&P 500 me sacaba casi tres puntos de ventaja. He tratado los informes de los congresistas con la misma sospecha con la que un diputado lee un borrador de ley a medianoche, lo que me ha paralizado a la hora de abrir nuevas posiciones. Acerté al no precipitarme con Microsoft cuando el mercado titubeaba, pero fallé al no detectar ninguna compra coral relevante entre sus señorías que justificara arriesgar capital. He aprendido que la prudencia extrema en un mercado alcista es tan letal como la desinformación parlamentaria. La semana que viene voy a buscar activamente oportunidades en las declaraciones recientes en lugar de esperar la jugada perfecta.\n\nAjuste a mi estrategia: Si tras tres días de análisis no encuentro una coincidencia clara entre congresistas, obligatoriamente revisaré el volumen de la segunda opción más repetida.",
-     "operaciones": [],
-     "rechazos": [],
-     "valor": 10000.26
-    },
     {
      "fecha": "2026-08-17",
      "tipo": "decision",
@@ -11839,6 +11729,14 @@
      "operaciones": [],
      "rechazos": [],
      "valor": 9822.28
+    },
+    {
+     "fecha": "2026-10-29",
+     "tipo": "error",
+     "resumen": "Hoy no pude decidir porque la IA no respondió. No opero.",
+     "operaciones": [],
+     "rechazos": [],
+     "valor": 9805.48
     }
    ],
    "animo": {
@@ -11853,11 +11751,11 @@
      "tension": "Va 3,83 puntos por detrás del S&P 500 y tiene que remontar.",
      "envidia": "Dejó pasar AVGO y después hizo +4,2 %.",
      "miedo": "Quedan 0 días para su evaluación y va 3,83 puntos por detrás del S&P 500.",
-     "sorpresa": "MSFT se ha movido un +8,6 % desde que lo compró.",
-     "arrepentimiento": "Vendió AMAT y desde entonces ha ido mejor que el S&P 500 (+7,6 %)."
+     "sorpresa": "MSFT se ha movido un +7,7 % desde que lo compró.",
+     "arrepentimiento": "Vendió AMAT y desde entonces ha ido mejor que el S&P 500 (+9,7 %)."
     },
-    "hora": "2026-10-28T15:00:00.014880+00:00",
-    "dif": -0.03834
+    "hora": "2026-10-29T15:00:00.015766+00:00",
+    "dif": -0.03826
    },
    "descartes": [
     {
@@ -12546,7 +12444,7 @@
  ],
  "propuestas": [],
  "contador": 6,
- "ultima_ejecucion": "2026-10-28",
+ "ultima_ejecucion": "2026-10-29",
  "ultimo_resumen": "2026-10-23",
  "referencia": [
   {
@@ -12796,6 +12694,10 @@
   {
    "fecha": "2026-10-28",
    "precio": 770.725
+  },
+  {
+   "fecha": "2026-10-29",
+   "precio": 769.395
   }
  ],
  "analistas": {
@@ -14384,2376 +14286,2376 @@
   }
  ],
  "dia_en_curso": {
-  "fecha": "2026-10-28",
+  "fecha": "2026-10-29",
   "puntos": [
    {
-    "hora": "2026-10-28T13:30Z",
-    "ref": 771.59,
+    "hora": "2026-10-29T13:30Z",
+    "ref": 768.46,
     "valores": {
-     "01-diego": 9299.46,
-     "02-elena": 10022.3,
-     "03-lucía": 9765.3,
-     "04-tomás": 10263.82,
-     "05-bernardo": 10429.91,
-     "06-carmen": 9829.08
+     "01-diego": 9245.3,
+     "02-elena": 9990.54,
+     "03-lucía": 9724.5,
+     "04-tomás": 10289.23,
+     "05-bernardo": 10509.09,
+     "06-carmen": 9853.42
     },
     "precios": {
-     "AAPL": 346.135,
-     "AMZN": 254.375,
-     "BRK.B": 541.78,
-     "CVX": 228.955,
-     "GLD": 371.365,
-     "IEF": 91.14,
-     "KO": 90.75,
-     "MSFT": 531.59,
-     "NVDA": 219.28,
-     "QCOM": 183.465,
-     "SPY": 771.59,
-     "VTI": 378.65
+     "AAPL": 350.02,
+     "AMZN": 245.825,
+     "BRK.B": 545.66,
+     "CVX": 230.17,
+     "GLD": 368.625,
+     "IEF": 90.845,
+     "KO": 92.51,
+     "MSFT": 534.75,
+     "NVDA": 214.14,
+     "QCOM": 181.22,
+     "SPY": 768.46,
+     "VTI": 377.39
     }
    },
    {
-    "hora": "2026-10-28T13:31Z",
-    "ref": 771.52,
+    "hora": "2026-10-29T13:31Z",
+    "ref": 768.82,
     "valores": {
-     "01-diego": 9302.82,
-     "02-elena": 10019.71,
-     "03-lucía": 9765.92,
-     "04-tomás": 10266.6,
-     "05-bernardo": 10431.32,
-     "06-carmen": 9826.81
+     "01-diego": 9260.54,
+     "02-elena": 9992.8,
+     "03-lucía": 9734.17,
+     "04-tomás": 10289.46,
+     "05-bernardo": 10528.43,
+     "06-carmen": 9865.54
     },
     "precios": {
-     "AAPL": 346.56,
-     "AMZN": 254.96,
-     "BRK.B": 541.72,
-     "CVX": 228.88,
-     "GLD": 371.02,
-     "IEF": 91.05,
-     "KO": 90.725,
-     "MSFT": 531.075,
-     "NVDA": 219.68,
-     "QCOM": 183.37,
-     "SPY": 771.52,
-     "VTI": 378.72
+     "AAPL": 350.055,
+     "AMZN": 246.62,
+     "BRK.B": 546.1,
+     "CVX": 231.445,
+     "GLD": 368.8,
+     "IEF": 90.845,
+     "KO": 92.75,
+     "MSFT": 537.41,
+     "NVDA": 213.91,
+     "QCOM": 180.29,
+     "SPY": 768.82,
+     "VTI": 377.48
     }
    },
    {
-    "hora": "2026-10-28T13:32Z",
-    "ref": 771.27,
+    "hora": "2026-10-29T13:32Z",
+    "ref": 768.42,
     "valores": {
-     "01-diego": 9300.8,
-     "02-elena": 10018.2,
-     "03-lucía": 9769.25,
-     "04-tomás": 10265.82,
-     "05-bernardo": 10437.11,
-     "06-carmen": 9832.39
+     "01-diego": 9240.57,
+     "02-elena": 9995.51,
+     "03-lucía": 9712.13,
+     "04-tomás": 10286.29,
+     "05-bernardo": 10528.16,
+     "06-carmen": 9842.34
     },
     "precios": {
-     "AAPL": 346.44,
-     "AMZN": 254.58,
-     "BRK.B": 541.77,
-     "CVX": 228.68,
-     "GLD": 371.015,
-     "IEF": 91.04,
-     "KO": 91.1,
-     "MSFT": 532.41,
-     "NVDA": 219.3,
-     "QCOM": 183.76,
-     "SPY": 771.27,
-     "VTI": 378.59
+     "AAPL": 349.57,
+     "AMZN": 245.195,
+     "BRK.B": 546.245,
+     "CVX": 231.61,
+     "GLD": 368.52,
+     "IEF": 91.22,
+     "KO": 92.8,
+     "MSFT": 531.6,
+     "NVDA": 213.33,
+     "QCOM": 181.44,
+     "SPY": 768.42,
+     "VTI": 377.53
     }
    },
    {
-    "hora": "2026-10-28T13:33Z",
-    "ref": 771.26,
+    "hora": "2026-10-29T13:33Z",
+    "ref": 768.075,
     "valores": {
-     "01-diego": 9299.72,
-     "02-elena": 10018.6,
-     "03-lucía": 9775.88,
-     "04-tomás": 10265.23,
-     "05-bernardo": 10436.96,
-     "06-carmen": 9840.91
+     "01-diego": 9231.3,
+     "02-elena": 9995.16,
+     "03-lucía": 9688.4,
+     "04-tomás": 10285.31,
+     "05-bernardo": 10524.31,
+     "06-carmen": 9820.5
     },
     "precios": {
-     "AAPL": 346.35,
-     "AMZN": 254.0,
-     "BRK.B": 542.41,
-     "CVX": 228.59,
-     "GLD": 371.0,
-     "IEF": 91.05,
-     "KO": 91.16,
-     "MSFT": 534.04,
-     "NVDA": 219.21,
-     "QCOM": 183.96,
-     "SPY": 771.26,
-     "VTI": 378.66
+     "AAPL": 349.42,
+     "AMZN": 245.155,
+     "BRK.B": 546.67,
+     "CVX": 231.7,
+     "GLD": 368.53,
+     "IEF": 91.26,
+     "KO": 92.635,
+     "MSFT": 525.92,
+     "NVDA": 213.62,
+     "QCOM": 180.86,
+     "SPY": 768.075,
+     "VTI": 377.53
     }
    },
    {
-    "hora": "2026-10-28T13:34Z",
-    "ref": 771.33,
+    "hora": "2026-10-29T13:34Z",
+    "ref": 767.72,
     "valores": {
-     "01-diego": 9303.02,
-     "02-elena": 10018.6,
-     "03-lucía": 9774.94,
-     "04-tomás": 10263.85,
-     "05-bernardo": 10435.24,
-     "06-carmen": 9835.04
+     "01-diego": 9221.15,
+     "02-elena": 9997.76,
+     "03-lucía": 9686.49,
+     "04-tomás": 10288.08,
+     "05-bernardo": 10529.31,
+     "06-carmen": 9827.0
     },
     "precios": {
-     "AAPL": 346.14,
-     "AMZN": 254.51,
-     "BRK.B": 540.88,
-     "CVX": 228.58,
-     "GLD": 370.96,
-     "IEF": 91.05,
-     "KO": 91.15,
-     "MSFT": 533.71,
-     "NVDA": 219.52,
-     "QCOM": 183.545,
-     "SPY": 771.33,
-     "VTI": 378.66
+     "AAPL": 349.845,
+     "AMZN": 243.195,
+     "BRK.B": 547.08,
+     "CVX": 231.68,
+     "GLD": 369.375,
+     "IEF": 91.35,
+     "KO": 92.74,
+     "MSFT": 527.22,
+     "NVDA": 213.26,
+     "QCOM": 180.17,
+     "SPY": 767.72,
+     "VTI": 377.23
     }
    },
    {
-    "hora": "2026-10-28T13:35Z",
-    "ref": 771.285,
+    "hora": "2026-10-29T13:35Z",
+    "ref": 767.795,
     "valores": {
-     "01-diego": 9301.25,
-     "02-elena": 10019.04,
-     "03-lucía": 9773.46,
-     "04-tomás": 10264.64,
-     "05-bernardo": 10441.72,
-     "06-carmen": 9834.92
+     "01-diego": 9230.88,
+     "02-elena": 9999.01,
+     "03-lucía": 9701.76,
+     "04-tomás": 10284.78,
+     "05-bernardo": 10526.24,
+     "06-carmen": 9840.38
     },
     "precios": {
-     "AAPL": 346.26,
-     "AMZN": 254.13,
-     "BRK.B": 541.26,
-     "CVX": 228.985,
-     "GLD": 371.07,
-     "IEF": 91.07,
-     "KO": 91.21,
-     "MSFT": 533.405,
-     "NVDA": 219.19,
-     "QCOM": 183.7,
-     "SPY": 771.285,
-     "VTI": 378.62
+     "AAPL": 349.34,
+     "AMZN": 243.92,
+     "BRK.B": 546.9,
+     "CVX": 231.68,
+     "GLD": 369.58,
+     "IEF": 91.39,
+     "KO": 92.75,
+     "MSFT": 530.64,
+     "NVDA": 213.04,
+     "QCOM": 180.72,
+     "SPY": 767.795,
+     "VTI": 377.15
     }
    },
    {
-    "hora": "2026-10-28T13:36Z",
-    "ref": 771.455,
+    "hora": "2026-10-29T13:36Z",
+    "ref": 768.125,
     "valores": {
-     "01-diego": 9301.71,
-     "02-elena": 10020.38,
-     "03-lucía": 9766.74,
-     "04-tomás": 10264.9,
-     "05-bernardo": 10442.95,
-     "06-carmen": 9833.02
+     "01-diego": 9228.23,
+     "02-elena": 10001.37,
+     "03-lucía": 9700.84,
+     "04-tomás": 10285.63,
+     "05-bernardo": 10524.88,
+     "06-carmen": 9844.37
     },
     "precios": {
-     "AAPL": 346.3,
-     "AMZN": 254.705,
-     "BRK.B": 542.19,
-     "CVX": 229.065,
-     "GLD": 371.21,
-     "IEF": 91.05,
-     "KO": 91.215,
-     "MSFT": 532.26,
-     "NVDA": 218.85,
-     "QCOM": 183.83,
-     "SPY": 771.455,
-     "VTI": 378.71
+     "AAPL": 349.47,
+     "AMZN": 243.315,
+     "BRK.B": 547.11,
+     "CVX": 231.68,
+     "GLD": 369.55,
+     "IEF": 91.375,
+     "KO": 92.655,
+     "MSFT": 531.47,
+     "NVDA": 212.83,
+     "QCOM": 180.29,
+     "SPY": 768.125,
+     "VTI": 377.49
     }
    },
    {
-    "hora": "2026-10-28T13:37Z",
-    "ref": 770.895,
+    "hora": "2026-10-29T13:37Z",
+    "ref": 768.025,
     "valores": {
-     "01-diego": 9298.03,
-     "02-elena": 10018.37,
-     "03-lucía": 9766.93,
-     "04-tomás": 10265.23,
-     "05-bernardo": 10442.0,
-     "06-carmen": 9832.41
+     "01-diego": 9229.22,
+     "02-elena": 9997.8,
+     "03-lucía": 9709.47,
+     "04-tomás": 10287.99,
+     "05-bernardo": 10534.71,
+     "06-carmen": 9847.14
     },
     "precios": {
-     "AAPL": 346.35,
-     "AMZN": 254.035,
-     "BRK.B": 542.19,
-     "CVX": 229.065,
-     "GLD": 371.21,
-     "IEF": 91.03,
-     "KO": 91.16,
-     "MSFT": 532.11,
-     "NVDA": 218.98,
-     "QCOM": 183.765,
-     "SPY": 770.895,
-     "VTI": 378.66
+     "AAPL": 349.83,
+     "AMZN": 242.5,
+     "BRK.B": 547.11,
+     "CVX": 232.35,
+     "GLD": 369.12,
+     "IEF": 91.33,
+     "KO": 92.67,
+     "MSFT": 532.15,
+     "NVDA": 213.12,
+     "QCOM": 180.29,
+     "SPY": 768.025,
+     "VTI": 377.36
     }
    },
    {
-    "hora": "2026-10-28T13:38Z",
-    "ref": 770.83,
+    "hora": "2026-10-29T13:38Z",
+    "ref": 767.57,
     "valores": {
-     "01-diego": 9300.94,
-     "02-elena": 10016.48,
-     "03-lucía": 9772.72,
-     "04-tomás": 10264.7,
-     "05-bernardo": 10441.42,
-     "06-carmen": 9828.57
+     "01-diego": 9221.92,
+     "02-elena": 9996.86,
+     "03-lucía": 9703.94,
+     "04-tomás": 10287.53,
+     "05-bernardo": 10528.48,
+     "06-carmen": 9845.82
     },
     "precios": {
-     "AAPL": 346.27,
-     "AMZN": 254.25,
-     "BRK.B": 540.88,
-     "CVX": 229.06,
-     "GLD": 371.21,
-     "IEF": 91.03,
-     "KO": 91.16,
-     "MSFT": 532.12,
-     "NVDA": 219.485,
-     "QCOM": 183.97,
-     "SPY": 770.83,
-     "VTI": 378.34
+     "AAPL": 349.76,
+     "AMZN": 241.835,
+     "BRK.B": 547.22,
+     "CVX": 231.96,
+     "GLD": 369.34,
+     "IEF": 91.27,
+     "KO": 92.6,
+     "MSFT": 531.745,
+     "NVDA": 212.9,
+     "QCOM": 180.29,
+     "SPY": 767.57,
+     "VTI": 377.36
     }
    },
    {
-    "hora": "2026-10-28T13:39Z",
-    "ref": 770.76,
+    "hora": "2026-10-29T13:39Z",
+    "ref": 767.765,
     "valores": {
-     "01-diego": 9302.35,
-     "02-elena": 10013.92,
-     "03-lucía": 9774.33,
-     "04-tomás": 10260.32,
-     "05-bernardo": 10441.46,
-     "06-carmen": 9826.77
+     "01-diego": 9233.4,
+     "02-elena": 9998.18,
+     "03-lucía": 9702.05,
+     "04-tomás": 10283.38,
+     "05-bernardo": 10520.38,
+     "06-carmen": 9848.08
     },
     "precios": {
-     "AAPL": 345.6,
-     "AMZN": 254.15,
-     "BRK.B": 540.3,
-     "CVX": 229.39,
-     "GLD": 370.775,
-     "IEF": 91.03,
-     "KO": 91.2,
-     "MSFT": 532.1,
-     "NVDA": 219.58,
-     "QCOM": 183.84,
-     "SPY": 770.76,
+     "AAPL": 349.125,
+     "AMZN": 243.675,
+     "BRK.B": 547.325,
+     "CVX": 231.96,
+     "GLD": 369.4,
+     "IEF": 91.31,
+     "KO": 92.43,
+     "MSFT": 532.225,
+     "NVDA": 212.91,
+     "QCOM": 179.59,
+     "SPY": 767.765,
+     "VTI": 377.36
+    }
+   },
+   {
+    "hora": "2026-10-29T13:40Z",
+    "ref": 767.9,
+    "valores": {
+     "01-diego": 9237.29,
+     "02-elena": 9999.41,
+     "03-lucía": 9705.81,
+     "04-tomás": 10286.02,
+     "05-bernardo": 10516.42,
+     "06-carmen": 9853.68
+    },
+    "precios": {
+     "AAPL": 349.53,
+     "AMZN": 244.415,
+     "BRK.B": 547.26,
+     "CVX": 231.315,
+     "GLD": 369.62,
+     "IEF": 91.285,
+     "KO": 92.44,
+     "MSFT": 533.65,
+     "NVDA": 213.01,
+     "QCOM": 179.59,
+     "SPY": 767.9,
+     "VTI": 377.39
+    }
+   },
+   {
+    "hora": "2026-10-29T13:41Z",
+    "ref": 768.12,
+    "valores": {
+     "01-diego": 9242.52,
+     "02-elena": 9999.67,
+     "03-lucía": 9719.06,
+     "04-tomás": 10286.42,
+     "05-bernardo": 10511.63,
+     "06-carmen": 9865.82
+    },
+    "precios": {
+     "AAPL": 349.59,
+     "AMZN": 244.565,
+     "BRK.B": 547.39,
+     "CVX": 230.98,
+     "GLD": 369.62,
+     "IEF": 91.26,
+     "KO": 92.37,
+     "MSFT": 536.54,
+     "NVDA": 213.24,
+     "QCOM": 179.725,
+     "SPY": 768.12,
+     "VTI": 377.39
+    }
+   },
+   {
+    "hora": "2026-10-29T13:42Z",
+    "ref": 768.62,
+    "valores": {
+     "01-diego": 9242.37,
+     "02-elena": 9999.4,
+     "03-lucía": 9723.69,
+     "04-tomás": 10286.71,
+     "05-bernardo": 10508.75,
+     "06-carmen": 9867.42
+    },
+    "precios": {
+     "AAPL": 349.635,
+     "AMZN": 244.59,
+     "BRK.B": 547.05,
+     "CVX": 230.55,
+     "GLD": 369.31,
+     "IEF": 91.25,
+     "KO": 92.43,
+     "MSFT": 537.18,
+     "NVDA": 213.46,
+     "QCOM": 180.08,
+     "SPY": 768.62,
+     "VTI": 377.39
+    }
+   },
+   {
+    "hora": "2026-10-29T13:43Z",
+    "ref": 768.23,
+    "valores": {
+     "01-diego": 9242.12,
+     "02-elena": 9997.1,
+     "03-lucía": 9728.11,
+     "04-tomás": 10285.37,
+     "05-bernardo": 10501.55,
+     "06-carmen": 9864.63
+    },
+    "precios": {
+     "AAPL": 349.43,
+     "AMZN": 244.63,
+     "BRK.B": 547.05,
+     "CVX": 230.37,
+     "GLD": 368.87,
+     "IEF": 91.25,
+     "KO": 92.26,
+     "MSFT": 536.495,
+     "NVDA": 213.97,
+     "QCOM": 180.69,
+     "SPY": 768.23,
+     "VTI": 377.54
+    }
+   },
+   {
+    "hora": "2026-10-29T13:44Z",
+    "ref": 768.72,
+    "valores": {
+     "01-diego": 9250.07,
+     "02-elena": 9997.78,
+     "03-lucía": 9741.36,
+     "04-tomás": 10283.87,
+     "05-bernardo": 10506.79,
+     "06-carmen": 9872.87
+    },
+    "precios": {
+     "AAPL": 349.2,
+     "AMZN": 244.785,
+     "BRK.B": 547.05,
+     "CVX": 230.94,
+     "GLD": 368.47,
+     "IEF": 91.24,
+     "KO": 92.29,
+     "MSFT": 538.52,
+     "NVDA": 214.09,
+     "QCOM": 180.88,
+     "SPY": 768.72,
+     "VTI": 377.8
+    }
+   },
+   {
+    "hora": "2026-10-29T13:45Z",
+    "ref": 769.155,
+    "valores": {
+     "01-diego": 9249.49,
+     "02-elena": 10001.61,
+     "03-lucía": 9738.77,
+     "04-tomás": 10281.02,
+     "05-bernardo": 10501.86,
+     "06-carmen": 9877.23
+    },
+    "precios": {
+     "AAPL": 348.765,
+     "AMZN": 244.875,
+     "BRK.B": 547.5,
+     "CVX": 230.7,
+     "GLD": 368.89,
+     "IEF": 91.24,
+     "KO": 92.31,
+     "MSFT": 539.265,
+     "NVDA": 213.72,
+     "QCOM": 180.675,
+     "SPY": 769.155,
+     "VTI": 377.93
+    }
+   },
+   {
+    "hora": "2026-10-29T13:46Z",
+    "ref": 769.35,
+    "valores": {
+     "01-diego": 9246.9,
+     "02-elena": 10003.76,
+     "03-lucía": 9727.08,
+     "04-tomás": 10279.68,
+     "05-bernardo": 10504.94,
+     "06-carmen": 9865.74
+    },
+    "precios": {
+     "AAPL": 348.56,
+     "AMZN": 245.4,
+     "BRK.B": 548.09,
+     "CVX": 230.92,
+     "GLD": 368.89,
+     "IEF": 91.28,
+     "KO": 92.4,
+     "MSFT": 536.01,
+     "NVDA": 213.5,
+     "QCOM": 181.16,
+     "SPY": 769.35,
+     "VTI": 378.14
+    }
+   },
+   {
+    "hora": "2026-10-29T13:47Z",
+    "ref": 768.74,
+    "valores": {
+     "01-diego": 9237.74,
+     "02-elena": 10000.14,
+     "03-lucía": 9709.57,
+     "04-tomás": 10283.11,
+     "05-bernardo": 10507.51,
+     "06-carmen": 9852.13
+    },
+    "precios": {
+     "AAPL": 349.085,
+     "AMZN": 244.98,
+     "BRK.B": 547.97,
+     "CVX": 230.86,
+     "GLD": 368.64,
+     "IEF": 91.28,
+     "KO": 92.39,
+     "MSFT": 532.75,
+     "NVDA": 213.37,
+     "QCOM": 180.71,
+     "SPY": 768.74,
+     "VTI": 377.985
+    }
+   },
+   {
+    "hora": "2026-10-29T13:48Z",
+    "ref": 768.405,
+    "valores": {
+     "01-diego": 9233.39,
+     "02-elena": 9999.46,
+     "03-lucía": 9701.32,
+     "04-tomás": 10284.26,
+     "05-bernardo": 10513.14,
+     "06-carmen": 9846.81
+    },
+    "precios": {
+     "AAPL": 349.26,
+     "AMZN": 244.635,
+     "BRK.B": 548.415,
+     "CVX": 231.02,
+     "GLD": 368.85,
+     "IEF": 91.28,
+     "KO": 92.51,
+     "MSFT": 531.12,
+     "NVDA": 213.315,
+     "QCOM": 180.4,
+     "SPY": 768.405,
+     "VTI": 377.84
+    }
+   },
+   {
+    "hora": "2026-10-29T13:49Z",
+    "ref": 767.71,
+    "valores": {
+     "01-diego": 9229.86,
+     "02-elena": 9998.35,
+     "03-lucía": 9691.25,
+     "04-tomás": 10281.58,
+     "05-bernardo": 10506.68,
+     "06-carmen": 9838.54
+    },
+    "precios": {
+     "AAPL": 348.85,
+     "AMZN": 244.8,
+     "BRK.B": 547.845,
+     "CVX": 230.84,
+     "GLD": 369.18,
+     "IEF": 91.32,
+     "KO": 92.43,
+     "MSFT": 529.5,
+     "NVDA": 213.145,
+     "QCOM": 180.23,
+     "SPY": 767.71,
+     "VTI": 377.59
+    }
+   },
+   {
+    "hora": "2026-10-29T13:50Z",
+    "ref": 768.03,
+    "valores": {
+     "01-diego": 9228.93,
+     "02-elena": 9998.33,
+     "03-lucía": 9691.91,
+     "04-tomás": 10284.39,
+     "05-bernardo": 10509.27,
+     "06-carmen": 9838.15
+    },
+    "precios": {
+     "AAPL": 349.28,
+     "AMZN": 244.545,
+     "BRK.B": 547.905,
+     "CVX": 230.84,
+     "GLD": 368.94,
+     "IEF": 91.34,
+     "KO": 92.42,
+     "MSFT": 529.36,
+     "NVDA": 213.38,
+     "QCOM": 180.07,
+     "SPY": 768.03,
+     "VTI": 377.59
+    }
+   },
+   {
+    "hora": "2026-10-29T13:51Z",
+    "ref": 768.08,
+    "valores": {
+     "01-diego": 9231.39,
+     "02-elena": 9998.37,
+     "03-lucía": 9688.74,
+     "04-tomás": 10286.48,
+     "05-bernardo": 10511.37,
+     "06-carmen": 9836.71
+    },
+    "precios": {
+     "AAPL": 349.6,
+     "AMZN": 245.22,
+     "BRK.B": 547.6,
+     "CVX": 230.84,
+     "GLD": 368.92,
+     "IEF": 91.34,
+     "KO": 92.42,
+     "MSFT": 529.23,
+     "NVDA": 213.03,
+     "QCOM": 180.17,
+     "SPY": 768.08,
+     "VTI": 377.59
+    }
+   },
+   {
+    "hora": "2026-10-29T13:52Z",
+    "ref": 768.445,
+    "valores": {
+     "01-diego": 9236.03,
+     "02-elena": 9998.08,
+     "03-lucía": 9694.46,
+     "04-tomás": 10288.9,
+     "05-bernardo": 10517.95,
+     "06-carmen": 9840.7
+    },
+    "precios": {
+     "AAPL": 349.97,
+     "AMZN": 245.39,
+     "BRK.B": 547.6,
+     "CVX": 231.21,
+     "GLD": 368.6,
+     "IEF": 91.31,
+     "KO": 92.43,
+     "MSFT": 530.21,
+     "NVDA": 213.02,
+     "QCOM": 180.17,
+     "SPY": 768.445,
+     "VTI": 377.71
+    }
+   },
+   {
+    "hora": "2026-10-29T13:53Z",
+    "ref": 767.98,
+    "valores": {
+     "01-diego": 9232.11,
+     "02-elena": 9996.24,
+     "03-lucía": 9688.55,
+     "04-tomás": 10289.16,
+     "05-bernardo": 10521.95,
+     "06-carmen": 9837.77
+    },
+    "precios": {
+     "AAPL": 350.01,
+     "AMZN": 245.0,
+     "BRK.B": 547.6,
+     "CVX": 231.42,
+     "GLD": 368.54,
+     "IEF": 91.285,
+     "KO": 92.495,
+     "MSFT": 529.49,
+     "NVDA": 212.59,
+     "QCOM": 180.17,
+     "SPY": 767.98,
+     "VTI": 377.71
+    }
+   },
+   {
+    "hora": "2026-10-29T13:54Z",
+    "ref": 768.06,
+    "valores": {
+     "01-diego": 9230.12,
+     "02-elena": 9994.77,
+     "03-lucía": 9683.6,
+     "04-tomás": 10289.03,
+     "05-bernardo": 10523.33,
+     "06-carmen": 9832.2
+    },
+    "precios": {
+     "AAPL": 349.99,
+     "AMZN": 245.04,
+     "BRK.B": 547.6,
+     "CVX": 231.54,
+     "GLD": 368.39,
+     "IEF": 91.28,
+     "KO": 92.505,
+     "MSFT": 528.12,
+     "NVDA": 212.495,
+     "QCOM": 180.35,
+     "SPY": 768.06,
+     "VTI": 377.54
+    }
+   },
+   {
+    "hora": "2026-10-29T13:55Z",
+    "ref": 767.86,
+    "valores": {
+     "01-diego": 9228.85,
+     "02-elena": 9994.48,
+     "03-lucía": 9684.59,
+     "04-tomás": 10288.41,
+     "05-bernardo": 10523.44,
+     "06-carmen": 9834.11
+    },
+    "precios": {
+     "AAPL": 349.895,
+     "AMZN": 244.77,
+     "BRK.B": 547.56,
+     "CVX": 231.62,
+     "GLD": 368.44,
+     "IEF": 91.28,
+     "KO": 92.5,
+     "MSFT": 528.62,
+     "NVDA": 212.18,
+     "QCOM": 180.6,
+     "SPY": 767.86,
+     "VTI": 377.54
+    }
+   },
+   {
+    "hora": "2026-10-29T13:56Z",
+    "ref": 767.79,
+    "valores": {
+     "01-diego": 9228.25,
+     "02-elena": 9994.24,
+     "03-lucía": 9683.17,
+     "04-tomás": 10285.17,
+     "05-bernardo": 10516.84,
+     "06-carmen": 9831.3
+    },
+    "precios": {
+     "AAPL": 349.4,
+     "AMZN": 244.99,
+     "BRK.B": 547.09,
+     "CVX": 231.26,
+     "GLD": 368.51,
+     "IEF": 91.25,
+     "KO": 92.52,
+     "MSFT": 528.27,
+     "NVDA": 212.37,
+     "QCOM": 180.6,
+     "SPY": 767.79,
+     "VTI": 377.54
+    }
+   },
+   {
+    "hora": "2026-10-29T13:57Z",
+    "ref": 767.7,
+    "valores": {
+     "01-diego": 9227.87,
+     "02-elena": 9993.84,
+     "03-lucía": 9681.29,
+     "04-tomás": 10283.54,
+     "05-bernardo": 10521.25,
+     "06-carmen": 9827.31
+    },
+    "precios": {
+     "AAPL": 349.15,
+     "AMZN": 244.845,
+     "BRK.B": 547.09,
+     "CVX": 231.59,
+     "GLD": 368.53,
+     "IEF": 91.23,
+     "KO": 92.63,
+     "MSFT": 527.29,
+     "NVDA": 212.54,
+     "QCOM": 180.435,
+     "SPY": 767.7,
+     "VTI": 377.54
+    }
+   },
+   {
+    "hora": "2026-10-29T13:58Z",
+    "ref": 768.59,
+    "valores": {
+     "01-diego": 9228.73,
+     "02-elena": 9996.3,
+     "03-lucía": 9685.77,
+     "04-tomás": 10285.89,
+     "05-bernardo": 10520.17,
+     "06-carmen": 9826.54
+    },
+    "precios": {
+     "AAPL": 349.51,
+     "AMZN": 245.05,
+     "BRK.B": 547.09,
+     "CVX": 231.31,
+     "GLD": 368.62,
+     "IEF": 91.205,
+     "KO": 92.61,
+     "MSFT": 527.1,
+     "NVDA": 212.98,
+     "QCOM": 180.89,
+     "SPY": 768.59,
+     "VTI": 377.54
+    }
+   },
+   {
+    "hora": "2026-10-29T13:59Z",
+    "ref": 768.71,
+    "valores": {
+     "01-diego": 9229.94,
+     "02-elena": 9996.89,
+     "03-lucía": 9687.36,
+     "04-tomás": 10287.33,
+     "05-bernardo": 10521.62,
+     "06-carmen": 9827.23
+    },
+    "precios": {
+     "AAPL": 349.73,
+     "AMZN": 245.17,
+     "BRK.B": 547.09,
+     "CVX": 231.31,
+     "GLD": 368.705,
+     "IEF": 91.195,
+     "KO": 92.61,
+     "MSFT": 527.27,
+     "NVDA": 213.04,
+     "QCOM": 180.95,
+     "SPY": 768.71,
+     "VTI": 377.54
+    }
+   },
+   {
+    "hora": "2026-10-29T14:00Z",
+    "ref": 769.0,
+    "valores": {
+     "01-diego": 9235.49,
+     "02-elena": 9999.53,
+     "03-lucía": 9691.9,
+     "04-tomás": 10287.14,
+     "05-bernardo": 10520.45,
+     "06-carmen": 9827.82
+    },
+    "precios": {
+     "AAPL": 349.7,
+     "AMZN": 245.77,
+     "BRK.B": 546.45,
+     "CVX": 231.415,
+     "GLD": 368.705,
+     "IEF": 91.195,
+     "KO": 92.52,
+     "MSFT": 527.88,
+     "NVDA": 213.175,
+     "QCOM": 181.0,
+     "SPY": 769.0,
+     "VTI": 377.89
+    }
+   },
+   {
+    "hora": "2026-10-29T14:01Z",
+    "ref": 769.35,
+    "valores": {
+     "01-diego": 9235.52,
+     "02-elena": 9999.83,
+     "03-lucía": 9697.16,
+     "04-tomás": 10286.52,
+     "05-bernardo": 10516.45,
+     "06-carmen": 9824.03
+    },
+    "precios": {
+     "AAPL": 349.605,
+     "AMZN": 245.865,
+     "BRK.B": 545.43,
+     "CVX": 231.25,
+     "GLD": 368.64,
+     "IEF": 91.17,
+     "KO": 92.45,
+     "MSFT": 527.69,
+     "NVDA": 213.38,
+     "QCOM": 181.875,
+     "SPY": 769.35,
+     "VTI": 377.89
+    }
+   },
+   {
+    "hora": "2026-10-29T14:02Z",
+    "ref": 769.73,
+    "valores": {
+     "01-diego": 9235.52,
+     "02-elena": 10004.02,
+     "03-lucía": 9696.5,
+     "04-tomás": 10287.14,
+     "05-bernardo": 10516.14,
+     "06-carmen": 9822.57
+    },
+    "precios": {
+     "AAPL": 349.7,
+     "AMZN": 245.985,
+     "BRK.B": 545.31,
+     "CVX": 231.14,
+     "GLD": 368.72,
+     "IEF": 91.18,
+     "KO": 92.46,
+     "MSFT": 527.42,
+     "NVDA": 213.49,
+     "QCOM": 181.87,
+     "SPY": 769.73,
+     "VTI": 378.39
+    }
+   },
+   {
+    "hora": "2026-10-29T14:03Z",
+    "ref": 769.65,
+    "valores": {
+     "01-diego": 9233.06,
+     "02-elena": 10003.8,
+     "03-lucía": 9695.73,
+     "04-tomás": 10286.71,
+     "05-bernardo": 10514.32,
+     "06-carmen": 9822.59
+    },
+    "precios": {
+     "AAPL": 349.635,
+     "AMZN": 245.655,
+     "BRK.B": 545.59,
+     "CVX": 231.075,
+     "GLD": 368.9,
+     "IEF": 91.18,
+     "KO": 92.43,
+     "MSFT": 527.22,
+     "NVDA": 213.53,
+     "QCOM": 181.87,
+     "SPY": 769.65,
+     "VTI": 378.23
+    }
+   },
+   {
+    "hora": "2026-10-29T14:04Z",
+    "ref": 769.72,
+    "valores": {
+     "01-diego": 9232.35,
+     "02-elena": 10004.11,
+     "03-lucía": 9689.81,
+     "04-tomás": 10287.14,
+     "05-bernardo": 10514.63,
+     "06-carmen": 9822.38
+    },
+    "precios": {
+     "AAPL": 349.7,
+     "AMZN": 245.7,
+     "BRK.B": 545.59,
+     "CVX": 231.075,
+     "GLD": 368.9,
+     "IEF": 91.19,
+     "KO": 92.425,
+     "MSFT": 527.17,
+     "NVDA": 213.27,
+     "QCOM": 181.28,
+     "SPY": 769.72,
+     "VTI": 378.23
+    }
+   },
+   {
+    "hora": "2026-10-29T14:05Z",
+    "ref": 769.42,
+    "valores": {
+     "01-diego": 9228.41,
+     "02-elena": 10002.22,
+     "03-lucía": 9678.04,
+     "04-tomás": 10287.66,
+     "05-bernardo": 10515.66,
+     "06-carmen": 9815.86
+    },
+    "precios": {
+     "AAPL": 349.78,
+     "AMZN": 245.61,
+     "BRK.B": 545.59,
+     "CVX": 231.155,
+     "GLD": 368.64,
+     "IEF": 91.2,
+     "KO": 92.41,
+     "MSFT": 525.565,
+     "NVDA": 213.005,
+     "QCOM": 180.735,
+     "SPY": 769.42,
+     "VTI": 378.23
+    }
+   },
+   {
+    "hora": "2026-10-29T14:06Z",
+    "ref": 769.09,
+    "valores": {
+     "01-diego": 9226.77,
+     "02-elena": 10001.63,
+     "03-lucía": 9675.51,
+     "04-tomás": 10288.77,
+     "05-bernardo": 10516.89,
+     "06-carmen": 9813.55
+    },
+    "precios": {
+     "AAPL": 349.95,
+     "AMZN": 245.555,
+     "BRK.B": 545.67,
+     "CVX": 231.1,
+     "GLD": 368.7,
+     "IEF": 91.2,
+     "KO": 92.44,
+     "MSFT": 524.94,
+     "NVDA": 213.04,
+     "QCOM": 180.735,
+     "SPY": 769.09,
+     "VTI": 378.23
+    }
+   },
+   {
+    "hora": "2026-10-29T14:07Z",
+    "ref": 769.81,
+    "valores": {
+     "01-diego": 9231.85,
+     "02-elena": 10002.32,
+     "03-lucía": 9685.29,
+     "04-tomás": 10291.26,
+     "05-bernardo": 10517.89,
+     "06-carmen": 9817.17
+    },
+    "precios": {
+     "AAPL": 350.33,
+     "AMZN": 246.09,
+     "BRK.B": 545.67,
+     "CVX": 230.96,
+     "GLD": 368.55,
+     "IEF": 91.16,
+     "KO": 92.44,
+     "MSFT": 525.83,
+     "NVDA": 213.365,
+     "QCOM": 181.405,
+     "SPY": 769.81,
+     "VTI": 378.23
+    }
+   },
+   {
+    "hora": "2026-10-29T14:08Z",
+    "ref": 769.275,
+    "valores": {
+     "01-diego": 9228.4,
+     "02-elena": 10000.23,
+     "03-lucía": 9680.66,
+     "04-tomás": 10291.62,
+     "05-bernardo": 10519.88,
+     "06-carmen": 9812.82
+    },
+    "precios": {
+     "AAPL": 350.385,
+     "AMZN": 245.775,
+     "BRK.B": 545.56,
+     "CVX": 231.07,
+     "GLD": 368.515,
+     "IEF": 91.15,
+     "KO": 92.46,
+     "MSFT": 524.84,
+     "NVDA": 213.25,
+     "QCOM": 181.405,
+     "SPY": 769.275,
+     "VTI": 378.16
+    }
+   },
+   {
+    "hora": "2026-10-29T14:09Z",
+    "ref": 768.72,
+    "valores": {
+     "01-diego": 9225.44,
+     "02-elena": 9998.27,
+     "03-lucía": 9677.85,
+     "04-tomás": 10293.35,
+     "05-bernardo": 10523.74,
+     "06-carmen": 9809.93
+    },
+    "precios": {
+     "AAPL": 350.65,
+     "AMZN": 245.36,
+     "BRK.B": 545.56,
+     "CVX": 231.27,
+     "GLD": 368.41,
+     "IEF": 91.15,
+     "KO": 92.46,
+     "MSFT": 524.13,
+     "NVDA": 213.16,
+     "QCOM": 181.405,
+     "SPY": 768.72,
+     "VTI": 378.16
+    }
+   },
+   {
+    "hora": "2026-10-29T14:10Z",
+    "ref": 768.16,
+    "valores": {
+     "01-diego": 9224.49,
+     "02-elena": 9994.31,
+     "03-lucía": 9668.01,
+     "04-tomás": 10291.03,
+     "05-bernardo": 10524.33,
+     "06-carmen": 9809.63
+    },
+    "precios": {
+     "AAPL": 350.295,
+     "AMZN": 245.28,
+     "BRK.B": 545.355,
+     "CVX": 231.435,
+     "GLD": 368.35,
+     "IEF": 91.18,
+     "KO": 92.51,
+     "MSFT": 524.205,
+     "NVDA": 212.72,
+     "QCOM": 180.185,
+     "SPY": 768.16,
+     "VTI": 377.68
+    }
+   },
+   {
+    "hora": "2026-10-29T14:11Z",
+    "ref": 768.34,
+    "valores": {
+     "01-diego": 9225.14,
+     "02-elena": 9995.92,
+     "03-lucía": 9667.76,
+     "04-tomás": 10290.47,
+     "05-bernardo": 10520.93,
+     "06-carmen": 9808.59
+    },
+    "precios": {
+     "AAPL": 350.21,
+     "AMZN": 245.52,
+     "BRK.B": 545.08,
+     "CVX": 231.255,
+     "GLD": 368.59,
+     "IEF": 91.18,
+     "KO": 92.47,
+     "MSFT": 524.15,
+     "NVDA": 212.81,
+     "QCOM": 180.185,
+     "SPY": 768.34,
+     "VTI": 377.68
+    }
+   },
+   {
+    "hora": "2026-10-29T14:12Z",
+    "ref": 768.29,
+    "valores": {
+     "01-diego": 9226.99,
+     "02-elena": 9993.71,
+     "03-lucía": 9672.65,
+     "04-tomás": 10289.23,
+     "05-bernardo": 10520.86,
+     "06-carmen": 9812.67
+    },
+    "precios": {
+     "AAPL": 350.02,
+     "AMZN": 245.57,
+     "BRK.B": 545.33,
+     "CVX": 231.245,
+     "GLD": 368.14,
+     "IEF": 91.19,
+     "KO": 92.525,
+     "MSFT": 524.97,
+     "NVDA": 212.84,
+     "QCOM": 180.41,
+     "SPY": 768.29,
+     "VTI": 377.665
+    }
+   },
+   {
+    "hora": "2026-10-29T14:13Z",
+    "ref": 768.22,
+    "valores": {
+     "01-diego": 9228.08,
+     "02-elena": 9994.49,
+     "03-lucía": 9673.23,
+     "04-tomás": 10289.23,
+     "05-bernardo": 10519.58,
+     "06-carmen": 9812.13
+    },
+    "precios": {
+     "AAPL": 350.02,
+     "AMZN": 245.71,
+     "BRK.B": 544.82,
+     "CVX": 231.245,
+     "GLD": 368.37,
+     "IEF": 91.18,
+     "KO": 92.47,
+     "MSFT": 525.21,
+     "NVDA": 212.795,
+     "QCOM": 180.41,
+     "SPY": 768.22,
+     "VTI": 377.665
+    }
+   },
+   {
+    "hora": "2026-10-29T14:14Z",
+    "ref": 768.645,
+    "valores": {
+     "01-diego": 9228.64,
+     "02-elena": 9995.62,
+     "03-lucía": 9675.7,
+     "04-tomás": 10289.75,
+     "05-bernardo": 10518.66,
+     "06-carmen": 9813.31
+    },
+    "precios": {
+     "AAPL": 350.1,
+     "AMZN": 245.695,
+     "BRK.B": 544.82,
+     "CVX": 231.12,
+     "GLD": 368.4,
+     "IEF": 91.17,
+     "KO": 92.465,
+     "MSFT": 525.5,
+     "NVDA": 213.02,
+     "QCOM": 180.375,
+     "SPY": 768.645,
+     "VTI": 377.665
+    }
+   },
+   {
+    "hora": "2026-10-29T14:15Z",
+    "ref": 768.64,
+    "valores": {
+     "01-diego": 9228.14,
+     "02-elena": 9995.73,
+     "03-lucía": 9675.12,
+     "04-tomás": 10289.49,
+     "05-bernardo": 10518.14,
+     "06-carmen": 9814.05
+    },
+    "precios": {
+     "AAPL": 350.06,
+     "AMZN": 245.615,
+     "BRK.B": 544.82,
+     "CVX": 231.15,
+     "GLD": 368.425,
+     "IEF": 91.17,
+     "KO": 92.44,
+     "MSFT": 525.68,
+     "NVDA": 212.86,
+     "QCOM": 180.375,
+     "SPY": 768.64,
+     "VTI": 377.665
+    }
+   },
+   {
+    "hora": "2026-10-29T14:16Z",
+    "ref": 768.92,
+    "valores": {
+     "01-diego": 9231.95,
+     "02-elena": 9997.83,
+     "03-lucía": 9681.61,
+     "04-tomás": 10289.1,
+     "05-bernardo": 10517.51,
+     "06-carmen": 9815.65
+    },
+    "precios": {
+     "AAPL": 350.0,
+     "AMZN": 246.02,
+     "BRK.B": 544.8,
+     "CVX": 231.15,
+     "GLD": 368.44,
+     "IEF": 91.195,
+     "KO": 92.43,
+     "MSFT": 526.09,
+     "NVDA": 213.08,
+     "QCOM": 180.865,
+     "SPY": 768.92,
+     "VTI": 377.845
+    }
+   },
+   {
+    "hora": "2026-10-29T14:17Z",
+    "ref": 769.4,
+    "valores": {
+     "01-diego": 9234.7,
+     "02-elena": 10002.78,
+     "03-lucía": 9684.72,
+     "04-tomás": 10288.97,
+     "05-bernardo": 10517.61,
+     "06-carmen": 9814.47
+    },
+    "precios": {
+     "AAPL": 349.98,
+     "AMZN": 246.4,
+     "BRK.B": 544.8,
+     "CVX": 231.15,
+     "GLD": 368.84,
+     "IEF": 91.195,
+     "KO": 92.44,
+     "MSFT": 525.8,
+     "NVDA": 213.41,
+     "QCOM": 181.095,
+     "SPY": 769.4,
+     "VTI": 378.18
+    }
+   },
+   {
+    "hora": "2026-10-29T14:18Z",
+    "ref": 769.555,
+    "valores": {
+     "01-diego": 9233.19,
+     "02-elena": 10003.85,
+     "03-lucía": 9684.91,
+     "04-tomás": 10289.43,
+     "05-bernardo": 10518.42,
+     "06-carmen": 9812.23
+    },
+    "precios": {
+     "AAPL": 350.05,
+     "AMZN": 246.235,
+     "BRK.B": 544.735,
+     "CVX": 231.15,
+     "GLD": 368.98,
+     "IEF": 91.195,
+     "KO": 92.455,
+     "MSFT": 525.295,
+     "NVDA": 213.52,
+     "QCOM": 181.32,
+     "SPY": 769.555,
+     "VTI": 378.18
+    }
+   },
+   {
+    "hora": "2026-10-29T14:19Z",
+    "ref": 769.41,
+    "valores": {
+     "01-diego": 9231.88,
+     "02-elena": 10002.9,
+     "03-lucía": 9683.8,
+     "04-tomás": 10289.0,
+     "05-bernardo": 10517.53,
+     "06-carmen": 9809.3
+    },
+    "precios": {
+     "AAPL": 349.985,
+     "AMZN": 246.115,
+     "BRK.B": 544.66,
+     "CVX": 231.15,
+     "GLD": 368.86,
+     "IEF": 91.195,
+     "KO": 92.435,
+     "MSFT": 524.63,
+     "NVDA": 213.7,
+     "QCOM": 181.32,
+     "SPY": 769.41,
+     "VTI": 378.18
+    }
+   },
+   {
+    "hora": "2026-10-29T14:20Z",
+    "ref": 769.345,
+    "valores": {
+     "01-diego": 9229.19,
+     "02-elena": 10003.18,
+     "03-lucía": 9676.8,
+     "04-tomás": 10286.87,
+     "05-bernardo": 10514.59,
+     "06-carmen": 9804.36
+    },
+    "precios": {
+     "AAPL": 349.66,
+     "AMZN": 246.19,
+     "BRK.B": 544.915,
+     "CVX": 231.15,
+     "GLD": 368.91,
+     "IEF": 91.195,
+     "KO": 92.4,
+     "MSFT": 523.23,
+     "NVDA": 213.54,
+     "QCOM": 181.365,
+     "SPY": 769.345,
+     "VTI": 378.22
+    }
+   },
+   {
+    "hora": "2026-10-29T14:21Z",
+    "ref": 769.25,
+    "valores": {
+     "01-diego": 9227.86,
+     "02-elena": 10002.23,
+     "03-lucía": 9676.19,
+     "04-tomás": 10287.01,
+     "05-bernardo": 10510.8,
+     "06-carmen": 9806.64
+    },
+    "precios": {
+     "AAPL": 349.68,
+     "AMZN": 246.12,
+     "BRK.B": 544.97,
+     "CVX": 230.89,
+     "GLD": 368.83,
+     "IEF": 91.17,
+     "KO": 92.35,
+     "MSFT": 523.75,
+     "NVDA": 213.375,
+     "QCOM": 181.36,
+     "SPY": 769.25,
+     "VTI": 378.22
+    }
+   },
+   {
+    "hora": "2026-10-29T14:22Z",
+    "ref": 769.28,
+    "valores": {
+     "01-diego": 9230.25,
+     "02-elena": 10002.27,
+     "03-lucía": 9679.78,
+     "04-tomás": 10286.25,
+     "05-bernardo": 10513.76,
+     "06-carmen": 9808.88
+    },
+    "precios": {
+     "AAPL": 349.565,
+     "AMZN": 246.14,
+     "BRK.B": 544.97,
+     "CVX": 231.12,
+     "GLD": 368.955,
+     "IEF": 91.15,
+     "KO": 92.405,
+     "MSFT": 524.3,
+     "NVDA": 213.4,
+     "QCOM": 181.36,
+     "SPY": 769.28,
+     "VTI": 378.15
+    }
+   },
+   {
+    "hora": "2026-10-29T14:23Z",
+    "ref": 769.4,
+    "valores": {
+     "01-diego": 9232.91,
+     "02-elena": 10002.5,
+     "03-lucía": 9679.96,
+     "04-tomás": 10286.09,
+     "05-bernardo": 10513.02,
+     "06-carmen": 9807.46
+    },
+    "precios": {
+     "AAPL": 349.54,
+     "AMZN": 246.495,
+     "BRK.B": 544.6,
+     "CVX": 231.12,
+     "GLD": 368.91,
+     "IEF": 91.16,
+     "KO": 92.38,
+     "MSFT": 524.22,
+     "NVDA": 213.63,
+     "QCOM": 181.08,
+     "SPY": 769.4,
+     "VTI": 378.15
+    }
+   },
+   {
+    "hora": "2026-10-29T14:24Z",
+    "ref": 769.315,
+    "valores": {
+     "01-diego": 9232.55,
+     "02-elena": 10001.19,
+     "03-lucía": 9677.85,
+     "04-tomás": 10287.99,
+     "05-bernardo": 10512.45,
+     "06-carmen": 9805.58
+    },
+    "precios": {
+     "AAPL": 349.83,
+     "AMZN": 246.7,
+     "BRK.B": 544.325,
+     "CVX": 230.92,
+     "GLD": 368.68,
+     "IEF": 91.16,
+     "KO": 92.365,
+     "MSFT": 523.96,
+     "NVDA": 213.62,
+     "QCOM": 181.08,
+     "SPY": 769.315,
+     "VTI": 378.15
+    }
+   },
+   {
+    "hora": "2026-10-29T14:25Z",
+    "ref": 769.425,
+    "valores": {
+     "01-diego": 9232.57,
+     "02-elena": 10001.96,
+     "03-lucía": 9676.58,
+     "04-tomás": 10288.08,
+     "05-bernardo": 10512.66,
+     "06-carmen": 9807.21
+    },
+    "precios": {
+     "AAPL": 349.845,
+     "AMZN": 246.715,
+     "BRK.B": 544.325,
+     "CVX": 230.92,
+     "GLD": 368.75,
+     "IEF": 91.13,
+     "KO": 92.37,
+     "MSFT": 524.36,
+     "NVDA": 213.38,
+     "QCOM": 180.95,
+     "SPY": 769.425,
+     "VTI": 378.25
+    }
+   },
+   {
+    "hora": "2026-10-29T14:26Z",
+    "ref": 769.415,
+    "valores": {
+     "01-diego": 9238.11,
+     "02-elena": 10001.42,
+     "03-lucía": 9684.38,
+     "04-tomás": 10289.33,
+     "05-bernardo": 10517.33,
+     "06-carmen": 9812.68
+    },
+    "precios": {
+     "AAPL": 350.035,
+     "AMZN": 246.925,
+     "BRK.B": 544.51,
+     "CVX": 231.22,
+     "GLD": 368.64,
+     "IEF": 91.13,
+     "KO": 92.38,
+     "MSFT": 525.57,
+     "NVDA": 213.55,
+     "QCOM": 180.92,
+     "SPY": 769.415,
+     "VTI": 378.25
+    }
+   },
+   {
+    "hora": "2026-10-29T14:27Z",
+    "ref": 768.76,
+    "valores": {
+     "01-diego": 9235.96,
+     "02-elena": 10001.8,
+     "03-lucía": 9682.21,
+     "04-tomás": 10288.12,
+     "05-bernardo": 10517.02,
+     "06-carmen": 9813.89
+    },
+    "precios": {
+     "AAPL": 349.85,
+     "AMZN": 246.615,
+     "BRK.B": 544.96,
+     "CVX": 231.305,
+     "GLD": 369.02,
+     "IEF": 91.155,
+     "KO": 92.38,
+     "MSFT": 525.54,
+     "NVDA": 213.325,
+     "QCOM": 180.85,
+     "SPY": 768.76,
+     "VTI": 378.25
+    }
+   },
+   {
+    "hora": "2026-10-29T14:28Z",
+    "ref": 768.69,
+    "valores": {
+     "01-diego": 9236.44,
+     "02-elena": 10000.58,
+     "03-lucía": 9678.18,
+     "04-tomás": 10288.12,
+     "05-bernardo": 10519.14,
+     "06-carmen": 9813.21
+    },
+    "precios": {
+     "AAPL": 349.85,
+     "AMZN": 246.81,
+     "BRK.B": 545.19,
+     "CVX": 231.33,
+     "GLD": 369.06,
+     "IEF": 91.21,
+     "KO": 92.46,
+     "MSFT": 525.205,
+     "NVDA": 213.28,
+     "QCOM": 180.435,
+     "SPY": 768.69,
+     "VTI": 377.89
+    }
+   },
+   {
+    "hora": "2026-10-29T14:29Z",
+    "ref": 769.38,
+    "valores": {
+     "01-diego": 9240.21,
+     "02-elena": 10004.64,
+     "03-lucía": 9686.15,
+     "04-tomás": 10288.12,
+     "05-bernardo": 10519.25,
+     "06-carmen": 9816.79
+    },
+    "precios": {
+     "AAPL": 349.85,
+     "AMZN": 246.98,
+     "BRK.B": 545.19,
+     "CVX": 231.33,
+     "GLD": 369.12,
+     "IEF": 91.22,
+     "KO": 92.465,
+     "MSFT": 526.085,
+     "NVDA": 213.63,
+     "QCOM": 180.635,
+     "SPY": 769.38,
+     "VTI": 378.23
+    }
+   },
+   {
+    "hora": "2026-10-29T14:30Z",
+    "ref": 769.545,
+    "valores": {
+     "01-diego": 9239.83,
+     "02-elena": 10005.29,
+     "03-lucía": 9685.31,
+     "04-tomás": 10289.43,
+     "05-bernardo": 10521.95,
+     "06-carmen": 9815.51
+    },
+    "precios": {
+     "AAPL": 350.05,
+     "AMZN": 247.01,
+     "BRK.B": 545.19,
+     "CVX": 231.33,
+     "GLD": 369.12,
+     "IEF": 91.22,
+     "KO": 92.525,
+     "MSFT": 525.77,
+     "NVDA": 213.64,
+     "QCOM": 180.7,
+     "SPY": 769.545,
+     "VTI": 378.27
+    }
+   },
+   {
+    "hora": "2026-10-29T14:31Z",
+    "ref": 769.63,
+    "valores": {
+     "01-diego": 9238.39,
+     "02-elena": 10005.11,
+     "03-lucía": 9682.36,
+     "04-tomás": 10288.25,
+     "05-bernardo": 10519.27,
+     "06-carmen": 9812.1
+    },
+    "precios": {
+     "AAPL": 349.87,
+     "AMZN": 247.06,
+     "BRK.B": 545.07,
+     "CVX": 231.21,
+     "GLD": 369.08,
+     "IEF": 91.22,
+     "KO": 92.515,
+     "MSFT": 525.02,
+     "NVDA": 213.72,
+     "QCOM": 180.7,
+     "SPY": 769.63,
+     "VTI": 378.23
+    }
+   },
+   {
+    "hora": "2026-10-29T14:32Z",
+    "ref": 769.95,
+    "valores": {
+     "01-diego": 9239.81,
+     "02-elena": 10006.68,
+     "03-lucía": 9687.03,
+     "04-tomás": 10289.16,
+     "05-bernardo": 10519.23,
+     "06-carmen": 9814.83
+    },
+    "precios": {
+     "AAPL": 350.01,
+     "AMZN": 247.24,
+     "BRK.B": 544.975,
+     "CVX": 231.0,
+     "GLD": 369.04,
+     "IEF": 91.22,
+     "KO": 92.57,
+     "MSFT": 525.76,
+     "NVDA": 213.75,
+     "QCOM": 181.11,
+     "SPY": 769.95,
+     "VTI": 378.4
+    }
+   },
+   {
+    "hora": "2026-10-29T14:33Z",
+    "ref": 769.77,
+    "valores": {
+     "01-diego": 9239.11,
+     "02-elena": 10006.21,
+     "03-lucía": 9684.97,
+     "04-tomás": 10288.54,
+     "05-bernardo": 10517.22,
+     "06-carmen": 9812.41
+    },
+    "precios": {
+     "AAPL": 349.915,
+     "AMZN": 247.33,
+     "BRK.B": 544.975,
+     "CVX": 230.88,
+     "GLD": 369.04,
+     "IEF": 91.22,
+     "KO": 92.565,
+     "MSFT": 525.165,
+     "NVDA": 213.9,
+     "QCOM": 181.04,
+     "SPY": 769.77,
+     "VTI": 378.4
+    }
+   },
+   {
+    "hora": "2026-10-29T14:34Z",
+    "ref": 770.04,
+    "valores": {
+     "01-diego": 9241.63,
+     "02-elena": 10007.19,
+     "03-lucía": 9690.7,
+     "04-tomás": 10288.8,
+     "05-bernardo": 10517.83,
+     "06-carmen": 9815.08
+    },
+    "precios": {
+     "AAPL": 349.955,
+     "AMZN": 247.44,
+     "BRK.B": 544.77,
+     "CVX": 230.88,
+     "GLD": 369.04,
+     "IEF": 91.22,
+     "KO": 92.58,
+     "MSFT": 525.97,
+     "NVDA": 214.02,
+     "QCOM": 181.27,
+     "SPY": 770.04,
+     "VTI": 378.45
+    }
+   },
+   {
+    "hora": "2026-10-29T14:35Z",
+    "ref": 769.67,
+    "valores": {
+     "01-diego": 9241.81,
+     "02-elena": 10006.74,
+     "03-lucía": 9692.91,
+     "04-tomás": 10288.12,
+     "05-bernardo": 10514.64,
+     "06-carmen": 9817.84
+    },
+    "precios": {
+     "AAPL": 349.85,
+     "AMZN": 247.35,
+     "BRK.B": 544.77,
+     "CVX": 230.83,
+     "GLD": 369.04,
+     "IEF": 91.22,
+     "KO": 92.495,
+     "MSFT": 526.65,
+     "NVDA": 213.93,
+     "QCOM": 181.35,
+     "SPY": 769.67,
+     "VTI": 378.55
+    }
+   },
+   {
+    "hora": "2026-10-29T14:36Z",
+    "ref": 770.015,
+    "valores": {
+     "01-diego": 9243.07,
+     "02-elena": 10008.99,
+     "03-lucía": 9696.33,
+     "04-tomás": 10288.44,
+     "05-bernardo": 10513.57,
+     "06-carmen": 9820.61
+    },
+    "precios": {
+     "AAPL": 349.9,
+     "AMZN": 247.25,
+     "BRK.B": 544.77,
+     "CVX": 230.84,
+     "GLD": 369.35,
+     "IEF": 91.21,
+     "KO": 92.43,
+     "MSFT": 527.33,
+     "NVDA": 214.09,
+     "QCOM": 181.19,
+     "SPY": 770.015,
+     "VTI": 378.55
+    }
+   },
+   {
+    "hora": "2026-10-29T14:37Z",
+    "ref": 770.07,
+    "valores": {
+     "01-diego": 9243.65,
+     "02-elena": 10008.65,
+     "03-lucía": 9698.27,
+     "04-tomás": 10288.71,
+     "05-bernardo": 10515.1,
+     "06-carmen": 9822.91
+    },
+    "precios": {
+     "AAPL": 349.94,
+     "AMZN": 247.21,
+     "BRK.B": 544.95,
+     "CVX": 230.84,
+     "GLD": 369.35,
+     "IEF": 91.21,
+     "KO": 92.485,
+     "MSFT": 527.765,
+     "NVDA": 214.09,
+     "QCOM": 181.215,
+     "SPY": 770.07,
+     "VTI": 378.46
+    }
+   },
+   {
+    "hora": "2026-10-29T14:38Z",
+    "ref": 769.7,
+    "valores": {
+     "01-diego": 9242.26,
+     "02-elena": 10007.23,
+     "03-lucía": 9696.33,
+     "04-tomás": 10288.38,
+     "05-bernardo": 10514.89,
+     "06-carmen": 9821.29
+    },
+    "precios": {
+     "AAPL": 349.89,
+     "AMZN": 247.11,
+     "BRK.B": 544.85,
+     "CVX": 230.84,
+     "GLD": 369.3,
+     "IEF": 91.21,
+     "KO": 92.49,
+     "MSFT": 527.44,
+     "NVDA": 214.025,
+     "QCOM": 181.215,
+     "SPY": 769.7,
+     "VTI": 378.42
+    }
+   },
+   {
+    "hora": "2026-10-29T14:39Z",
+    "ref": 769.93,
+    "valores": {
+     "01-diego": 9242.79,
+     "02-elena": 10007.08,
+     "03-lucía": 9693.22,
+     "04-tomás": 10288.35,
+     "05-bernardo": 10515.94,
+     "06-carmen": 9818.23
+    },
+    "precios": {
+     "AAPL": 349.885,
+     "AMZN": 247.4,
+     "BRK.B": 544.93,
+     "CVX": 230.92,
+     "GLD": 369.3,
+     "IEF": 91.21,
+     "KO": 92.5,
+     "MSFT": 526.63,
+     "NVDA": 214.01,
+     "QCOM": 181.215,
+     "SPY": 769.93,
      "VTI": 378.28
     }
    },
    {
-    "hora": "2026-10-28T13:40Z",
-    "ref": 770.56,
+    "hora": "2026-10-29T14:40Z",
+    "ref": 769.74,
     "valores": {
-     "01-diego": 9300.71,
-     "02-elena": 10014.79,
-     "03-lucía": 9767.06,
-     "04-tomás": 10259.6,
-     "05-bernardo": 10439.58,
-     "06-carmen": 9824.89
+     "01-diego": 9240.75,
+     "02-elena": 10006.78,
+     "03-lucía": 9691.68,
+     "04-tomás": 10287.3,
+     "05-bernardo": 10514.89,
+     "06-carmen": 9816.48
     },
     "precios": {
-     "AAPL": 345.49,
-     "AMZN": 254.25,
-     "BRK.B": 540.39,
-     "CVX": 229.39,
-     "GLD": 371.135,
-     "IEF": 91.015,
-     "KO": 91.15,
-     "MSFT": 531.57,
-     "NVDA": 219.21,
-     "QCOM": 183.54,
-     "SPY": 770.56,
-     "VTI": 378.26
-    }
-   },
-   {
-    "hora": "2026-10-28T13:41Z",
-    "ref": 770.66,
-    "valores": {
-     "01-diego": 9298.29,
-     "02-elena": 10015.06,
-     "03-lucía": 9764.82,
-     "04-tomás": 10256.46,
-     "05-bernardo": 10428.23,
-     "06-carmen": 9828.51
-    },
-    "precios": {
-     "AAPL": 345.01,
-     "AMZN": 254.385,
-     "BRK.B": 540.2,
-     "CVX": 228.595,
-     "GLD": 371.135,
-     "IEF": 91.015,
-     "KO": 91.16,
-     "MSFT": 532.6,
-     "NVDA": 218.91,
-     "QCOM": 183.54,
-     "SPY": 770.66,
-     "VTI": 378.26
-    }
-   },
-   {
-    "hora": "2026-10-28T13:42Z",
-    "ref": 770.57,
-    "valores": {
-     "01-diego": 9295.75,
-     "02-elena": 10015.04,
-     "03-lucía": 9763.39,
-     "04-tomás": 10257.51,
-     "05-bernardo": 10429.7,
-     "06-carmen": 9827.68
-    },
-    "precios": {
-     "AAPL": 345.17,
-     "AMZN": 254.145,
-     "BRK.B": 540.2,
-     "CVX": 228.395,
-     "GLD": 371.08,
-     "IEF": 91.015,
-     "KO": 91.27,
-     "MSFT": 532.395,
-     "NVDA": 218.98,
-     "QCOM": 183.49,
-     "SPY": 770.57,
-     "VTI": 378.35
-    }
-   },
-   {
-    "hora": "2026-10-28T13:43Z",
-    "ref": 770.62,
-    "valores": {
-     "01-diego": 9294.62,
-     "02-elena": 10015.24,
-     "03-lucía": 9760.75,
-     "04-tomás": 10259.86,
-     "05-bernardo": 10435.28,
-     "06-carmen": 9823.23
-    },
-    "precios": {
-     "AAPL": 345.53,
-     "AMZN": 254.04,
-     "BRK.B": 539.585,
-     "CVX": 228.6,
-     "GLD": 371.08,
-     "IEF": 91.02,
-     "KO": 91.315,
-     "MSFT": 531.75,
-     "NVDA": 218.865,
-     "QCOM": 183.51,
-     "SPY": 770.62,
-     "VTI": 378.35
-    }
-   },
-   {
-    "hora": "2026-10-28T13:44Z",
-    "ref": 770.46,
-    "valores": {
-     "01-diego": 9293.4,
-     "02-elena": 10014.5,
-     "03-lucía": 9759.03,
-     "04-tomás": 10260.39,
-     "05-bernardo": 10437.46,
-     "06-carmen": 9821.63
-    },
-    "precios": {
-     "AAPL": 345.61,
-     "AMZN": 253.74,
-     "BRK.B": 539.66,
-     "CVX": 228.81,
-     "GLD": 371.07,
-     "IEF": 91.02,
-     "KO": 91.29,
-     "MSFT": 531.3,
-     "NVDA": 218.94,
-     "QCOM": 183.24,
-     "SPY": 770.46,
-     "VTI": 378.3
-    }
-   },
-   {
-    "hora": "2026-10-28T13:45Z",
-    "ref": 770.425,
-    "valores": {
-     "01-diego": 9292.5,
-     "02-elena": 10014.89,
-     "03-lucía": 9755.22,
-     "04-tomás": 10259.27,
-     "05-bernardo": 10434.4,
-     "06-carmen": 9824.95
-    },
-    "precios": {
-     "AAPL": 345.44,
-     "AMZN": 253.81,
-     "BRK.B": 540.0,
-     "CVX": 228.605,
-     "GLD": 371.2,
-     "IEF": 91.01,
-     "KO": 91.3,
-     "MSFT": 531.87,
-     "NVDA": 218.55,
-     "QCOM": 182.95,
-     "SPY": 770.425,
-     "VTI": 378.3
-    }
-   },
-   {
-    "hora": "2026-10-28T13:46Z",
-    "ref": 770.1,
-    "valores": {
-     "01-diego": 9290.74,
-     "02-elena": 10014.18,
-     "03-lucía": 9750.48,
-     "04-tomás": 10259.27,
-     "05-bernardo": 10438.97,
-     "06-carmen": 9822.51
-    },
-    "precios": {
-     "AAPL": 345.44,
-     "AMZN": 253.68,
-     "BRK.B": 540.0,
-     "CVX": 228.795,
-     "GLD": 371.15,
-     "IEF": 91.04,
-     "KO": 91.41,
-     "MSFT": 531.27,
-     "NVDA": 218.285,
-     "QCOM": 182.82,
-     "SPY": 770.1,
-     "VTI": 378.3
-    }
-   },
-   {
-    "hora": "2026-10-28T13:47Z",
-    "ref": 770.125,
-    "valores": {
-     "01-diego": 9291.75,
-     "02-elena": 10014.69,
-     "03-lucía": 9750.7,
-     "04-tomás": 10258.62,
-     "05-bernardo": 10440.15,
-     "06-carmen": 9823.09
-    },
-    "precios": {
-     "AAPL": 345.34,
-     "AMZN": 253.635,
-     "BRK.B": 540.84,
-     "CVX": 229.11,
-     "GLD": 371.19,
-     "IEF": 91.06,
-     "KO": 91.345,
-     "MSFT": 530.8,
-     "NVDA": 218.44,
-     "QCOM": 182.69,
-     "SPY": 770.125,
-     "VTI": 378.3
-    }
-   },
-   {
-    "hora": "2026-10-28T13:48Z",
-    "ref": 769.47,
-    "valores": {
-     "01-diego": 9287.14,
-     "02-elena": 10011.21,
-     "03-lucía": 9741.84,
-     "04-tomás": 10259.01,
-     "05-bernardo": 10443.86,
-     "06-carmen": 9821.63
-    },
-    "precios": {
-     "AAPL": 345.4,
-     "AMZN": 253.195,
-     "BRK.B": 541.38,
-     "CVX": 229.39,
-     "GLD": 371.13,
-     "IEF": 91.05,
-     "KO": 91.36,
-     "MSFT": 530.05,
-     "NVDA": 217.8,
-     "QCOM": 182.47,
-     "SPY": 769.47,
-     "VTI": 378.05
-    }
-   },
-   {
-    "hora": "2026-10-28T13:49Z",
-    "ref": 769.76,
-    "valores": {
-     "01-diego": 9287.82,
-     "02-elena": 10012.26,
-     "03-lucía": 9740.95,
-     "04-tomás": 10259.93,
-     "05-bernardo": 10440.58,
-     "06-carmen": 9825.01
-    },
-    "precios": {
-     "AAPL": 345.54,
-     "AMZN": 253.525,
-     "BRK.B": 541.695,
-     "CVX": 229.115,
-     "GLD": 371.29,
-     "IEF": 91.055,
-     "KO": 91.305,
-     "MSFT": 530.65,
-     "NVDA": 217.53,
-     "QCOM": 182.54,
-     "SPY": 769.76,
-     "VTI": 377.95
-    }
-   },
-   {
-    "hora": "2026-10-28T13:50Z",
-    "ref": 769.595,
-    "valores": {
-     "01-diego": 9285.92,
-     "02-elena": 10010.52,
-     "03-lucía": 9741.28,
-     "04-tomás": 10257.77,
-     "05-bernardo": 10439.19,
-     "06-carmen": 9824.18
-    },
-    "precios": {
-     "AAPL": 345.21,
-     "AMZN": 253.33,
-     "BRK.B": 541.52,
-     "CVX": 228.98,
-     "GLD": 371.08,
-     "IEF": 91.025,
-     "KO": 91.4,
-     "MSFT": 530.575,
-     "NVDA": 217.545,
-     "QCOM": 182.74,
-     "SPY": 769.595,
-     "VTI": 377.965
-    }
-   },
-   {
-    "hora": "2026-10-28T13:51Z",
-    "ref": 769.795,
-    "valores": {
-     "01-diego": 9286.49,
-     "02-elena": 10011.92,
-     "03-lucía": 9743.57,
-     "04-tomás": 10258.56,
-     "05-bernardo": 10441.81,
-     "06-carmen": 9824.65
-    },
-    "precios": {
-     "AAPL": 345.33,
-     "AMZN": 253.35,
-     "BRK.B": 541.52,
-     "CVX": 229.0,
-     "GLD": 371.195,
-     "IEF": 91.05,
-     "KO": 91.47,
-     "MSFT": 530.69,
-     "NVDA": 217.585,
-     "QCOM": 182.98,
-     "SPY": 769.795,
-     "VTI": 377.965
-    }
-   },
-   {
-    "hora": "2026-10-28T13:52Z",
-    "ref": 769.605,
-    "valores": {
-     "01-diego": 9284.22,
-     "02-elena": 10011.55,
-     "03-lucía": 9739.65,
-     "04-tomás": 10257.44,
-     "05-bernardo": 10442.26,
-     "06-carmen": 9822.83
-    },
-    "precios": {
-     "AAPL": 345.16,
-     "AMZN": 253.17,
-     "BRK.B": 541.605,
-     "CVX": 229.005,
-     "GLD": 371.25,
-     "IEF": 91.04,
-     "KO": 91.535,
-     "MSFT": 530.18,
-     "NVDA": 217.49,
-     "QCOM": 182.81,
-     "SPY": 769.605,
-     "VTI": 377.965
-    }
-   },
-   {
-    "hora": "2026-10-28T13:53Z",
-    "ref": 770.06,
-    "valores": {
-     "01-diego": 9285.29,
-     "02-elena": 10012.14,
-     "03-lucía": 9741.87,
-     "04-tomás": 10258.95,
-     "05-bernardo": 10442.46,
-     "06-carmen": 9823.9
-    },
-    "precios": {
-     "AAPL": 345.39,
-     "AMZN": 253.255,
-     "BRK.B": 541.665,
-     "CVX": 228.915,
-     "GLD": 371.12,
-     "IEF": 91.04,
-     "KO": 91.52,
-     "MSFT": 530.4,
-     "NVDA": 217.68,
-     "QCOM": 182.81,
-     "SPY": 770.06,
-     "VTI": 377.965
-    }
-   },
-   {
-    "hora": "2026-10-28T13:54Z",
-    "ref": 770.38,
-    "valores": {
-     "01-diego": 9286.3,
-     "02-elena": 10012.62,
-     "03-lucía": 9743.52,
-     "04-tomás": 10258.56,
-     "05-bernardo": 10441.02,
-     "06-carmen": 9824.71
-    },
-    "precios": {
-     "AAPL": 345.33,
-     "AMZN": 253.34,
-     "BRK.B": 541.8,
-     "CVX": 228.86,
-     "GLD": 371.125,
-     "IEF": 91.01,
-     "KO": 91.5,
-     "MSFT": 530.5,
-     "NVDA": 217.865,
-     "QCOM": 182.775,
-     "SPY": 770.38,
-     "VTI": 377.965
-    }
-   },
-   {
-    "hora": "2026-10-28T13:55Z",
-    "ref": 770.17,
-    "valores": {
-     "01-diego": 9283.95,
-     "02-elena": 10011.83,
-     "03-lucía": 9740.02,
-     "04-tomás": 10258.29,
-     "05-bernardo": 10441.22,
-     "06-carmen": 9823.49
-    },
-    "precios": {
-     "AAPL": 345.29,
-     "AMZN": 253.135,
-     "BRK.B": 541.8,
-     "CVX": 228.86,
-     "GLD": 371.02,
-     "IEF": 91.03,
-     "KO": 91.52,
-     "MSFT": 530.2,
-     "NVDA": 217.68,
-     "QCOM": 182.675,
-     "SPY": 770.17,
-     "VTI": 377.965
-    }
-   },
-   {
-    "hora": "2026-10-28T13:56Z",
-    "ref": 770.46,
-    "valores": {
-     "01-diego": 9283.52,
-     "02-elena": 10012.91,
-     "03-lucía": 9743.11,
-     "04-tomás": 10257.48,
-     "05-bernardo": 10437.76,
-     "06-carmen": 9824.92
-    },
-    "precios": {
-     "AAPL": 345.165,
-     "AMZN": 253.025,
-     "BRK.B": 542.045,
-     "CVX": 228.72,
-     "GLD": 371.06,
-     "IEF": 91.04,
-     "KO": 91.47,
-     "MSFT": 530.375,
-     "NVDA": 217.86,
-     "QCOM": 182.92,
-     "SPY": 770.46,
-     "VTI": 377.965
-    }
-   },
-   {
-    "hora": "2026-10-28T13:57Z",
-    "ref": 770.4,
-    "valores": {
-     "01-diego": 9283.34,
-     "02-elena": 10013.01,
-     "03-lucía": 9741.69,
-     "04-tomás": 10256.99,
-     "05-bernardo": 10438.78,
-     "06-carmen": 9823.28
-    },
-    "precios": {
-     "AAPL": 345.09,
-     "AMZN": 253.08,
-     "BRK.B": 541.91,
-     "CVX": 228.72,
-     "GLD": 371.115,
-     "IEF": 91.04,
-     "KO": 91.535,
-     "MSFT": 530.07,
-     "NVDA": 217.88,
-     "QCOM": 182.86,
-     "SPY": 770.4,
-     "VTI": 377.965
-    }
-   },
-   {
-    "hora": "2026-10-28T13:58Z",
-    "ref": 770.59,
-    "valores": {
-     "01-diego": 9284.74,
-     "02-elena": 10015.31,
-     "03-lucía": 9744.75,
-     "04-tomás": 10256.1,
-     "05-bernardo": 10437.54,
-     "06-carmen": 9822.39
-    },
-    "precios": {
-     "AAPL": 344.955,
-     "AMZN": 253.195,
-     "BRK.B": 541.38,
-     "CVX": 228.72,
-     "GLD": 371.08,
-     "IEF": 91.04,
-     "KO": 91.52,
-     "MSFT": 530.235,
-     "NVDA": 218.01,
-     "QCOM": 183.07,
-     "SPY": 770.59,
-     "VTI": 378.33
-    }
-   },
-   {
-    "hora": "2026-10-28T13:59Z",
-    "ref": 770.53,
-    "valores": {
-     "01-diego": 9284.32,
-     "02-elena": 10015.28,
-     "03-lucía": 9743.08,
-     "04-tomás": 10255.02,
-     "05-bernardo": 10437.39,
-     "06-carmen": 9821.41
-    },
-    "precios": {
-     "AAPL": 344.79,
-     "AMZN": 253.25,
-     "BRK.B": 541.38,
-     "CVX": 228.72,
-     "GLD": 371.08,
-     "IEF": 91.05,
-     "KO": 91.56,
-     "MSFT": 529.995,
-     "NVDA": 217.92,
-     "QCOM": 183.095,
-     "SPY": 770.53,
-     "VTI": 378.33
-    }
-   },
-   {
-    "hora": "2026-10-28T14:00Z",
-    "ref": 770.245,
-    "valores": {
-     "01-diego": 9283.94,
-     "02-elena": 10012.61,
-     "03-lucía": 9740.93,
-     "04-tomás": 10255.61,
-     "05-bernardo": 10438.67,
-     "06-carmen": 9820.27
-    },
-    "precios": {
-     "AAPL": 344.88,
-     "AMZN": 253.37,
-     "BRK.B": 541.64,
-     "CVX": 228.72,
-     "GLD": 370.875,
-     "IEF": 91.035,
-     "KO": 91.59,
-     "MSFT": 529.525,
-     "NVDA": 217.86,
-     "QCOM": 183.155,
-     "SPY": 770.245,
-     "VTI": 378.19
-    }
-   },
-   {
-    "hora": "2026-10-28T14:01Z",
-    "ref": 770.31,
-    "valores": {
-     "01-diego": 9286.23,
-     "02-elena": 10012.32,
-     "03-lucía": 9741.87,
-     "04-tomás": 10256.85,
-     "05-bernardo": 10446.38,
-     "06-carmen": 9821.46
-    },
-    "precios": {
-     "AAPL": 345.07,
-     "AMZN": 253.29,
-     "BRK.B": 541.76,
-     "CVX": 229.11,
-     "GLD": 370.79,
-     "IEF": 91.03,
-     "KO": 91.69,
-     "MSFT": 529.73,
-     "NVDA": 217.97,
-     "QCOM": 182.67,
-     "SPY": 770.31,
-     "VTI": 378.19
-    }
-   },
-   {
-    "hora": "2026-10-28T14:02Z",
-    "ref": 770.58,
-    "valores": {
-     "01-diego": 9286.65,
-     "02-elena": 10013.88,
-     "03-lucía": 9745.2,
-     "04-tomás": 10257.38,
-     "05-bernardo": 10445.43,
-     "06-carmen": 9820.81
-    },
-    "precios": {
-     "AAPL": 345.15,
-     "AMZN": 253.175,
-     "BRK.B": 541.76,
-     "CVX": 229.19,
-     "GLD": 370.97,
-     "IEF": 91.03,
-     "KO": 91.59,
-     "MSFT": 529.57,
-     "NVDA": 218.26,
-     "QCOM": 182.84,
-     "SPY": 770.58,
-     "VTI": 378.19
-    }
-   },
-   {
-    "hora": "2026-10-28T14:03Z",
-    "ref": 770.625,
-    "valores": {
-     "01-diego": 9288.85,
-     "02-elena": 10014.77,
-     "03-lucía": 9747.45,
-     "04-tomás": 10258.56,
-     "05-bernardo": 10450.62,
-     "06-carmen": 9820.26
-    },
-    "precios": {
-     "AAPL": 345.33,
-     "AMZN": 253.29,
-     "BRK.B": 541.59,
-     "CVX": 229.48,
-     "GLD": 371.2,
-     "IEF": 91.005,
-     "KO": 91.63,
-     "MSFT": 529.56,
-     "NVDA": 218.28,
-     "QCOM": 182.97,
-     "SPY": 770.625,
-     "VTI": 378.19
-    }
-   },
-   {
-    "hora": "2026-10-28T14:04Z",
-    "ref": 770.9,
-    "valores": {
-     "01-diego": 9288.35,
-     "02-elena": 10014.64,
-     "03-lucía": 9746.69,
-     "04-tomás": 10258.88,
-     "05-bernardo": 10446.25,
-     "06-carmen": 9819.85
-    },
-    "precios": {
-     "AAPL": 345.38,
-     "AMZN": 253.43,
-     "BRK.B": 541.71,
-     "CVX": 229.19,
-     "GLD": 370.95,
-     "IEF": 91.03,
-     "KO": 91.56,
-     "MSFT": 529.37,
-     "NVDA": 218.44,
-     "QCOM": 182.96,
-     "SPY": 770.9,
-     "VTI": 378.19
-    }
-   },
-   {
-    "hora": "2026-10-28T14:05Z",
-    "ref": 770.9,
-    "valores": {
-     "01-diego": 9287.66,
-     "02-elena": 10014.78,
-     "03-lucía": 9743.56,
-     "04-tomás": 10260.32,
-     "05-bernardo": 10448.13,
-     "06-carmen": 9819.68
-    },
-    "precios": {
-     "AAPL": 345.6,
-     "AMZN": 253.475,
-     "BRK.B": 542.025,
-     "CVX": 229.275,
-     "GLD": 370.98,
-     "IEF": 91.03,
-     "KO": 91.54,
-     "MSFT": 529.1,
-     "NVDA": 218.175,
-     "QCOM": 182.96,
-     "SPY": 770.9,
-     "VTI": 378.19
-    }
-   },
-   {
-    "hora": "2026-10-28T14:06Z",
-    "ref": 770.74,
-    "valores": {
-     "01-diego": 9285.48,
-     "02-elena": 10015.42,
-     "03-lucía": 9738.88,
-     "04-tomás": 10259.21,
-     "05-bernardo": 10445.77,
-     "06-carmen": 9816.39
-    },
-    "precios": {
-     "AAPL": 345.43,
-     "AMZN": 253.52,
-     "BRK.B": 542.08,
-     "CVX": 229.18,
-     "GLD": 370.98,
-     "IEF": 91.0,
-     "KO": 91.53,
-     "MSFT": 528.25,
-     "NVDA": 218.06,
-     "QCOM": 183.02,
-     "SPY": 770.74,
-     "VTI": 378.46
-    }
-   },
-   {
-    "hora": "2026-10-28T14:07Z",
-    "ref": 770.42,
-    "valores": {
-     "01-diego": 9284.25,
-     "02-elena": 10013.86,
-     "03-lucía": 9738.67,
-     "04-tomás": 10257.41,
-     "05-bernardo": 10441.19,
-     "06-carmen": 9818.92
-    },
-    "precios": {
-     "AAPL": 345.155,
-     "AMZN": 253.425,
-     "BRK.B": 542.23,
-     "CVX": 228.94,
-     "GLD": 370.83,
-     "IEF": 91.0,
-     "KO": 91.52,
-     "MSFT": 528.765,
-     "NVDA": 217.94,
-     "QCOM": 183.0,
-     "SPY": 770.42,
-     "VTI": 378.46
-    }
-   },
-   {
-    "hora": "2026-10-28T14:08Z",
-    "ref": 770.56,
-    "valores": {
-     "01-diego": 9283.75,
-     "02-elena": 10014.2,
-     "03-lucía": 9739.33,
-     "04-tomás": 10259.41,
-     "05-bernardo": 10445.8,
-     "06-carmen": 9817.85
-    },
-    "precios": {
-     "AAPL": 345.46,
-     "AMZN": 253.26,
-     "BRK.B": 542.23,
-     "CVX": 229.11,
-     "GLD": 370.905,
-     "IEF": 90.97,
-     "KO": 91.555,
-     "MSFT": 528.5,
-     "NVDA": 217.96,
-     "QCOM": 183.135,
-     "SPY": 770.56,
-     "VTI": 378.46
-    }
-   },
-   {
-    "hora": "2026-10-28T14:09Z",
-    "ref": 770.49,
-    "valores": {
-     "01-diego": 9284.75,
-     "02-elena": 10014.47,
-     "03-lucía": 9738.3,
-     "04-tomás": 10257.25,
-     "05-bernardo": 10443.41,
-     "06-carmen": 9819.88
-    },
-    "precios": {
-     "AAPL": 345.13,
-     "AMZN": 253.41,
-     "BRK.B": 542.4,
-     "CVX": 229.11,
-     "GLD": 370.905,
-     "IEF": 91.005,
-     "KO": 91.545,
-     "MSFT": 528.875,
-     "NVDA": 217.795,
-     "QCOM": 182.945,
-     "SPY": 770.49,
-     "VTI": 378.46
-    }
-   },
-   {
-    "hora": "2026-10-28T14:10Z",
-    "ref": 770.65,
-    "valores": {
-     "01-diego": 9284.31,
-     "02-elena": 10013.72,
-     "03-lucía": 9737.92,
-     "04-tomás": 10257.44,
-     "05-bernardo": 10443.37,
-     "06-carmen": 9820.65
-    },
-    "precios": {
-     "AAPL": 345.16,
-     "AMZN": 253.395,
-     "BRK.B": 542.77,
-     "CVX": 229.0,
-     "GLD": 370.78,
-     "IEF": 90.96,
-     "KO": 91.585,
-     "MSFT": 528.795,
-     "NVDA": 217.9,
-     "QCOM": 182.86,
-     "SPY": 770.65,
-     "VTI": 378.46
-    }
-   },
-   {
-    "hora": "2026-10-28T14:11Z",
-    "ref": 770.15,
-    "valores": {
-     "01-diego": 9283.22,
-     "02-elena": 10012.47,
-     "03-lucía": 9732.41,
-     "04-tomás": 10256.46,
-     "05-bernardo": 10441.69,
-     "06-carmen": 9822.23
-    },
-    "precios": {
-     "AAPL": 345.01,
-     "AMZN": 253.36,
-     "BRK.B": 542.77,
-     "CVX": 229.0,
-     "GLD": 371.045,
-     "IEF": 90.96,
-     "KO": 91.555,
-     "MSFT": 529.185,
-     "NVDA": 217.42,
-     "QCOM": 182.375,
-     "SPY": 770.15,
-     "VTI": 378.24
-    }
-   },
-   {
-    "hora": "2026-10-28T14:12Z",
-    "ref": 770.615,
-    "valores": {
-     "01-diego": 9286.26,
-     "02-elena": 10013.67,
-     "03-lucía": 9735.51,
-     "04-tomás": 10256.92,
-     "05-bernardo": 10445.28,
-     "06-carmen": 9824.14
-    },
-    "precios": {
-     "AAPL": 345.08,
-     "AMZN": 253.71,
-     "BRK.B": 542.845,
-     "CVX": 229.0,
-     "GLD": 371.09,
-     "IEF": 90.975,
-     "KO": 91.69,
-     "MSFT": 529.6,
-     "NVDA": 217.5,
-     "QCOM": 182.49,
-     "SPY": 770.615,
-     "VTI": 378.16
-    }
-   },
-   {
-    "hora": "2026-10-28T14:13Z",
-    "ref": 770.91,
-    "valores": {
-     "01-diego": 9289.29,
-     "02-elena": 10013.75,
-     "03-lucía": 9739.01,
-     "04-tomás": 10256.72,
-     "05-bernardo": 10447.05,
-     "06-carmen": 9823.2
-    },
-    "precios": {
-     "AAPL": 345.05,
-     "AMZN": 253.925,
-     "BRK.B": 542.54,
-     "CVX": 229.295,
-     "GLD": 370.955,
-     "IEF": 90.97,
-     "KO": 91.64,
-     "MSFT": 529.59,
-     "NVDA": 217.59,
-     "QCOM": 182.725,
-     "SPY": 770.91,
-     "VTI": 378.16
-    }
-   },
-   {
-    "hora": "2026-10-28T14:14Z",
-    "ref": 770.94,
-    "valores": {
-     "01-diego": 9291.81,
-     "02-elena": 10015.53,
-     "03-lucía": 9742.83,
-     "04-tomás": 10256.95,
-     "05-bernardo": 10449.75,
-     "06-carmen": 9825.48
-    },
-    "precios": {
-     "AAPL": 345.085,
-     "AMZN": 254.025,
-     "BRK.B": 542.79,
-     "CVX": 229.495,
-     "GLD": 370.95,
-     "IEF": 90.97,
-     "KO": 91.655,
-     "MSFT": 529.97,
-     "NVDA": 217.655,
-     "QCOM": 182.85,
-     "SPY": 770.94,
-     "VTI": 378.48
-    }
-   },
-   {
-    "hora": "2026-10-28T14:15Z",
-    "ref": 770.895,
-    "valores": {
-     "01-diego": 9289.73,
-     "02-elena": 10014.57,
-     "03-lucía": 9741.51,
-     "04-tomás": 10256.66,
-     "05-bernardo": 10450.04,
-     "06-carmen": 9825.2
-    },
-    "precios": {
-     "AAPL": 345.04,
-     "AMZN": 253.74,
-     "BRK.B": 542.79,
-     "CVX": 229.495,
-     "GLD": 370.84,
-     "IEF": 90.945,
-     "KO": 91.68,
-     "MSFT": 529.9,
-     "NVDA": 217.56,
-     "QCOM": 182.82,
-     "SPY": 770.895,
-     "VTI": 378.48
-    }
-   },
-   {
-    "hora": "2026-10-28T14:16Z",
-    "ref": 770.8,
-    "valores": {
-     "01-diego": 9289.88,
-     "02-elena": 10014.55,
-     "03-lucía": 9742.48,
-     "04-tomás": 10256.53,
-     "05-bernardo": 10451.84,
-     "06-carmen": 9826.37
-    },
-    "precios": {
-     "AAPL": 345.02,
-     "AMZN": 253.59,
-     "BRK.B": 543.365,
-     "CVX": 229.71,
-     "GLD": 370.93,
-     "IEF": 90.93,
-     "KO": 91.665,
-     "MSFT": 529.77,
-     "NVDA": 217.605,
-     "QCOM": 182.835,
-     "SPY": 770.8,
-     "VTI": 378.48
-    }
-   },
-   {
-    "hora": "2026-10-28T14:17Z",
-    "ref": 770.89,
-    "valores": {
-     "01-diego": 9288.52,
-     "02-elena": 10013.98,
-     "03-lucía": 9742.57,
-     "04-tomás": 10256.59,
-     "05-bernardo": 10447.99,
-     "06-carmen": 9825.39
-    },
-    "precios": {
-     "AAPL": 345.03,
-     "AMZN": 253.54,
-     "BRK.B": 542.86,
-     "CVX": 229.45,
-     "GLD": 370.84,
-     "IEF": 90.93,
-     "KO": 91.615,
-     "MSFT": 529.895,
-     "NVDA": 217.615,
-     "QCOM": 182.96,
-     "SPY": 770.89,
-     "VTI": 378.41
-    }
-   },
-   {
-    "hora": "2026-10-28T14:18Z",
-    "ref": 770.88,
-    "valores": {
-     "01-diego": 9289.14,
-     "02-elena": 10013.39,
-     "03-lucía": 9742.56,
-     "04-tomás": 10256.0,
-     "05-bernardo": 10451.24,
-     "06-carmen": 9823.72
-    },
-    "precios": {
-     "AAPL": 344.94,
-     "AMZN": 253.57,
-     "BRK.B": 542.93,
-     "CVX": 229.67,
-     "GLD": 370.76,
-     "IEF": 90.915,
-     "KO": 91.68,
-     "MSFT": 529.435,
-     "NVDA": 217.665,
-     "QCOM": 183.03,
-     "SPY": 770.88,
-     "VTI": 378.41
-    }
-   },
-   {
-    "hora": "2026-10-28T14:19Z",
-    "ref": 770.94,
-    "valores": {
-     "01-diego": 9289.85,
-     "02-elena": 10015.17,
-     "03-lucía": 9745.84,
-     "04-tomás": 10255.06,
-     "05-bernardo": 10448.04,
-     "06-carmen": 9822.53
-    },
-    "precios": {
-     "AAPL": 344.795,
-     "AMZN": 253.675,
-     "BRK.B": 542.555,
-     "CVX": 229.545,
-     "GLD": 370.92,
-     "IEF": 90.945,
-     "KO": 91.64,
-     "MSFT": 529.415,
-     "NVDA": 217.9,
-     "QCOM": 183.35,
-     "SPY": 770.94,
-     "VTI": 378.5
-    }
-   },
-   {
-    "hora": "2026-10-28T14:20Z",
-    "ref": 770.9,
-    "valores": {
-     "01-diego": 9289.73,
-     "02-elena": 10014.78,
-     "03-lucía": 9747.13,
-     "04-tomás": 10255.25,
-     "05-bernardo": 10448.16,
-     "06-carmen": 9823.05
-    },
-    "precios": {
-     "AAPL": 344.825,
-     "AMZN": 253.56,
-     "BRK.B": 542.695,
-     "CVX": 229.56,
-     "GLD": 370.86,
-     "IEF": 90.945,
-     "KO": 91.63,
-     "MSFT": 529.44,
-     "NVDA": 218.025,
-     "QCOM": 183.345,
-     "SPY": 770.9,
-     "VTI": 378.5
-    }
-   },
-   {
-    "hora": "2026-10-28T14:21Z",
-    "ref": 770.78,
-    "valores": {
-     "01-diego": 9287.98,
-     "02-elena": 10012.92,
-     "03-lucía": 9744.37,
-     "04-tomás": 10256.27,
-     "05-bernardo": 10450.23,
-     "06-carmen": 9821.68
-    },
-    "precios": {
-     "AAPL": 344.98,
-     "AMZN": 253.435,
-     "BRK.B": 542.695,
-     "CVX": 229.605,
-     "GLD": 370.69,
-     "IEF": 90.91,
-     "KO": 91.655,
-     "MSFT": 529.105,
-     "NVDA": 217.83,
-     "QCOM": 183.38,
-     "SPY": 770.78,
-     "VTI": 378.445
-    }
-   },
-   {
-    "hora": "2026-10-28T14:22Z",
-    "ref": 770.72,
-    "valores": {
-     "01-diego": 9288.73,
-     "02-elena": 10012.24,
-     "03-lucía": 9744.79,
-     "04-tomás": 10256.27,
-     "05-bernardo": 10451.82,
-     "06-carmen": 9824.18
-    },
-    "precios": {
-     "AAPL": 344.98,
-     "AMZN": 253.44,
-     "BRK.B": 543.2,
-     "CVX": 229.7,
-     "GLD": 370.58,
-     "IEF": 90.91,
-     "KO": 91.68,
-     "MSFT": 529.35,
-     "NVDA": 217.765,
-     "QCOM": 183.3,
-     "SPY": 770.72,
-     "VTI": 378.445
-    }
-   },
-   {
-    "hora": "2026-10-28T14:23Z",
-    "ref": 770.685,
-    "valores": {
-     "01-diego": 9288.3,
-     "02-elena": 10012.12,
-     "03-lucía": 9746.41,
-     "04-tomás": 10255.29,
-     "05-bernardo": 10451.33,
-     "06-carmen": 9823.5
-    },
-    "precios": {
-     "AAPL": 344.83,
-     "AMZN": 253.275,
-     "BRK.B": 543.005,
-     "CVX": 229.735,
-     "GLD": 370.63,
-     "IEF": 90.89,
-     "KO": 91.685,
-     "MSFT": 529.325,
-     "NVDA": 217.88,
-     "QCOM": 183.39,
-     "SPY": 770.685,
-     "VTI": 378.445
-    }
-   },
-   {
-    "hora": "2026-10-28T14:24Z",
-    "ref": 770.83,
-    "valores": {
-     "01-diego": 9289.77,
-     "02-elena": 10012.56,
-     "03-lucía": 9750.74,
-     "04-tomás": 10256.0,
-     "05-bernardo": 10450.11,
-     "06-carmen": 9823.36
-    },
-    "precios": {
-     "AAPL": 344.94,
-     "AMZN": 253.35,
-     "BRK.B": 542.83,
-     "CVX": 229.76,
-     "GLD": 370.64,
-     "IEF": 90.89,
-     "KO": 91.59,
-     "MSFT": 529.42,
-     "NVDA": 218.1,
-     "QCOM": 183.71,
-     "SPY": 770.83,
-     "VTI": 378.445
-    }
-   },
-   {
-    "hora": "2026-10-28T14:25Z",
-    "ref": 770.5,
-    "valores": {
-     "01-diego": 9289.12,
-     "02-elena": 10012.01,
-     "03-lucía": 9749.58,
-     "04-tomás": 10255.09,
-     "05-bernardo": 10447.73,
-     "06-carmen": 9822.56
-    },
-    "precios": {
-     "AAPL": 344.8,
-     "AMZN": 253.335,
-     "BRK.B": 542.66,
-     "CVX": 229.655,
-     "GLD": 370.655,
-     "IEF": 90.91,
-     "KO": 91.575,
-     "MSFT": 529.345,
-     "NVDA": 218.135,
-     "QCOM": 183.59,
-     "SPY": 770.5,
-     "VTI": 378.445
-    }
-   },
-   {
-    "hora": "2026-10-28T14:26Z",
-    "ref": 770.61,
-    "valores": {
-     "01-diego": 9290.21,
-     "02-elena": 10011.95,
-     "03-lucía": 9750.26,
-     "04-tomás": 10254.96,
-     "05-bernardo": 10450.28,
-     "06-carmen": 9822.79
-    },
-    "precios": {
-     "AAPL": 344.78,
-     "AMZN": 253.37,
-     "BRK.B": 542.8,
-     "CVX": 229.82,
-     "GLD": 370.58,
-     "IEF": 90.91,
-     "KO": 91.615,
-     "MSFT": 529.3,
-     "NVDA": 218.17,
-     "QCOM": 183.55,
-     "SPY": 770.61,
-     "VTI": 378.445
-    }
-   },
-   {
-    "hora": "2026-10-28T14:27Z",
-    "ref": 770.525,
-    "valores": {
-     "01-diego": 9289.23,
-     "02-elena": 10011.68,
-     "03-lucía": 9748.85,
-     "04-tomás": 10254.83,
-     "05-bernardo": 10450.73,
-     "06-carmen": 9821.76
-    },
-    "precios": {
-     "AAPL": 344.76,
-     "AMZN": 253.27,
-     "BRK.B": 542.68,
-     "CVX": 229.82,
-     "GLD": 370.57,
-     "IEF": 90.91,
-     "KO": 91.64,
-     "MSFT": 529.135,
-     "NVDA": 218.14,
-     "QCOM": 183.47,
-     "SPY": 770.525,
-     "VTI": 378.445
-    }
-   },
-   {
-    "hora": "2026-10-28T14:28Z",
-    "ref": 770.91,
-    "valores": {
-     "01-diego": 9292.16,
-     "02-elena": 10012.82,
-     "03-lucía": 9751.83,
-     "04-tomás": 10254.43,
-     "05-bernardo": 10449.99,
-     "06-carmen": 9822.44
-    },
-    "precios": {
-     "AAPL": 344.7,
-     "AMZN": 253.58,
-     "BRK.B": 542.545,
-     "CVX": 229.82,
-     "GLD": 370.61,
-     "IEF": 90.905,
-     "KO": 91.625,
-     "MSFT": 529.4,
-     "NVDA": 218.34,
-     "QCOM": 183.48,
-     "SPY": 770.91,
-     "VTI": 378.445
-    }
-   },
-   {
-    "hora": "2026-10-28T14:29Z",
-    "ref": 770.78,
-    "valores": {
-     "01-diego": 9292.44,
-     "02-elena": 10011.94,
-     "03-lucía": 9752.23,
-     "04-tomás": 10254.14,
-     "05-bernardo": 10449.34,
-     "06-carmen": 9824.0
-    },
-    "precios": {
-     "AAPL": 344.655,
-     "AMZN": 253.59,
-     "BRK.B": 542.735,
-     "CVX": 229.82,
-     "GLD": 370.61,
-     "IEF": 90.895,
-     "KO": 91.61,
-     "MSFT": 529.645,
-     "NVDA": 218.27,
-     "QCOM": 183.485,
-     "SPY": 770.78,
+     "AAPL": 349.725,
+     "AMZN": 247.17,
+     "BRK.B": 544.97,
+     "CVX": 230.92,
+     "GLD": 369.24,
+     "IEF": 91.21,
+     "KO": 92.5,
+     "MSFT": 526.17,
+     "NVDA": 214.05,
+     "QCOM": 181.215,
+     "SPY": 769.74,
      "VTI": 378.37
     }
    },
    {
-    "hora": "2026-10-28T14:30Z",
-    "ref": 770.92,
+    "hora": "2026-10-29T14:41Z",
+    "ref": 769.25,
     "valores": {
-     "01-diego": 9292.5,
-     "02-elena": 10012.27,
-     "03-lucía": 9753.67,
-     "04-tomás": 10255.25,
-     "05-bernardo": 10450.5,
-     "06-carmen": 9823.02
+     "01-diego": 9234.74,
+     "02-elena": 10005.59,
+     "03-lucía": 9683.58,
+     "04-tomás": 10285.08,
+     "05-bernardo": 10512.27,
+     "06-carmen": 9812.88
     },
     "precios": {
-     "AAPL": 344.825,
-     "AMZN": 253.62,
-     "BRK.B": 542.63,
-     "CVX": 229.78,
-     "GLD": 370.59,
-     "IEF": 90.895,
-     "KO": 91.63,
-     "MSFT": 529.48,
-     "NVDA": 218.39,
-     "QCOM": 183.7,
-     "SPY": 770.92,
-     "VTI": 378.38
+     "AAPL": 349.385,
+     "AMZN": 246.695,
+     "BRK.B": 544.895,
+     "CVX": 230.785,
+     "GLD": 369.29,
+     "IEF": 91.275,
+     "KO": 92.545,
+     "MSFT": 525.34,
+     "NVDA": 213.73,
+     "QCOM": 181.02,
+     "SPY": 769.25,
+     "VTI": 378.19
     }
    },
    {
-    "hora": "2026-10-28T14:31Z",
-    "ref": 771.005,
+    "hora": "2026-10-29T14:42Z",
+    "ref": 769.02,
     "valores": {
-     "01-diego": 9292.0,
-     "02-elena": 10012.43,
-     "03-lucía": 9753.19,
-     "04-tomás": 10254.66,
-     "05-bernardo": 10452.46,
-     "06-carmen": 9823.91
+     "01-diego": 9232.8,
+     "02-elena": 10005.12,
+     "03-lucía": 9681.47,
+     "04-tomás": 10284.32,
+     "05-bernardo": 10510.11,
+     "06-carmen": 9810.09
     },
     "precios": {
-     "AAPL": 344.735,
-     "AMZN": 253.52,
-     "BRK.B": 542.91,
-     "CVX": 229.835,
-     "GLD": 370.52,
-     "IEF": 90.915,
-     "KO": 91.715,
-     "MSFT": 529.495,
-     "NVDA": 218.32,
-     "QCOM": 183.67,
-     "SPY": 771.005,
-     "VTI": 378.38
+     "AAPL": 349.27,
+     "AMZN": 246.515,
+     "BRK.B": 544.775,
+     "CVX": 230.805,
+     "GLD": 369.32,
+     "IEF": 91.275,
+     "KO": 92.475,
+     "MSFT": 524.74,
+     "NVDA": 213.76,
+     "QCOM": 181.02,
+     "SPY": 769.02,
+     "VTI": 378.19
     }
    },
    {
-    "hora": "2026-10-28T14:32Z",
-    "ref": 770.83,
+    "hora": "2026-10-29T14:43Z",
+    "ref": 769.68,
     "valores": {
-     "01-diego": 9291.36,
-     "02-elena": 10011.43,
-     "03-lucía": 9750.61,
-     "04-tomás": 10254.37,
-     "05-bernardo": 10453.72,
-     "06-carmen": 9825.43
+     "01-diego": 9233.9,
+     "02-elena": 10008.03,
+     "03-lucía": 9682.53,
+     "04-tomás": 10285.17,
+     "05-bernardo": 10512.36,
+     "06-carmen": 9807.64
     },
     "precios": {
-     "AAPL": 344.69,
-     "AMZN": 253.4,
-     "BRK.B": 543.425,
-     "CVX": 229.905,
-     "GLD": 370.42,
-     "IEF": 90.91,
-     "KO": 91.75,
-     "MSFT": 529.495,
-     "NVDA": 218.225,
-     "QCOM": 183.31,
-     "SPY": 770.83,
-     "VTI": 378.38
+     "AAPL": 349.4,
+     "AMZN": 246.62,
+     "BRK.B": 544.725,
+     "CVX": 230.86,
+     "GLD": 369.52,
+     "IEF": 91.275,
+     "KO": 92.51,
+     "MSFT": 524.175,
+     "NVDA": 214.135,
+     "QCOM": 180.97,
+     "SPY": 769.68,
+     "VTI": 378.23
     }
    },
    {
-    "hora": "2026-10-28T14:33Z",
-    "ref": 770.91,
+    "hora": "2026-10-29T14:44Z",
+    "ref": 769.655,
     "valores": {
-     "01-diego": 9291.68,
-     "02-elena": 10011.64,
-     "03-lucía": 9751.12,
-     "04-tomás": 10255.32,
-     "05-bernardo": 10453.09,
-     "06-carmen": 9826.69
-    },
-    "precios": {
-     "AAPL": 344.835,
-     "AMZN": 253.5,
-     "BRK.B": 543.405,
-     "CVX": 229.69,
-     "GLD": 370.42,
-     "IEF": 90.91,
-     "KO": 91.78,
-     "MSFT": 529.82,
-     "NVDA": 218.3,
-     "QCOM": 183.22,
-     "SPY": 770.91,
-     "VTI": 378.38
-    }
-   },
-   {
-    "hora": "2026-10-28T14:34Z",
-    "ref": 770.93,
-    "valores": {
-     "01-diego": 9289.61,
-     "02-elena": 10011.69,
-     "03-lucía": 9749.08,
-     "04-tomás": 10256.63,
-     "05-bernardo": 10454.88,
-     "06-carmen": 9825.26
-    },
-    "precios": {
-     "AAPL": 345.035,
-     "AMZN": 253.28,
-     "BRK.B": 543.43,
-     "CVX": 229.67,
-     "GLD": 370.42,
-     "IEF": 90.91,
-     "KO": 91.81,
-     "MSFT": 529.45,
-     "NVDA": 218.295,
-     "QCOM": 183.155,
-     "SPY": 770.93,
-     "VTI": 378.38
-    }
-   },
-   {
-    "hora": "2026-10-28T14:35Z",
-    "ref": 770.7,
-    "valores": {
-     "01-diego": 9289.72,
-     "02-elena": 10010.37,
-     "03-lucía": 9747.06,
-     "04-tomás": 10256.46,
-     "05-bernardo": 10455.5,
-     "06-carmen": 9826.13
-    },
-    "precios": {
-     "AAPL": 345.01,
-     "AMZN": 253.33,
-     "BRK.B": 543.585,
-     "CVX": 229.7,
-     "GLD": 370.27,
-     "IEF": 90.91,
-     "KO": 91.83,
-     "MSFT": 529.55,
-     "NVDA": 218.14,
-     "QCOM": 182.95,
-     "SPY": 770.7,
-     "VTI": 378.38
-    }
-   },
-   {
-    "hora": "2026-10-28T14:36Z",
-    "ref": 770.65,
-    "valores": {
-     "01-diego": 9288.38,
-     "02-elena": 10008.51,
-     "03-lucía": 9747.17,
-     "04-tomás": 10255.74,
-     "05-bernardo": 10454.45,
-     "06-carmen": 9825.47
-    },
-    "precios": {
-     "AAPL": 344.9,
-     "AMZN": 253.175,
-     "BRK.B": 543.5,
-     "CVX": 229.68,
-     "GLD": 369.97,
-     "IEF": 90.885,
-     "KO": 91.825,
-     "MSFT": 529.45,
-     "NVDA": 218.09,
-     "QCOM": 183.14,
-     "SPY": 770.65,
-     "VTI": 378.38
-    }
-   },
-   {
-    "hora": "2026-10-28T14:37Z",
-    "ref": 770.62,
-    "valores": {
-     "01-diego": 9288.19,
-     "02-elena": 10008.3,
-     "03-lucía": 9745.66,
-     "04-tomás": 10256.46,
-     "05-bernardo": 10457.06,
-     "06-carmen": 9826.7
-    },
-    "precios": {
-     "AAPL": 345.01,
-     "AMZN": 253.15,
-     "BRK.B": 543.77,
-     "CVX": 229.76,
-     "GLD": 369.97,
-     "IEF": 90.875,
-     "KO": 91.87,
-     "MSFT": 529.555,
-     "NVDA": 217.895,
-     "QCOM": 183.045,
-     "SPY": 770.62,
-     "VTI": 378.38
-    }
-   },
-   {
-    "hora": "2026-10-28T14:38Z",
-    "ref": 770.6,
-    "valores": {
-     "01-diego": 9286.77,
-     "02-elena": 10009.25,
-     "03-lucía": 9745.37,
-     "04-tomás": 10256.92,
-     "05-bernardo": 10458.91,
-     "06-carmen": 9825.78
-    },
-    "precios": {
-     "AAPL": 345.08,
-     "AMZN": 252.925,
-     "BRK.B": 543.77,
-     "CVX": 229.76,
-     "GLD": 370.155,
-     "IEF": 90.885,
-     "KO": 91.93,
-     "MSFT": 529.33,
-     "NVDA": 217.98,
-     "QCOM": 183.02,
-     "SPY": 770.6,
-     "VTI": 378.38
-    }
-   },
-   {
-    "hora": "2026-10-28T14:39Z",
-    "ref": 770.345,
-    "valores": {
-     "01-diego": 9286.15,
-     "02-elena": 10007.84,
-     "03-lucía": 9744.87,
-     "04-tomás": 10254.96,
-     "05-bernardo": 10456.89,
-     "06-carmen": 9826.11
-    },
-    "precios": {
-     "AAPL": 344.78,
-     "AMZN": 252.82,
-     "BRK.B": 543.77,
-     "CVX": 229.82,
-     "GLD": 370.0,
-     "IEF": 90.885,
-     "KO": 91.9,
-     "MSFT": 529.41,
-     "NVDA": 217.84,
-     "QCOM": 183.05,
-     "SPY": 770.345,
-     "VTI": 378.38
-    }
-   },
-   {
-    "hora": "2026-10-28T14:40Z",
-    "ref": 770.36,
-    "valores": {
-     "01-diego": 9286.96,
-     "02-elena": 10007.81,
-     "03-lucía": 9745.4,
-     "04-tomás": 10255.64,
-     "05-bernardo": 10460.38,
-     "06-carmen": 9826.0
-    },
-    "precios": {
-     "AAPL": 344.885,
-     "AMZN": 252.79,
-     "BRK.B": 543.76,
-     "CVX": 230.04,
-     "GLD": 370.08,
-     "IEF": 90.85,
-     "KO": 91.92,
-     "MSFT": 529.39,
-     "NVDA": 217.805,
-     "QCOM": 183.03,
-     "SPY": 770.36,
-     "VTI": 378.38
-    }
-   },
-   {
-    "hora": "2026-10-28T14:41Z",
-    "ref": 770.38,
-    "valores": {
-     "01-diego": 9287.14,
+     "01-diego": 9232.26,
      "02-elena": 10008.71,
-     "03-lucía": 9745.07,
-     "04-tomás": 10255.15,
-     "05-bernardo": 10458.64,
-     "06-carmen": 9825.83
+     "03-lucía": 9680.1,
+     "04-tomás": 10285.66,
+     "05-bernardo": 10508.22,
+     "06-carmen": 9806.06
     },
     "precios": {
-     "AAPL": 344.81,
-     "AMZN": 252.935,
-     "BRK.B": 543.76,
-     "CVX": 229.89,
-     "GLD": 370.26,
-     "IEF": 90.85,
-     "KO": 91.935,
-     "MSFT": 529.35,
-     "NVDA": 217.865,
-     "QCOM": 183.03,
-     "SPY": 770.38,
-     "VTI": 378.38
+     "AAPL": 349.475,
+     "AMZN": 246.66,
+     "BRK.B": 544.725,
+     "CVX": 230.61,
+     "GLD": 369.61,
+     "IEF": 91.3,
+     "KO": 92.425,
+     "MSFT": 523.785,
+     "NVDA": 214.175,
+     "QCOM": 180.97,
+     "SPY": 769.655,
+     "VTI": 378.23
     }
    },
    {
-    "hora": "2026-10-28T14:42Z",
-    "ref": 770.72,
+    "hora": "2026-10-29T14:45Z",
+    "ref": 769.71,
     "valores": {
-     "01-diego": 9287.93,
-     "02-elena": 10009.59,
-     "03-lucía": 9745.75,
-     "04-tomás": 10254.17,
-     "05-bernardo": 10457.3,
-     "06-carmen": 9826.16
+     "01-diego": 9230.88,
+     "02-elena": 10009.73,
+     "03-lucía": 9676.63,
+     "04-tomás": 10284.65,
+     "05-bernardo": 10505.66,
+     "06-carmen": 9803.59
     },
     "precios": {
-     "AAPL": 344.66,
-     "AMZN": 253.075,
-     "BRK.B": 543.775,
-     "CVX": 229.78,
-     "GLD": 370.35,
-     "IEF": 90.88,
-     "KO": 91.97,
-     "MSFT": 529.42,
-     "NVDA": 217.99,
-     "QCOM": 182.99,
-     "SPY": 770.72,
-     "VTI": 378.225
+     "AAPL": 349.32,
+     "AMZN": 246.7,
+     "BRK.B": 544.365,
+     "CVX": 230.475,
+     "GLD": 369.83,
+     "IEF": 91.3,
+     "KO": 92.42,
+     "MSFT": 523.44,
+     "NVDA": 214.09,
+     "QCOM": 180.86,
+     "SPY": 769.71,
+     "VTI": 378.2
     }
    },
    {
-    "hora": "2026-10-28T14:43Z",
-    "ref": 770.72,
+    "hora": "2026-10-29T14:46Z",
+    "ref": 769.3,
     "valores": {
-     "01-diego": 9286.97,
-     "02-elena": 10010.24,
-     "03-lucía": 9744.78,
-     "04-tomás": 10255.02,
-     "05-bernardo": 10456.89,
-     "06-carmen": 9825.94
+     "01-diego": 9227.24,
+     "02-elena": 10008.27,
+     "03-lucía": 9673.28,
+     "04-tomás": 10283.47,
+     "05-bernardo": 10505.4,
+     "06-carmen": 9802.08
     },
     "precios": {
-     "AAPL": 344.79,
-     "AMZN": 253.03,
-     "BRK.B": 543.795,
-     "CVX": 229.65,
-     "GLD": 370.46,
-     "IEF": 90.89,
-     "KO": 91.975,
-     "MSFT": 529.35,
-     "NVDA": 218.02,
-     "QCOM": 182.93,
-     "SPY": 770.72,
-     "VTI": 378.225
+     "AAPL": 349.14,
+     "AMZN": 246.295,
+     "BRK.B": 544.225,
+     "CVX": 230.475,
+     "GLD": 369.75,
+     "IEF": 91.3,
+     "KO": 92.46,
+     "MSFT": 523.17,
+     "NVDA": 213.845,
+     "QCOM": 180.86,
+     "SPY": 769.3,
+     "VTI": 378.2
     }
    },
    {
-    "hora": "2026-10-28T14:44Z",
-    "ref": 770.49,
+    "hora": "2026-10-29T14:47Z",
+    "ref": 768.315,
     "valores": {
-     "01-diego": 9287.87,
-     "02-elena": 10009.07,
-     "03-lucía": 9743.63,
-     "04-tomás": 10255.87,
-     "05-bernardo": 10458.9,
-     "06-carmen": 9826.48
+     "01-diego": 9221.7,
+     "02-elena": 10003.04,
+     "03-lucía": 9662.73,
+     "04-tomás": 10281.64,
+     "05-bernardo": 10504.84,
+     "06-carmen": 9798.74
     },
     "precios": {
-     "AAPL": 344.92,
-     "AMZN": 253.085,
-     "BRK.B": 543.76,
-     "CVX": 229.77,
-     "GLD": 370.34,
-     "IEF": 90.88,
-     "KO": 91.97,
-     "MSFT": 529.51,
-     "NVDA": 217.92,
-     "QCOM": 182.67,
-     "SPY": 770.49,
-     "VTI": 378.25
+     "AAPL": 348.86,
+     "AMZN": 245.88,
+     "BRK.B": 544.39,
+     "CVX": 230.475,
+     "GLD": 369.51,
+     "IEF": 91.33,
+     "KO": 92.515,
+     "MSFT": 522.23,
+     "NVDA": 213.42,
+     "QCOM": 180.37,
+     "SPY": 768.315,
+     "VTI": 377.85
     }
    },
    {
-    "hora": "2026-10-28T14:45Z",
-    "ref": 770.55,
+    "hora": "2026-10-29T14:48Z",
+    "ref": 768.205,
     "valores": {
-     "01-diego": 9286.92,
-     "02-elena": 10008.75,
-     "03-lucía": 9743.64,
-     "04-tomás": 10255.19,
-     "05-bernardo": 10460.38,
-     "06-carmen": 9826.41
+     "01-diego": 9223.73,
+     "02-elena": 10002.12,
+     "03-lucía": 9663.61,
+     "04-tomás": 10281.9,
+     "05-bernardo": 10507.56,
+     "06-carmen": 9800.43
     },
     "precios": {
-     "AAPL": 344.815,
-     "AMZN": 252.92,
-     "BRK.B": 544.01,
-     "CVX": 229.865,
-     "GLD": 370.24,
-     "IEF": 90.88,
-     "KO": 92.02,
-     "MSFT": 529.31,
-     "NVDA": 217.885,
-     "QCOM": 182.795,
-     "SPY": 770.55,
-     "VTI": 378.25
+     "AAPL": 348.9,
+     "AMZN": 246.065,
+     "BRK.B": 544.44,
+     "CVX": 230.63,
+     "GLD": 369.35,
+     "IEF": 91.34,
+     "KO": 92.55,
+     "MSFT": 522.61,
+     "NVDA": 213.26,
+     "QCOM": 180.375,
+     "SPY": 768.205,
+     "VTI": 377.85
     }
    },
    {
-    "hora": "2026-10-28T14:46Z",
-    "ref": 770.6,
+    "hora": "2026-10-29T14:49Z",
+    "ref": 767.85,
     "valores": {
-     "01-diego": 9287.5,
-     "02-elena": 10008.89,
-     "03-lucía": 9743.19,
-     "04-tomás": 10255.78,
-     "05-bernardo": 10463.39,
-     "06-carmen": 9825.16
+     "01-diego": 9219.81,
+     "02-elena": 9999.14,
+     "03-lucía": 9657.57,
+     "04-tomás": 10282.17,
+     "05-bernardo": 10508.06,
+     "06-carmen": 9795.57
     },
     "precios": {
-     "AAPL": 344.905,
-     "AMZN": 253.03,
-     "BRK.B": 543.84,
-     "CVX": 229.875,
-     "GLD": 370.24,
-     "IEF": 90.88,
-     "KO": 92.12,
-     "MSFT": 529.125,
-     "NVDA": 217.955,
-     "QCOM": 182.73,
-     "SPY": 770.6,
-     "VTI": 378.25
+     "AAPL": 348.94,
+     "AMZN": 245.815,
+     "BRK.B": 544.165,
+     "CVX": 230.63,
+     "GLD": 369.1,
+     "IEF": 91.34,
+     "KO": 92.56,
+     "MSFT": 521.615,
+     "NVDA": 213.065,
+     "QCOM": 180.35,
+     "SPY": 767.85,
+     "VTI": 377.69
     }
    },
    {
-    "hora": "2026-10-28T14:47Z",
-    "ref": 770.58,
+    "hora": "2026-10-29T14:50Z",
+    "ref": 768.365,
     "valores": {
-     "01-diego": 9284.97,
-     "02-elena": 10009.4,
-     "03-lucía": 9741.42,
-     "04-tomás": 10255.29,
-     "05-bernardo": 10464.43,
-     "06-carmen": 9823.63
+     "01-diego": 9220.86,
+     "02-elena": 10000.5,
+     "03-lucía": 9659.26,
+     "04-tomás": 10282.92,
+     "05-bernardo": 10507.78,
+     "06-carmen": 9794.79
     },
     "precios": {
-     "AAPL": 344.83,
-     "AMZN": 252.725,
-     "BRK.B": 543.84,
-     "CVX": 229.855,
-     "GLD": 370.36,
-     "IEF": 90.88,
-     "KO": 92.195,
-     "MSFT": 528.75,
-     "NVDA": 217.96,
-     "QCOM": 182.7,
-     "SPY": 770.58,
-     "VTI": 378.25
+     "AAPL": 349.055,
+     "AMZN": 245.95,
+     "BRK.B": 544.25,
+     "CVX": 230.555,
+     "GLD": 369.1,
+     "IEF": 91.34,
+     "KO": 92.55,
+     "MSFT": 521.36,
+     "NVDA": 213.405,
+     "QCOM": 180.35,
+     "SPY": 768.365,
+     "VTI": 377.69
     }
    },
    {
-    "hora": "2026-10-28T14:48Z",
-    "ref": 770.4,
+    "hora": "2026-10-29T14:51Z",
+    "ref": 768.3,
     "valores": {
-     "01-diego": 9284.61,
-     "02-elena": 10008.7,
-     "03-lucía": 9739.13,
-     "04-tomás": 10255.68,
-     "05-bernardo": 10463.66,
-     "06-carmen": 9822.25
+     "01-diego": 9220.24,
+     "02-elena": 10002.08,
+     "03-lucía": 9659.54,
+     "04-tomás": 10281.58,
+     "05-bernardo": 10505.41,
+     "06-carmen": 9793.89
     },
     "precios": {
-     "AAPL": 344.89,
-     "AMZN": 252.78,
-     "BRK.B": 543.69,
-     "CVX": 229.855,
-     "GLD": 370.36,
-     "IEF": 90.875,
-     "KO": 92.145,
-     "MSFT": 528.52,
-     "NVDA": 217.885,
-     "QCOM": 182.585,
-     "SPY": 770.4,
-     "VTI": 378.22
+     "AAPL": 348.85,
+     "AMZN": 245.88,
+     "BRK.B": 544.235,
+     "CVX": 230.48,
+     "GLD": 369.47,
+     "IEF": 91.34,
+     "KO": 92.54,
+     "MSFT": 521.15,
+     "NVDA": 213.57,
+     "QCOM": 180.35,
+     "SPY": 768.3,
+     "VTI": 377.69
     }
    },
    {
-    "hora": "2026-10-28T14:49Z",
-    "ref": 770.2,
+    "hora": "2026-10-29T14:52Z",
+    "ref": 767.855,
     "valores": {
-     "01-diego": 9283.95,
-     "02-elena": 10008.69,
-     "03-lucía": 9739.01,
-     "04-tomás": 10254.57,
-     "05-bernardo": 10463.06,
-     "06-carmen": 9822.62
+     "01-diego": 9216.06,
+     "02-elena": 10000.26,
+     "03-lucía": 9652.88,
+     "04-tomás": 10279.22,
+     "05-bernardo": 10503.49,
+     "06-carmen": 9788.81
     },
     "precios": {
-     "AAPL": 344.72,
-     "AMZN": 252.69,
-     "BRK.B": 543.69,
-     "CVX": 229.87,
-     "GLD": 370.47,
-     "IEF": 90.875,
-     "KO": 92.16,
-     "MSFT": 528.61,
-     "NVDA": 217.77,
-     "QCOM": 182.67,
-     "SPY": 770.2,
-     "VTI": 378.22
+     "AAPL": 348.49,
+     "AMZN": 245.68,
+     "BRK.B": 544.235,
+     "CVX": 230.565,
+     "GLD": 369.335,
+     "IEF": 91.34,
+     "KO": 92.52,
+     "MSFT": 519.9,
+     "NVDA": 213.22,
+     "QCOM": 180.58,
+     "SPY": 767.855,
+     "VTI": 377.69
     }
    },
    {
-    "hora": "2026-10-28T14:50Z",
-    "ref": 770.215,
+    "hora": "2026-10-29T14:53Z",
+    "ref": 768.105,
     "valores": {
-     "01-diego": 9282.78,
-     "02-elena": 10008.48,
-     "03-lucía": 9737.12,
-     "04-tomás": 10255.68,
-     "05-bernardo": 10465.47,
-     "06-carmen": 9820.83
+     "01-diego": 9218.71,
+     "02-elena": 10001.66,
+     "03-lucía": 9660.24,
+     "04-tomás": 10280.6,
+     "05-bernardo": 10505.45,
+     "06-carmen": 9792.63
     },
     "precios": {
-     "AAPL": 344.89,
-     "AMZN": 252.585,
-     "BRK.B": 543.885,
-     "CVX": 229.96,
-     "GLD": 370.445,
-     "IEF": 90.865,
-     "KO": 92.175,
-     "MSFT": 528.03,
-     "NVDA": 217.78,
-     "QCOM": 182.67,
-     "SPY": 770.215,
-     "VTI": 378.22
+     "AAPL": 348.7,
+     "AMZN": 245.71,
+     "BRK.B": 544.235,
+     "CVX": 230.565,
+     "GLD": 369.49,
+     "IEF": 91.34,
+     "KO": 92.545,
+     "MSFT": 520.84,
+     "NVDA": 213.445,
+     "QCOM": 180.83,
+     "SPY": 768.105,
+     "VTI": 377.69
     }
    },
    {
-    "hora": "2026-10-28T14:51Z",
-    "ref": 770.25,
+    "hora": "2026-10-29T14:54Z",
+    "ref": 768.3,
     "valores": {
-     "01-diego": 9280.83,
-     "02-elena": 10007.9,
-     "03-lucía": 9734.69,
-     "04-tomás": 10257.31,
-     "05-bernardo": 10468.51,
-     "06-carmen": 9820.21
+     "01-diego": 9217.75,
+     "02-elena": 10001.2,
+     "03-lucía": 9657.77,
+     "04-tomás": 10282.82,
+     "05-bernardo": 10504.41,
+     "06-carmen": 9789.74
     },
     "precios": {
-     "AAPL": 345.14,
-     "AMZN": 252.395,
-     "BRK.B": 544.065,
-     "CVX": 229.95,
-     "GLD": 370.33,
-     "IEF": 90.855,
-     "KO": 92.24,
-     "MSFT": 527.745,
-     "NVDA": 217.695,
-     "QCOM": 182.595,
-     "SPY": 770.25,
-     "VTI": 378.22
+     "AAPL": 349.04,
+     "AMZN": 245.87,
+     "BRK.B": 544.235,
+     "CVX": 230.345,
+     "GLD": 369.365,
+     "IEF": 91.31,
+     "KO": 92.505,
+     "MSFT": 520.13,
+     "NVDA": 213.61,
+     "QCOM": 180.83,
+     "SPY": 768.3,
+     "VTI": 377.69
     }
    },
    {
-    "hora": "2026-10-28T14:52Z",
-    "ref": 770.535,
+    "hora": "2026-10-29T14:55Z",
+    "ref": 768.39,
     "valores": {
-     "01-diego": 9283.75,
-     "02-elena": 10007.66,
-     "03-lucía": 9736.5,
-     "04-tomás": 10260.26,
-     "05-bernardo": 10470.35,
-     "06-carmen": 9822.08
+     "01-diego": 9216.56,
+     "02-elena": 10001.32,
+     "03-lucía": 9658.4,
+     "04-tomás": 10282.46,
+     "05-bernardo": 10499.07,
+     "06-carmen": 9790.43
     },
     "precios": {
-     "AAPL": 345.59,
-     "AMZN": 252.755,
-     "BRK.B": 544.14,
-     "CVX": 229.965,
-     "GLD": 370.245,
-     "IEF": 90.855,
-     "KO": 92.185,
-     "MSFT": 528.15,
-     "NVDA": 217.705,
-     "QCOM": 182.59,
-     "SPY": 770.535,
-     "VTI": 378.11
+     "AAPL": 348.985,
+     "AMZN": 245.795,
+     "BRK.B": 544.235,
+     "CVX": 230.04,
+     "GLD": 369.34,
+     "IEF": 91.31,
+     "KO": 92.43,
+     "MSFT": 520.3,
+     "NVDA": 213.76,
+     "QCOM": 180.83,
+     "SPY": 768.39,
+     "VTI": 377.69
     }
    },
    {
-    "hora": "2026-10-28T14:53Z",
-    "ref": 770.34,
+    "hora": "2026-10-29T14:56Z",
+    "ref": 768.73,
     "valores": {
-     "01-diego": 9284.99,
-     "02-elena": 10006.83,
-     "03-lucía": 9736.4,
-     "04-tomás": 10259.47,
-     "05-bernardo": 10468.88,
-     "06-carmen": 9820.87
+     "01-diego": 9217.25,
+     "02-elena": 10001.7,
+     "03-lucía": 9658.91,
+     "04-tomás": 10283.47,
+     "05-bernardo": 10500.09,
+     "06-carmen": 9788.31
     },
     "precios": {
-     "AAPL": 345.47,
-     "AMZN": 252.755,
-     "BRK.B": 544.02,
-     "CVX": 230.24,
-     "GLD": 370.18,
-     "IEF": 90.85,
-     "KO": 92.03,
-     "MSFT": 527.94,
-     "NVDA": 217.77,
-     "QCOM": 182.39,
-     "SPY": 770.34,
-     "VTI": 378.12
+     "AAPL": 349.14,
+     "AMZN": 245.89,
+     "BRK.B": 543.71,
+     "CVX": 230.04,
+     "GLD": 369.23,
+     "IEF": 91.31,
+     "KO": 92.43,
+     "MSFT": 520.16,
+     "NVDA": 213.88,
+     "QCOM": 180.83,
+     "SPY": 768.73,
+     "VTI": 377.69
     }
    },
    {
-    "hora": "2026-10-28T14:54Z",
-    "ref": 770.215,
+    "hora": "2026-10-29T14:57Z",
+    "ref": 768.59,
     "valores": {
-     "01-diego": 9282.72,
-     "02-elena": 10007.4,
-     "03-lucía": 9734.64,
-     "04-tomás": 10257.9,
-     "05-bernardo": 10467.29,
-     "06-carmen": 9819.65
+     "01-diego": 9217.76,
+     "02-elena": 10001.24,
+     "03-lucía": 9660.09,
+     "04-tomás": 10282.82,
+     "05-bernardo": 10498.68,
+     "06-carmen": 9791.57
     },
     "precios": {
-     "AAPL": 345.23,
-     "AMZN": 252.49,
-     "BRK.B": 543.91,
-     "CVX": 230.205,
-     "GLD": 370.37,
-     "IEF": 90.85,
-     "KO": 92.045,
-     "MSFT": 527.72,
-     "NVDA": 217.72,
-     "QCOM": 182.35,
-     "SPY": 770.215,
-     "VTI": 378.12
+     "AAPL": 349.04,
+     "AMZN": 245.94,
+     "BRK.B": 544.03,
+     "CVX": 229.925,
+     "GLD": 369.045,
+     "IEF": 91.29,
+     "KO": 92.45,
+     "MSFT": 520.73,
+     "NVDA": 213.81,
+     "QCOM": 180.83,
+     "SPY": 768.59,
+     "VTI": 377.885
     }
    },
    {
-    "hora": "2026-10-28T14:55Z",
-    "ref": 770.2,
+    "hora": "2026-10-29T14:58Z",
+    "ref": 768.5,
     "valores": {
-     "01-diego": 9282.72,
-     "02-elena": 10007.36,
-     "03-lucía": 9734.1,
-     "04-tomás": 10259.5,
-     "05-bernardo": 10468.55,
-     "06-carmen": 9820.79
+     "01-diego": 9218.14,
+     "02-elena": 10000.33,
+     "03-lucía": 9659.93,
+     "04-tomás": 10282.95,
+     "05-bernardo": 10498.81,
+     "06-carmen": 9789.49
     },
     "precios": {
-     "AAPL": 345.475,
-     "AMZN": 252.52,
-     "BRK.B": 544.2,
-     "CVX": 230.205,
-     "GLD": 370.37,
-     "IEF": 90.85,
-     "KO": 92.03,
-     "MSFT": 527.79,
-     "NVDA": 217.63,
-     "QCOM": 182.35,
-     "SPY": 770.2,
-     "VTI": 378.12
+     "AAPL": 349.06,
+     "AMZN": 246.04,
+     "BRK.B": 543.925,
+     "CVX": 229.925,
+     "GLD": 368.93,
+     "IEF": 91.28,
+     "KO": 92.45,
+     "MSFT": 520.295,
+     "NVDA": 213.99,
+     "QCOM": 180.83,
+     "SPY": 768.5,
+     "VTI": 377.885
     }
    },
    {
-    "hora": "2026-10-28T14:56Z",
-    "ref": 770.18,
+    "hora": "2026-10-29T14:59Z",
+    "ref": 768.7,
     "valores": {
-     "01-diego": 9283.09,
-     "02-elena": 10006.68,
-     "03-lucía": 9734.43,
-     "04-tomás": 10259.73,
-     "05-bernardo": 10468.31,
-     "06-carmen": 9822.74
+     "01-diego": 9219.4,
+     "02-elena": 10000.58,
+     "03-lucía": 9663.21,
+     "04-tomás": 10283.87,
+     "05-bernardo": 10499.61,
+     "06-carmen": 9793.18
     },
     "precios": {
-     "AAPL": 345.51,
-     "AMZN": 252.5,
-     "BRK.B": 544.2,
-     "CVX": 230.205,
-     "GLD": 370.265,
-     "IEF": 90.84,
-     "KO": 92.01,
-     "MSFT": 528.27,
-     "NVDA": 217.51,
-     "QCOM": 182.25,
-     "SPY": 770.18,
-     "VTI": 378.12
+     "AAPL": 349.2,
+     "AMZN": 246.0,
+     "BRK.B": 543.96,
+     "CVX": 229.925,
+     "GLD": 368.9,
+     "IEF": 91.3,
+     "KO": 92.445,
+     "MSFT": 521.175,
+     "NVDA": 213.95,
+     "QCOM": 180.83,
+     "SPY": 768.7,
+     "VTI": 377.81
     }
    },
    {
-    "hora": "2026-10-28T14:57Z",
-    "ref": 770.33,
+    "hora": "2026-10-29T15:00Z",
+    "ref": 769.395,
     "valores": {
-     "01-diego": 9283.24,
-     "02-elena": 10007.15,
-     "03-lucía": 9736.89,
-     "04-tomás": 10259.11,
-     "05-bernardo": 10471.01,
-     "06-carmen": 9821.94
+     "01-diego": 9229.23,
+     "02-elena": 10002.98,
+     "03-lucía": 9680.45,
+     "04-tomás": 10285.73,
+     "05-bernardo": 10497.7,
+     "06-carmen": 9805.48
     },
     "precios": {
-     "AAPL": 345.415,
-     "AMZN": 252.32,
-     "BRK.B": 544.06,
-     "CVX": 230.43,
-     "GLD": 370.32,
-     "IEF": 90.84,
-     "KO": 92.05,
-     "MSFT": 528.175,
-     "NVDA": 217.57,
-     "QCOM": 182.47,
-     "SPY": 770.33,
-     "VTI": 378.085
-    }
-   },
-   {
-    "hora": "2026-10-28T14:58Z",
-    "ref": 770.33,
-    "valores": {
-     "01-diego": 9282.03,
-     "02-elena": 10007.54,
-     "03-lucía": 9735.68,
-     "04-tomás": 10259.67,
-     "05-bernardo": 10469.74,
-     "06-carmen": 9822.03
-    },
-    "precios": {
-     "AAPL": 345.5,
-     "AMZN": 252.27,
-     "BRK.B": 544.2,
-     "CVX": 230.28,
-     "GLD": 370.39,
-     "IEF": 90.845,
-     "KO": 92.04,
-     "MSFT": 528.095,
-     "NVDA": 217.57,
-     "QCOM": 182.44,
-     "SPY": 770.33,
-     "VTI": 378.085
-    }
-   },
-   {
-    "hora": "2026-10-28T14:59Z",
-    "ref": 770.26,
-    "valores": {
-     "01-diego": 9280.37,
-     "02-elena": 10007.36,
-     "03-lucía": 9734.87,
-     "04-tomás": 10259.41,
-     "05-bernardo": 10469.94,
-     "06-carmen": 9820.43
-    },
-    "precios": {
-     "AAPL": 345.46,
-     "AMZN": 252.05,
-     "BRK.B": 544.01,
-     "CVX": 230.28,
-     "GLD": 370.35,
-     "IEF": 90.845,
-     "KO": 92.06,
-     "MSFT": 527.84,
-     "NVDA": 217.59,
-     "QCOM": 182.45,
-     "SPY": 770.26,
-     "VTI": 378.12
-    }
-   },
-   {
-    "hora": "2026-10-28T15:00Z",
-    "ref": 770.725,
-    "valores": {
-     "01-diego": 9284.42,
-     "02-elena": 10010.02,
-     "03-lucía": 9739.63,
-     "04-tomás": 10258.23,
-     "05-bernardo": 10470.14,
-     "06-carmen": 9822.28
-    },
-    "precios": {
-     "AAPL": 345.28,
-     "AMZN": 252.5,
-     "BRK.B": 543.88,
-     "CVX": 230.17,
-     "GLD": 370.62,
-     "IEF": 90.845,
-     "KO": 92.17,
-     "MSFT": 528.39,
-     "NVDA": 217.895,
-     "QCOM": 182.49,
-     "SPY": 770.725,
-     "VTI": 378.15
+     "AAPL": 349.485,
+     "AMZN": 246.85,
+     "BRK.B": 543.78,
+     "CVX": 229.7,
+     "GLD": 368.63,
+     "IEF": 91.28,
+     "KO": 92.385,
+     "MSFT": 524.33,
+     "NVDA": 214.04,
+     "QCOM": 181.61,
+     "SPY": 769.395,
+     "VTI": 378.2
     }
    }
   ],
-  "desde": "2026-10-28T13:29Z",
+  "desde": "2026-10-29T13:29Z",
   "carteras": {
    "01-diego": {
     "efectivo": 4952.334105898419,
@@ -16805,18 +16707,18 @@
    }
   },
   "ultimos_precios": {
-   "AMZN": 252.5,
-   "VTI": 378.15,
-   "AAPL": 345.28,
-   "QCOM": 182.49,
-   "CVX": 230.17,
-   "MSFT": 528.39,
-   "GLD": 370.62,
-   "IEF": 90.845,
-   "BRK.B": 543.88,
-   "KO": 92.17,
-   "SPY": 770.725,
-   "NVDA": 217.895
+   "BRK.B": 543.78,
+   "MSFT": 524.33,
+   "IEF": 91.28,
+   "KO": 92.385,
+   "SPY": 769.395,
+   "QCOM": 181.61,
+   "CVX": 229.7,
+   "VTI": 378.2,
+   "GLD": 368.63,
+   "AMZN": 246.85,
+   "NVDA": 214.04,
+   "AAPL": 349.485
   }
  },
  "cierres": {
@@ -17883,262 +17785,277 @@
    "QCOM": 182.49,
    "SPY": 770.725,
    "VTI": 378.15
+  },
+  "2026-10-29": {
+   "AAPL": 349.485,
+   "AMZN": 246.85,
+   "BRK.B": 543.78,
+   "CVX": 229.7,
+   "GLD": 368.63,
+   "IEF": 91.28,
+   "KO": 92.385,
+   "MSFT": 524.33,
+   "NVDA": 214.04,
+   "QCOM": 181.61,
+   "SPY": 769.395,
+   "VTI": 378.2
   }
  },
  "precios_completados": true,
- "ultimo_ciclo_hora": "2026-10-28T15:00+00:00",
+ "ultimo_ciclo_hora": "2026-10-29T15:00+00:00",
  "precios": {
-  "ABNB": 167.2,
-  "APP": 258.445,
-  "BKNG": 147.82,
-  "CEG": 258.105,
-  "CRM": 240.8,
-  "FSLR": 171.825,
-  "HON": 217.05,
-  "JPM": 337.71,
-  "MU": 970.65,
-  "AVGO": 345.275,
-  "COP": 149.63,
-  "FCX": 65.29,
-  "GS": 918.62,
-  "ITA": 205.83,
-  "OKLO": 26.43,
-  "ORCL": 130.215,
-  "AAPL": 345.28,
-  "CAT": 709.96,
-  "EOG": 161.45,
-  "HOOD": 91.83,
-  "LMT": 624.39,
-  "MP": 40.19,
-  "NEE": 82.055,
-  "PLTR": 194.885,
-  "AFRM": 71.75,
-  "DELL": 493.2,
-  "IBIT": 45.555,
-  "LLY": 1297.12,
-  "LULU": 105.43,
-  "QCOM": 182.49,
-  "HD": 318.565,
-  "MAR": 392.3,
-  "ADBE": 248.7,
-  "DDOG": 280.775,
-  "AMZN": 252.5,
-  "BRK.B": 543.88,
-  "C": 123.13,
-  "INTC": 93.73,
-  "LIN": 507.19,
-  "MRK": 141.81,
-  "DHR": 236.97,
-  "ENPH": 25.02,
-  "MSFT": 528.39,
-  "NFLX": 61.83,
-  "NVO": 38.4,
-  "DE": 640.815,
-  "FXI": 32.38,
-  "PEP": 132.57,
-  "AMGN": 453.43,
-  "DUOL": 139.075,
-  "IWM": 279.72,
-  "PYPL": 55.67,
-  "CAVA": 55.385,
-  "ASTS": 41.125,
-  "IEF": 90.845,
-  "MDY": 666.205,
-  "NOW": 152.18,
-  "QQQ": 722.04,
-  "ALB": 96.175,
-  "COIN": 158.53,
-  "IBM": 249.67,
-  "NKE": 37.3,
-  "BA": 166.51,
-  "GE": 298.15,
-  "RBLX": 53.675,
-  "MRVL": 248.23,
-  "DIS": 109.0,
-  "FDX": 299.2,
-  "GILD": 160.475,
-  "HIMS": 28.05,
-  "MS": 187.96,
-  "NEM": 111.7,
-  "ARKK": 85.55,
-  "EWG": 41.55,
-  "EWJ": 94.42,
-  "LUNR": 11.2,
-  "ASML": 1655.66,
-  "INTU": 330.56,
-  "NOC": 552.25,
-  "META": 613.04,
-  "OXY": 63.315,
-  "PG": 159.06,
-  "ABBV": 288.295,
-  "ACHR": 4.245,
-  "BLK": 1146.875,
-  "COST": 983.6,
-  "CSCO": 110.0,
-  "PFE": 29.63,
-  "AMD": 565.015,
-  "KO": 92.17,
-  "AXP": 314.555,
-  "BMY": 60.955,
-  "DIA": 523.825,
-  "KLAC": 157.7,
-  "CRWD": 266.86,
-  "ETN": 390.655,
-  "MA": 613.5,
-  "AMAT": 411.33,
-  "CRWV": 60.455,
-  "CVX": 230.17,
-  "GD": 353.435,
-  "JOBY": 4.995,
-  "KRE": 71.73,
-  "QBTS": 11.645,
-  "BAC": 50.66,
-  "CRCL": 80.025,
-  "IJR": 139.05,
-  "IONQ": 32.14,
-  "LRCX": 250.49,
-  "MRNA": 217.25,
-  "LIT": 62.29,
-  "MCD": 251.545,
-  "ANET": 185.88,
-  "CMG": 28.945,
-  "EWZ": 33.47,
-  "NU": 12.06,
-  "PANW": 400.02,
-  "LOW": 198.62,
-  "ARM": 233.115,
-  "CCJ": 82.9,
-  "NET": 323.025,
-  "JNJ": 272.14,
-  "CVS": 90.91,
-  "GLD": 370.62,
-  "GOOGL": 323.76,
-  "HYG": 77.59,
-  "INDA": 46.72,
-  "ISRG": 447.985,
-  "NVDA": 217.895,
-  "VST": 143.7,
-  "SLB": 53.395,
-  "VZ": 43.715,
-  "REGN": 819.16,
-  "SPY": 770.725,
-  "TLT": 81.28,
-  "UNH": 414.51,
-  "USO": 167.5,
-  "SMH": 564.49,
-  "TSLA": 401.305,
-  "TTD": 12.59,
-  "XLC": 102.92,
-  "XLE": 68.5,
-  "XLI": 167.66,
-  "TMUS": 145.74,
-  "RGTI": 12.19,
-  "UNG": 9.62,
-  "T": 20.955,
-  "VRTX": 534.63,
-  "XLK": 189.99,
-  "SLV": 48.39,
-  "SPOT": 549.2,
-  "VEA": 69.975,
-  "XOM": 182.125,
-  "RTX": 196.08,
-  "SOUN": 4.275,
-  "URA": 35.95,
-  "XLB": 51.46,
-  "XLF": 55.985,
-  "XLRE": 42.035,
-  "SMCI": 34.845,
-  "TMO": 708.38,
-  "TXN": 307.305,
-  "WMT": 118.76,
-  "XLV": 180.9,
-  "XLY": 114.87,
-  "V": 402.17,
-  "UBER": 64.94,
-  "VWO": 56.795,
-  "XLU": 42.815,
-  "RIVN": 11.51,
-  "SMR": 5.585,
-  "SNOW": 342.9,
-  "TEM": 76.9,
-  "TGT": 148.05,
-  "UPS": 104.32,
-  "VGK": 86.94,
-  "VTI": 378.15,
-  "RKLB": 57.49,
-  "SBUX": 103.42,
-  "TAN": 40.26,
-  "XBI": 156.74,
-  "WFC": 83.5,
-  "RDDT": 136.47,
-  "ZS": 261.44,
-  "SCHW": 88.335,
-  "TSM": 438.23,
-  "XLP": 86.93,
-  "SHOP": 166.085,
-  "SOFI": 16.77,
-  "YETI": 42.62,
-  "CACI": 661.02,
-  "FITB": 53.205,
-  "JEF": 47.09,
-  "LPX": 71.11,
-  "MCO": 476.065,
-  "NYT": 69.35,
-  "IBP": 201.91,
-  "LLYVA": 95.27,
-  "NG": 6.095,
-  "NVR": 5793.69,
-  "RARE": 17.235,
-  "ALGM": 33.91,
-  "COF": 203.26,
-  "MOG.A": 353.535,
-  "OKTA": 224.49,
-  "RPM": 98.87,
-  "TNDM": 19.105,
-  "ALLY": 38.67,
-  "EPAC": 34.97,
-  "GOOG": 320.355,
-  "CINF": 180.74,
-  "EL": 108.89,
-  "QSR": 74.91,
-  "ABT": 103.58,
-  "BHE": 71.5,
-  "FSS": 114.6,
-  "RIG": 6.625,
-  "DAL": 80.895,
-  "GMED": 81.505,
-  "IBRX": 8.725,
-  "OLN": 16.38,
-  "PRAX": 282.82,
-  "ACN": 244.845,
-  "ADI": 424.25,
-  "GLW": 130.13,
-  "WSM": 248.92,
-  "ZTS": 78.14,
-  "CB": 358.02,
-  "GH": 184.85,
-  "KHC": 23.905,
-  "NXPI": 246.71,
-  "ALKS": 44.595,
-  "DVA": 184.03,
-  "GTES": 25.84,
-  "KR": 65.605,
-  "LLYVK": 98.71,
-  "BCPC": 170.4,
-  "PPG": 119.855,
-  "RSG": 235.1,
-  "VRSN": 304.41,
-  "AEIS": 236.95,
-  "SIRI": 27.305,
-  "STAG": 36.58,
-  "CYTK": 60.61,
-  "DHI": 146.08,
-  "LEN": 84.13,
-  "ON": 74.93,
-  "COCO": 55.69,
-  "M": 23.785,
-  "NUE": 267.92,
-  "LEN.B": 82.45
+  "LULU": 108.83,
+  "NOC": 566.4,
+  "DE": 657.05,
+  "JNJ": 274.6,
+  "CRWV": 63.07,
+  "HOOD": 91.165,
+  "JOBY": 5.15,
+  "NET": 305.155,
+  "DELL": 486.03,
+  "GS": 936.61,
+  "META": 626.8,
+  "MU": 953.55,
+  "NVDA": 214.04,
+  "PEP": 133.18,
+  "CVX": 229.7,
+  "DIS": 110.6,
+  "EOG": 160.33,
+  "MRK": 147.865,
+  "BA": 171.64,
+  "CRWD": 258.67,
+  "AAPL": 349.485,
+  "ADBE": 245.6,
+  "AMAT": 419.25,
+  "HON": 220.05,
+  "KO": 92.385,
+  "MP": 41.955,
+  "NVO": 38.81,
+  "ASTS": 43.95,
+  "BRK.B": 543.78,
+  "EWG": 42.27,
+  "GD": 369.275,
+  "LOW": 204.55,
+  "MSFT": 524.33,
+  "CAVA": 58.64,
+  "CMG": 31.06,
+  "CVS": 90.715,
+  "LLY": 1369.78,
+  "ACHR": 4.41,
+  "GILD": 161.24,
+  "HD": 325.39,
+  "NFLX": 61.915,
+  "AMZN": 246.85,
+  "DUOL": 134.53,
+  "NU": 11.985,
+  "PFE": 29.75,
+  "PLTR": 195.46,
+  "CSCO": 109.11,
+  "DIA": 522.87,
+  "GLD": 368.63,
+  "LRCX": 258.15,
+  "NEE": 82.345,
+  "COP": 148.86,
+  "IJR": 141.74,
+  "FSLR": 177.52,
+  "ISRG": 447.26,
+  "JPM": 344.78,
+  "MDY": 675.6,
+  "CEG": 261.89,
+  "GOOGL": 285.025,
+  "NOW": 112.645,
+  "ARKK": 86.005,
+  "CRCL": 79.675,
+  "HYG": 77.595,
+  "INTU": 326.41,
+  "COST": 990.81,
+  "ETN": 397.15,
+  "KRE": 73.125,
+  "MAR": 400.55,
+  "MS": 192.205,
+  "ANET": 186.21,
+  "IONQ": 32.03,
+  "LUNR": 11.72,
+  "AFRM": 75.66,
+  "MA": 639.39,
+  "MRVL": 221.62,
+  "PYPL": 57.43,
+  "FDX": 305.67,
+  "CAT": 663.15,
+  "CRM": 229.73,
+  "FCX": 65.25,
+  "EWJ": 94.92,
+  "FXI": 32.63,
+  "NKE": 38.36,
+  "CCJ": 84.085,
+  "BMY": 60.17,
+  "GE": 312.62,
+  "LIN": 501.525,
+  "MRNA": 220.18,
+  "OKLO": 27.135,
+  "ASML": 1681.165,
+  "COIN": 160.3,
+  "IEF": 91.28,
+  "MCD": 255.26,
+  "ARM": 227.6,
+  "AVGO": 343.07,
+  "INDA": 47.36,
+  "ALB": 94.18,
+  "C": 126.72,
+  "EWZ": 33.04,
+  "IWM": 284.35,
+  "BAC": 51.925,
+  "INTC": 93.01,
+  "OXY": 62.3,
+  "APP": 256.31,
+  "ENPH": 25.16,
+  "ITA": 214.33,
+  "PANW": 374.89,
+  "AXP": 325.39,
+  "BKNG": 151.24,
+  "DHR": 235.845,
+  "IBM": 254.24,
+  "ABNB": 167.44,
+  "DDOG": 264.21,
+  "KLAC": 169.27,
+  "NEM": 111.635,
+  "AMD": 569.64,
+  "AMGN": 460.68,
+  "BLK": 1169.47,
+  "ABBV": 290.005,
+  "HIMS": 29.55,
+  "IBIT": 45.97,
+  "LMT": 647.49,
+  "ORCL": 140.91,
+  "PG": 159.13,
+  "TLT": 81.55,
+  "TMUS": 149.085,
+  "VRTX": 541.545,
+  "XLK": 188.79,
+  "REGN": 816.18,
+  "SLB": 53.635,
+  "SOFI": 17.4,
+  "TAN": 41.025,
+  "TEM": 76.465,
+  "URA": 35.93,
+  "XLP": 87.7,
+  "RDDT": 130.315,
+  "SBUX": 104.94,
+  "SPOT": 554.675,
+  "UPS": 105.565,
+  "VWO": 56.56,
+  "XOM": 181.78,
+  "SNOW": 330.04,
+  "XLI": 170.01,
+  "ZS": 244.36,
+  "RTX": 200.74,
+  "VZ": 44.035,
+  "SPY": 769.395,
+  "TMO": 704.06,
+  "VGK": 87.995,
+  "XLV": 183.27,
+  "QBTS": 11.61,
+  "SMCI": 35.33,
+  "SOUN": 4.43,
+  "UNG": 9.22,
+  "XLF": 57.06,
+  "SMR": 5.915,
+  "T": 21.165,
+  "VST": 143.92,
+  "RIVN": 11.685,
+  "RKLB": 60.05,
+  "TGT": 151.27,
+  "XLU": 43.165,
+  "TSLA": 405.66,
+  "TSM": 433.395,
+  "WMT": 120.77,
+  "XBI": 158.54,
+  "XLRE": 42.85,
+  "QQQ": 715.55,
+  "RGTI": 12.23,
+  "SCHW": 89.675,
+  "TXN": 308.3,
+  "WFC": 85.11,
+  "UBER": 65.36,
+  "UNH": 406.88,
+  "XLB": 52.345,
+  "XLY": 116.46,
+  "QCOM": 181.61,
+  "SLV": 47.355,
+  "SHOP": 166.77,
+  "SMH": 561.87,
+  "VEA": 70.445,
+  "VTI": 378.2,
+  "XLC": 101.25,
+  "XLE": 68.24,
+  "RBLX": 53.28,
+  "TTD": 12.795,
+  "USO": 164.29,
+  "V": 410.91,
+  "LIT": 62.745,
+  "CACI": 675.97,
+  "CINF": 181.825,
+  "EPAC": 39.0,
+  "LPX": 73.19,
+  "PPG": 119.22,
+  "CYTK": 62.81,
+  "GMED": 82.89,
+  "MCO": 484.905,
+  "STAG": 36.845,
+  "ACN": 242.73,
+  "BHE": 73.72,
+  "KR": 65.65,
+  "OLN": 16.4,
+  "RPM": 101.865,
+  "AEIS": 241.4,
+  "NYT": 69.135,
+  "ALKS": 45.435,
+  "YETI": 43.76,
+  "PLD": 127.62,
+  "ABT": 103.71,
+  "DAL": 82.22,
+  "FITB": 54.52,
+  "LEN": 85.21,
+  "ON": 75.17,
+  "ADI": 427.11,
+  "COCO": 56.57,
+  "GOOG": 282.655,
+  "JEF": 49.01,
+  "LLYVA": 98.08,
+  "FSS": 115.235,
+  "GTES": 26.24,
+  "CB": 359.61,
+  "EL": 109.3,
+  "MOG.A": 365.12,
+  "M": 24.57,
+  "NG": 6.06,
+  "NXPI": 253.7,
+  "ALLY": 39.75,
+  "DVA": 191.75,
+  "KHC": 24.135,
+  "COF": 209.49,
+  "DHI": 146.025,
+  "RSG": 236.1,
+  "WSM": 257.12,
+  "ALGM": 31.845,
+  "NVR": 5980.29,
+  "SIRI": 28.195,
+  "RARE": 17.3,
+  "VRSN": 303.74,
+  "ZTS": 78.255,
+  "QSR": 72.145,
+  "IBP": 208.24,
+  "BCPC": 167.45,
+  "IBRX": 8.79,
+  "OKTA": 216.175,
+  "GLW": 132.07,
+  "NUE": 273.79,
+  "PRAX": 286.39,
+  "GH": 183.69,
+  "LLYVK": 102.21,
+  "RIG": 6.695,
+  "TNDM": 20.11,
+  "LEN.B": 82.455
  },
  "apariencias": {
   "01-diego": {
