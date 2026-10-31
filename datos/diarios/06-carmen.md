@@ -990,3 +990,7 @@ No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: htt
 ## 2026-09-28 15:00
 
 **Stop automático.** Vendo MNST: Stop alcanzado (41.87 $ ≤ 41.87 $): se corta la pérdida.
+
+## 2026-09-29
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
