@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-10-15"
+  "revisado": "2026-10-16"
  },
  "congreso": {
   "leidas": {
@@ -4883,9 +4883,32 @@
     "distrito": "CA50",
     "presentado": "2026-10-15",
     "operaciones": []
+   },
+   "20035490": {
+    "nombre": "Laurel Lee",
+    "distrito": "FL15",
+    "presentado": "2026-10-16",
+    "operaciones": [
+     {
+      "activo": "Bank of America Corporation Common Stock",
+      "ticker": "BAC",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-24",
+      "importe": "$50,001 - $100,000"
+     },
+     {
+      "activo": "NOKIA A SHS",
+      "ticker": "NOKBF",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-09-18",
+      "importe": "$15,001 - $50,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-10-15"
+  "revisado": "2026-10-16"
  }
 }
