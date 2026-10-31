@@ -1052,3 +1052,7 @@ No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: htt
 ## 2026-09-29 12:00
 
 **Stop automático.** Vendo JPM: Stop alcanzado (333.46 $ ≤ 334.53 $): se corta la pérdida.
+
+## 2026-09-30
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
