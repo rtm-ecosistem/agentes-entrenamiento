@@ -994,3 +994,11 @@ Valor de la cartera: 9,795.34 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor ni superar el efectivo disponible. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico, protegiendo mi liquidez y respetando los stops en todo momento.
 
 Valor de la cartera: 9,741.38 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que NVDA lo haría mejor que el S&P 500: hizo -0.4% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.

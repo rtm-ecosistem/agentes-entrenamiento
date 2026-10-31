@@ -992,3 +992,11 @@ Valor de la cartera: 9,304.33 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
 
 Valor de la cartera: 9,262.76 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que NVDA lo haría mejor que el S&P 500: hizo -0.4% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.

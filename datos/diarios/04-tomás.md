@@ -920,3 +920,11 @@ Valor de la cartera: 10,183.08 $
 **Mi puesto.** Vamos por delante del S&P 500 por 3.45 puntos tras superar nuestro periodo de evaluación anterior, por lo que mantendremos el rigor analítico y nuestra estrategia defensiva sin arriesgar el puesto.
 
 Valor de la cartera: 10,176.64 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que AAPL lo haría mejor que el S&P 500: hizo -0.5% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.

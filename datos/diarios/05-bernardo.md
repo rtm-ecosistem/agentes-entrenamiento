@@ -937,3 +937,11 @@ Valor de la cartera: 10,197.63 $
 **Mi puesto.** Vamos por delante del S&P 500 por 0,45 puntos y nuestra prioridad absoluta es conservar esta ventaja protegiendo el capital acumulado sin correr riesgos innecesarios.
 
 Valor de la cartera: 10,117.84 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que KO lo haría mejor que el S&P 500: hizo -0.4% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.

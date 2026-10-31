@@ -938,3 +938,11 @@ Valor de la cartera: 9,746.91 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 3.72 puntos a falta de 11 días para terminar nuestro periodo de evaluación, lo que nos obliga a mantener la cabeza fría y evitar operaciones desesperadas que disparen el riesgo de despido.
 
 Valor de la cartera: 9,701.16 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que BRK.B lo haría mejor que el S&P 500: hizo +0.3% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
