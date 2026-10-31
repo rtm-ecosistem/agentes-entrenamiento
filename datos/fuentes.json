@@ -241,22 +241,10 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-10-01"
+  "revisado": "2026-10-02"
  },
  "congreso": {
   "leidas": {
-   "20035235": {
-    "nombre": "Steve Cohen",
-    "distrito": "TN09",
-    "presentado": "2026-08-17",
-    "operaciones": []
-   },
-   "20035191": {
-    "nombre": "Scott H. Peters",
-    "distrito": "CA50",
-    "presentado": "2026-08-17",
-    "operaciones": []
-   },
    "9116308": {
     "nombre": "Tony Wied",
     "distrito": "WI08",
@@ -3954,9 +3942,52 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "9116361": {
+    "nombre": "Tony Wied",
+    "distrito": "WI08",
+    "presentado": "2026-10-02",
+    "operaciones": []
+   },
+   "20035558": {
+    "nombre": "Michael Rulli",
+    "distrito": "OH06",
+    "presentado": "2026-10-02",
+    "operaciones": [
+     {
+      "activo": "Goldman Sachs Group, Inc.",
+      "ticker": "GS",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-09-03",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Microsoft Corporation - Common Stock",
+      "ticker": "MSFT",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-09-28",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Wells Fargo & Company Common Stock",
+      "ticker": "WFC",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-09-03",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035553": {
+    "nombre": "Nancy Pelosi",
+    "distrito": "CA11",
+    "presentado": "2026-10-02",
+    "operaciones": []
    }
   },
   "pendientes": 0,
-  "revisado": "2026-10-01"
+  "revisado": "2026-10-02"
  }
 }

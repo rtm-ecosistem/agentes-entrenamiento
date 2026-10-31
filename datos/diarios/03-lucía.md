@@ -1058,3 +1058,7 @@ No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: htt
 ## 2026-10-01 12:00
 
 **Stop automático.** Vendo APP: Stop alcanzado (277.68 $ ≤ 288.57 $): se corta la pérdida.
+
+## 2026-10-02
+
+No pude decidir hoy (error de la IA: 401 Client Error: Unauthorized for url: https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent). No opero.
