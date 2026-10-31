@@ -129,7 +129,9 @@ def _cuota_agotada(post):
         try:
             return post(url, cuerpo, cabeceras, *args, **kwargs)
         except requests.HTTPError as e:
-            if e.response is not None and e.response.status_code == 429:
+            # 429 tras los reintentos: cuota del día. 401/403: la clave no vale. En los dos casos se para,
+            # en vez de apuntar días enteros sin decisiones (pasó el 31/10 con un 401)
+            if e.response is not None and e.response.status_code in (401, 403, 429):
                 raise SinCuota(str(e)) from e
             raise
     return envoltura
