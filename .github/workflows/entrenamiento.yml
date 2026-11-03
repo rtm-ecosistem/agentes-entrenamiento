@@ -42,10 +42,10 @@ jobs:
         run: |
           git config user.name "rtm-ecosistem"
           git config user.email "340233035+rtm-ecosistem@users.noreply.github.com"
+          # La cuota diaria de Groq es la misma que usa la oficina: solo se entrena el fin de semana
+          [ "$(date -u +%u)" -ge 6 ] || { echo "Entre semana la cuota es para la oficina"; exit 0; }
           fin=$((SECONDS + 300 * 60)); hechos=0; maximo=${{ inputs.dias || '0' }}
           while [ $SECONDS -lt $fin ] && { [ "$maximo" = 0 ] || [ $hechos -lt "$maximo" ]; }; do
-            # La oficina decide a las 16:00 UTC con la misma cuenta de Groq: se le deja la cuota libre
-            while [ "$(date -u +%H)" = 15 ] || [ "$(date -u +%H)" = 16 ]; do sleep 300; done
             antes=$(cat datos/progreso.json 2>/dev/null | wc -c)
             python -m entrenamiento.simulador --dias=1
             git add datos; [ -f RESULTADOS.md ] && git add RESULTADOS.md
