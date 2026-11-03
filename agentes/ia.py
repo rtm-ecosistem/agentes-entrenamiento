@@ -111,8 +111,8 @@ class Groq(IA):
     # Plan gratuito: 30 peticiones y 8.000 tokens por minuto por modelo. Una petición más grande que eso la
     # rechaza (413), así que el mensaje se recorta por el medio (las listas largas de noticias) si hace falta
     ESPACIO = 2.5
-    MAX_CARACTERES = 18_000
-    MAX_RESPUESTA = 2_000
+    MAX_CARACTERES = 12_000
+    MAX_RESPUESTA = 2_500
 
     def __init__(self, modelo: str = config.MODELO_GROQ, clave: str | None = None):
         self.modelo = modelo
@@ -120,25 +120,31 @@ class Groq(IA):
 
     def pedir_json(self, instrucciones: str, mensaje: str, esquema: dict | None = None) -> dict:
         ESPACIO_GEMINI.setdefault(self.modelo, self.ESPACIO)
-        mensaje = recortar(mensaje, self.MAX_CARACTERES - len(instrucciones))
         cuerpo = {
             "model": self.modelo, "temperature": 0.4, "max_completion_tokens": self.MAX_RESPUESTA,
             "reasoning_effort": "low", "response_format": {"type": "json_object"},
-            "messages": [{"role": "system", "content": instrucciones},
-                         {"role": "user", "content": mensaje + "\n\nResponde solo con el JSON."}],
         }
-        _esperar_turno(self.modelo)
+        maximo = self.MAX_CARACTERES - len(instrucciones)
         inicio = time.monotonic()
-        try:
-            datos = _post_con_reintentos(URL_GROQ, cuerpo, {"Authorization": f"Bearer {self.clave}"})
-        except requests.HTTPError as e:
-            # Un 400 suele ser que el modo JSON no validó la respuesta: se pide otra vez sin él
-            if e.response is None or e.response.status_code != 400:
-                raise
-            print(f"{self.modelo} rechazó la petición ({e.response.text[:300]}); se pide sin modo JSON")
-            del cuerpo["response_format"]
+        for _ in range(4):
+            cuerpo["messages"] = [{"role": "system", "content": instrucciones},
+                                  {"role": "user", "content": recortar(mensaje, maximo) + "\n\nResponde solo con el JSON."}]
             _esperar_turno(self.modelo)
-            datos = _post_con_reintentos(URL_GROQ, cuerpo, {"Authorization": f"Bearer {self.clave}"})
+            try:
+                datos = _post_con_reintentos(URL_GROQ, cuerpo, {"Authorization": f"Bearer {self.clave}"})
+                break
+            except requests.HTTPError as e:
+                codigo = e.response.status_code if e.response is not None else None
+                if codigo == 413:  # no cabe en los tokens por minuto: se recorta más
+                    maximo = int(maximo * 0.6)
+                    print(f"{self.modelo}: petición demasiado grande; se recorta a {maximo} caracteres")
+                elif codigo == 400 and "response_format" in cuerpo:  # el modo JSON no validó: se pide sin él
+                    print(f"{self.modelo} rechazó la petición ({e.response.text[:300]}); se pide sin modo JSON")
+                    del cuerpo["response_format"]
+                else:
+                    raise
+        else:
+            raise RuntimeError(f"{self.modelo}: no se pudo hacer la petición")
         print(f"{self.modelo} respondió en {time.monotonic() - inicio:.0f} s")
         return extraer_json(datos["choices"][0]["message"]["content"] or "")
 
