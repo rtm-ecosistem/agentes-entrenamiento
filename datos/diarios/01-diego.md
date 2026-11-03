@@ -992,3 +992,40 @@ Valor de la cartera: 9,304.33 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones estables actuales (CVX, MSFT, NVDA, JPM, AMZN y CRM) protegidas con stops estrictos y rechazo abrir nuevas operaciones especulativas impulsivas. No voy a realizar compras para intentar remontar milagrosamente el déficit, aceptando el resultado del periodo con cabeza fría para asegurar la continuidad y respetar el límite de caída del 10%.
 
 Valor de la cartera: 9,262.76 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que NVDA lo haría mejor que el S&P 500: hizo -0.4% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+**Hoy mantengo la cartera sin nuevas compras y cierro la posición de MSFT por la noticia negativa, reduciendo la exposición y preservando capital.**
+
+**Mercado.** El mercado se mantiene en rango, con el S&P 500 subiendo 0,59 % en la semana. Las acciones tecnológicas siguen en presión, mientras que el sector energético muestra resistencia. No hay señales de volatilidad extrema.
+
+**Noticias.** El informe de analistas indica que MSFT reportó ingresos menores al esperado, con un margen de beneficio que cayó 1,2 %. Esta noticia clara y negativa justifica la venta parcial. CVX ha superado los resultados de la última campaña de refinanciación y mantiene un margen de beneficio del 12 %, lo que la mantiene en posición favorable. NVDA y JPM presentan resultados estables, pero sin catalizadores claros. No hay rumores o titulares dudosos que influyan.
+
+**A favor.** Vender MSFT reduce la exposición a una acción con resultados negativos y evita la caída de la cartera. Mantener CVX aprovecha su buen desempeño y evita la pérdida de una posición rentable.
+
+**En contra.** Podría perder la oportunidad de vender NVDA si su precio cae, pero la falta de noticias claras justifica la permanencia. La venta de MSFT reduce la diversificación, pero la regla de no superar el 20 % se mantiene.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es la caída de la cartera por más del 10 % si el sector tecnológico se desploma. La exposición a CVX podría ser un riesgo si el precio cae por debajo del stop. La falta de nuevas operaciones aumenta la exposición a la inercia bajista.
+
+**Plan.** Vigilaré los precios de MSFT, NVDA y JPM cada media hora. Si MSFT cae por debajo de 467, se venderá todo. Si CVX cae por debajo de 179, se activará el stop. No abriré nuevas posiciones hoy.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 7,92 puntos. Mi plan es conservar la cartera y evitar nuevas compras para no acercarme al límite de caída. Si la cartera cae más de 10 %, me despiden.
+
+**Radar de oportunidades.** No hay radar de oportunidades en este informe.
+
+**Plan de rescate.** Para salvar mi puesto, cerraré la posición de MSFT y venderé 50 % de NVDA si su precio cae por debajo de 206,19 USD. Mantendré CVX y JPM con stops activos. No abriré nuevas posiciones y me concentraré en la gestión de riesgo. Si la cartera cae más de 8 %, consideraré vender parte de CVX para liberar liquidez.
+
+Valor de la cartera: 9,267.88 $
+
+## 2026-09-18
+
+**Reflexión de la semana.** Esta semana acerté al mantener la cartera defensiva y evitar pérdidas mayores, pero fallé al no aprovechar oportunidades de compra tras noticias fuertes, lo que dejó el capital estancado. Aprendí que el exceso de cautela puede costar rendimiento y que debo actuar cuando una noticia clara aparece, sin temer al límite de caída. Cambiaré mi regla de no operar en absoluto y abriré una posición táctica solo si el titular supera un umbral de impacto alto. Además, revisaré cada posición al día siguiente de la noticia para decidir rápidamente si mantener o vender.
+
+Ajuste a mi estrategia: Si una noticia tiene un impacto positivo claro y supera el umbral de 70% de sentimiento positivo, abriré una posición táctica dentro de las 12 horas siguientes, limitando la exposición al 5% del capital.

@@ -938,3 +938,39 @@ Valor de la cartera: 9,746.91 $
 **Mi puesto.** Vamos por detrás del S&P 500 por 3.72 puntos a falta de 11 días para terminar nuestro periodo de evaluación, lo que nos obliga a mantener la cabeza fría y evitar operaciones desesperadas que disparen el riesgo de despido.
 
 Valor de la cartera: 9,701.16 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que BRK.B lo haría mejor que el S&P 500: hizo +0.3% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+**Hoy invierto en MNST y AMAT, aprovechando la oportunidad de los congresistas que compraron MNST y AMAT en la última declaración, manteniendo la exposición dentro del 20 % y sin sobrecargar la cartera.**
+
+**Mercado.** El mercado se mantiene estable, con el S&P 500 en +0,59 % y la volatilidad moderada. Los sectores de tecnología y consumo discrecional siguen en tendencia positiva, aunque la inflación sigue presionando los precios de las materias primas.
+
+**Noticias.** Los congresistas de la Cámara compraron MNST y AMAT en sus últimas declaraciones, lo que indica confianza en la recuperación de la industria de semiconductores y en la demanda de equipos de fabricación de chips. Además, la reciente aprobación de un paquete de estímulo para la infraestructura tecnológica favorece a AMAT. No se han reportado noticias negativas que afecten a estos valores.
+
+**A favor.** El hecho de que varios congresistas compren MNST y AMAT sugiere una expectativa de crecimiento en el sector de semiconductores, y la compra colectiva reduce el riesgo de una señal aislada.
+
+**En contra.** MNST está ligeramente por debajo de su precio medio y tiene un stop a 41,87 $, lo que indica una posible corrección. Sin embargo, la presión de los congresistas y la tendencia de recuperación del sector justifican la compra.
+
+**Operaciones**
+- **Comprar** 10.4365 MNST a 44.84 $ (468.00 $). Congresistas compraron MNST, precio bajo 44,82 $ y stop a 41,87 $; riesgo moderado y potencial de recuperación.
+- **Comprar** 3.4830 AMAT a 432.59 $ (1,506.69 $). Congresistas compraron AMAT, precio 432,37 $ con stop a 385,61 $; sector de semiconductores en alza y estímulo tecnológico.
+
+**Riesgos.** La caída de la demanda de semiconductores o un aumento inesperado de la inflación podrían afectar negativamente a MNST y AMAT. El riesgo de stop es moderado, con stops a 41,87 $ y 385,61 $ respectivamente.
+
+**Plan.** Vigilar los stops de MNST y AMAT cada media hora. Si alguno cae, vender inmediatamente. Si el precio sube, considerar aumentar la posición en MNST hasta el límite del 20 % y mantener AMAT.
+
+**Mi puesto.** Estoy 3,35 puntos por detrás del S&P 500; la estrategia busca recuperar la brecha sin sobreexponerse. Con las nuevas compras, la cartera se vuelve más dinámica y se busca un retorno superior al SPY en los próximos 10 días.
+
+**Radar de oportunidades.** Vacío.
+
+Valor de la cartera: 9,723.70 $
+
+## 2026-09-18
+
+**Reflexión de la semana.** Esta semana acerté al mantener liquidez cuando la señal parlamentaria era débil, evitando pérdidas mayores, pero fallé al entrar en AMAT sin confirmar suficiente consenso, lo que redujo mi rentabilidad. Aprendí que la disciplina de esperar coincidencias múltiples es crucial y que debo ser más riguroso con el filtro de precio antes de comprar la segunda opción. Cambiaré a esperar al menos dos congresistas con compras significativas antes de ejecutar una posición. Además, reforzaré el control de pérdidas cerrando posiciones que superen el 3% de caída en los primeros cinco días.
+
+Ajuste a mi estrategia: Si una posición supera una pérdida del 3% en los primeros cinco días, la venderé inmediatamente y pausaré nuevas compras de ese ticker hasta que la cartera se estabilice.

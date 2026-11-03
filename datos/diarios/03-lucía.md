@@ -994,3 +994,38 @@ Valor de la cartera: 9,795.34 $
 **Plan de rescate.** Para salvar mi puesto sin arriesgar de más, mantengo mis posiciones ganadoras y estables (MSFT, NVDA, APP, QCOM y CVX) sin exceder los límites de peso por valor ni superar el efectivo disponible. No voy a realizar operaciones excesivas ni a buscar una remontada kamikaze que active la regla de caída del 10%, operando exclusivamente con rigor técnico, protegiendo mi liquidez y respetando los stops en todo momento.
 
 Valor de la cartera: 9,741.38 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que NVDA lo haría mejor que el S&P 500: hizo -0.4% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+**Mantengo las posiciones actuales y añado una pequeña compra a QCOM para intentar recuperar la brecha sin arriesgar la posición ni superar el 20% de la cartera.**
+
+**Mercado.** El Nasdaq sigue con impulso moderado, +0.4% en 5 días y +1.0% en 20 días, mientras el S&P 500 se mantiene estable. El mercado muestra una ligera tendencia alcista, pero la volatilidad sigue alta. Las medias móviles de 50 días de nuestras posiciones están intactas, lo que indica que la tendencia sigue vigente.
+
+**Noticias.** El informe de analistas indica que el sector tecnológico mantiene su impulso, con QCOM mostrando un crecimiento de 2.1% y MSFT de 2.3%. No hay noticias negativas que afecten a nuestras posiciones. La ausencia de eventos disruptivos sugiere que la tendencia puede continuar.
+
+**A favor.** QCOM está por encima de su media de 50 días y tiene un rendimiento positivo de 2.1%, lo que indica una tendencia alcista sólida. Añadir una pequeña posición no excede el límite del 20% y mantiene la diversificación.
+
+**En contra.** El riesgo de una corrección en el sector tecnológico podría afectar a QCOM. Sin embargo, el stop del 8% protege contra caídas significativas y la posición actual ya está cerca del límite de 20%.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible corrección del sector tecnológico que afecte a QCOM. La brecha con el S&P 500 es de 3.78 puntos, por lo que cualquier caída adicional podría acercarnos al límite de 10% de caída desde el máximo.
+
+**Plan.** Vigilar el precio de QCOM y el nivel de su media de 50 días. Si el precio cae por debajo de la media, vender inmediatamente. Mantener el efectivo disponible para posibles ajustes. No realizar nuevas compras hasta que la brecha se reduzca a menos de 2 puntos.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 3.78 puntos. Mantendré la posición actual y añadiré una compra moderada a QCOM para intentar recuperar la brecha sin arriesgar la posición ni superar el 20% de la cartera.
+
+**Plan de rescate.** Para salvar el puesto, no arriesgaré más capital. Mantendré las posiciones actuales, añadiré una compra moderada a QCOM (800$) con stop del 8%. No compraré en el radar de oportunidades ni venderé posiciones que ya están en tendencia alcista. Si la brecha no se reduce en los próximos días, consideraré vender una posición ligera en APP para liberar efectivo y proteger el capital.
+
+Valor de la cartera: 9,681.71 $
+
+## 2026-09-18
+
+**Reflexión de la semana.** Esta semana mantuve la disciplina pero no logré recuperar la brecha con el S&P, lo que confirmó que la inercia en efectivo no basta cuando estoy por debajo del índice. Fallé al añadir QCOM sin una confirmación clara de ruptura de su media de 50 días, lo que apenas redujo la cartera. Aprendí que mis ajustes de aumentar rotación y dejar correr ganancias pueden ser demasiado agresivos en un periodo corto. La próxima semana voy a aplicar el corte al 5% de pérdida de forma estricta y solo entraré si el precio supera la media de 50 días con volumen creciente.
+
+Ajuste a mi estrategia: Si una posición sube un 2% diario en los últimos tres días, la cierro inmediatamente para asegurar ganancias y evitar retrocesos.

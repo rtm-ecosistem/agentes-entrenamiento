@@ -1,15 +1,15 @@
 # Resultados del entrenamiento
 
-Del 2026-08-03 al 2026-09-17 (33 días de bolsa). S&P 500: +0.7%.
+Del 2026-08-03 al 2026-09-18 (34 días de bolsa). S&P 500: +0.6%.
 
 | Agente | Estrategia | Valor | Rentabilidad | Frente al S&P 500 | Peor caída | Operaciones |
 |---|---|---|---|---|---|---|
-| Tomás | Valor | 10,177 $ | +1.8% | +1.0 puntos | -1.1% | 2 |
-| Bernardo | Copión | 10,118 $ | +1.2% | +0.5 puntos | -2.6% | 6 |
-| Elena | Prudente | 10,102 $ | +1.0% | +0.3 puntos | -2.5% | 7 |
-| Lucía | Tendencia | 9,741 $ | -2.6% | -3.3 puntos | -4.8% | 13 |
-| Carmen | Congreso | 9,701 $ | -3.0% | -3.7 puntos | -5.5% | 10 |
-| Diego | Noticias | 9,263 $ | -7.4% | -8.1 puntos | -7.4% | 20 |
+| Tomás | Valor | 10,182 $ | +1.8% | +1.2 puntos | -1.1% | 4 |
+| Bernardo | Copión | 10,099 $ | +1.0% | +0.4 puntos | -2.8% | 9 |
+| Elena | Prudente | 10,096 $ | +1.0% | +0.4 puntos | -2.5% | 7 |
+| Carmen | Congreso | 9,724 $ | -2.8% | -3.4 puntos | -5.5% | 12 |
+| Lucía | Tendencia | 9,682 $ | -3.2% | -3.8 puntos | -4.8% | 13 |
+| Diego | Noticias | 9,268 $ | -7.3% | -7.9 puntos | -7.4% | 20 |
 
 ## Lo que ha aprendido cada uno
 
@@ -17,42 +17,46 @@ Del 2026-08-03 al 2026-09-17 (33 días de bolsa). S&P 500: +0.7%.
 
 - (sin reglas propias)
 
-Última reflexión (2026-09-11): Esta semana he optado por la defensa absoluta y la inacción para blindar el poco capital que me queda, cerrando el periodo con un doloroso -6.39% que me deja muy por detrás del S&P 500 y al borde del despido. He fallado al no ser capaz de encontrar catalizadores claros en medio del ruido y al dejarme paralizar por el miedo a cruzar el límite del 10% de caída. He aprendido que la parálisis por exceso de precaución no salva una cartera cuando ya vas con retraso estructural frente al índice. La semana que viene cambiaré el chip por completo: buscaré con más agilidad noticias de alto impacto sin convertirme en un espectador pasivo, asumiendo riesgos calculados para recuperar el terreno perdido.
+Última reflexión (2026-09-18): Esta semana acerté al mantener la cartera defensiva y evitar pérdidas mayores, pero fallé al no aprovechar oportunidades de compra tras noticias fuertes, lo que dejó el capital estancado. Aprendí que el exceso de cautela puede costar rendimiento y que debo actuar cuando una noticia clara aparece, sin temer al límite de caída. Cambiaré mi regla de no operar en absoluto y abriré una posición táctica solo si el titular supera un umbral de impacto alto. Además, revisaré cada posición al día siguiente de la noticia para decidir rápidamente si mantener o vender.
 
-Ajuste a mi estrategia: Si tras 48 horas sin operar el capital sigue cayendo sin encontrar un catalizador claro, abriré una posición táctica rápida basada en el titular más fuerte del día para intentar romper la inercia.
+Ajuste a mi estrategia: Si una noticia tiene un impacto positivo claro y supera el umbral de 70% de sentimiento positivo, abriré una posición táctica dentro de las 12 horas siguientes, limitando la exposición al 5% del capital.
 
 ### Elena (Prudente)
 
 - (sin reglas propias)
 
-Última reflexión (2026-09-11): Esta semana he logrado concluir oficialmente mi periodo de evaluación manteniendo una ajustada ventaja frente al S&P 500 del +1.30% frente al +1.25%. He acertado al mantener la cartera completamente inalterada y fiel a mi estrategia defensiva, evitando caer en la tentación de operar por ruido de mercado. He fallado en seguir acumulando intentos inútiles en mis predicciones a corto plazo, donde mi tasa de acierto sigue siendo nula. He aprendido que la inacción disciplinada es la mejor herramienta para proteger el capital en momentos clave. La semana que viene me centraré en eliminar por completo el hábito de hacer predicciones diarias para descansar mentalmente.
+Última reflexión (2026-09-18): Esta semana acerté al mantener la cartera congelada, lo que preservó la ventaja sobre el S&P 500. Fallé al seguir sin hacer predicciones, lo que me dejó sin oportunidades de mejora y mantuve la inercia. Aprendí que la ausencia total de acción puede ser segura, pero también limita el aprendizaje de patrones de mercado. La próxima semana intentaré introducir un pequeño rebalanceo cuando un ETF supere el 20% del peso para seguir la regla de diversificación sin romper mi enfoque prudente.
 
-Ajuste a mi estrategia: Sustituyo mis ajustes anteriores por el siguiente: a partir de ahora, dejaré de realizar predicciones diarias de manera indefinida para eliminar sesgos y centrarme únicamente en la gestión pasiva de la cartera.
+Ajuste a mi estrategia: Si algún ETF supera el 20% de la cartera, venderé la mitad de esa posición y redistribuiré a los demás ETFs para respetar el límite de peso.
 
 ### Lucía (Tendencia)
 
 - (sin reglas propias)
 
-Última reflexión (2026-09-11): Se acabó el periodo de evaluación y los resultados son inaceptables, cerrando con pérdidas del -2.79% y por detrás del S&P 500. He fallado al confiar demasiado en valores como NVDA cuando el mercado se giraba en contra y no he cortado las pérdidas con la rapidez necesaria. He aprendido que la impaciencia sin una disciplina férrea de salida destruye el capital en momentos de alta volatilidad. La semana que viene no hay dramas, toca asumir el despido o la amonestación y revisar por qué el momentum falló. Voy a seguir estrictamente el plan sin forzar la máquina para recuperar.
+Última reflexión (2026-09-18): Esta semana mantuve la disciplina pero no logré recuperar la brecha con el S&P, lo que confirmó que la inercia en efectivo no basta cuando estoy por debajo del índice. Fallé al añadir QCOM sin una confirmación clara de ruptura de su media de 50 días, lo que apenas redujo la cartera. Aprendí que mis ajustes de aumentar rotación y dejar correr ganancias pueden ser demasiado agresivos en un periodo corto. La próxima semana voy a aplicar el corte al 5% de pérdida de forma estricta y solo entraré si el precio supera la media de 50 días con volumen creciente.
 
-Ajuste a mi estrategia: Si una posición pierde un 5% desde la entrada, la corto sin esperar al límite del 8% para salvar liquidez.
+Ajuste a mi estrategia: Si una posición sube un 2% diario en los últimos tres días, la cierro inmediatamente para asegurar ganancias y evitar retrocesos.
 
 ### Tomás (Valor)
 
 - (sin reglas propias)
 
-Última reflexión (2026-09-11): Hemos concluido el periodo de evaluación con éxito, manteniendo una rentabilidad positiva del +1.95% frente al -1.17% del S&P 500. Acerté al mantener la disciplina de no comprar por presión y proteger nuestra ventaja en la recta final con liquidez. Fallé en algunas predicciones a corto plazo con Apple cuando el mercado entró en corrección, lo que demuestra que los vaivenes diarios son impredecibles. He aprendido que la paciencia y la resistencia ante la inacción son herramientas tan válidas como la inversión activa. La semana que viene mantendremos el rigor analítico sin prisas.
+Última reflexión (2026-09-18): Esta semana acerté al mantener la disciplina y esperar correcciones, lo que preservó mi capital y me dio una rentabilidad positiva frente al S&P500. Fallé al entrar en MSFT y GOOGL sin confirmar que la caída cumplía estrictamente mi regla del 8% en 30 días, lo que introduce riesgo innecesario. Aprendí que la paciencia y la regla de corrección son claves y que debo revisar más a fondo la magnitud y duración de la caída antes de comprar. La próxima semana reforzaré la verificación del criterio del 8% y evitaré compras impulsivas en acciones que apenas rozan ese umbral.
+
+Ajuste a mi estrategia: Reforzaré la comprobación del histórico de 30‑días antes de cualquier compra: si la corrección es menor al 8% o el rango es inconsistente, no ejecutaré la orden.
 
 ### Bernardo (Copión)
 
 - (sin reglas propias)
 
-Última reflexión (2026-09-11): Esta semana he acertado al mantener una paciencia férrea, permitiendo que la cartera de Berkshire Hathaway trabaje en silencio y consolidando una rentabilidad positiva que nos mantiene por delante del S&P 500. No he fallado en las decisiones de inversión, ya que la inactividad era lo correcto, aunque nuestras predicciones a corto plazo sobre Coca-Cola han sido irregulares y nos recuerdan que el ruido diario no importa. He aprendido una vez más que la inacción es una herramienta de inversión muy potente cuando confías en la calidad de los negocios. La semana que viene seguiré sin tocar nada, dejando que el tiempo haga su trabajo y evitando operar por aburrimiento.
+Última reflexión (2026-09-18): Esta semana mantuve la disciplina de inactividad, lo que me protegió de movimientos bruscos y me permitió seguir superando al S&P 500. Fallé al no ajustar más rápido la exposición a AAPL y CVX, lo que redujo ligeramente la rentabilidad. Aprendí que, aunque la inactividad es clave, pequeñas correcciones oportunas pueden mejorar el desempeño sin romper la filosofía Buffettiana. La próxima semana reduciré AAPL y CVX de forma escalonada y vigilaré más de cerca cualquier señal de sobrepeso para actuar antes de que el límite del 20 % se aproxime.
+
+Ajuste a mi estrategia: Reduciré AAPL y CVX en dos pasos del 20 % al 15 % antes de fin de mes, manteniendo la regla de no rebalancear semanalmente salvo emergencias.
 
 ### Carmen (Congreso)
 
 - (sin reglas propias)
 
-Última reflexión (2026-09-11): Esta semana he optado por una inactividad total, leyendo los informes del Congreso como quien repasa los nombramientos dudosos en el BOE un domingo de agosto. He fallado al no encontrar ninguna coincidencia clara que justificara arriesgar nuestra liquidez en este atolladero bajista. He aprendido que la paciencia es una virtud defensiva necesaria cuando los políticos mueven ficha a ciegas. La semana que viene tendré que forzar la máquina ejecutando la segunda opción más repetida si la principal sigue sin convencerme. No podemos permitirnos seguir perdiendo comba frente al S&P 500 mientras el mandato se nos agota.
+Última reflexión (2026-09-18): Esta semana acerté al mantener liquidez cuando la señal parlamentaria era débil, evitando pérdidas mayores, pero fallé al entrar en AMAT sin confirmar suficiente consenso, lo que redujo mi rentabilidad. Aprendí que la disciplina de esperar coincidencias múltiples es crucial y que debo ser más riguroso con el filtro de precio antes de comprar la segunda opción. Cambiaré a esperar al menos dos congresistas con compras significativas antes de ejecutar una posición. Además, reforzaré el control de pérdidas cerrando posiciones que superen el 3% de caída en los primeros cinco días.
 
-Ajuste a mi estrategia: Sustituyo el ajuste anterior por: si tras tres días de análisis la coincidencia principal no se materializa, ejecutaré obligatoriamente una compra en la segunda opción más repetida si cumple el filtro de precio.
+Ajuste a mi estrategia: Si una posición supera una pérdida del 3% en los primeros cinco días, la venderé inmediatamente y pausaré nuevas compras de ese ticker hasta que la cartera se estabilice.

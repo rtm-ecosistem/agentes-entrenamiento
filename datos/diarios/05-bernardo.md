@@ -937,3 +937,38 @@ Valor de la cartera: 10,197.63 $
 **Mi puesto.** Vamos por delante del S&P 500 por 0,45 puntos y nuestra prioridad absoluta es conservar esta ventaja protegiendo el capital acumulado sin correr riesgos innecesarios.
 
 Valor de la cartera: 10,117.84 $
+
+## 2026-09-18
+
+**Nota de mi predicción del 2026-09-11.** Dije que KO lo haría mejor que el S&P 500: hizo -0.4% frente a -0.7%. Acierto.
+
+## 2026-09-18
+
+**Reducir AAPL y CVX a 20 % y aumentar AXP dentro del límite de 20 % por valor, manteniendo la inactividad disciplinada.**
+
+**Mercado.** El Nasdaq muestra un impulso positivo, pero el S&P 500 se mantiene casi estable. Los sectores de tecnología y consumo discrecional presentan leves retrocesos, lo que sugiere que las grandes empresas de nuestra cartera siguen con buen desempeño, pero sin necesidad de nuevas compras agresivas.
+
+**Noticias.** No hay noticias corporativas graves que afecten a nuestras posiciones. La única noticia relevante es la estabilidad de los bonos a largo plazo, lo que indica un entorno de tasas bajas y favorece a las empresas de consumo y energía.
+
+**A favor.** AAPL y CVX están sobre 20 % del límite; ajustarlos evita la penalización por exceso de peso y mantiene la diversificación.
+
+**En contra.** Vender AAPL reduce una posición con buen rendimiento, pero el ajuste es necesario para cumplir la regla del 20 % y evitar la caída del 10 %.
+
+**Operaciones**
+- **Vender** 0.5991 AAPL a 333.66 $ (199.90 $). Reducir peso a 20 % y cumplir la regla del 20 % por valor.
+- **Vender** 1.0257 CVX a 210.48 $ (215.89 $). Ajustar peso a 20 % y evitar penalización por exceso de exposición a energía.
+- **Comprar** 0.6457 AXP a 309.72 $ (200.00 $). Completar la posición a 20 % y aprovechar la oportunidad de compra dentro del límite de 20 % por valor.
+
+**Riesgos.** Si el mercado cae y AAPL o CVX bajan más del 8 %, se activará el stop y podríamos perder parte de la ganancia acumulada. La venta de AAPL también reduce la exposición a la tecnología, que está en alza.
+
+**Plan.** Vigilar los stops de AAPL y CVX cada media hora y esperar a que el 13F de octubre llegue para reequilibrar. Mantener la inactividad hasta que haya noticias corporativas graves.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 0,39 puntos; mantendré la posición actual y solo haré ajustes de peso.
+
+Valor de la cartera: 10,098.51 $
+
+## 2026-09-18
+
+**Reflexión de la semana.** Esta semana mantuve la disciplina de inactividad, lo que me protegió de movimientos bruscos y me permitió seguir superando al S&P 500. Fallé al no ajustar más rápido la exposición a AAPL y CVX, lo que redujo ligeramente la rentabilidad. Aprendí que, aunque la inactividad es clave, pequeñas correcciones oportunas pueden mejorar el desempeño sin romper la filosofía Buffettiana. La próxima semana reduciré AAPL y CVX de forma escalonada y vigilaré más de cerca cualquier señal de sobrepeso para actuar antes de que el límite del 20 % se aproxime.
+
+Ajuste a mi estrategia: Reduciré AAPL y CVX en dos pasos del 20 % al 15 % antes de fin de mes, manteniendo la regla de no rebalancear semanalmente salvo emergencias.
