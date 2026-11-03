@@ -145,6 +145,9 @@ UNIVERSO = [
 PROVEEDOR_IA = os.environ.get("PROVEEDOR_IA", "gemini").strip() or "gemini"
 MODELO_GEMINI = os.environ.get("MODELO_GEMINI", "gemini-3.8-flash").strip() or "gemini-3.8-flash"
 MODELO_GEMINI_LIGERO = os.environ.get("MODELO_GEMINI_LIGERO", "gemini-3.5-flash-lite").strip() or "gemini-3.5-flash-lite"
+# Groq (plan gratuito, API compatible con la de OpenAI): desde el 31/10/2026 Google tiene suspendido el proyecto de Gemini
+MODELO_GROQ = os.environ.get("MODELO_GROQ", "openai/gpt-oss-120b").strip() or "openai/gpt-oss-120b"
+MODELO_GROQ_LIGERO = os.environ.get("MODELO_GROQ_LIGERO", "openai/gpt-oss-20b").strip() or "openai/gpt-oss-20b"
 MODELO_CLAUDE = os.environ.get("MODELO_CLAUDE", "claude-haiku-5-5").strip() or "claude-haiku-5-5"
 
 # Las fuentes del Copión (13F de la SEC) y de la del Congreso piden identificarse
