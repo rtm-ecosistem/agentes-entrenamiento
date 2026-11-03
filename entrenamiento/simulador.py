@@ -237,9 +237,14 @@ def main() -> None:
     limite = time.monotonic() + float(next((a.split("=", 1)[1] for a in sys.argv if a.startswith("--minutos=")),
                                            "320")) * 60
     # Las decisiones, con el ligero (el bueno solo deja 20 peticiones al día); lo que más enseña, con el bueno
-    from agentes.ia import Gemini
     ia = ia_ligera = crear_ia(ligera=True)
-    preparar(Mixta(Gemini(config.MODELO_GEMINI, respaldo=None), ia_ligera))
+    if config.PROVEEDOR_IA == "groq":
+        from agentes.ia import Groq
+        buena = Groq(config.MODELO_GROQ)
+    else:
+        from agentes.ia import Gemini
+        buena = Gemini(config.MODELO_GEMINI, respaldo=None)
+    preparar(Mixta(buena, ia_ligera))
     mercado, avisos = MercadoHistorico(), AvisosMudos()
     progreso = json.loads(PROGRESO.read_text()) if PROGRESO.exists() else {"hechos": []}
     pendientes = [d for d in dias_de_bolsa(mercado, INICIO, FIN) if d not in progreso["hechos"]]
