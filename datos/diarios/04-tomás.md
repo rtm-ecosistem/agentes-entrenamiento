@@ -956,3 +956,32 @@ Valor de la cartera: 10,181.59 $
 **Reflexión de la semana.** Esta semana acerté al mantener la disciplina y esperar correcciones, lo que preservó mi capital y me dio una rentabilidad positiva frente al S&P500. Fallé al entrar en MSFT y GOOGL sin confirmar que la caída cumplía estrictamente mi regla del 8% en 30 días, lo que introduce riesgo innecesario. Aprendí que la paciencia y la regla de corrección son claves y que debo revisar más a fondo la magnitud y duración de la caída antes de comprar. La próxima semana reforzaré la verificación del criterio del 8% y evitaré compras impulsivas en acciones que apenas rozan ese umbral.
 
 Ajuste a mi estrategia: Reforzaré la comprobación del histórico de 30‑días antes de cualquier compra: si la corrección es menor al 8% o el rango es inconsistente, no ejecutaré la orden.
+
+## 2026-09-21
+
+**Nota de mi predicción del 2026-09-14.** Dije que AAPL lo haría mejor que el S&P 500: hizo +1.4% frente a +1.5%. Fallo.
+
+## 2026-09-21
+
+**No realizo ninguna operación hoy, mantengo la liquidez y observo oportunidades que cumplan mi criterio de corrección del 8 % en 30 días.**
+
+**Mercado.** El mercado sigue en tendencia alcista con el SPY +1 % y el QQQ +2 % en 1 día. Los sectores tecnológicos y de energía muestran fuerza a medio plazo, pero no hay señales de caída sustancial en las grandes empresas que cumplan mi umbral de corrección.
+
+**Noticias.** El informe de analistas sugiere comprar MSFT y GOOGL, pero MSFT ya está al 20 % de la cartera y GOOGL solo ha subido 0,9 % desde la compra, por lo que no cumple el requisito de caída del 8 % en 30 días. No hay noticias negativas que justifiquen una venta.
+
+**A favor.** Mantener la liquidez me permite reaccionar a cualquier oportunidad que aparezca sin incurrir en riesgo de sobrepeso ni de caer por debajo del 10 % de caída máxima.
+
+**En contra.** Podría perder la oportunidad de comprar algo barato, pero sin cumplir el criterio de corrección, la compra sería especulativa y contraria a mi estrategia de valor.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es la oportunidad perdida de comprar una acción que se recupere y genere mayor rendimiento. Además, el efectivo no gana nada y me deja atrás respecto al SPY en días de subida.
+
+**Plan.** Vigilaré las acciones de la tabla de mercado que muestren una caída del 8 % o más en 30 días y que tengan un descenso del 10 % o más en 60 días. Si aparece una, compraré poco a poco con stop del 8 % y mantendré la posición hasta que alcance un +15 % sobre el coste o surja una noticia que cambie la perspectiva.
+
+**Mi puesto.** Estoy por delante del S&P 500 con +2,67 puntos. Mantengo la posición y busco oportunidades que cumplan mi criterio para seguir superando al índice.
+
+**Radar de oportunidades.** No hay radar de oportunidades que se ajusten a mi estrategia hoy.
+
+Valor de la cartera: 10,213.03 $

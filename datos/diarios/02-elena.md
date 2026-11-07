@@ -963,3 +963,29 @@ Valor de la cartera: 10,095.56 $
 **Reflexión de la semana.** Esta semana acerté al mantener la cartera congelada, lo que preservó la ventaja sobre el S&P 500. Fallé al seguir sin hacer predicciones, lo que me dejó sin oportunidades de mejora y mantuve la inercia. Aprendí que la ausencia total de acción puede ser segura, pero también limita el aprendizaje de patrones de mercado. La próxima semana intentaré introducir un pequeño rebalanceo cuando un ETF supere el 20% del peso para seguir la regla de diversificación sin romper mi enfoque prudente.
 
 Ajuste a mi estrategia: Si algún ETF supera el 20% de la cartera, venderé la mitad de esa posición y redistribuiré a los demás ETFs para respetar el límite de peso.
+
+## 2026-09-21
+
+**Mantengo la cartera sin cambios significativos y añado 150 USD a GLD y 858 USD a IEF para reforzar la exposición a bonos y oro, manteniendo cada posición por debajo del 20 % y sin arriesgar más de lo necesario.**
+
+**Mercado.** El mercado sigue en tendencia alcista, con SPY y QQQ subiendo 1 % y 2,2 % respectivamente. Los sectores de tecnología y consumo están impulsando la subida, mientras que IWM y MDY muestran debilidad ligera. Los precios de GLD y IEF se mantienen estables, con GLD en 398,37 USD y IEF en 91,07 USD.
+
+**Noticias.** La última reunión de la Fed indicó que las tasas permanecerán en su rango actual, lo que apoya la estabilidad de los bonos. La inflación se mantiene moderada y el empleo sigue fuerte, reduciendo la presión sobre los mercados de renta variable. No hay crisis macroeconómica inminente, por lo que no se justifica un aumento de la exposición a activos defensivos.
+
+**A favor.** Incrementar GLD y IEF mejora la diversificación y reduce la volatilidad sin comprometer el objetivo de superar al S&P 500 con pérdidas mínimas. Al mantener cada posición por debajo del 20 %, cumplo con la regla de riesgo y evito la caída del 10 %.
+
+**En contra.** El aumento de GLD y IEF reduce ligeramente la exposición a la renta variable, lo que podría limitar la ganancia en una subida sostenida. Sin embargo, el riesgo de una corrección de 5 % o más justifica la protección adicional.
+
+**Operaciones**
+- **Comprar** 0.3763 GLD a 398.57 $ (150.00 $). Aumentar la exposición a oro a 20 % para reforzar la defensa contra una posible caída del mercado.
+- **Comprar** 9.4151 IEF a 91.12 $ (857.86 $). Subir la exposición a bonos a 20 % para mejorar la estabilidad y cumplir con la regla de riesgo.
+
+**Riesgos.** Posible caída de los precios de GLD si el mercado entra en una fase de aversión al riesgo. IEF podría sufrir si la Fed sube tasas inesperadamente. La exposición a la renta variable permanece al 40 %, lo que limita la recuperación si el mercado se recupera rápidamente.
+
+**Plan.** Vigilar los stops de SPY (694,77), VTI (342,89), GLD (359,18) e IEF (87,54). Si el mercado cae más de 5 % en una semana, considerar aumentar GLD a 20 %. Mantener la cartera estable y evitar nuevas posiciones de riesgo.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 0,44 puntos. Mantendré la estrategia de protección y no intentaré remontar agresivamente para evitar la caída del 10 %.
+
+**Plan de rescate.** Para salvar mi puesto, reforzaré la exposición a GLD y IEF hasta el 20 % cada una, manteniendo SPY y VTI al 20 % y sin abrir nuevas posiciones de riesgo. Evitaré cualquier compra de empresas sectoriales o de alto crecimiento. Monitorearé los stops y, si el mercado cae más de 5 %, aumentaré GLD a 20 % y mantendré IEF en 20 %. No realizaré operaciones de venta de SPY o VTI para no comprometer la exposición a la renta variable. Con esta disciplina, mantendré la cartera estable y dentro de los límites de riesgo.
+
+Valor de la cartera: 10,145.43 $

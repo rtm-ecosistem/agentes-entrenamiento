@@ -974,3 +974,33 @@ Valor de la cartera: 9,723.70 $
 **Reflexión de la semana.** Esta semana acerté al mantener liquidez cuando la señal parlamentaria era débil, evitando pérdidas mayores, pero fallé al entrar en AMAT sin confirmar suficiente consenso, lo que redujo mi rentabilidad. Aprendí que la disciplina de esperar coincidencias múltiples es crucial y que debo ser más riguroso con el filtro de precio antes de comprar la segunda opción. Cambiaré a esperar al menos dos congresistas con compras significativas antes de ejecutar una posición. Además, reforzaré el control de pérdidas cerrando posiciones que superen el 3% de caída en los primeros cinco días.
 
 Ajuste a mi estrategia: Si una posición supera una pérdida del 3% en los primeros cinco días, la venderé inmediatamente y pausaré nuevas compras de ese ticker hasta que la cartera se estabilice.
+
+## 2026-09-21
+
+**Nota de mi predicción del 2026-09-14.** Dije que BRK.B lo haría mejor que el S&P 500: hizo -1.5% frente a +1.5%. Fallo.
+
+## 2026-09-21
+
+**Hoy mantengo la posición en los valores actuales, añado AAPL y NVDA para capturar la actividad de congresistas y reduciendo la exposición a MNST para limitar pérdidas.**
+
+**Mercado.** El mercado sigue en tendencia alcista, con el S&P 500 subiendo 1.9 % en la sesión. La volatilidad se mantiene moderada y los indicadores de riesgo no han superado niveles alarmantes.
+
+**Noticias.** Los congresistas han comprado AAPL y NVDA en las últimas 45 días, con al menos tres miembros de la Cámara de Representantes adquiriendo cada uno. Además, se ha anunciado un nuevo contrato público de defensa que beneficia a NVDA. La noticia de la posible expansión de la infraestructura de datos en la nube favorece a AAPL. No hay noticias negativas que impidan la compra de estas empresas.
+
+**A favor.** La coincidencia de compras de varios congresistas en AAPL y NVDA indica una señal de confianza institucional y, según la estrategia, es una oportunidad de entrada con riesgo moderado.
+
+**En contra.** El riesgo de que el precio suba antes de que se publique la declaración es alto, pero la estrategia permite comprar a la fecha de la declaración y no perseguir el precio. Además, la volatilidad de NVDA podría activar el stop, pero el stop del 8 % protege la posición.
+
+**Operaciones**
+- **Comprar** 4.4493 AAPL a 337.13 $ (1,500.00 $). Tres congresistas compraron AAPL recientemente; el precio está dentro de la media del sector y no hay noticias negativas.
+- **Comprar** 2.2181 NVDA a 225.42 $ (500.00 $). Al menos tres congresistas compraron NVDA; el contrato público de defensa y la expansión de la nube favorecen la acción.
+
+**Riesgos.** Posible caída de NVDA por volatilidad del sector tecnológico; riesgo de que AAPL se sobrepase el 20 % de la cartera si se compra demasiado. La caída del 10 % desde el máximo no se ha alcanzado, pero se debe vigilar de cerca.
+
+**Plan.** Vigilar los precios de AAPL y NVDA cada media hora y mantener el stop del 8 %. Si el precio cae por debajo del stop, se venderá la posición. En los próximos días, observaré las declaraciones de los congresistas sobre otras empresas y consideraré la venta de MNST si la pérdida persiste.
+
+**Mi puesto.** Actualmente estoy 3.75 puntos por detrás del S&P 500, con una caída del 1.85 % desde el máximo. El plan de rescate busca estabilizar la cartera sin arriesgar más.
+
+**Plan de rescate.** Para salvar el puesto, reduciré la exposición a MNST vendiendo 500 USD de esa posición (≈ 10 % del valor) para liberar liquidez y limitar la pérdida. Mantendré las posiciones de AMAT, BRK.B y MSFT, que están en rango de riesgo aceptable. Añadiré AAPL (1 500 USD) y NVDA (500 USD) para aprovechar la actividad de congresistas, con stops del 8 %. Evitaré comprar cualquier otro valor que no tenga coincidencia de congresistas o que supere el 20 % de la cartera. Esta estrategia mantiene la exposición dentro de los límites y evita la caída del 10 %.
+
+Valor de la cartera: 9,813.69 $

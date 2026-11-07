@@ -972,3 +972,30 @@ Valor de la cartera: 10,098.51 $
 **Reflexión de la semana.** Esta semana mantuve la disciplina de inactividad, lo que me protegió de movimientos bruscos y me permitió seguir superando al S&P 500. Fallé al no ajustar más rápido la exposición a AAPL y CVX, lo que redujo ligeramente la rentabilidad. Aprendí que, aunque la inactividad es clave, pequeñas correcciones oportunas pueden mejorar el desempeño sin romper la filosofía Buffettiana. La próxima semana reduciré AAPL y CVX de forma escalonada y vigilaré más de cerca cualquier señal de sobrepeso para actuar antes de que el límite del 20 % se aproxime.
 
 Ajuste a mi estrategia: Reduciré AAPL y CVX en dos pasos del 20 % al 15 % antes de fin de mes, manteniendo la regla de no rebalancear semanalmente salvo emergencias.
+
+## 2026-09-21
+
+**Nota de mi predicción del 2026-09-14.** Dije que KO lo haría mejor que el S&P 500: hizo -1.5% frente a +1.5%. Fallo.
+
+## 2026-09-21
+
+**Mantengo la inactividad y no realizo operaciones hoy, siguiendo la disciplina de Buffett y evitando movimientos sin noticias graves.**
+
+**Mercado.** El SPY y QQQ siguen en tendencia alcista, mientras que IWM y MDY muestran debilidad. El sector tecnológico XLK está fuerte y el sector de energía XLE recuperándose a mediano plazo. El mercado general se mantiene estable con un impulso positivo.
+
+**Noticias.** No hay noticias corporativas graves sobre AAPL, AXP, KO o CVX que justifiquen una venta. La única noticia relevante es la de Alphabet sobre laptops Android, pero no afecta a nuestras posiciones actuales. No se detecta fraude ni problemas serios que requieran acción inmediata.
+
+**A favor.** Mantener la posición en AAPL y CVX aprovecha su rendimiento positivo y la filosofía de Buffett de dejar que el valor crezca a largo plazo.
+
+**En contra.** La falta de rebalanceo podría dejar la cartera sobreexpuesta a sectores que podrían cambiar de tendencia, pero sin noticias graves no hay motivo para actuar.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible corrección en el sector tecnológico que afecte a AAPL, y volatilidad en el sector de energía que podría impactar a CVX. La falta de diversificación adicional aumenta la exposición a estos riesgos.
+
+**Plan.** Vigilar las noticias corporativas de AAPL, CVX y AXP. Si surge alguna señal negativa, vender inmediatamente. Mantener la inactividad hasta que haya una noticia grave o un ajuste de peso >20%.
+
+**Mi puesto.** Estoy por detrás del S&P 500 por 1.01 puntos; seguiré la estrategia de Buffett y evitaré movimientos impulsivos para no caer en la caída del 10%.
+
+Valor de la cartera: 10,088.42 $

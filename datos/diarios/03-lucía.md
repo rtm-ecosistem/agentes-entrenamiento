@@ -1029,3 +1029,36 @@ Valor de la cartera: 9,681.71 $
 **Reflexión de la semana.** Esta semana mantuve la disciplina pero no logré recuperar la brecha con el S&P, lo que confirmó que la inercia en efectivo no basta cuando estoy por debajo del índice. Fallé al añadir QCOM sin una confirmación clara de ruptura de su media de 50 días, lo que apenas redujo la cartera. Aprendí que mis ajustes de aumentar rotación y dejar correr ganancias pueden ser demasiado agresivos en un periodo corto. La próxima semana voy a aplicar el corte al 5% de pérdida de forma estricta y solo entraré si el precio supera la media de 50 días con volumen creciente.
 
 Ajuste a mi estrategia: Si una posición sube un 2% diario en los últimos tres días, la cierro inmediatamente para asegurar ganancias y evitar retrocesos.
+
+## 2026-09-21
+
+**Nota de mi predicción del 2026-09-14.** Dije que MSFT lo haría mejor que el S&P 500: hizo -1.7% frente a +1.5%. Fallo.
+
+## 2026-09-21
+
+**Vendo CVX para liberar efectivo, luego compro QCOM y APP para reforzar la tendencia alcista sin sobrepasar el 20% de peso ni el límite de 8 órdenes.**
+
+**Mercado.** El SPY y el QQQ mantienen una ligera tendencia alcista (+1.0% y +2.2% respectivamente), mientras que el IWM y el MDY muestran debilidad. El sector tecnológico sigue impulsando la subida, con QCOM registrando un +6.7% desde la compra. El mercado general está en fase de consolidación, pero la presión de las noticias negativas sobre CVX ha afectado su rendimiento.
+
+**Noticias.** La caída de CVX se debe a la publicación de un informe de reducción de reservas de petróleo que ha generado preocupación entre los inversores. Esta noticia ha hecho que el precio caiga 2.8% desde la compra. Además, el informe de analistas indica que el sector energético está bajo presión, lo que confirma la tendencia bajista de CVX. No se han reportado noticias positivas que justifiquen mantener la posición.
+
+**A favor.** Mantener QCOM y APP respalda la estrategia de tendencia: ambos tienen rentabilidad positiva a 20 y 60 días y están por encima de su media de 50 días. La compra de QCOM aumenta la exposición a la tecnología, sector con impulso sostenido.
+
+**En contra.** El riesgo de sobreexposición a un solo sector y la posibilidad de que el mercado se revierta en los próximos días. Sin embargo, la pérdida actual de CVX ya está comprometida y venderla libera capital para reforzar posiciones con mejor perspectiva.
+
+**Operaciones**
+- **Vender** 4.7276 CVX a 205.45 $ (971.26 $). Pérdida de 2.8% y ruptura de media de 50 días; vender para liberar efectivo y eliminar riesgo.
+- **Comprar** 4.7249 QCOM a 188.36 $ (890.00 $). Tendencia alcista, rentabilidad positiva a 20 y 60 días, y precio por encima de su media de 50 días.
+- **Comprar** 1.3161 APP a 321.15 $ (422.65 $). Tendencia alcista, rentabilidad positiva a 20 y 60 días, y precio por encima de su media de 50 días.
+
+**Riesgos.** La volatilidad del mercado tecnológico podría provocar una corrección que afecte a QCOM y APP. Además, la pérdida de CVX ya reduce la diversificación. Se mantiene un stop del 8% en todas las posiciones para limitar pérdidas.
+
+**Plan.** Vigilar el precio de CVX para confirmar la ruptura de su media de 50 días y asegurar la venta. Observar la tendencia de QCOM y APP; si el precio cae por debajo de su media de 50 días, venderé inmediatamente. Mantendré el stop del 8% en todas las posiciones y no añadiré nuevas compras hasta la próxima decisión.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 4.04 puntos. Para evitar el despido, mantendré posiciones con tendencia alcista y reduciré la exposición a CVX, que está en caída. No intentaré recuperar la brecha con una sola operación agresiva.
+
+**Radar de oportunidades.** No hay radar de oportunidades en este informe.
+
+**Plan de rescate.** 1) Vender la posición de CVX para liberar 972$ y eliminar la pérdida. 2) Usar el efectivo libre para comprar QCOM (890$) y APP (423$), reforzando la tendencia alcista sin sobrepasar el 20% de peso. 3) Mantener MSFT y NVDA sin cambios, ya que están en tendencia positiva. 4) No realizar nuevas compras en sectores con noticias negativas. 5) Ajustar la cartera a 20% máximo por valor y mantener el stop del 8% para proteger el capital. Con esta estrategia, la cartera se estabiliza y se evita la caída del 10% que provocaría el despido.
+
+Valor de la cartera: 9,784.49 $
