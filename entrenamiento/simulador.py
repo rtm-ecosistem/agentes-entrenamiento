@@ -245,6 +245,8 @@ def main() -> None:
         from agentes.ia import Gemini
         buena = Gemini(config.MODELO_GEMINI, respaldo=None)
     preparar(Mixta(buena, ia_ligera))
+    if config.PROVEEDOR_IA == "groq":  # cada modelo de Groq tiene su cuota diaria: si el ligero la gasta, sigue el normal
+        ia = ia_ligera = Mixta(ia_ligera, Groq(config.MODELO_GROQ))
     mercado, avisos = MercadoHistorico(), AvisosMudos()
     progreso = json.loads(PROGRESO.read_text()) if PROGRESO.exists() else {"hechos": []}
     pendientes = [d for d in dias_de_bolsa(mercado, INICIO, FIN) if d not in progreso["hechos"]]
