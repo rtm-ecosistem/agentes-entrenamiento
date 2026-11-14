@@ -1204,3 +1204,28 @@ Ajuste a mi estrategia: Implementaré un recorte del 50% a las 48h si la posici�
 **Plan de rescate.** 1) Venderé totalmente AMZN (15% peso) y CRM (15% peso) para reducir exposición a acciones negativas y liberar $2,790. 2) Mantendré CVX y NVDA, que tienen resultados positivos y stops ajustados (8%). 3) No abriré nuevas posiciones ahora; conservaré el efectivo (~$4,500) para una posible compra táctica si surge una noticia con sentimiento >70% en las próximas 48 h. 4) Ajustaré los stops de CVX a 8% y de NVDA a 8% para proteger ganancias. 5) Revisaré la cartera al final del día y volveré a evaluar oportunidades de compra táctica mañana.
 
 Valor de la cartera: 9,138.54 $
+
+## 2026-09-29
+
+**Hoy mantengo la posición en CVX y NVDA, añado 400 USD en LLY por noticias claras de resultados positivos y dejo el efectivo intacto.**
+
+**Mercado.** El mercado sigue en zona de consolidación con el SPY apenas bajo 0,2 % y el QQQ ligeramente positivo. La volatilidad es moderada y los indicadores técnicos no muestran señales de ruptura. El sentimiento general es alcista, pero sin catalizadores claros para una fuerte subida.
+
+**Noticias.** El informe de la analítica indica que LLY reportó ingresos superiores a las expectativas en el último trimestre, con un crecimiento interanual del 12 % y un margen bruto mejorado. La noticia ha generado un sentimiento positivo del 75 %, superando el umbral de 70 %. CVX y NVDA no tienen noticias recientes que alteren su perspectiva a corto plazo, por lo que se mantienen en la cartera.
+
+**A favor.** LLY ofrece un catalizador claro y cuantificable que debería impulsar su precio en los próximos días. La compra está dentro del límite del 5 % del capital y no afecta la exposición total ni la regla de 20 % por valor.
+
+**En contra.** El riesgo de que el mercado no reaccione o que la noticia se vea sobrevalorada podría generar una caída del 8 % y activar el stop. Sin embargo, el stop de 8 % protege la posición y la compra está alineada con la estrategia de noticias.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La caída del 8,73 % desde el máximo ya está cerca del límite de 10 %. Si el mercado continúa bajando, el efectivo perderá valor relativo. La venta de posiciones con noticias negativas no es necesaria, pero la falta de diversificación puede limitar la recuperación.
+
+**Plan.** Vigilaré el precio de LLY cada 30 min y mantendré el stop en 8 %. Continuaré observando CVX y NVDA; si alguno cae 8 % activaré su stop. Buscaré noticias claras de resultados en los próximos días para posibles compras tácticas dentro del 5 % del capital.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 9,94 puntos y con caída del 8,73 %. El plan de rescate busca estabilizar la cartera y evitar una caída adicional del 10 %.
+
+**Plan de rescate.** Para salvar el puesto, mantendré el efectivo y las posiciones de CVX y NVDA, que tienen buenos stops y no muestran señales de deterioro. Añadiré 400 USD en LLY, que ofrece un catalizador claro y está dentro del 5 % del capital. Evitaré nuevas compras por más del 5 % y no abriré posiciones en empresas con rumores o noticias dudosas. Si el mercado cae más del 2 % en los próximos dos días, venderé LLY y mantendré el efectivo para evitar una caída adicional.
+
+Valor de la cartera: 9,126.64 $

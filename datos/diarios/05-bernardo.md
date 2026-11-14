@@ -1141,3 +1141,30 @@ Ajuste a mi estrategia: Vendo la mitad de la reducción planificada de AAPL y CV
 **Mi puesto.** Voy 0.61 puntos por detrás del S&P 500; seguiré la disciplina y evitaré operaciones impulsivas para no arriesgarme a una caída del 10% que provoque despido.
 
 Valor de la cartera: 10,063.23 $
+
+## 2026-09-29
+
+**Nota de mi predicción del 2026-09-22.** Dije que NVDA lo haría mejor que el S&P 500: hizo +1.0% frente a -1.2%. Acierto.
+
+## 2026-09-29
+
+**Mantengo la cartera sin operar, vigilando especialmente AXP y el sector tecnológico.**
+
+**Mercado.** El mercado muestra señales mixtas: SPY y QQQ caen ligeramente a corto plazo pero siguen por encima de su media de 50 días. El sector tecnológico (XLK) está fuerte (+5.7%) mientras energía (XLE) se recupera. El tono general del informe es alcista, pero la volatilidad corta sugiere cautela.
+
+**Noticias.** No hay noticias graves sobre mis posiciones. AXP sigue con un desempeño negativo del -10.1% pero sin indicios de deterioro estructural. AAPL sube +8.8% y sigue dentro de mi rango de stop. No aparecen alertas de fraude o quiebra que requieran acción inmediata.
+
+**A favor.** Mantener la posición permite seguir la estrategia de copiar a Buffett sin sobreoperar; además, vender ahora podría cristalizar pérdidas en AXP y perder la posible recuperación del sector energía que está en alza.
+
+**En contra.** Vender ahora podría reducir el riesgo de un mayor descenso de AXP y liberar efectivo para oportunidades emergentes del radar, pero romper la disciplina entre informes 13F incrementa el riesgo de errores de timing.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída adicional de AXP que podría acercarnos al límite del -10% de caída total; sobrepeso en tecnología si el sector se revierte; falta de acción podría dejar la rentabilidad por detrás del S&P 500.
+
+**Plan.** Vigilaré de cerca cualquier noticia negativa sobre AXP o cambios bruscos en XLK. Si AXP cae otro 5% o supera el stop, venderé la posición. También observaré oportunidades del radar que cumplan el límite del 5% de cartera.
+
+**Mi puesto.** Voy 1.23 puntos por detrás del S&P 500; seguiré la disciplina para evitar una caída mayor y buscaré mejorar la rentabilidad en los próximos días sin arriesgar el 10% de caída.
+
+Valor de la cartera: 9,997.29 $

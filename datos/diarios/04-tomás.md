@@ -1116,3 +1116,30 @@ Ajuste a mi estrategia: Reduciré el umbral de corrección a 5 %‑7 % cuand
 **Mi puesto.** Voy por delante del S&P 500 (+3.45 puntos) y mantendré la disciplina para no arriesgar la ventaja; seguiré conservando efectivo hasta hallar una entrada de valor real.
 
 Valor de la cartera: 10,226.98 $
+
+## 2026-09-29
+
+**Nota de mi predicción del 2026-09-22.** Dije que NVDA lo haría mejor que el S&P 500: hizo +1.0% frente a -1.2%. Acierto.
+
+## 2026-09-29
+
+**Mantengo la cartera sin operar y busco oportunidades con caídas >8% en 30 días antes de usar el efectivo restante.**
+
+**Mercado.** El mercado muestra señales mixtas: SPY y QQQ ligeramente negativos a corto plazo pero por encima de su media de 50 días. El sector tecnológico (XLK) está fuerte (+5.7%) y energía (XLE) se recupera (+16.4%).
+
+**Noticias.** No hay noticias relevantes que justifiquen comprar o vender ahora; los últimos informes hablan de Nvidia pero sin impacto directo en nuestras posiciones. El entorno es alcista pero sin oportunidades claras de corrección >8% en 30 días.
+
+**A favor.** Con 44% de efectivo y sin oportunidades claras, lo más prudente es esperar y no arriesgar el capital mientras el mercado se estabiliza.
+
+**En contra.** Podría intentar comprar alguna acción que haya caído ligeramente para aprovechar el impulso alcista, pero sin una corrección suficiente el riesgo de sobreexposición supera el beneficio potencial.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Riesgo de quedar rezagado frente al S&P por mantener efectivo; riesgo de que una corrección repentina rompa los stops de nuestras posiciones actuales.
+
+**Plan.** Vigilaré cada 30 minutos los precios de AAPL, MSFT y GOOGL para respetar sus stops del 8%. Revisaré la tabla de mercado en busca de valores con caídas >8% en 30 días antes de usar el efectivo restante.
+
+**Mi puesto.** Voy por delante del S&P 500 (+2.99 puntos) y mantendré la estrategia conservadora para proteger la ventaja.
+
+Valor de la cartera: 10,177.11 $

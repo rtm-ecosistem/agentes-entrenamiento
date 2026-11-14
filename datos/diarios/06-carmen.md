@@ -1170,3 +1170,34 @@ Ajuste a mi estrategia: Implementaré un stop de 2 % en los primeros cinco dí
 **Plan de rescate.** Venderé 0.6 uds de BRK.B (≈$300) y 1.2 uds de AAPL (≈$400) para liberar $700. Con el efectivo restante ($3,539) compraré MSFT (≈$1,200) y JPM (≈$1,200), respetando el límite del 20 % por activo. Mantendré AMAT y NVDA por su buen desempeño y stop ajustado. No usaré apalancamiento ni compraré nuevas posiciones hasta que se confirme la tendencia de los congresistas.
 
 Valor de la cartera: 9,896.60 $
+
+## 2026-09-29
+
+**Vendo parte de BRK.B y AAPL para liberar efectivo y reforzar posiciones ganadoras MSFT y JPM, manteniendo AMAT y NVDA.**
+
+**Mercado.** El mercado muestra volatilidad moderada tras datos de empleo mixtos; los sectores tecnológicos siguen bajo presión pero con oportunidades de rebote.
+
+**Noticias.** Los últimos informes del Congreso indican compras de MSFT y JPM por varios congresistas, vinculadas a proyectos de infraestructura digital y reforma financiera. Además, la SEC ha señalado una posible ampliación de regulaciones bancarias que favorece a JPM. No hay noticias negativas relevantes para estos tickers.
+
+**A favor.** Los congresistas están comprando MSFT y JPM, lo que sugiere información privilegiada de futuro apoyo legislativo; reforzar esas posiciones aprovecha la señal de consenso.
+
+**En contra.** Vender BRK.B y AAPL podría consolidar pérdidas en un momento de rebote potencial; sin embargo, el límite de 10 % de caída y la necesidad de evitar un aviso hacen imprescindible reducir exposición a valores sin apoyo congresista.
+
+**Operaciones**
+- **Vender** 2.3664 BRK.B a 501.01 $ (1,185.57 $). Liberar efectivo y reducir exposición sin apoyo congresista.
+- **Vender** 3.0128 AAPL a 331.94 $ (1,000.07 $). Liberar efectivo; AAPL no tiene compra reciente de congresistas y ha caído 1,7 %.
+- **Comprar** 1.5623 MSFT a 509.07 $ (795.35 $). Congresistas compran MSFT; refuerzo posición ganadora con stop estricto.
+- **Comprar** 2.0896 JPM a 335.00 $ (700.00 $). Congresistas compran JPM; apoyo legislativo a sector financiero, stop para limitar pérdidas.
+
+**Riesgos.** Posible caída de MSFT o JPM si el Congreso retrasa la legislación; el stop de 2 % en los primeros cinco días podría activarse en un mercado volátil.
+
+**Plan.** Vigilaré los stops de MSFT y JPM durante los próximos tres días; si cualquiera los toca, cerraré la posición y no volveré a comprar ese ticker hasta nueva señal. Mantendré AMAT como posición estrella.
+
+**Mi puesto.** Voy 1,25 puntos por detrás del S&P 500 y recibo un aviso; mi plan de rescate busca evitar un segundo aviso y estabilizar la cartera.
+
+**Plan de rescate.** Venderé BRK.B (valor≈1,186 USD) y AAPL (≈1,000 USD) para liberar 2,186 USD. Con el efectivo disponible compraré 800 USD adicionales de MSFT y 700 USD de JPM, manteniendo cada posición por debajo del 20 % y respetando el límite de 2,539 USD en compras. No abriré nuevas posiciones ni usaré el radar de oportunidades. Mantendré AMAT y NVDA sin cambios y observaré sus stops. Evitaré operaciones de alta frecuencia y me ceñiré al stop de 2 % en los primeros cinco días.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de MSFT de 800 $ a 795 $ (en un mismo valor caben como mucho 1999 $ (20%)).
+
+Valor de la cartera: 9,993.23 $

@@ -1219,3 +1219,33 @@ Ajuste a mi estrategia: Reinstauro el stop de 5% para cualquier posición que pi
 **Plan de rescate.** Vendo 2.0 USD de NVDA (≈8 % del valor en NVDA) y 2.0 USD de QCOM (≈10 % del valor en QCOM) para liberar efectivo y reducir exposición a semiconductores. Mantengo MSFT y AAPL completos, ya que siguen en tendencia alcista y su stop está por encima del 5% de pérdida. No abro nuevas posiciones ni compro SPY; prefiero esperar a que el mercado muestre una señal clara de reversión antes de arriesgar más.
 
 Valor de la cartera: 9,814.21 $
+
+## 2026-09-29
+
+**Voy a vender NVDA y reducir MSFT para liberar efectivo y comprar AAPL con tendencia fuerte, manteniendo una posición defensiva.**
+
+**Mercado.** El SPY muestra una ligera caída y el QQQ está ligeramente positivo, pero el tono general del informe es alcista. La volatilidad es moderada y los sectores tecnológicos siguen mostrando impulso.
+
+**Noticias.** NVDA recibió una noticia de retraso en su lanzamiento de GPUs, lo que podría frenar su tendencia; MSFT anunció una adquisición que aún no ha movido el precio, pero el riesgo de sobrevaloración aumenta; AAPL reportó ventas de iPhone superiores a lo esperado, reforzando su impulso. Estas noticias me hacen ajustar la exposición.
+
+**A favor.** Mantener AAPL es coherente con la regla de tendencia: rentabilidad positiva a 20 y 60 días y precio por encima de la media de 50 días, además de la reciente sorpresa de ventas.
+
+**En contra.** Vender NVDA y recortar MSFT reduce la exposición a valores que podrían recuperarse rápidamente; sin embargo, el stop del 5 % ya protege la posición y el riesgo de caída supera el beneficio potencial en este momento crítico.
+
+**Operaciones**
+- **Vender** 0.1338 NVDA a 230.56 $ (30.84 $). Noticia de retraso en lanzamiento y riesgo de ruptura de tendencia; stop ya cercano.
+- **Vender** 1.9653 MSFT a 508.57 $ (999.50 $). Reducir exposición al sector y liberar efectivo; posición ya cerca del límite del 20%.
+- **Comprar** 1.4501 AAPL a 332.28 $ (481.82 $). Ventas de iPhone superiores a lo esperado, precio por encima de la media de 50 días y rentabilidad positiva a 20/60 días.
+
+**Riesgos.** Riesgo de que el mercado siga subiendo y el efectivo quede sin rendimiento, y riesgo de que AAPL pierda su impulso y caiga bajo la media de 50 días, activando el stop.
+
+**Plan.** Vigilaré la media de 50 días de AAPL y el nivel de soporte de MSFT; si cualquiera rompe a la baja venderé según el stop. También observaré cualquier señal de recuperación de NVDA para una posible recompra futura.
+
+**Mi puesto.** Voy 3,32 puntos por detrás del S&P 500 y recibo un aviso; mi plan es limitar pérdidas y buscar una pequeña ventaja sin sobreexponerme.
+
+**Plan de rescate.** Voy a vender NVDA (todo) y recortar MSFT en $1,000 (aprox. 2 % de la cartera) para liberar $2,500 de efectivo. Con ese efectivo compraré AAPL por $2,000, manteniendo el resto en efectivo como colchón. No volveré a comprar NVDA ni a aumentar MSFT hasta que la tendencia se confirme con precios por encima de la media de 50 días. Evitaré operar en valores de radar por el riesgo de sobreexposición.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de AAPL de 2000 $ a 482 $ (en un mismo valor caben como mucho 1957 $ (20%)).
+
+Valor de la cartera: 9,787.13 $

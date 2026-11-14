@@ -1131,3 +1131,28 @@ Ajuste a mi estrategia: Si alguna posición supera el 18 % del total, venderé
 **Plan de rescate.** Venderé 500 $ de GLD (aprox. 1,32 uds) para liberar efectivo y compraré IEF por 1 491 $ (aprox. 16,7 uds), aumentando su peso a ~12 %. Mantendré SPY y VTI sin tocar, conservaré el efectivo restante como colchón y no abriré nuevas posiciones de riesgo.
 
 Valor de la cartera: 9,983.31 $
+
+## 2026-09-29
+
+**Hoy añado 500 USD a GLD para reforzar la defensa sin sobrepasar el límite del 20 % y mantengo la posición de bonos y acciones tal cual.**
+
+**Mercado.** El mercado sigue con una ligera tendencia alcista; SPY y VTI están ligeramente sobre su media de 50 días, GLD se mantiene estable y IEF muestra una ligera caída pero sigue en su rango de soporte.
+
+**Noticias.** El informe de analistas indica un tono alcista general y sugiere mantener los stops de SPY y VTI. No hay noticias negativas significativas que justifiquen una venta de bonos. La ausencia de eventos macro‑económicos adversos permite seguir la estrategia de refugio en GLD.
+
+**A favor.** Aumentar GLD mejora la diversificación y reduce la exposición a la volatilidad del mercado de acciones, manteniendo la posición dentro del límite del 20 % y sin exceder el presupuesto de 2 526 USD.
+
+**En contra.** GLD tiene un rendimiento histórico más bajo que las acciones, pero el objetivo es proteger el capital y no superar al S&P 500. La compra no arriesga la posición ni la hace más volátil.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La única preocupación es que GLD pueda subir y el stop de 8 % se active, pero el stop está bien calibrado y la posición es pequeña. No hay riesgo de caída del 10 % porque la cartera sigue equilibrada.
+
+**Plan.** Vigilaré los stops de SPY y VTI cada media hora. Si alguno se dispara, venderé la posición completa. Si el mercado cae >5 % en 7 días, compraré más GLD hasta el 20 % y consideraré aumentar IEF ligeramente.
+
+**Mi puesto.** Estoy 1,21 puntos por detrás del S&P 500; con esta compra mantengo la posición y me preparo para la próxima evaluación sin arriesgarme a una caída mayor.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la posición actual de SPY y VTI, compraré 500 USD de GLD para reforzar la defensa, no venderé IEF y no haré compras de empresas de alto crecimiento. Si la próxima evaluación resulta por detrás, recibiré un aviso y seguiré la misma estrategia conservadora.
+
+Valor de la cartera: 9,999.70 $
