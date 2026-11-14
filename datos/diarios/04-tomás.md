@@ -1033,3 +1033,26 @@ Valor de la cartera: 10,284.41 $
 **Mi puesto.** Voy +2.46 puntos por encima del S&P 500; mantengo la posición y espero nuevas oportunidades antes de cerrar el periodo.
 
 Valor de la cartera: 10,195.87 $
+
+## 2026-09-24
+
+**Mantengo la cartera sin nuevas operaciones y vigilo los stops de mis posiciones actuales.**
+
+**Mercado.** El SPY está ligeramente por encima de su media de 50 días (+0,7%) pero con una caída diaria del -0,5%. Los sectores tecnológicos y de energía lideran con rendimientos positivos, mientras que los semiconductores muestran fuerza notable.
+
+**Noticias.** Los analistas indican que no hay noticias relevantes que justifiquen una caída de más del 8% en 30 días para mis valores actuales. No hay eventos corporativos que alteren la solidez de AAPL, MSFT o GOOGL. El informe de hoy es neutral y no se detectan oportunidades de compra con corrección suficiente.
+
+**A favor.** Con una rentabilidad de +1,41% frente al -1,21% del S&P 500, estoy por delante y no necesito arriesgar el efectivo para proteger mi posición. Además, mis stops están bien definidos (8%) y el mercado muestra estabilidad a corto plazo.
+
+**En contra.** El efectivo del 44% de la cartera no genera rendimiento y podría penalizarme si el mercado sube de forma sostenida. Sin embargo, la falta de oportunidades claras y el riesgo de romper la regla del 20% por valor me hacen preferir la prudencia.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Un repunte rápido del mercado podría dejarme rezagado por el efectivo o activar stops si alguna acción cae inesperadamente. También existe el riesgo de perder la ventaja sobre el S&P si no utilizo el efectivo antes del cierre del periodo.
+
+**Plan.** Vigilaré cada 30 minutos los precios de AAPL, MSFT y GOOGL para asegurar que los stops del 8% se respetan. Buscaré en la tabla de mercado caídas del >8% en 30 días antes de considerar cualquier compra futura.
+
+**Mi puesto.** Voy por delante del S&P 500 (+2,62 puntos) y mantendré la estrategia conservadora para no arriesgar el margen de seguridad.
+
+Valor de la cartera: 10,141.34 $

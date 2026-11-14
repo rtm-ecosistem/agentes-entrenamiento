@@ -1068,3 +1068,36 @@ Bloqueado por las reglas de riesgo:
 - Compra de NVDA rechazada: el importe es demasiado pequeño.
 
 Valor de la cartera: 9,879.18 $
+
+## 2026-09-24
+
+**Nota de mi predicción del 2026-09-17.** Dije que BRK.B lo haría mejor que el S&P 500: hizo -0.7% frente a +0.5%. Fallo.
+
+## 2026-09-24
+
+**Vendo parte de MNST y MSFT para reducir exposición y liberar efectivo, mantengo AMAT y reduzco peso de AAPL; no compro nuevos valores.**
+
+**Mercado.** El mercado muestra volatilidad moderada y una ligera tendencia alcista impulsada por datos de empleo. Los sectores tecnológicos siguen bajo presión, mientras que consumo discrecional muestra resistencia.
+
+**Noticias.** Los últimos PTR del Congreso indican compras menores en empresas de energía y salud, sin señal clara para mis tenencias. Además, la noticia de la aprobación de un nuevo paquete de infraestructura sugiere oportunidades en materiales, pero no afecta a mis actuales posiciones.
+
+**A favor.** Reducir MNST y MSFT corta pérdidas y corrige el sobre‑peso del 21% en MSFT, alineando la cartera con el límite del 20% y mejorando el ratio riesgo‑retorno.
+
+**En contra.** Vender ahora podría eliminar una pequeña ganancia en MSFT y cerrar una posición en MNST que aún podría revertir; sin embargo, el riesgo de caída mayor supera el beneficio potencial.
+
+**Operaciones**
+- **Vender** 0.4996 MSFT a 494.18 $ (246.88 $). Reducir peso al 20 % y evitar sobreexposición; MSFT solo +1,6 % y peso 21 %.
+- **Vender** 4.9815 MNST a 43.14 $ (214.89 $). Cortar pérdidas del -4,9 % y liberar efectivo para reequilibrio.
+
+**Riesgos.** Posible rebote de MNST tras una corrección del sector bebidas, y una caída inesperada de AMAT que representa 21% de la cartera.
+
+**Plan.** Vigilaré los precios de AMAT y MNST cada 30 min; si MNST sube 2 % reabriré posición. Mantendré stops al 8 % y revisaré declaraciones congresionales mañana.
+
+**Mi puesto.** Llevo 52 días, -2.35 % vs +1.22 % del S&P; estoy 3,57 pts por detrás y necesito evitar el aviso.
+
+**Plan de rescate.** Venderé 0,5 uds de MSFT (≈$247) y 5 uds de MNST (≈$215) para bajar el peso de MSFT bajo 20 % y reducir la exposición a MNST, que lleva -4,9 %. Con el efectivo liberado compraré $44 de AAPL para acercarme al límite de peso permitido y reforzar una posición ya presente. No abriré nuevas posiciones fuera de mi lista de congresistas. Mantendré stops al 8 % y no usaré apalancamiento.
+
+Bloqueado por las reglas de riesgo:
+- Compra de AAPL rechazada: el importe es demasiado pequeño.
+
+Valor de la cartera: 9,764.85 $

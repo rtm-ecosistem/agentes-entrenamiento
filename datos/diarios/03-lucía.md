@@ -1121,3 +1121,33 @@ Valor de la cartera: 9,927.98 $
 **Plan de rescate.** Plan de rescate: vender APP completo (valor actual $1,281), usar $1,500 del efectivo para comprar SPY, mantener MSFT, NVDA y QCOM sin cambios, no abrir nuevas posiciones de alta volatilidad y no sobrepasar el 20% de peso en ningún activo.
 
 Valor de la cartera: 9,828.15 $
+
+## 2026-09-24
+
+**Nota de mi predicción del 2026-09-17.** Dije que QCOM lo haría mejor que el S&P 500: hizo +2.4% frente a +0.5%. Acierto.
+
+## 2026-09-24
+
+**Plan de rescate: reducir exposición y esperar señal clara de tendencia.**
+
+**Mercado.** El SPY está ligeramente por encima de su media de 50 días pero con caída diaria del 0.5%. Tecnologías y energía lideran con +5% y +3.2% respecto a su media. El mercado muestra indecisión y riesgo de retroceso.
+
+**Noticias.** No hay noticias específicas que alteren la tendencia de mis posiciones. El informe de analistas es neutral y no indica eventos macro que obliguen a vender. Mantengo la posición en QCOM por su fuerte impulso reciente (+6.1%).
+
+**A favor.** Mantener la cartera actual protege el capital y evita el riesgo de un stop del 8% que podría disparar la caída del 10% y el despido. Además, el efectivo disponible permite aprovechar una futura señal de tendencia clara.
+
+**En contra.** Podría intentar una compra agresiva para cerrar la brecha con el S&P, pero eso violaría la regla de no arriesgar demasiado y aumenta la probabilidad de superar el límite del 10% de caída. Prefiero la prudencia.
+
+**Operaciones**
+- **Vender** 2.2552 NVDA a 221.60 $ (499.75 $). Liberar efectivo y reducir exposición; posición ya solo +1.1% y cerca del límite de 20% del portafolio.
+- **Vender** 0.5233 SPY a 764.00 $ (399.80 $). Reducir peso del índice y aumentar liquidez para posible entrada futura con tendencia clara.
+
+**Riesgos.** Riesgo de que QCOM o MSFT rompan su media de 50 días y caigan bajo el stop, provocando pérdidas adicionales. Riesgo de que el mercado siga bajando y el SPY no recupere, manteniéndome por detrás del benchmark.
+
+**Plan.** Vigilaré diariamente la media de 50 días de QCOM y MSFT; si cualquiera cae bajo ella venderé inmediatamente. Mantendré el efectivo para una posible entrada en un valor con tendencia fuerte (rentabilidad +20/60d y precio > media 50d).
+
+**Mi puesto.** Voy 3.98 puntos por detrás del S&P 500; con un aviso inminente, mi plan es conservar capital y evitar más pérdidas.
+
+**Plan de rescate.** Reduciré la exposición vendiendo parcialmente NVDA (hasta 500 USD) y SPY (hasta 400 USD) para liberar efectivo y bajar el peso de cada posición bajo 20%. Mantendré QCOM y MSFT por su tendencia alcista y stop aún amplio. No abriré nuevas posiciones hasta obtener una señal de ruptura clara de al menos 20 días de subida y precio > media 50d. Evitaré operar por impulso y respetaré el límite de 8% de pérdida por posición.
+
+Valor de la cartera: 9,723.13 $

@@ -1054,3 +1054,30 @@ Valor de la cartera: 10,104.13 $
 **Mi puesto.** Voy 1.31 puntos por detrás del S&P 500; mantengo la estrategia conservadora para evitar el riesgo de caída del 10% y buscaré recuperar terreno con ajustes modestos.
 
 Valor de la cartera: 10,062.26 $
+
+## 2026-09-24
+
+**Nota de mi predicción del 2026-09-17.** Dije que KO lo haría mejor que el S&P 500: hizo +1.5% frente a +0.5%. Acierto.
+
+## 2026-09-24
+
+**Mantengo la cartera sin operar hoy, respetando la disciplina de inactividad entre 13F y esperando noticias graves.**
+
+**Mercado.** El SPY se mantiene ligeramente por encima de su media de 50 días (+0,7%) pese a una caída diaria del -0,5%. Los sectores tecnológico y energía lideran con rendimientos positivos (+5,0% y +3,2%). Los semiconductores AMD e Intel están muy por encima de sus medias, lo que indica fuerza en el segmento.
+
+**Noticias.** No se ha detectado ninguna noticia grave sobre AAPL, AXP, KO o CVX que justifique una acción inmediata. El informe de analistas es neutral y no hay eventos corporativos relevantes que alteren la valoración de nuestras posiciones.
+
+**A favor.** Seguir la estrategia de copión implica no intervenir entre informes 13F salvo emergencias; el mercado muestra estabilidad y nuestras posiciones están dentro de los límites de peso, por lo que no hay razón para cambiar nada ahora.
+
+**En contra.** Podríamos intentar aprovechar la fortaleza de los semiconductores comprando AMD o Intel, pero esos valores no forman parte de la cartera de Berkshire y superarían el límite del 5% para radar de oportunidades, además rompería la regla de inactividad.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Riesgo de caída del 10% en la cartera si alguna posición sufre un movimiento adverso fuerte; riesgo de quedar atrás del S&P 500 si no se captura la tendencia alcista de los sectores tecnológicos y energéticos.
+
+**Plan.** Vigilaré de cerca cualquier noticia grave sobre AAPL, AXP, CVX o KO y el próximo reporte 13F de Berkshire. Si alguna posición supera el 20% o aparece una noticia crítica, actuaré de inmediato.
+
+**Mi puesto.** Voy 0,70 puntos por detrás del S&P 500; mantengo la calma y sigo la disciplina para evitar un aviso y posible despido.
+
+Valor de la cartera: 10,052.22 $

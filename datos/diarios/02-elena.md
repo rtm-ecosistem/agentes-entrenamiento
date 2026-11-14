@@ -1042,3 +1042,31 @@ Bloqueado por las reglas de riesgo:
 - Compra de GLD rechazada: en un mismo valor caben como mucho 2021 $ (20%).
 
 Valor de la cartera: 10,107.24 $
+
+## 2026-09-24
+
+**Mantengo la cartera actual, refuerzo ligeramente GLD y reduzco IEF para mejorar la defensa sin arriesgar.**
+
+**Mercado.** El mercado muestra una ligera tendencia alcista, pero la volatilidad sigue alta y los stops de SPY y VTI están cerca. No se anticipa una caída brusca en la próxima semana.
+
+**Noticias.** Los analistas recomiendan vigilar los stops de SPY (694,77) y VTI (342,89) y observar QQQ; si el mercado baja >5 % en una semana, subir GLD al 20 % y recortar IEF. No hay noticias macro negativas fuertes hoy, por lo que no se justifica mover mucho los bonos.
+
+**A favor.** Incrementar GLD mejora la protección contra una posible corrección y el exceso de efectivo no genera rentabilidad, por lo que usar parte del efectivo para subir GLD es coherente con la estrategia prudente.
+
+**En contra.** Reducir IEF podría dejar menos cobertura de renta fija si la caída supera el 5 %; sin embargo, el análisis muestra que el riesgo de caída es bajo y el beneficio de reforzar oro supera ese riesgo.
+
+**Operaciones**
+- **Vender** 5.5556 IEF a 89.95 $ (499.75 $). Reducir exposición a bonos para liberar efectivo y mantener el límite del 20 % en GLD.
+
+**Riesgos.** Una caída >5 % en la próxima semana activaría los stops y podría reducir la rentabilidad; además, vender IEF reduce la diversificación en bonos, aumentando la exposición a acciones.
+
+**Plan.** Vigilaré los stops de SPY y VTI cada media hora; si alguno se activa, venderé la posición completa. Si el mercado baja >5 % en 7 días, compraré más GLD hasta 20 % y volveré a aumentar IEF ligeramente.
+
+**Mi puesto.** Voy 0,67 % por detrás del S&P 500; con el plan de reforzar GLD y mantener la exposición accionaria, busco reducir la brecha sin arriesgar demasiado.
+
+**Plan de rescate.** Voy a usar $1,500 del efectivo para comprar GLD (stop 8 %) y vender $500 de IEF, reduciendo su peso a 8 % y liberando efectivo. Mantendré SPY, VTI y el resto de GLD al 20 % cada uno. No abriré nuevas posiciones en acciones de riesgo ni usaré apalancamiento. Si el mercado cae >5 % en una semana, compraré GLD adicional hasta 20 % y volveré a comprar IEF con el efectivo restante.
+
+Bloqueado por las reglas de riesgo:
+- Compra de GLD rechazada: en un mismo valor caben como mucho 2011 $ (20%).
+
+Valor de la cartera: 10,054.38 $

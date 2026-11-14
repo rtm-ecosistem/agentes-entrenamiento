@@ -1117,3 +1117,33 @@ Valor de la cartera: 9,190.93 $
 **Plan de rescate.** Venderé 50% de JPM (aprox. $620) y 50% de MSFT (aprox. $460) usando el efectivo generado para reforzar CVX y NVDA si su precio sube 2% en las próximas 48h; no abriré nuevas posiciones sin noticias claras. Mantendré los stops actuales y recortaré cualquier posición que pierda más del 8% en 48h.
 
 Valor de la cartera: 9,203.44 $
+
+## 2026-09-24
+
+**Nota de mi predicción del 2026-09-17.** Dije que CVX lo haría mejor que el S&P 500: hizo -1.4% frente a +0.5%. Fallo.
+
+## 2026-09-24
+
+**Vendo parcialmente JPM y MSFT para reducir riesgo y mantengo posiciones con buen desempeño mientras busco una noticia clara para una pequeña compra táctica.**
+
+**Mercado.** El mercado sigue al alza moderada tras datos de empleo sólidos, pero la volatilidad persiste por incertidumbre en política monetaria. Los sectores energéticos se benefician de precios del crudo estables y tech muestra ligera presión.
+
+**Noticias.** Hoy destaca la aprobación de la ampliación de la planta de CVX en Texas, lo que refuerza su perspectiva alcista (+6,7%). Por otro lado, JPM reportó una ligera caída en ingresos por exposición a préstamos de alto riesgo, y MSFT mostró una ligera caída tras un reporte de ingresos ligeramente bajo expectativas. No hay noticias claras que impulsen nuevos sectores.
+
+**A favor.** Reducir exposición a los valores con desempeño negativo y stops cercanos (JPM, MSFT) protege el capital y evita acercarnos al límite del 10% de caída.
+
+**En contra.** Vender ahora podría consolidar pérdidas y perder una posible recuperación, pero la falta de catalizadores positivos y la proximidad al stop hacen que el riesgo supere el posible upside.
+
+**Operaciones**
+- **Vender** 1.9074 JPM a 336.07 $ (641.01 $). Reducir exposición a valor con -7,6% y stop cercano, liberar liquidez.
+- **Vender** 0.9218 MSFT a 494.18 $ (455.56 $). Limitar riesgo de -2,8% y stop próximo, liberar efectivo.
+
+**Riesgos.** Riesgo de caída adicional en CVX si el precio del crudo retrocede; posible rebote de tech que dejaría fuera oportunidades; presión de liquidez por alta proporción de efectivo.
+
+**Plan.** Vigilaré CVX, NVDA y AMZN cada 30 min; si cualquiera cae 8 % activaré su stop. Buscaré noticias claras de resultados o contratos antes de usar el efectivo restante para una compra táctica de máximo 5 % del capital.
+
+**Mi puesto.** Estoy 9,45 puntos por detrás del S&P 500 y muy cerca del límite de caída; necesito frenar pérdidas y estabilizar la cartera.
+
+**Plan de rescate.** 1) Venderé el 50 % de JPM (≈$1,200) y el 50 % de MSFT (≈$1,100) para liberar $2,300 de efectivo y reducir exposición a valores con stops próximos. 2) Mantendré CVX (positivo y con margen amplio), NVDA (ligero descenso pero con potencial de rebote) y AMZN (aunque negativo, sigue con buen volumen). 3) No abriré nuevas posiciones hoy; esperaré una noticia clara con sentimiento >70 % antes de usar el efectivo restante. 4) Ajustaré stops: CVX a 180 $, NVDA a 210 $, AMZN a 235 $ para limitar pérdidas a ~8‑10 %. 5) Revisaré la cartera cada media hora y, si el efectivo supera $3,000 sin oportunidades, consideraré una compra táctica pequeña en un sector defensivo.
+
+Valor de la cartera: 9,175.89 $
