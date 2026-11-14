@@ -999,3 +999,30 @@ Ajuste a mi estrategia: Reduciré AAPL y CVX en dos pasos del 20 % al 15 % a
 **Mi puesto.** Estoy por detrás del S&P 500 por 1.01 puntos; seguiré la estrategia de Buffett y evitaré movimientos impulsivos para no caer en la caída del 10%.
 
 Valor de la cartera: 10,088.42 $
+
+## 2026-09-22
+
+**Nota de mi predicción del 2026-09-15.** Dije que KO lo haría mejor que el S&P 500: hizo -0.2% frente a +2.2%. Fallo.
+
+## 2026-09-22
+
+**Mantengo la disciplina y solo añado 63 USD a CVX, la única posición que aún puede crecer sin superar el 20 %.**
+
+**Mercado.** El SPY se mantiene estable, mientras que el QQQ muestra impulso tecnológico. Los sectores financiero y energético están bajo presión, pero los semiconductores y biotecnología siguen subiendo. La volatilidad del mercado es moderada, lo que favorece una estrategia de compra lenta.
+
+**Noticias.** No hay noticias corporativas graves sobre AAPL, AXP, KO o CVX. El informe de analistas indica que el sector energético sigue bajo presión, pero CVX mantiene su rendimiento positivo. No se detectan riesgos inmediatos que justifiquen una venta.
+
+**A favor.** CVX está casi al límite del 20 % y sigue con +8.3 % de rendimiento. Comprar 63 USD le permite aprovechar su tendencia alcista sin sobrepasar el límite.
+
+**En contra.** El mercado energético está bajo presión y CVX podría enfrentar una corrección. Sin embargo, la regla de no rebalancear semanalmente y la falta de noticias negativas lo hacen aceptable.
+
+**Operaciones**
+- **Comprar** 0.3086 CVX a 204.15 $ (63.00 $). CVX está al 19 % de la cartera, con +8.3 % de rendimiento y sin noticias negativas. La compra de 63 USD permite acercarse al límite del 20 % sin excederlo y sigue la regla de no rebalancear semanalmente.
+
+**Riesgos.** Posible corrección del sector energético y la exposición limitada a CVX. La pérdida de 10 % desde el máximo no se ve amenazada con esta pequeña compra.
+
+**Plan.** Vigilar el stop de CVX a 8 % y revisar la posición en la próxima reunión del 13F. Mantener la inactividad hasta que haya noticias corporativas graves o un ajuste de peso >20 %.
+
+**Mi puesto.** Estoy por detrás del S&P 500 por 1.38 puntos. Con la compra mínima de CVX mantengo la posición y espero mejorar el rendimiento a la llegada del próximo 13F.
+
+Valor de la cartera: 10,104.13 $

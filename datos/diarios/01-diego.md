@@ -1058,3 +1058,32 @@ Ajuste a mi estrategia: Si una noticia tiene un impacto positivo claro y supera 
 **Plan de rescate.** 1) Vender MSFT 100 % (stop 467.86) y JPM 100 % (stop 334.53) para liberar 2 340 $ de efectivo. 2) Mantener CVX, NVDA y AMZN con stops ajustados a 8 %. 3) No abrir nuevas posiciones, solo observar el mercado y esperar un catalizador claro. 4) Si el mercado sube 2 % en los próximos 48 h, considerar una compra de CVX de 1 000 $ con stop 8 %. 5) Recalcular la exposición total para no superar el 20 % por valor.
 
 Valor de la cartera: 9,263.14 $
+
+## 2026-09-22
+
+**Nota de mi predicción del 2026-09-15.** Dije que CVX lo haría mejor que el S&P 500: hizo -5.3% frente a +2.2%. Fallo.
+
+## 2026-09-22
+
+**Mantengo la cartera sin nuevas compras, corto MSFT parcialmente y reduzco exposición a JPM, buscando estabilizar y evitar el 10% de caída.**
+
+**Mercado.** El mercado está en consolidación con volatilidad moderada; el S&P 500 sigue subiendo ligeramente. La presión bajista en los sectores de tecnología y energía se mantiene, pero no hay catalizadores claros para reactivar la tendencia alcista.
+
+**Noticias.** No hay titulares con impacto claro positivo o negativo en las empresas que poseo. El informe de analistas sugiere vigilar MSFT, NVDA y JPM, pero no indica cambios de posición. No se detecta ninguna noticia que justifique una compra o venta inmediata.
+
+**A favor.** Reducir la exposición a MSFT y JPM limita la pérdida potencial y libera efectivo para posibles oportunidades de compra de alta calidad con noticias claras.
+
+**En contra.** Al no operar, riesgo de perder la oportunidad de capturar una recuperación de MSFT si el mercado rebota. Sin embargo, la falta de catalizadores justifica la cautela.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Caída de MSFT por debajo de 467 o JPM por debajo de 334.5. La falta de nuevas posiciones podría dejar la cartera en un entorno de baja volatilidad, limitando la capacidad de generar rendimiento.
+
+**Plan.** Vigilaré MSFT y JPM cada media hora. Si MSFT cae 8% o JPM 10%, venderé parcialmente. Mantendré CVX, NVDA y AMZN. No abriré nuevas posiciones hoy.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 10.52 puntos. Con la estrategia actual, busco estabilizar y evitar la caída de 10% para no ser despedido.
+
+**Plan de rescate.** 1) Vender el 30% de MSFT (1.8426 uds) para liberar 923$ y reducir riesgo. 2) Vender 30% de JPM (3.7383 uds) para liberar 571$. 3) Mantener CVX, NVDA y AMZN con stops ajustados. 4) No abrir nuevas posiciones hoy. 5) Si el mercado muestra un catalizador claro (ej. anuncio de ingresos de MSFT), considerar compra limitada al 5% de la cartera.
+
+Valor de la cartera: 9,190.93 $

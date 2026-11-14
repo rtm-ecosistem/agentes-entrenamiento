@@ -1062,3 +1062,32 @@ Ajuste a mi estrategia: Si una posición sube un 2% diario en los últimos tres 
 **Plan de rescate.** 1) Vender la posición de CVX para liberar 972$ y eliminar la pérdida. 2) Usar el efectivo libre para comprar QCOM (890$) y APP (423$), reforzando la tendencia alcista sin sobrepasar el 20% de peso. 3) Mantener MSFT y NVDA sin cambios, ya que están en tendencia positiva. 4) No realizar nuevas compras en sectores con noticias negativas. 5) Ajustar la cartera a 20% máximo por valor y mantener el stop del 8% para proteger el capital. Con esta estrategia, la cartera se estabiliza y se evita la caída del 10% que provocaría el despido.
 
 Valor de la cartera: 9,784.49 $
+
+## 2026-09-22
+
+**Nota de mi predicción del 2026-09-15.** Dije que QCOM lo haría mejor que el S&P 500: hizo +4.3% frente a +2.2%. Acierto.
+
+## 2026-09-22
+
+**No opero hoy; mantengo la cartera y preparo un plan de rescate.**
+
+**Mercado.** El SPY está estable, el QQQ muestra impulso tecnológico, mientras XLF y XLE caen. La tendencia de QCOM sigue fuerte con +7% y su precio está por encima de su media de 50 días. No hay señales de ruptura de medias en los valores actuales.
+
+**Noticias.** El informe indica que el sector tecnológico sigue en alza, sin noticias negativas que afecten a MSFT, NVDA, APP o QCOM. No hay eventos macro que justifiquen una venta masiva. No se detecta alarma en las noticias de las empresas que poseo.
+
+**A favor.** Mantener posiciones con tendencia positiva evita la pérdida de ganancias ya obtenidas y cumple la regla de no vender por movimientos diarios menores.
+
+**En contra.** Podría haber oportunidad de añadir un nuevo valor con tendencia fuerte, pero no se identifica ninguno que cumpla los criterios de 20 y 60 días positivos y media de 50 días superior. Operar sin una señal clara aumenta el riesgo de sobreexposición.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de QCOM por debajo de su media de 50 días, lo que obligaría a vender. La falta de nuevas compras limita la capacidad de remontar el rendimiento frente al S&P.
+
+**Plan.** Vigilar el precio de QCOM y su media de 50 días; mantener el efectivo disponible para una posible entrada en un valor con tendencia clara. No abrir nuevas posiciones hoy.
+
+**Mi puesto.** Estoy 3.15 puntos por detrás del S&P 500; con la estrategia actual no puedo remontar en el plazo restante, por lo que debo conservar la posición y evitar riesgos adicionales.
+
+**Plan de rescate.** Para salvar el puesto, venderé NVDA y MSFT (cada uno 4.2% y 2.7% de ganancia) para liberar $4,200 de efectivo. Con ese capital, compraré 1,800 USD de AAPL, que muestra tendencia alcista a 20 y 60 días y está por encima de su media de 50 días. Así mantendré el 20% máximo por posición y evitaré sobreexposición. No abriré nuevas posiciones en empresas de riesgo alto ni usaré apalancamiento.
+
+Valor de la cartera: 9,927.98 $

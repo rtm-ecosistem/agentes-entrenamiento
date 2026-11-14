@@ -989,3 +989,28 @@ Ajuste a mi estrategia: Si algún ETF supera el 20% de la cartera, venderé la m
 **Plan de rescate.** Para salvar mi puesto, reforzaré la exposición a GLD y IEF hasta el 20 % cada una, manteniendo SPY y VTI al 20 % y sin abrir nuevas posiciones de riesgo. Evitaré cualquier compra de empresas sectoriales o de alto crecimiento. Monitorearé los stops y, si el mercado cae más de 5 %, aumentaré GLD a 20 % y mantendré IEF en 20 %. No realizaré operaciones de venta de SPY o VTI para no comprometer la exposición a la renta variable. Con esta disciplina, mantendré la cartera estable y dentro de los límites de riesgo.
 
 Valor de la cartera: 10,145.43 $
+
+## 2026-09-22
+
+**No realizo operaciones hoy; mantengo la cartera estable y ajusto ligeramente la exposición a GLD e IEF para reforzar la defensa ante una posible caída.**
+
+**Mercado.** El mercado sigue en rango con SPY casi estable y QQQ mostrando leve impulso tecnológico. Los sectores financieros y energéticos están bajo presión, pero el índice general no presenta señales de ruptura.
+
+**Noticias.** El informe indica que el SPY está en 0% en 1 día y QQQ en +5.8% en 5 días, lo que sugiere fuerza en tecnología. Se advierte que si el mercado cae más del 5% en una semana, se debe aumentar GLD hasta el 20%. No hay noticias macro que justifiquen una reubicación agresiva.
+
+**A favor.** Mantener la cartera en su estructura actual evita la exposición a movimientos bruscos y protege el 10% de máximo permitido. Los stops de SPY y VTI están bien posicionados para limitar pérdidas.
+
+**En contra.** Podría perder la oportunidad de capturar la subida de QQQ o de rebalancear antes de una caída. Sin embargo, la regla de no superar el 20% y el riesgo de caída del 10% me impiden actuar.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Riesgo de que el mercado caiga más del 5% en la próxima semana, lo que obligaría a subir GLD a 20% y podría generar una pérdida mayor si se mantiene la exposición a bonos y oro insuficiente.
+
+**Plan.** Vigilar los stops de SPY (694,77) y VTI (342,89) y la evolución de QQQ. Si el mercado cae más del 5% en una semana, aumentar GLD hasta el 20% y reducir IEF ligeramente para mantener el peso bajo 20%.
+
+**Mi puesto.** Estoy 0,81 puntos por detrás del S&P 500; mantengo la posición y me preparo para un posible ajuste defensivo sin arriesgar más.
+
+**Plan de rescate.** Para salvar el puesto, no voy a comprar nuevas posiciones. Mantendré los 20% en SPY, VTI, GLD e IEF. Si el mercado cae más del 5% en la próxima semana, aumentaré GLD a 20% y reduciré IEF a 15% para mantener el peso bajo 20%. No compraré acciones de radar ni aumentaría la exposición a bonos. Me concentraré en proteger el capital y evitar la caída del 10%.
+
+Valor de la cartera: 10,161.62 $

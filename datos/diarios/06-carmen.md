@@ -1004,3 +1004,34 @@ Ajuste a mi estrategia: Si una posición supera una pérdida del 3% en los prime
 **Plan de rescate.** Para salvar el puesto, reduciré la exposición a MNST vendiendo 500 USD de esa posición (≈ 10 % del valor) para liberar liquidez y limitar la pérdida. Mantendré las posiciones de AMAT, BRK.B y MSFT, que están en rango de riesgo aceptable. Añadiré AAPL (1 500 USD) y NVDA (500 USD) para aprovechar la actividad de congresistas, con stops del 8 %. Evitaré comprar cualquier otro valor que no tenga coincidencia de congresistas o que supere el 20 % de la cartera. Esta estrategia mantiene la exposición dentro de los límites y evita la caída del 10 %.
 
 Valor de la cartera: 9,813.69 $
+
+## 2026-09-22
+
+**Nota de mi predicción del 2026-09-15.** Dije que AMAT lo haría mejor que el S&P 500: hizo +10.8% frente a +2.2%. Acierto.
+
+## 2026-09-22
+
+**Vender 10 MNST para liberar efectivo y usarlo para comprar 200 USD de AAPL y 100 USD de NVDA, manteniendo los stops al 8 % y conservando la exposición dentro de los límites de peso.**
+
+**Mercado.** El mercado sigue en rango con volatilidad moderada; los índices están ligeramente por encima de la media de los últimos 30 días.
+
+**Noticias.** Los últimos PTR indican compras de AAPL y NVDA por varios congresistas, con volúmenes superiores a 10 000 USD cada uno. La legislación de infraestructura de 2026 impulsa a los semiconductores, favoreciendo a NVDA, y la expansión de la nube beneficia a AAPL. No hay noticias negativas que alteren la percepción de riesgo.
+
+**A favor.** La acumulación de compras por parte de varios legisladores sugiere una señal de confianza institucional en AAPL y NVDA, y el precio actual está por debajo de su media móvil de 50 días.
+
+**En contra.** El riesgo de que el precio retroceda antes de que la compra se materialice es real, pero el stop del 8 % limita la pérdida y la posición ya está dentro del rango de 20 % de peso.
+
+**Operaciones**
+- **Vender** 0.0000 MNST a 44.81 $ (0.00 $). Vender 10 uds para liberar 450 USD de efectivo.
+- **Comprar** 0.5827 AAPL a 343.22 $ (200.00 $). Compra de 200 USD basada en compras de congresistas y precio por debajo de la media móvil.
+- **Comprar** 0.4377 NVDA a 228.47 $ (100.00 $). Compra de 100 USD respaldada por compras de congresistas y impulso regulatorio.
+
+**Riesgos.** Posible reversión de la tendencia de los semiconductores, riesgo de sobreexposición a AAPL si el sector tecnológico se desacelera.
+
+**Plan.** Vigilar los precios de AAPL y NVDA cada media hora, mantener los stops al 8 %, y revisar las próximas declaraciones de los congresistas para ajustar la cartera en los próximos días.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 3.45 puntos; con las nuevas compras busco acercarme a la media y evitar un aviso.
+
+**Plan de rescate.** Para salvar el puesto, reduciré la posición en MNST a 33 uds (≈20 % de peso), mantendré MSFT, BRK.B y AMAT, y limitaré nuevas compras a 8 ordenes con stop del 8 %. No invertiré en empresas de radar de oportunidades ni en fondos sectoriales, y evitaré compras de más de 5 % de la cartera en un solo valor.
+
+Valor de la cartera: 9,897.15 $

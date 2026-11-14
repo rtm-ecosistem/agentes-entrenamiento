@@ -985,3 +985,28 @@ Ajuste a mi estrategia: Reforzaré la comprobación del histórico de 30‑días
 **Radar de oportunidades.** No hay radar de oportunidades que se ajusten a mi estrategia hoy.
 
 Valor de la cartera: 10,213.03 $
+
+## 2026-09-22
+
+**Hoy mantengo la liquidez y observo oportunidades de caída del 8 % en 30 días, sin operar.**
+
+**Mercado.** El SPY se mantiene estable, el QQQ muestra impulso tecnológico, pero los sectores financiero y energético están presionados. No hay señales de un mercado eufórico que justifique compras agresivas.
+
+**Noticias.** El informe destaca la caída del 10 % en 60 días de AAPL, pero su precio ha subido 12 % desde la compra, lo que indica una corrección pasajera. MSFT y GOOGL han tenido caídas del 10‑12 % en 30 días, pero están en niveles de soporte y no presentan noticias negativas. No hay eventos corporativos relevantes que alteren la valoración de estas empresas.
+
+**A favor.** El mercado tecnológico sigue fuerte; las correcciones del 10 % en 30 días cumplen mi criterio de entrada y el precio actual de MSFT y GOOGL está por debajo del rango de 60 días, lo que sugiere una oportunidad de compra.
+
+**En contra.** El efectivo no gana y mi posición actual ya está cerca del 20 % en AAPL. Comprar más podría sobreexponerme y no hay señales de caída del 8 % en 30 días que justifiquen una compra adicional. Decido esperar para no sobrecargar la cartera.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible sobreexposición a tecnología si se compra más; riesgo de que el mercado se mantenga estable y el efectivo pierda valor relativo al SPY. También riesgo de que la corrección del 8 % no se materialice y se pierda la oportunidad.
+
+**Plan.** Vigilaré el precio de MSFT y GOOGL cada media hora. Si alguno cae al stop del 8 %, se venderá automáticamente. Buscaré nuevas oportunidades de caída del 8 % en 30 días antes de usar el efectivo restante.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 2.87 puntos. Mantengo la posición y me preparo para la próxima decisión de compra, sin arriesgar más de lo permitido.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+Valor de la cartera: 10,284.41 $
