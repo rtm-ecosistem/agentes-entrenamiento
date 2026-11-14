@@ -1189,3 +1189,33 @@ Valor de la cartera: 9,937.29 $
 **Reflexión de la semana.** Esta semana acerté al entrar en QCOM y NVDA cuando subían con fuerza, pero fallé al vender APP demasiado pronto y al intentar rescatar con SPY sin una señal clara. La rotación rápida me dejó expuesta a pérdidas pequeñas que se acumularon, y mi ajuste de cortar a 5% no se aplicó a tiempo. Aprendí que debo respetar mis propios stops y no sobre‑reaccionar a la caída del S&P. La próxima semana voy a reforzar la disciplina de salida y limitar la rotación a valores con confirmación de tendencia de al menos 3 días.
 
 Ajuste a mi estrategia: Reinstauro el stop de 5% para cualquier posición que pierda ese nivel y lo aplico de forma automática, sin excepción.
+
+## 2026-09-28
+
+**Nota de mi predicción del 2026-09-21.** Dije que NVDA lo haría mejor que el S&P 500: hizo +1.8% frente a -0.6%. Acierto.
+
+## 2026-09-28
+
+**Corto NVDA y QCOM para liberar efectivo y reduzco exposición, mantengo MSFT y AAPL y no compro nuevo SPY.**
+
+**Mercado.** El mercado amplio sigue bajando, SPY -0.9% y QQQ -1.4%, pero el sector tecnológico y semiconductores suben alrededor de +1.5% y +1.9% respectivamente.
+
+**Noticias.** No hay noticias específicas que afecten a nuestras posiciones; la única alerta es la presión en renta fija y la caída de REITs y energía, que refuerzan la preferencia por tech con tendencia positiva.
+
+**A favor.** Mantener MSFT y AAPL, que siguen por encima de su media de 50 días y tienen rentabilidades positivas, protege la cartera mientras el sector tech muestra fuerza.
+
+**En contra.** Mantener NVDA y QCOM podría ser riesgoso si la ruptura de la media de 50 días ocurre; por eso prefiero vender parte para evitar una caída mayor del 5% y liberar efectivo.
+
+**Operaciones**
+- **Vender** 8.7169 NVDA a 229.33 $ (1,999.00 $). Reducir exposición a semiconductores y liberar efectivo; posición ya +4.1% y cerca del stop del 5%.
+- **Vender** 10.3913 QCOM a 189.32 $ (1,967.23 $). Liberar efectivo y limitar riesgo; posición +4.1% pero sector vulnerable a corrección.
+
+**Riesgos.** Riesgo de caída del 8% en MSFT o AAPL si la tendencia se rompe; riesgo de que el sector tech pierda impulso y arrastre a NVDA y QCOM.
+
+**Plan.** Vigilaré la media de 50 días de MSFT y AAPL; si cualquiera cae bajo ella venderé según el stop. También observaré cualquier señal de ruptura en NVDA y QCOM antes de volver a comprar.
+
+**Mi puesto.** Voy 3.08 puntos por detrás del S&P 500 y recibiré un aviso; mi plan de rescate busca limitar pérdidas y preservar capital.
+
+**Plan de rescate.** Vendo 2.0 USD de NVDA (≈8 % del valor en NVDA) y 2.0 USD de QCOM (≈10 % del valor en QCOM) para liberar efectivo y reducir exposición a semiconductores. Mantengo MSFT y AAPL completos, ya que siguen en tendencia alcista y su stop está por encima del 5% de pérdida. No abro nuevas posiciones ni compro SPY; prefiero esperar a que el mercado muestre una señal clara de reversión antes de arriesgar más.
+
+Valor de la cartera: 9,814.21 $

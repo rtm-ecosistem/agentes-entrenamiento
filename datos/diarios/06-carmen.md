@@ -1138,3 +1138,35 @@ Valor de la cartera: 9,905.99 $
 **Reflexión de la semana.** Esta semana acerté al mantener AMAT, que superó al índice, pero fallé al confiar demasiado en BRK.B y MNST, que arrastraron la cartera. Aprendí que la confianza media no garantiza éxito y que debo respetar más los stops del 8 %. Cambiaré la gestión de pérdidas, vendiendo cualquier posición que pierda 2 % antes de los cinco días y evitando añadir más de un ticker que ya muestre señales débiles.
 
 Ajuste a mi estrategia: Implementaré un stop de 2 % en los primeros cinco días y, si se activa, cerraré la posición y pausaré compras de ese ticker hasta que haya una nueva señal clara.
+
+## 2026-09-28
+
+**Nota de mi predicción del 2026-09-21.** Dije que NVDA lo haría mejor que el S&P 500: hizo +1.8% frente a -0.6%. Acierto.
+
+## 2026-09-28
+
+**Voy a vender parte de BRK.B y AAPL para liberar efectivo y comprar dos acciones recomendadas por el Congreso con buen consenso.**
+
+**Mercado.** El S&P 500 está en ligera caída y la volatilidad ha aumentado; los bonos a 5% presionan a la renta variable.
+
+**Noticias.** Los últimos PTR del Congreso muestran compras de **MSFT** y **JPM** por varios representantes, señalando confianza en tecnología y finanzas. Además, se aprobó una ley de infraestructura que beneficia a empresas de construcción como **CAT**. Estas noticias explican la tendencia sectorial y justifican la exposición.
+
+**A favor.** Comprar MSFT y JPM sigue la regla de coincidencia múltiple y los sectores están respaldados por la nueva legislación, ofreciendo potencial de rebote frente al S&P 500.
+
+**En contra.** Vender BRK.B y AAPL reduce exposición a valores defensivos y de alta calidad; sin embargo, su peso ya es alto y el riesgo de caída supera el beneficio esperado, por lo que la venta es necesaria para cumplir la regla del 20% máximo por activo.
+
+**Operaciones**
+- **Vender** 0.5941 BRK.B a 504.69 $ (299.85 $). Reducir peso a <20 % y liberar efectivo; coincidencia de compra congresista baja.
+- **Vender** 1.1776 AAPL a 339.50 $ (399.80 $). AAPL subió tras venta y ya supera el stop; liberar efectivo para nuevas oportunidades.
+- **Comprar** 2.3652 MSFT a 507.36 $ (1,200.00 $). Compras de varios congresistas y sector tecnológico favorecido por ley de infraestructura.
+- **Comprar** 3.5396 JPM a 339.02 $ (1,200.00 $). Múltiples congresistas compran, sector financiero con soporte de nueva normativa.
+
+**Riesgos.** Posible caída adicional del mercado que arrastre a MSFT y JPM; además, el stop de 2 % en los primeros cinco días podría activarse si la volatilidad persiste.
+
+**Plan.** Vigilaré los precios de MSFT y JPM durante los próximos tres días; si cualquiera rompe su stop, cerraré la posición y no volveré a comprar ese ticker hasta nueva señal. Mantendré AMAT como posición ganadora.
+
+**Mi puesto.** Voy 2.26 puntos por detrás del S&P 500; con este ajuste busco reducir la brecha sin sobreexponernos.
+
+**Plan de rescate.** Venderé 0.6 uds de BRK.B (≈$300) y 1.2 uds de AAPL (≈$400) para liberar $700. Con el efectivo restante ($3,539) compraré MSFT (≈$1,200) y JPM (≈$1,200), respetando el límite del 20 % por activo. Mantendré AMAT y NVDA por su buen desempeño y stop ajustado. No usaré apalancamiento ni compraré nuevas posiciones hasta que se confirme la tendencia de los congresistas.
+
+Valor de la cartera: 9,896.60 $

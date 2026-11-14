@@ -1114,3 +1114,30 @@ Valor de la cartera: 10,053.94 $
 **Reflexión de la semana.** Esta semana mantuve la disciplina de inactividad entre 13F, lo que me protegió de movimientos innecesarios, pero la reducción parcial de AAPL y CVX no generó ganancias y mi rentabilidad quedó por debajo del S&P 500. Aprendí que la paciencia extrema puede costar oportunidades cuando una posición ya está bajo peso. Cambiaré a vender un tercio de la reducción cuando la posición caiga al 15 % en lugar de esperar al final del mes, y revisaré si alguna noticia emergente justifica una acción anticipada.
 
 Ajuste a mi estrategia: Vendo la mitad de la reducción planificada de AAPL y CVX cuando su peso alcance 15 % en lugar de esperar al final del mes, manteniendo la regla de no rebalancear semanalmente salvo emergencias.
+
+## 2026-09-28
+
+**Nota de mi predicción del 2026-09-21.** Dije que NVDA lo haría mejor que el S&P 500: hizo +1.8% frente a -0.6%. Acierto.
+
+## 2026-09-28
+
+**Mantengo la cartera sin operar, respetando la disciplina entre informes 13F y los ajustes de peso ya cumplidos.**
+
+**Mercado.** Los índices amplios siguen bajando, SPY -0.9% y QQQ -1.4%, mientras que el sector tecnológico muestra resistencia (+1.5%) y los semiconductores suben (+1.9%). La renta fija está bajo presión y la energía muestra debilidad. El entorno es mixto, pero la tendencia general es a la baja.
+
+**Noticias.** No hay noticias graves sobre AXP, AAPL, CVX o KO que justifiquen una venta inmediata. La única información relevante es que AXP tiene un rendimiento negativo del -9.9% y está justo al límite del 20% de peso, pero sin alerta de fraude o deterioro serio. CVX ha mejorado +10% desde la venta anterior, pero ya está bajo el 20% de límite.
+
+**A favor.** Seguir la estrategia de Buffett implica paciencia; los valores ya están alineados con la cartera de Berkshire y no hay señales de problemas estructurales. Operar ahora podría romper la regla de inactividad y aumentar el riesgo de errores de timing.
+
+**En contra.** Podría intentar recortar AXP para reducir el riesgo de sobrepeso, pero la regla de no rebalancear semanalmente salvo emergencias me obliga a esperar a una señal clara o al próximo 13F.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El mercado sigue bajo presión y una nueva caída del S&P podría erosionar la rentabilidad. Un movimiento brusco en AXP podría afectar el peso total y acercarnos al límite del 20% por valor.
+
+**Plan.** Vigilaré de cerca cualquier noticia de deterioro en AXP y cualquier señal de sobrepeso en el sector tecnológico. Si surge una alerta grave, actuaré de inmediato. Mientras tanto, mantendré la posición y observaré la evolución del precio de AAPL y CVX.
+
+**Mi puesto.** Voy 0.61 puntos por detrás del S&P 500; seguiré la disciplina y evitaré operaciones impulsivas para no arriesgarme a una caída del 10% que provoque despido.
+
+Valor de la cartera: 10,063.23 $

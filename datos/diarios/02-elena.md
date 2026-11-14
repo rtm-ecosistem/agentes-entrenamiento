@@ -1105,3 +1105,29 @@ Valor de la cartera: 10,092.55 $
 **Reflexión de la semana.** Esta semana reforcé oro y bonos pero no logré mejorar la rentabilidad frente al S&P, quedando 0.95 % por detrás. Fallé al confiar en predicciones de GLD que aún no se han confirmado y al no buscar oportunidades de rebalanceo más agresivo cuando IEF cayó. Aprendí que mis ajustes de evitar predicciones no bastan si no reviso activamente los pesos para evitar que se acerquen al límite del 20 %. Cambiaré la próxima semana vendiendo parcialmente cualquier posición que supere el 18 % y redistribuiré a SPY o VTI para mantener la exposición a acciones y cerrar la brecha con el índice.
 
 Ajuste a mi estrategia: Si alguna posición supera el 18 % del total, venderé la mitad y redistribuiré a los ETFs de acciones principales.
+
+## 2026-09-28
+
+**Voy a reducir GLD y reforzar IEF para mejorar la defensa sin aumentar la exposición a acciones.**
+
+**Mercado.** El S&P 500 está bajo presión y ha caído ligeramente esta semana; los bonos siguen con rendimientos altos y el oro muestra ligera debilidad.
+
+**Noticias.** Los analistas recomiendan reforzar la posición en bonos (IEF) ante la posible caída del mercado y mantener efectivo para cubrir stops; el oro (GLD) ha perdido 0,9% y su stop está cercano, lo que sugiere recortar exposición.
+
+**A favor.** Incrementar IEF mejora la diversificación y reduce la volatilidad de la cartera, alineándose con la regla de no perder dinero.
+
+**En contra.** Vender GLD reduce la cobertura contra una posible crisis de confianza; sin embargo, su desempeño negativo y el stop cercano hacen que el riesgo de mayor pérdida sea mayor que el beneficio de mantenerlo.
+
+**Operaciones**
+- **Vender** 1.3233 GLD a 377.65 $ (499.75 $). GLD está bajo rendimiento (-0,9%) y su stop está cercano; reducir exposición mejora la defensa.
+- **Comprar** 16.6745 IEF a 89.39 $ (1,490.53 $). Refuerzo de bonos según recomendación analítica y para equilibrar la cartera tras la venta de GLD.
+
+**Riesgos.** Posible rebote del oro que deje de lado parte de la protección; una caída brusca del mercado que active los stops de SPY y VTI.
+
+**Plan.** Vigilaré los stops de SPY y VTI cada media hora; si alguno se dispara venderé la posición completa. Si el mercado cae >5% en 7 días compraré más GLD hasta 20% y consideraré subir IEF ligeramente.
+
+**Mi puesto.** Estoy 1,40 puntos por detrás del S&P 500 y recibiré un aviso; mi plan es mejorar la defensa sin arriesgar más para evitar un despido.
+
+**Plan de rescate.** Venderé 500 $ de GLD (aprox. 1,32 uds) para liberar efectivo y compraré IEF por 1 491 $ (aprox. 16,7 uds), aumentando su peso a ~12 %. Mantendré SPY y VTI sin tocar, conservaré el efectivo restante como colchón y no abriré nuevas posiciones de riesgo.
+
+Valor de la cartera: 9,983.31 $
