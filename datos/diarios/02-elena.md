@@ -1070,3 +1070,38 @@ Bloqueado por las reglas de riesgo:
 - Compra de GLD rechazada: en un mismo valor caben como mucho 2011 $ (20%).
 
 Valor de la cartera: 10,054.38 $
+
+## 2026-09-25
+
+**Nota de mi predicción del 2026-09-18.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.4% frente a +1.3%. Acierto.
+
+## 2026-09-25
+
+**Mantengo la cartera tal como está, sin nuevas compras, solo ajusto la posición de IEF para reforzar la defensa y dejo el efectivo sin tocar.**
+
+**Mercado.** El mercado sigue en rango, con SPY y VTI en 20% cada uno y GLD en 20%. El precio de GLD ha subido ligeramente, mientras IEF muestra una ligera caída del 3%. No hay señales de una caída brusca en las próximas semanas.
+
+**Noticias.** El informe de analistas sugiere vender IEF y reforzar GLD; no hay noticias macro que indiquen un riesgo inmediato. La inflación se mantiene moderada y las tasas de interés están estables, lo que favorece la defensa en oro y bonos.
+
+**A favor.** Reducir IEF y mantener GLD maximiza la protección ante una caída del mercado sin sacrificar la exposición a acciones que ya están al límite del 20%.
+
+**En contra.** Podría perder la oportunidad de beneficiarse de una recuperación de IEF si el mercado se recupera; sin embargo, el riesgo de caída >10% es mayor que la posible ganancia de IEF.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La mayor amenaza es una caída del mercado >10% que desencadenaría despido. Mantener GLD y reducir IEF ayuda a mitigar ese riesgo.
+
+**Plan.** Vigilaré los stops de SPY y VTI cada media hora. Si alguno se activa, venderé la posición completa. Si el mercado cae >5% en 7 días, compraré más GLD hasta 20% y consideraré aumentar IEF ligeramente.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 0,95 puntos; mantengo la posición actual y no intento remontar agresivamente para evitar riesgo de despido.
+
+**Plan de rescate.** Para salvar el puesto, mantendré GLD al 20% y reduciré IEF al 3%. No compraré nuevas acciones ni bonos. Si el mercado cae >5% en los próximos 7 días, reforzaré GLD hasta 20% y mantendré el efectivo al 35% para evitar sobreexposición.
+
+Valor de la cartera: 10,092.55 $
+
+## 2026-09-25
+
+**Reflexión de la semana.** Esta semana reforcé oro y bonos pero no logré mejorar la rentabilidad frente al S&P, quedando 0.95 % por detrás. Fallé al confiar en predicciones de GLD que aún no se han confirmado y al no buscar oportunidades de rebalanceo más agresivo cuando IEF cayó. Aprendí que mis ajustes de evitar predicciones no bastan si no reviso activamente los pesos para evitar que se acerquen al límite del 20 %. Cambiaré la próxima semana vendiendo parcialmente cualquier posición que supere el 18 % y redistribuiré a SPY o VTI para mantener la exposición a acciones y cerrar la brecha con el índice.
+
+Ajuste a mi estrategia: Si alguna posición supera el 18 % del total, venderé la mitad y redistribuiré a los ETFs de acciones principales.

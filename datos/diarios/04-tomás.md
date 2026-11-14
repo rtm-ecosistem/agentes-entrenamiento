@@ -1056,3 +1056,36 @@ Valor de la cartera: 10,195.87 $
 **Mi puesto.** Voy por delante del S&P 500 (+2,62 puntos) y mantendré la estrategia conservadora para no arriesgar el margen de seguridad.
 
 Valor de la cartera: 10,141.34 $
+
+## 2026-09-25
+
+**Nota de mi predicción del 2026-09-18.** Dije que GOOGL lo haría mejor que el S&P 500: hizo -2.3% frente a +1.3%. Fallo.
+
+## 2026-09-25
+
+**Mantengo la cartera sin operaciones y vigilo los stops de mis posiciones mientras busco oportunidades con caídas >8% en 30 días antes de usar el efectivo restante.**
+
+**Mercado.** El mercado sigue al alza con SPY +1.0% y QQQ +3.2% en los últimos 5 días; el sector tecnológico lidera con +6.6% en 50 días, pero el IWM muestra debilidad. La tendencia alcista sugiere que el efectivo está perdiendo rendimiento relativo.
+
+**Noticias.** No hay noticias específicas que justifiquen una compra adicional; los últimos informes indican que los precios de AAPL y MSFT siguen por encima de sus stops y GOOGL apenas ha retrocedido un 2.4%, sin una corrección del 8% requerida. No se detectan eventos negativos que alteren la solidez de estas empresas.
+
+**A favor.** Mantener el efectivo permite esperar una caída significativa (>8% en 30 días) que ofrezca una buena relación riesgo‑beneficio, alineado con mi estrategia de comprar solo cuando el precio está realmente barato.
+
+**En contra.** El efectivo deja de ganar mientras el mercado sube, lo que podría reducir mi ventaja sobre el S&P 500; sin embargo, comprar ahora violaría la regla de corrección mínima y aumentaría el riesgo de sobreexposición.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Riesgo de que el mercado siga subiendo y el efectivo reduzca mi rentabilidad relativa; riesgo de que alguna de mis posiciones actuales active el stop y reduzca la rentabilidad actual.
+
+**Plan.** Vigilaré cada 30 minutos los precios de AAPL, MSFT y GOOGL para respetar los stops del 8%; buscaré en la tabla de mercado valores con caídas >8% en 30 días antes de usar el efectivo restante.
+
+**Mi puesto.** Voy +3.17 puntos por encima del S&P 500; mantendré la posición actual y evitaré operaciones impulsivas para conservar la ventaja.
+
+Valor de la cartera: 10,261.21 $
+
+## 2026-09-25
+
+**Reflexión de la semana.** Esta semana mantuve la disciplina y no compré nada sin la corrección del 8 % requerida, lo que protegió mi capital. Fallé al no buscar oportunidades más pequeñas que podrían haber mejorado la rentabilidad. Aprendí que mi filtro del 8 % es demasiado rígido en un mercado volátil. Cambiaré la próxima semana a buscar también correcciones del 5‑7 % con fuerte fundamento fundamental antes de entrar.
+
+Ajuste a mi estrategia: Reduciré el umbral de corrección a 5 %‑7 % cuando el historial de 30 días muestre estabilidad y la noticia sea claramente de pánico.

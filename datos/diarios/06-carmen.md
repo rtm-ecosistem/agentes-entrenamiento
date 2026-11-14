@@ -1101,3 +1101,40 @@ Bloqueado por las reglas de riesgo:
 - Compra de AAPL rechazada: el importe es demasiado pequeño.
 
 Valor de la cartera: 9,764.85 $
+
+## 2026-09-25
+
+**Nota de mi predicción del 2026-09-18.** Dije que MNST lo haría mejor que el S&P 500: hizo -5.3% frente a +1.3%. Fallo.
+
+## 2026-09-25
+
+**Vendo MSFT y MNST para reducir exposición y liberar efectivo, mantengo AMAT y BRK.B y reduzco ligeramente AAPL; sin nuevas compras hoy.**
+
+**Mercado.** El mercado muestra volatilidad moderada y los sectores de tecnología siguen bajo presión tras recientes datos de inflación. El S&P 500 ha subido +1.88% en el periodo, mientras que mi cartera está -0.92%.
+
+**Noticias.** He revisado los últimos PTR del Congreso: no hay nuevas compras relevantes en tecnología ni en consumo. Además, la noticia de la aprobación del paquete de infraestructura impulsa a constructores, pero no afecta a mis posiciones actuales. Los resultados trimestrales de Microsoft (MSFT) superaron expectativas, pero el precio ya reflejó la buena noticia y sigue alto respecto a mi stop. MNST enfrenta una investigación de la FTC que podría afectar su margen.
+
+**A favor.** Reducir peso de MSFT y MNST elimina riesgos de caída y libera efectivo para cumplir con la regla del 10% de caída; mantengo AMAT que ha ganado +12% y BRK.B que es defensivo.
+
+**En contra.** Podría perder la recuperación de MSFT que ya ha subido +6.1% y la posible rebote de MNST tras la investigación; sin embargo, el riesgo de mantenerlos supera el beneficio potencial dado mi déficit frente al S&P.
+
+**Operaciones**
+- **Vender** 3.5675 MSFT a 516.23 $ (1,841.67 $). Exposición del 19% y stop 458.04; vender para reducir riesgo y liberar efectivo.
+- **Vender** 37.8965 MNST a 42.41 $ (1,607.33 $). Peso 16% y resultado -6.5%; investigación FTC aumenta riesgo, venta libera efectivo.
+- **Vender** 0.8417 AAPL a 337.25 $ (283.86 $). Reducir peso a 15% para mantener límite del 20% y liberar efectivo adicional.
+
+**Riesgos.** Riesgo de caída adicional si el mercado sigue bajista; exposición residual en AAPL que está cerca del límite de 20%; posible falta de oportunidades para reinvertir el efectivo liberado.
+
+**Plan.** Vigilaré AMAT y MNST cada 30 min; si MNST sube +2% reabriré posición con máximo 5% de cartera. Revisaré declaraciones congresionales mañana para detectar nuevas compras colectivas. Mantendré stops al 8% en todas las posiciones restantes.
+
+**Mi puesto.** Voy 2.80 puntos por detrás del S&P 500; mi plan es estabilizar la cartera y evitar un aviso, no arriesgar para intentar superar el índice en los últimos 3 días.
+
+**Plan de rescate.** Vendo MSFT completo (3.5675 uds) y MNST completo (37.8965 uds) para reducir exposición a sectores volátiles y liberar $1,022 de efectivo. Con el efectivo total ($506 + $1,022 = $1,528) mantengo una reserva y no realizo nuevas compras, evitando sobreexposición. Mantengo AMAT, BRK.B y reduzco ligeramente AAPL vendiendo $284 para quedar bajo el 20% de peso. No usaré apalancamiento ni posiciones nuevas hasta el próximo día de revisión de declaraciones congresionales.
+
+Valor de la cartera: 9,905.99 $
+
+## 2026-09-25
+
+**Reflexión de la semana.** Esta semana acerté al mantener AMAT, que superó al índice, pero fallé al confiar demasiado en BRK.B y MNST, que arrastraron la cartera. Aprendí que la confianza media no garantiza éxito y que debo respetar más los stops del 8 %. Cambiaré la gestión de pérdidas, vendiendo cualquier posición que pierda 2 % antes de los cinco días y evitando añadir más de un ticker que ya muestre señales débiles.
+
+Ajuste a mi estrategia: Implementaré un stop de 2 % en los primeros cinco días y, si se activa, cerraré la posición y pausaré compras de ese ticker hasta que haya una nueva señal clara.

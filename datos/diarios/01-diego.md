@@ -1147,3 +1147,34 @@ Valor de la cartera: 9,203.44 $
 **Plan de rescate.** 1) Venderé el 50 % de JPM (≈$1,200) y el 50 % de MSFT (≈$1,100) para liberar $2,300 de efectivo y reducir exposición a valores con stops próximos. 2) Mantendré CVX (positivo y con margen amplio), NVDA (ligero descenso pero con potencial de rebote) y AMZN (aunque negativo, sigue con buen volumen). 3) No abriré nuevas posiciones hoy; esperaré una noticia clara con sentimiento >70 % antes de usar el efectivo restante. 4) Ajustaré stops: CVX a 180 $, NVDA a 210 $, AMZN a 235 $ para limitar pérdidas a ~8‑10 %. 5) Revisaré la cartera cada media hora y, si el efectivo supera $3,000 sin oportunidades, consideraré una compra táctica pequeña en un sector defensivo.
 
 Valor de la cartera: 9,175.89 $
+
+## 2026-09-25
+
+**Vendo AMZN y CRM para cortar pérdidas, añado capital a CVX y NVDA donde la noticia es clara y el stop es razonable, mantengo efectivo para evitar sobreexposición.**
+
+**Mercado.** El mercado se mantiene volátil, con el S&P 500 subiendo 0.4 % hoy. La presión bajista en los sectores de consumo y tecnología sigue presente, pero los precios de CVX y NVDA muestran resistencia. El sentimiento general es mixto, con pocos catalizadores claros.
+
+**Noticias.** El informe de analistas indica que CVX ha superado las expectativas de ingresos en el último trimestre, lo que ha impulsado su precio. NVDA reportó un crecimiento de ingresos del 12 % y un nuevo contrato de IA con un cliente importante, generando un impulso positivo. AMZN y CRM, por otro lado, han recibido noticias de presión regulatoria y caída de márgenes, lo que justifica la venta. No hay rumores dudosos que afecten a otras posiciones.
+
+**A favor.** CVX y NVDA tienen noticias claramente buenas y sus stops están bien colocados, lo que reduce el riesgo de pérdidas bruscas. Cortar AMZN y CRM elimina la exposición a los sectores con mayor presión negativa.
+
+**En contra.** Al vender AMZN y CRM se pierde la posibilidad de que el mercado se recupere, pero el riesgo de seguir perdiendo supera el beneficio potencial. Decido vender porque la pérdida ya es del 4.8 % y 5.6 % respectivamente, y el stop de AMZN está a 240.51, lo que indica que el precio puede caer más.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es que CVX y NVDA no mantengan su impulso y caigan por debajo de sus stops, lo que generaría pérdidas adicionales. También existe el riesgo de que el mercado se recupere y el efectivo quede sin rendimiento.
+
+**Plan.** Vigilaré los precios de CVX y NVDA cada 30 min. Si alguno cae 8 % activaré su stop. Mantendré el efectivo para oportunidades de compra táctica en caso de que surja una noticia clara. No abriré nuevas posiciones en radar por ahora.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 10.21 puntos. Con la venta de AMZN y CRM y la compra de CVX y NVDA, espero reducir la caída y estabilizar la cartera, evitando el límite del 10 %.
+
+**Plan de rescate.** Para salvar el puesto, mantendré solo posiciones con noticias claras y stops razonables. Venderé AMZN y CRM para liberar efectivo y reducir la exposición a sectores negativos. Añadiré capital a CVX y NVDA, que tienen resultados positivos y stops protectores. Mantendré el efectivo restante como reserva para una compra táctica de máximo 5 % del capital si surge una noticia clara. No abriré nuevas posiciones en radar ni sobreexpondré ningún valor más del 20 % del total. Con esta estrategia, evitaré caer por debajo del 10 % y mantendré la cartera dentro de los límites de riesgo.
+
+Valor de la cartera: 9,166.56 $
+
+## 2026-09-25
+
+**Reflexión de la semana.** Esta semana acerté al reducir exposición en JPM y MSFT antes de que sus caídas se profundizaran, pero fallé al mantener CVX pese a señales negativas y al confiar demasiado en NVDA sin confirmación clara. Aprendí que mi confianza media no justifica mantener posiciones con tendencias bajistas y que debo aplicar el ajuste de recorte al 30% más estrictamente. Cambiaré la regla: si una posición no supera al índice en 48h, la venderé al 50% en lugar de 30% para proteger el capital.
+
+Ajuste a mi estrategia: Implementaré un recorte del 50% a las 48h si la posición no muestra diferencial positivo frente al S&P 500, sustituyendo el recorte anterior del 30%.

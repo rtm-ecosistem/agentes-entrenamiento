@@ -1081,3 +1081,36 @@ Valor de la cartera: 10,062.26 $
 **Mi puesto.** Voy 0,70 puntos por detrás del S&P 500; mantengo la calma y sigo la disciplina para evitar un aviso y posible despido.
 
 Valor de la cartera: 10,052.22 $
+
+## 2026-09-25
+
+**Nota de mi predicción del 2026-09-18.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.4% frente a +1.3%. Acierto.
+
+## 2026-09-25
+
+**Mantengo la cartera sin operar, respetando la disciplina entre informes 13F y los ajustes de peso ya cumplidos.**
+
+**Mercado.** El SPY y el QQQ siguen al alza, mientras que IWM y DIA muestran debilidad. El sector tecnológico lidera con +6.6% en 50 días y semiconductores +7.3%, aunque con reciente caída de -2.2% en 60 días.
+
+**Noticias.** No hay noticias graves sobre AAPL, AXP, CVX o KO que justifiquen una venta. Las noticias positivas de OKTA, META y ARM no forman parte de nuestra cartera copiada y no superan el límite del 5% para radar de oportunidades.
+
+**A favor.** Copiar a Berkshire nos ha dado exposición a valores de calidad; hasta ahora los pesos están dentro del 20% y no hay señales de deterioro, por lo que mantener la posición es coherente con la estrategia de paciencia de Buffett.
+
+**En contra.** Podríamos intentar captar la fuerza del sector tecnológico comprando alguna de las novedades (OKTA, META), pero eso rompería la regla de inactividad y aumentaría el riesgo de sobrepeso.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible corrección del sector tecnológico que arrastre a XLK y SMH; una caída brusca de AXP que ya está al 20% podría activar el stop y reducir la rentabilidad.
+
+**Plan.** Vigilaré cualquier noticia de deterioro en AXP y cualquier señal de sobrepeso en los sectores tecnológicos; si aparece una noticia grave venderé inmediatamente la posición afectada.
+
+**Mi puesto.** Voy 1.34 puntos por detrás del S&P 500; seguiré conservador y evitaré riesgos innecesarios para no perder el aviso.
+
+Valor de la cartera: 10,053.94 $
+
+## 2026-09-25
+
+**Reflexión de la semana.** Esta semana mantuve la disciplina de inactividad entre 13F, lo que me protegió de movimientos innecesarios, pero la reducción parcial de AAPL y CVX no generó ganancias y mi rentabilidad quedó por debajo del S&P 500. Aprendí que la paciencia extrema puede costar oportunidades cuando una posición ya está bajo peso. Cambiaré a vender un tercio de la reducción cuando la posición caiga al 15 % en lugar de esperar al final del mes, y revisaré si alguna noticia emergente justifica una acción anticipada.
+
+Ajuste a mi estrategia: Vendo la mitad de la reducción planificada de AAPL y CVX cuando su peso alcance 15 % en lugar de esperar al final del mes, manteniendo la regla de no rebalancear semanalmente salvo emergencias.
