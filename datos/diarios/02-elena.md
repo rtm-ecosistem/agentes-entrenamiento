@@ -1014,3 +1014,31 @@ Valor de la cartera: 10,145.43 $
 **Plan de rescate.** Para salvar el puesto, no voy a comprar nuevas posiciones. Mantendré los 20% en SPY, VTI, GLD e IEF. Si el mercado cae más del 5% en la próxima semana, aumentaré GLD a 20% y reduciré IEF a 15% para mantener el peso bajo 20%. No compraré acciones de radar ni aumentaría la exposición a bonos. Me concentraré en proteger el capital y evitar la caída del 10%.
 
 Valor de la cartera: 10,161.62 $
+
+## 2026-09-23
+
+**Mantengo la cartera actual, vendo una pequeña posición de IEF y compro un poco más de GLD para reforzar la defensa.**
+
+**Mercado.** Los índices principales siguen ligeramente por encima de sus medias de 50 días, pero el sector de valor muestra presión y hay riesgo de corrección moderada.
+
+**Noticias.** El informe de analistas indica que si el mercado cae más del 5 % en una semana se debe aumentar GLD al 20 %; además, los stops de los ETFs están cerca y el sector de semiconductores muestra impulso, lo que sugiere volatilidad. No hay noticias macro negativas graves que justifiquen mover a bonos.
+
+**A favor.** Incrementar GLD protege la cartera ante una posible caída sin romper el límite del 20 % y mantiene la exposición a refugios seguros.
+
+**En contra.** Vender IEF reduce la exposición a bonos, pero el riesgo de caída del 10 % es bajo y el rebalanceo mantiene los pesos dentro del rango; aun así, prefiero la seguridad de oro frente a bonos en este momento.
+
+**Operaciones**
+- **Vender** 11.0546 IEF a 90.41 $ (999.50 $). Liberar efectivo para reforzar oro y mantener la exposición total bajo 20 %.
+
+**Riesgos.** Una caída brusca del mercado >5 % podría erosionar los ETFs de acciones; además, vender IEF reduce la diversificación de renta fija.
+
+**Plan.** Vigilaré los stops de SPY, VTI y GLD durante la semana; si el mercado baja más del 5 % reforzaré GLD hasta 20 % y consideraré comprar más bonos. No haré nuevas operaciones de riesgo.
+
+**Mi puesto.** Voy 0,86 puntos por detrás del S&P 500 y recibo un aviso; mi plan es mejorar la defensa sin arriesgar demasiado.
+
+**Plan de rescate.** Venderé IEF por 1.000 USD (aprox. 11 uds) para liberar efectivo y comprar GLD por 1.000 USD, manteniendo ambos bajo el 20 % de peso. No abriré posiciones nuevas fuera de los ETFs principales y evitaré cualquier operación de alta volatilidad. Mantendré el stop de GLD en 8 % y revisaré los pesos al final de la semana.
+
+Bloqueado por las reglas de riesgo:
+- Compra de GLD rechazada: en un mismo valor caben como mucho 2021 $ (20%).
+
+Valor de la cartera: 10,107.24 $

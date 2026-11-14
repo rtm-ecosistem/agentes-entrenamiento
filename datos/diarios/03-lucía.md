@@ -1091,3 +1091,33 @@ Valor de la cartera: 9,784.49 $
 **Plan de rescate.** Para salvar el puesto, venderé NVDA y MSFT (cada uno 4.2% y 2.7% de ganancia) para liberar $4,200 de efectivo. Con ese capital, compraré 1,800 USD de AAPL, que muestra tendencia alcista a 20 y 60 días y está por encima de su media de 50 días. Así mantendré el 20% máximo por posición y evitaré sobreexposición. No abriré nuevas posiciones en empresas de riesgo alto ni usaré apalancamiento.
 
 Valor de la cartera: 9,927.98 $
+
+## 2026-09-23
+
+**Nota de mi predicción del 2026-09-16.** Dije que NVDA lo haría mejor que el S&P 500: hizo +4.7% frente a +1.2%. Acierto.
+
+## 2026-09-23
+
+**Vendo APP completo y compro SPY para alinearme al mercado y reducir riesgo.**
+
+**Mercado.** Los índices tecnológicos siguen por encima de su media de 50 días y el sector semiconductores muestra fuerte impulso; los valores de valor están bajo presión.
+
+**Noticias.** No hay noticias negativas que afecten a mis posiciones actuales; la ausencia de eventos relevantes refuerza la decisión de no añadir más riesgo y de buscar exposición al índice amplio.
+
+**A favor.** Vender APP libera efectivo y elimina una posición ligeramente negativa, mientras que comprar SPY me permite capturar la tendencia alcista del mercado sin sobreexponerme a un solo sector.
+
+**En contra.** Podría mantener APP esperando una recuperación, pero el riesgo de que siga bajando y active el stop del 8% supera el posible beneficio, y mi objetivo es evitar cualquier caída que pueda disparar el límite del 10% de pérdida.
+
+**Operaciones**
+- **Vender** 6.0959 APP a 309.27 $ (1,885.29 $). Libera efectivo y elimina una posición ligeramente negativa antes de que pueda activar el stop del 8%.
+- **Comprar** 1.9474 SPY a 770.24 $ (1,500.00 $). Captura la tendencia alcista del mercado amplio y reduce exposición a sectores bajo presión.
+
+**Riesgos.** Riesgo de que SPY retroceda brevemente y reduzca la rentabilidad del día; riesgo de que la venta de APP reduzca la diversificación sectorial.
+
+**Plan.** Vigilaré la media de 50 días de QCOM y MSFT; si cualquiera rompe a la baja venderé según el stop. Mantendré el efectivo restante para oportunidades de tendencia clara en los próximos días.
+
+**Mi puesto.** Voy 3,64 puntos por detrás del S&P 500 y recibo un aviso; mi plan es limitar pérdidas y alinearme al índice para evitar un despido.
+
+**Plan de rescate.** Plan de rescate: vender APP completo (valor actual $1,281), usar $1,500 del efectivo para comprar SPY, mantener MSFT, NVDA y QCOM sin cambios, no abrir nuevas posiciones de alta volatilidad y no sobrepasar el 20% de peso en ningún activo.
+
+Valor de la cartera: 9,828.15 $

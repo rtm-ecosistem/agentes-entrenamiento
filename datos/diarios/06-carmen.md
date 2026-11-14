@@ -1035,3 +1035,36 @@ Valor de la cartera: 9,813.69 $
 **Plan de rescate.** Para salvar el puesto, reduciré la posición en MNST a 33 uds (≈20 % de peso), mantendré MSFT, BRK.B y AMAT, y limitaré nuevas compras a 8 ordenes con stop del 8 %. No invertiré en empresas de radar de oportunidades ni en fondos sectoriales, y evitaré compras de más de 5 % de la cartera en un solo valor.
 
 Valor de la cartera: 9,897.15 $
+
+## 2026-09-23
+
+**Nota de mi predicción del 2026-09-16.** Dije que BRK.B lo haría mejor que el S&P 500: hizo -2.3% frente a +1.2%. Fallo.
+
+## 2026-09-23
+
+**Vendo una pequeña parte de MNST para liberar efectivo y compro modestos importes de AAPL y NVDA, manteniendo stops al 8 %.**
+
+**Mercado.** El mercado muestra una ligera tendencia alcista impulsada por datos de empleo robustos, pero la volatilidad sigue alta por incertidumbres en política fiscal. Los sectores tecnológicos siguen liderando, mientras que consumo discrecional muestra resistencia moderada.
+
+**Noticias.** Los últimos informes del Congreso revelan compras de varios congresistas en Apple y Nvidia, señalando confianza en la demanda de chips y servicios digitales. Además, la aprobación de un proyecto de ley de infraestructura podría beneficiar a empresas de semiconductores. No hay noticias negativas significativas sobre nuestras posiciones actuales.
+
+**A favor.** Los congresistas están comprando Apple y Nvidia, lo que históricamente precede a movimientos positivos en esas acciones; además, nuestras posiciones en AMAT y AAPL ya están generando ganancias modestas.
+
+**En contra.** Nuestro peso en MNST está cerca del límite del 20 % y la posición muestra una pérdida del 3,4 %; sin embargo, venderla parcialmente nos permite liberar efectivo sin romper la regla de peso y nos da margen para nuevas compras alineadas con la estrategia del Congreso.
+
+**Operaciones**
+- **Vender** 0.5019 MNST a 43.81 $ (21.99 $). Liberar efectivo y reducir peso del 19 % que está en pérdida del 3,4 %.
+
+**Riesgos.** Posible caída de los precios de Apple y Nvidia si se retrasa la aprobación de leyes de tecnología; la pérdida en MNST podría ampliarse si el sector de bebidas sin azúcar sigue bajo presión; riesgo de tocar el stop del 8 % en las nuevas compras por volatilidad intradía.
+
+**Plan.** Vigilaré cada 30 min los precios de AAPL y NVDA y ajustaré los stops si la volatilidad supera el 2 %. Revisaré las próximas declaraciones de compras congresionales antes de la próxima decisión de compra.
+
+**Mi puesto.** Voy 3,15 puntos por detrás del S&P 500; con este ajuste busco reducir la brecha sin sobreexponernos.
+
+**Plan de rescate.** Para evitar el despido, reduciré la exposición en MNST vendiendo $22 (≈0,5 uds) y usaré ese efectivo para comprar $12 en AAPL y $10 en NVDA, manteniendo stops al 8 %. No abriré nuevas posiciones ni aumentaré el peso de ninguna acción por encima del 20 %. Mantendré AMAT y BRK.B por su estabilidad y observaré las próximas declaraciones del Congreso para posibles ajustes antes de que finalice el periodo.
+
+Bloqueado por las reglas de riesgo:
+- Compra de AAPL rechazada: el importe es demasiado pequeño.
+- Compra de NVDA rechazada: el importe es demasiado pequeño.
+
+Valor de la cartera: 9,879.18 $

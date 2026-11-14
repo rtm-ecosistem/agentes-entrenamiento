@@ -1087,3 +1087,33 @@ Valor de la cartera: 9,263.14 $
 **Plan de rescate.** 1) Vender el 30% de MSFT (1.8426 uds) para liberar 923$ y reducir riesgo. 2) Vender 30% de JPM (3.7383 uds) para liberar 571$. 3) Mantener CVX, NVDA y AMZN con stops ajustados. 4) No abrir nuevas posiciones hoy. 5) Si el mercado muestra un catalizador claro (ej. anuncio de ingresos de MSFT), considerar compra limitada al 5% de la cartera.
 
 Valor de la cartera: 9,190.93 $
+
+## 2026-09-23
+
+**Nota de mi predicción del 2026-09-16.** Dije que CVX lo haría mejor que el S&P 500: hizo -2.9% frente a +1.2%. Fallo.
+
+## 2026-09-23
+
+**Vendo JPM y MSFT parcialmente para reducir riesgo y mantengo posiciones con buen desempeño.**
+
+**Mercado.** El mercado muestra volatilidad moderada y los sectores financieros están bajo presión por datos de inflación. No hay catalizadores claros hoy.
+
+**Noticias.** Los analistas recomiendan vigilar los stops de MSFT (8%) y JPM (10%) y no operar sin señales fuertes. No hay noticias positivas que justifiquen nuevas compras.
+
+**A favor.** Reducir exposición a JPM y MSFT limita la caída potencial y protege el capital frente al límite del 10% de caída.
+
+**En contra.** Vender ahora reduce la posibilidad de recuperación rápida, pero el riesgo de perder el 10% supera el beneficio potencial.
+
+**Operaciones**
+- **Vender** 1.8309 JPM a 338.46 $ (619.69 $). Reducir exposición al sector financiero y evitar el límite de caída del 10%.
+- **Vender** 0.9207 MSFT a 499.35 $ (459.77 $). Limitar riesgo ante posible caída del 8% y liberar liquidez para ajustes futuros.
+
+**Riesgos.** Posible rebote de JPM o MSFT que deje dinero sobre la mesa; riesgo de que la venta reduzca la diversificación y aumente la volatilidad de la cartera.
+
+**Plan.** Vigilaré los precios cada media hora; si MSFT cae 8% venderé 50% y si JPM cae 10% venderé 50%. Mantendré CVX, NVDA y AMZN mientras no haya señales negativas.
+
+**Mi puesto.** Voy 9.9 puntos por detrás del S&P 500; el plan es limitar pérdidas y evitar el despido por caída del 10%.
+
+**Plan de rescate.** Venderé 50% de JPM (aprox. $620) y 50% de MSFT (aprox. $460) usando el efectivo generado para reforzar CVX y NVDA si su precio sube 2% en las próximas 48h; no abriré nuevas posiciones sin noticias claras. Mantendré los stops actuales y recortaré cualquier posición que pierda más del 8% en 48h.
+
+Valor de la cartera: 9,203.44 $

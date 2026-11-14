@@ -1026,3 +1026,31 @@ Valor de la cartera: 10,088.42 $
 **Mi puesto.** Estoy por detrás del S&P 500 por 1.38 puntos. Con la compra mínima de CVX mantengo la posición y espero mejorar el rendimiento a la llegada del próximo 13F.
 
 Valor de la cartera: 10,104.13 $
+
+## 2026-09-23
+
+**Nota de mi predicción del 2026-09-16.** Dije que KO lo haría mejor que el S&P 500: hizo +0.2% frente a +1.2%. Fallo.
+
+## 2026-09-23
+
+**Vendo parcialmente AAPL y CVX para reducir exposición y liberar efectivo, sin nuevas compras hoy.**
+
+**Mercado.** Los índices tecnológicos siguen por encima de su media de 50 días, mientras que los sectores de valor y energía están bajo presión. El impulso en semiconductores es fuerte, pero los bonos largos caen, indicando incertidumbre macro.
+
+**Noticias.** No hay noticias corporativas graves para AAPL, CVX o AXP hoy; la recomendación del analista de vender AAPL y CVX no está respaldada por un evento negativo concreto. El informe indica que el sector energía sube modestamente, pero CVX ya está al 20% de peso.
+
+**A favor.** Reducir AAPL y CVX ahora libera margen para futuros ajustes del 13F y evita que una posible corrección tecnológica nos golpee con una posición máxima del 20%.
+
+**En contra.** Vender sin una noticia grave podría penalizar el rendimiento; sin embargo, la disciplina de Buffett nos indica no mantener posiciones al límite sin justificación y el riesgo de caída del 10% nos obliga a ser prudentes.
+
+**Operaciones**
+- **Vender** 1.4770 AAPL a 338.35 $ (499.75 $). Reducir exposición al 20% máximo y liberar efectivo; AAPL ha subido +10.9% y no hay señal negativa reciente.
+- **Vender** 2.4331 CVX a 205.40 $ (499.75 $). Liberar margen y evitar sobrepeso; CVX ha subido +8.8% pero el sector energía está bajo presión y no hay noticia favorable.
+
+**Riesgos.** Posible rebote de AAPL que nos haga perder la ganancia del +10.9%, y la caída de CVX si el precio del petróleo sigue bajo. Además, mantener efectivo reduce la capacidad de seguir al 13F si aparecen nuevas compras de Berkshire.
+
+**Plan.** Vigilaré de cerca cualquier noticia negativa sobre AAPL y CVX y el próximo informe 13F de Berkshire. Si aparecen señales de deterioro, ejecutaré ventas completas. Mientras tanto, mantendré la posición en KO y el efectivo disponible.
+
+**Mi puesto.** Voy 1.31 puntos por detrás del S&P 500; mantengo la estrategia conservadora para evitar el riesgo de caída del 10% y buscaré recuperar terreno con ajustes modestos.
+
+Valor de la cartera: 10,062.26 $

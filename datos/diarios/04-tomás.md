@@ -1010,3 +1010,26 @@ Valor de la cartera: 10,213.03 $
 **Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
 
 Valor de la cartera: 10,284.41 $
+
+## 2026-09-23
+
+**Mantengo la cartera sin nuevas compras y vigilo los stops de AAPL, MSFT y GOOGL.**
+
+**Mercado.** Los índices tecnológicos siguen por encima de su media de 50 días, mientras que los sectores de valor están bajo presión. No hay señales claras de correcciones de al menos 8 % en 30 días en la tabla de mercado.
+
+**Noticias.** El informe de analistas es neutral y no indica noticias fundamentales que justifiquen una caída significativa en ninguna de mis posiciones. El sector semiconductores muestra impulso, pero no afecta a mis holdings actuales. No hay eventos macro que alteren mi perspectiva de corto plazo.
+
+**A favor.** Con 4.500 $ en efectivo y sin oportunidades que cumplan el filtro del 8 % de corrección, lo más prudente es esperar y no desplazar capital a valores que no estén claramente infravalorados.
+
+**En contra.** Podría quedar rezagado frente al S&P 500 si el mercado sigue subiendo, pero arriesgar el efectivo en una compra sin la señal de corrección viola mi regla de disciplina y aumenta el riesgo de una caída del 10 % en la cartera.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Riesgo de oportunidad perdida si surge una corrección inesperada; riesgo de que el mercado siga subiendo y el efectivo reduzca la rentabilidad relativa; riesgo de que alguna posición toque su stop y reduzca la rentabilidad actual.
+
+**Plan.** Vigilaré los precios de AAPL, MSFT y GOOGL cada media hora para activar los stops del 8 % y buscaré en la tabla de mercado caídas del 8 % en 30 días antes de usar el efectivo restante. Revisaré el radar de oportunidades al final del día.
+
+**Mi puesto.** Voy +2.46 puntos por encima del S&P 500; mantengo la posición y espero nuevas oportunidades antes de cerrar el periodo.
+
+Valor de la cartera: 10,195.87 $

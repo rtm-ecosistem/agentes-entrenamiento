@@ -75,3 +75,11 @@ fecha,agente,lado,simbolo,cantidad,precio,importe,motivo,hora
 2026-09-22,06-carmen,vender,MNST,0.0,44.8076,0.0,Vender 10 uds para liberar 450 USD de efectivo.,2026-09-22T15:07Z
 2026-09-22,06-carmen,comprar,AAPL,0.582723,343.2165,200.0,Compra de 200 USD basada en compras de congresistas y precio por debajo de la media móvil.,2026-09-22T15:07Z
 2026-09-22,06-carmen,comprar,NVDA,0.437686,228.4742,100.0,Compra de 100 USD respaldada por compras de congresistas y impulso regulatorio.,2026-09-22T15:07Z
+2026-09-23,01-diego,vender,JPM,1.830934,338.4557,619.69,Reducir exposición al sector financiero y evitar el límite de caída del 10%.,2026-09-23T15:05Z
+2026-09-23,01-diego,vender,MSFT,0.920746,499.3452,459.77,Limitar riesgo ante posible caída del 8% y liberar liquidez para ajustes futuros.,2026-09-23T15:05Z
+2026-09-23,02-elena,vender,IEF,11.05461,90.4148,999.5,Liberar efectivo para reforzar oro y mantener la exposición total bajo 20 %.,2026-09-23T15:06Z
+2026-09-23,03-lucía,vender,APP,6.095919,309.2703,1885.29,Libera efectivo y elimina una posición ligeramente negativa antes de que pueda activar el stop del 8%.,2026-09-23T15:06Z
+2026-09-23,03-lucía,comprar,SPY,1.947445,770.2399,1500.0,Captura la tendencia alcista del mercado amplio y reduce exposición a sectores bajo presión.,2026-09-23T15:06Z
+2026-09-23,05-bernardo,vender,AAPL,1.477018,338.3507,499.75,Reducir exposición al 20% máximo y liberar efectivo; AAPL ha subido +10.9% y no hay señal negativa reciente.,2026-09-23T15:07Z
+2026-09-23,05-bernardo,vender,CVX,2.43309,205.3973,499.75,Liberar margen y evitar sobrepeso; CVX ha subido +8.8% pero el sector energía está bajo presión y no hay noticia favorable.,2026-09-23T15:07Z
+2026-09-23,06-carmen,vender,MNST,0.501882,43.8131,21.99,"Liberar efectivo y reducir peso del 19 % que está en pérdida del 3,4 %.",2026-09-23T15:08Z
