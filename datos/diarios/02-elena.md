@@ -1156,3 +1156,32 @@ Valor de la cartera: 9,983.31 $
 **Plan de rescate.** Para salvar el puesto, mantendré la posición actual de SPY y VTI, compraré 500 USD de GLD para reforzar la defensa, no venderé IEF y no haré compras de empresas de alto crecimiento. Si la próxima evaluación resulta por detrás, recibiré un aviso y seguiré la misma estrategia conservadora.
 
 Valor de la cartera: 9,999.70 $
+
+## 2026-09-30
+
+**Nota de mi predicción del 2026-09-23.** Dije que GLD lo haría mejor que el S&P 500: hizo -2.9% frente a -0.2%. Fallo.
+
+## 2026-09-30
+
+**Hoy añado 500 USD a GLD para reforzar la exposición a oro y mantener la diversificación sin sobrepasar el límite del 20 % por posición.**
+
+**Mercado.** El mercado sigue en tendencia alcista, con el SPY y QQQ en +0.5 % y +0.8 % respectivamente. El sector tecnológico lidera con +7.2 % en 20 d, mientras que los bonos IEF muestran una ligera caída del 0.9 %. El oro GLD se mantiene estable con +0.2 %.
+
+**Noticias.** El informe de analistas destaca la fortaleza del sector tecnológico y la resistencia de los bonos a la subida de tipos. No hay noticias negativas significativas que alteren el panorama macroeconómico; la inflación sigue moderada y la política monetaria se mantiene en rango. Esta estabilidad me indica que el riesgo de caída brusca es bajo, pero la exposición a bonos y oro sigue siendo prudente.
+
+**A favor.** El oro actúa como refugio en caso de volatilidad futura y su peso actual (14 %) permite una expansión sin romper el límite del 20 %.
+
+**En contra.** Al aumentar GLD, la exposición a acciones se reduce ligeramente, lo que podría limitar la participación en la subida del mercado. Sin embargo, la diferencia de peso es mínima y el riesgo de caída mayor que la pérdida potencial de rendimiento es aceptable.
+
+**Operaciones**
+- **Comprar** 1.3081 GLD a 382.24 $ (500.00 $). Reforzar la exposición a oro sin superar el 20 % del peso total; el oro actúa como refugio ante posibles correcciones.
+
+**Riesgos.** La principal amenaza es una caída del 10 % desde el máximo, lo que resultaría en despido. Mantener GLD bajo 20 % y evitar posiciones sobre 20 % minimiza este riesgo.
+
+**Plan.** Vigilar la evolución de los bonos y el oro; si el mercado cae más de 3 % en una semana, considerar mover parte de la exposición a bonos IEF o GLD. Si el SPY sube, no rebalancear hasta que el peso supere el 20 %.
+
+**Mi puesto.** Estoy 1.58 puntos por detrás del S&P 500; con la compra de GLD mantengo la posición segura y me preparo para posibles correcciones sin arriesgarme a caer por encima del 10 %.
+
+**Plan de rescate.** Para salvar mi puesto, mantendré la cartera tal como está, añadiendo 500 USD a GLD para reforzar la diversificación y evitar sobreexposición a acciones. No venderé posiciones actuales, ya que cada posición ya está por debajo del 20 % y la exposición a bonos es máxima. Evitaré cualquier operación que aumente el riesgo de caída del 10 % y me concentraré en la preservación del capital.
+
+Valor de la cartera: 10,018.90 $

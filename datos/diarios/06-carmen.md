@@ -1201,3 +1201,34 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de MSFT de 800 $ a 795 $ (en un mismo valor caben como mucho 1999 $ (20%)).
 
 Valor de la cartera: 9,993.23 $
+
+## 2026-09-30
+
+**Nota de mi predicción del 2026-09-23.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.1% frente a -0.2%. Acierto.
+
+## 2026-09-30
+
+**Mantengo la posición actual, añado AAPL y NVDA para capturar compras de congresistas, y corto JPM por su caída reciente.**
+
+**Mercado.** El S&P 500 sube 0,6 % hoy, impulsado por datos de empleo y la expectativa de una política monetaria más acomodaticia. Los índices sectoriales de tecnología y finanzas siguen en rango, con volatilidad moderada.
+
+**Noticias.** Los congresistas han comprado AAPL (3 USD) y NVDA (2 USD) en sus últimos informes, con volúmenes de 1,2 M y 0,8 M respectivamente. AAPL se beneficia de la aprobación de la nueva ley de telecomunicaciones que favorece la infraestructura 5G, mientras que NVDA se apoya en contratos de IA con el Departamento de Defensa. JPM, por otro lado, ha vendido 0,5 M de acciones, reflejando preocupaciones sobre la tasa de interés y la exposición a deuda corporativa.
+
+**A favor.** La compra de AAPL y NVDA está respaldada por la acción de varios congresistas y por noticias positivas que indican demanda futura. Ambas acciones están dentro del límite del 20 % y el stop está razonablemente bajo.
+
+**En contra.** El riesgo de que el mercado se revierta y los precios caigan por la volatilidad de los sectores tecnológicos. Sin embargo, el stop del 8 % protege la posición y la diversificación reduce la exposición total.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de AAPL y NVDA en la próxima semana por factores macroeconómicos. JPM sigue con pérdida y su stop está a 321 $, lo que limita la pérdida adicional.
+
+**Plan.** Vigilar el precio de AAPL y NVDA cada media hora; si el stop se activa, venderé inmediatamente y esperaré una nueva señal. Mantendré MSFT y AMAT, y observaré las próximas declaraciones de congresistas para posibles nuevas compras.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 1,32 puntos; mi objetivo es cerrar la brecha sin exceder el 10 % de caída desde el máximo.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+**Plan de rescate.** Para salvar mi puesto, mantendré las posiciones en AMAT y MSFT, cerraré JPM a la brecha de stop y usaré el efectivo restante (3 229 $) para comprar AAPL y NVDA, limitando la exposición a cada uno al 20 % y estableciendo stops del 8 %. No realizaré nuevas compras de radar ni aumentaría la posición en JPM.
+
+Valor de la cartera: 10,044.43 $

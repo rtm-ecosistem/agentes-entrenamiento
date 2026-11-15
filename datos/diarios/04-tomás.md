@@ -1143,3 +1143,30 @@ Valor de la cartera: 10,226.98 $
 **Mi puesto.** Voy por delante del S&P 500 (+2.99 puntos) y mantendré la estrategia conservadora para proteger la ventaja.
 
 Valor de la cartera: 10,177.11 $
+
+## 2026-09-30
+
+**Nota de mi predicción del 2026-09-23.** Dije que NVDA lo haría peor que el S&P 500: hizo +2.1% frente a -0.2%. Fallo.
+
+## 2026-09-30
+
+**No opero hoy, mantengo la liquidez y sigo observando oportunidades de corrección >8 % en empresas sólidas.**
+
+**Mercado.** El mercado sigue en tendencia alcista, con SPY +0.5 % y QQQ +0.8 %. El sector tecnológico lidera con +7.2 % en 20 d, pero la renta fija continúa cayendo. No hay señales de corrección significativa en las posiciones actuales.
+
+**Noticias.** No se han publicado noticias relevantes que justifiquen una caída de más del 8 % en 30 días en las empresas que cubre mi cartera. La caída de GOOGL es apenas del 1 % y no hay indicios de problemas estructurales.
+
+**A favor.** Mantener el efectivo me permite reaccionar a una corrección mayor que el umbral de 8 % sin exceder el límite del 20 % por posición ni el 50 % de la cartera en compras.
+
+**En contra.** El efectivo no gana y me deja detrás del S&P 500 cada día que sube. Sin embargo, mi posición actual ya está por delante y no quiero arriesgarme a una caída del 10 % que me despide.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que el mercado continúe subiendo y mi efectivo se quede inactivo, reduciendo la rentabilidad relativa. También existe el riesgo de que aparezca una oportunidad de corrección que no identifique a tiempo.
+
+**Plan.** Vigilaré los precios de las empresas de alta capitalización y revisaré las noticias diarias. Si alguna muestra una caída >8 % en 30 días sin fundamentos negativos, consideraré una compra parcial manteniendo el 20 % de límite por valor.
+
+**Mi puesto.** Estoy por delante del S&P 500 en +3.60 puntos, con un máximo de +2.93 %. No necesito rescate, pero seguiré la disciplina para no sobreexponerme.
+
+Valor de la cartera: 10,292.56 $

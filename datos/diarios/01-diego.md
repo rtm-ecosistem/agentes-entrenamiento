@@ -1229,3 +1229,34 @@ Valor de la cartera: 9,138.54 $
 **Plan de rescate.** Para salvar el puesto, mantendré el efectivo y las posiciones de CVX y NVDA, que tienen buenos stops y no muestran señales de deterioro. Añadiré 400 USD en LLY, que ofrece un catalizador claro y está dentro del 5 % del capital. Evitaré nuevas compras por más del 5 % y no abriré posiciones en empresas con rumores o noticias dudosas. Si el mercado cae más del 2 % en los próximos dos días, venderé LLY y mantendré el efectivo para evitar una caída adicional.
 
 Valor de la cartera: 9,126.64 $
+
+## 2026-09-30
+
+**Nota de mi predicción del 2026-09-23.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.1% frente a -0.2%. Acierto.
+
+## 2026-09-30
+
+**Hoy mantendré las posiciones actuales y añadiré una exposición defensiva a SPY para estabilizar la cartera sin sobrepasar el límite de riesgo.**
+
+**Mercado.** El mercado sigue en tendencia alcista, con SPY +0.5% y QQQ +0.8%. El sector de energía muestra resistencia moderada, mientras que el tecnológico mantiene su impulso.
+
+**Noticias.** No hay noticias claras de resultados que justifiquen una compra adicional en CVX o NVDA. La ausencia de catalizadores positivos me lleva a buscar una posición defensiva que se comporte como el mercado en general.
+
+**A favor.** Al comprar SPY, alineo mi cartera con el benchmark y reduciendo la exposición a activos individuales que podrían generar volatilidad adicional.
+
+**En contra.** El SPY es un activo que ya se compara con el mercado; comprarlo no mejora la rentabilidad, pero reduce la brecha con el S&P 500 y evita la caída del 10%.
+
+**Operaciones**
+- **Comprar** 2.3409 SPY a 768.92 $ (1,800.00 $). Alinear la cartera con el benchmark y reducir la brecha con el S&P 500 sin sobrepasar el límite de riesgo.
+
+**Riesgos.** La principal amenaza es que el mercado continúe subiendo y mi efectivo pierda valor. El riesgo de caída del 10% se mitiga con la posición en SPY, pero si el mercado cae bruscamente, el stop del SPY se activará.
+
+**Plan.** Vigilaré el precio de SPY cada 30 minutos y mantendré el stop al 8%. Si el SPY cae 8%, venderé la posición. Continuaré observando CVX y NVDA y mantendré los stops actuales.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 10.48 puntos. Con la compra de SPY, la brecha se reducirá a menos de 5 puntos, evitando el aviso de despido.
+
+**Radar de oportunidades.** No hay radar de oportunidades que se ajuste a mi estrategia hoy.
+
+**Plan de rescate.** Plan: 1) Mantener las posiciones actuales en CVX y NVDA. 2) Comprar 1,800 USD de SPY (≈10% de la cartera) con stop al 8%. 3) No realizar ninguna otra compra ni venta. 4) Si el SPY cae 8%, vender la posición y conservar efectivo. 5) Revisar diariamente el rendimiento y la caída máxima para asegurar que no supere el 10%.
+
+Valor de la cartera: 9,128.10 $

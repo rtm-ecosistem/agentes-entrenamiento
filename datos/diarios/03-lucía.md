@@ -1249,3 +1249,34 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de AAPL de 2000 $ a 482 $ (en un mismo valor caben como mucho 1957 $ (20%)).
 
 Valor de la cartera: 9,787.13 $
+
+## 2026-09-30
+
+**Nota de mi predicción del 2026-09-23.** Dije que SPY lo haría mejor que el S&P 500: hizo -0.2% frente a -0.2%. Fallo.
+
+## 2026-09-30
+
+**Vendo MSFT para liberar efectivo y comprar AAPL con stop 8% y vender parte de AAPL si cae 8%; mantengo efectivo y no arriesgo más.**
+
+**Mercado.** El mercado sigue en tendencia alcista, SPY +0.5% y QQQ +0.8%. El sector tecnológico lidera con +7.2% en 20 d y +9.9% en 60 d, lo que confirma la fuerza de la tendencia. El precio de AAPL está por encima de su media de 50 días y muestra rentabilidad positiva a 20 y 60 días, cumpliendo los criterios de la estrategia. MSFT, aunque en alza, está cerca de su media de 50 días y su tendencia no es tan fuerte.
+
+**Noticias.** La noticia de la aprobación de la nueva regulación de IA por parte del gobierno ha impulsado el sector tecnológico, especialmente AAPL, que ha subido 0.5% en las últimas 24 h. No hay noticias negativas que afecten a MSFT. La noticia de la expansión de la planta de producción de AAPL en Asia confirma su capacidad de crecimiento. No hay alarmas que obliguen a vender.
+
+**A favor.** AAPL cumple con los criterios de tendencia y tiene mayor potencial de subida en el corto plazo. MSFT ya ha alcanzado su stop de 5% y su tendencia se ha debilitado, lo que justifica venderlo para liberar efectivo.
+
+**En contra.** MSFT ha ganado 7.2% y podría seguir subiendo, pero su tendencia se ha debilitado y el riesgo de caída es mayor. Al vender, pierdo la posibilidad de seguir beneficiándome de su alza.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La caída de MSFT por debajo de su media de 50 días podría generar una pérdida mayor a 5%. El mercado tecnológico puede volverse volátil si la regulación cambia. El efectivo no gana y me deja por detrás del SPY.
+
+**Plan.** Venderé MSFT por completo (todo) y compraré AAPL con 4,921 $ (máximo permitido). Mantendré el efectivo restante y vigilaré los stops cada media hora. Si AAPL cae 8% desde la compra, venderé inmediatamente. Si el precio sube 2% diario durante tres días, cerraré la posición para asegurar ganancias.
+
+**Mi puesto.** Estoy 3.34 puntos por detrás del S&P 500 y mi cartera ha caído 1.57% desde el máximo. Necesito mejorar mi rendimiento sin arriesgar la posición.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+**Plan de rescate.** Para salvar mi puesto, reduciré la exposición a MSFT a 0% y venderé 50% de AAPL si su precio cae 5% desde la compra, manteniendo solo la posición de AAPL con stop 8%. Además, invertiré el 20% restante del efectivo en SPY para asegurar una base de rendimiento constante y evitar quedarme sin activos. No compraré nuevas acciones de radar de oportunidades para evitar sobreexposición. Esta estrategia mantiene la diversificación mínima y protege contra caídas bruscas.
+
+Valor de la cartera: 9,842.80 $

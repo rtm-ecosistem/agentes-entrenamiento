@@ -1168,3 +1168,33 @@ Valor de la cartera: 10,063.23 $
 **Mi puesto.** Voy 1.23 puntos por detrás del S&P 500; seguiré la disciplina para evitar una caída mayor y buscaré mejorar la rentabilidad en los próximos días sin arriesgar el 10% de caída.
 
 Valor de la cartera: 9,997.29 $
+
+## 2026-09-30
+
+**Nota de mi predicción del 2026-09-23.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.1% frente a -0.2%. Acierto.
+
+## 2026-09-30
+
+**Hoy añado 494 USD a AAPL y 477 USD a CVX, manteniendo la disciplina de Buffett y evitando rebalanceos innecesarios.**
+
+**Mercado.** El mercado sigue en tendencia alcista, con SPY +0.5 % y QQQ +0.8 %. El sector tecnológico lidera con +7.2 % en 20 d, mientras que el chipmaker AMD muestra un impulso de +31 % en 20 d. No hay señales de volatilidad extrema ni de eventos macroeconómicos que justifiquen un movimiento agresivo.
+
+**Noticias.** No hay noticias corporativas graves que afecten a AAPL, CVX, AXP o KO. El informe de analistas indica un entorno alcista sin riesgos inmediatos. Por lo tanto, no se requiere ajuste de posiciones por noticias.
+
+**A favor.** AAPL y CVX están en la cartera de Berkshire y han mostrado rendimiento positivo (+10.8 % y +8.6 % respectivamente). Añadir más de ellos incrementa la exposición a valores de alta calidad que siguen la filosofía de Buffett.
+
+**En contra.** El riesgo de sobreexposición a un solo sector (tecnología y energía) aumenta, pero las posiciones actuales ya están dentro del límite del 20 %. La compra incremental mantiene la diversificación y no supera los límites de riesgo.
+
+**Operaciones**
+- **Comprar** 1.4588 AAPL a 338.41 $ (493.66 $). AAPL ya representa 15 % de la cartera y tiene un rendimiento positivo; la compra incremental mantiene el peso bajo 20 % y sigue la filosofía de Buffett.
+- **Comprar** 2.3252 CVX a 205.13 $ (476.98 $). CVX está en 15 % de la cartera, con buen rendimiento; la compra incremental mantiene el peso bajo 20 % y sigue la filosofía de Buffett.
+
+**Riesgos.** Posible corrección del sector tecnológico o de energía que podría afectar a AAPL y CVX. La exposición a estos valores se mantiene por debajo del 20 % cada uno, mitigando el riesgo de caída drástica.
+
+**Plan.** Vigilar el precio de AAPL y CVX en los próximos días, especialmente si el sector tecnológico muestra señales de sobrecompra. Mantener la inactividad salvo noticias graves o si alguna posición supera el 20 % de la cartera.
+
+**Mi puesto.** Estamos por detrás del S&P 500 por 1.36 puntos, pero dentro del umbral de advertencia. La estrategia es seguir la disciplina y esperar a la próxima publicación del 13F para rebalanciar.
+
+**Radar de oportunidades.** No hay oportunidades de radar que cumplan los límites de operación.
+
+Valor de la cartera: 10,040.58 $
