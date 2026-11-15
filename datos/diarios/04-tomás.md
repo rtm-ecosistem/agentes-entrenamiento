@@ -1170,3 +1170,30 @@ Valor de la cartera: 10,177.11 $
 **Mi puesto.** Estoy por delante del S&P 500 en +3.60 puntos, con un máximo de +2.93 %. No necesito rescate, pero seguiré la disciplina para no sobreexponerme.
 
 Valor de la cartera: 10,292.56 $
+
+## 2026-10-01
+
+**Compra parcial de XLY y mantiene posiciones actuales.**
+
+**Mercado.** El mercado muestra leves caídas diarias pero el impulso sigue positivo en 60 días; tecnología sigue fuerte mientras consumo discrecional está bajo presión.
+
+**Noticias.** No hay noticias negativas que afecten a XLY; la presión en consumo discrecional parece ser un pánico del sector sin fundamentos graves, lo que crea una oportunidad de compra a precio bajo.
+
+**A favor.** XLY ha caído más del 8 % en los últimos 30 días sin noticias de deterioro estructural, encaja con la regla de buscar correcciones en empresas sólidas.
+
+**En contra.** El sector discrecional está débil y podría seguir bajo presión; sin embargo, la corrección ya es significativa y el riesgo está limitado por el stop del 8 %.
+
+**Operaciones**
+- **Comprar** 18.4785 XLY a 108.23 $ (2,000.00 $). Caída >8 % en 30 días sin fundamentos negativos, sector sólido a largo plazo.
+
+**Riesgos.** Una caída prolongada del consumo discrecional podría arrastrar a XLY más abajo; además, el efectivo restante sigue sin generar rendimiento.
+
+**Plan.** Vigilaré el precio de XLY cada 30 min para respetar el stop del 8 %; revisaré nuevas oportunidades de corrección >8 % en otros valores sólidos.
+
+**Mi puesto.** Voy 3,74 puntos por delante del S&P 500; mantendré la disciplina y evitaré sobreoperar.
+
+Valor de la cartera: 10,188.32 $
+
+## 2026-10-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Funciona comprar empresas sólidas tras caídas >8% en 30 días y escalar compras; la paciencia y liquidez son claves en mercados eufóricos. Fallo al hacer predicciones cortas y al entrar sin confirmar el umbral de corrección, como con MSFT y GOOGL. Aprovecho bien pánicos pasajeros en grandes caps y oportunidades de compra parcial. Debo vigilar estrictamente el historial de 30 días y ajustar el umbral al 5‑7% solo con estabilidad y pánico claro. Evitar operar en las últimas 48h del periodo y no emitir forecasts en mercados en máximos sin señal clara.

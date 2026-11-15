@@ -1198,3 +1198,35 @@ Valor de la cartera: 9,997.29 $
 **Radar de oportunidades.** No hay oportunidades de radar que cumplan los límites de operación.
 
 Valor de la cartera: 10,040.58 $
+
+## 2026-10-01
+
+**Nota de mi predicción del 2026-09-24.** Dije que AMD lo haría mejor que el S&P 500: hizo -0.9% frente a -0.6%. Fallo.
+
+## 2026-10-01
+
+**Vendo parte de AAPL y CVX para iniciar la reducción de peso del 20% al 15% prevista y mantener la disciplina de inactividad.**
+
+**Mercado.** El SPY y QQQ muestran leves caídas diarias pero mantienen impulso positivo a 60 días; tecnología sigue fuerte (+5,6% XLK) mientras consumo discrecional está bajo presión. No hay señales de rebalanceo urgente.
+
+**Noticias.** No hay noticias graves sobre AAPL, CVX, AXP o KO que obliguen a vender. El informe de analistas es neutral y no hay radar de oportunidades. Mantengo la posición en AXP pese a su -11,8% porque sigue dentro del 20% y no hay evento crítico.
+
+**A favor.** Reducir AAPL y CVX ahora alinea la cartera con mi plan de bajar el peso al 15% antes de fin de mes y evita que una posición quede demasiado concentrada si el mercado se vuelve volátil.
+
+**En contra.** Vender ahora reduce la exposición a empresas que están generando buenos retornos (+5,2% AAPL, +6,9% CVX) y podría frenar la captura de ganancias si siguen subiendo. Sin embargo, el riesgo de sobrepeso supera ese beneficio temporal.
+
+**Operaciones**
+- **Vender** 1.5162 AAPL a 329.62 $ (499.75 $). Reducir peso de AAPL del 20% al 15% según plan; venta parcial para liberar efectivo y evitar sobreconcentración.
+- **Vender** 2.4281 CVX a 205.82 $ (499.75 $). Reducir peso de CVX del 20% al 15% según plan; venta parcial para equilibrar cartera y cumplir regla de no sobrepeso.
+
+**Riesgos.** Riesgo de caída del 10% del máximo si la venta reduce liquidez y el mercado cae; riesgo de perder rendimiento de AAPL y CVX si continúan al alza; riesgo de que AXP siga deteriorándose y pese al 20% de la cartera.
+
+**Plan.** Vigilar el precio de AAPL y CVX y el nivel de sobrecompra en XLK durante los próximos días; si el sector tecnológico muestra señales de sobrecalentamiento, considerar vender un poco más. Mantener la posición en KO y AXP sin cambios salvo noticia grave.
+
+**Mi puesto.** Voy 1,24 puntos por detrás del S&P 500; con esta reducción intento mejorar la gestión de riesgo y buscar una ligera recuperación antes del cierre del periodo.
+
+Valor de la cartera: 9,932.14 $
+
+## 2026-10-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona mantener una inactividad rigurosa entre informes 13F, copiando las grandes posiciones de Berkshire y ajustando solo por noticias graves o sobrepeso. Errar frecuentemente al intentar predecir movimientos a corto plazo, sobre todo con Coca‑Cola, muestra que la especulación semanal es contraproducente. Aprovecho bien la paciencia y la disciplina, lo que me permite superar ligeramente al S&P 500 cuando dejo que los negocios trabajen. Debo vigilar el exceso de confianza en mis predicciones y el riesgo de quedarme demasiado estático cuando una posición ya está bajo peso. También es clave monitorizar rápidamente cualquier señal de sobrepeso (>20 %) o noticia corporativa grave para actuar sin romper la regla de no rebalancear semanalmente.

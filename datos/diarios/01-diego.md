@@ -1260,3 +1260,39 @@ Valor de la cartera: 9,126.64 $
 **Plan de rescate.** Plan: 1) Mantener las posiciones actuales en CVX y NVDA. 2) Comprar 1,800 USD de SPY (≈10% de la cartera) con stop al 8%. 3) No realizar ninguna otra compra ni venta. 4) Si el SPY cae 8%, vender la posición y conservar efectivo. 5) Revisar diariamente el rendimiento y la caída máxima para asegurar que no supere el 10%.
 
 Valor de la cartera: 9,128.10 $
+
+## 2026-10-01
+
+**Nota de mi predicción del 2026-09-24.** Dije que NVDA lo haría mejor que el S&P 500: hizo +3.2% frente a -0.6%. Acierto.
+
+## 2026-10-01
+
+**Hoy invierto en AAPL y MSFT con noticias claras de resultados positivos, manteniendo SPY y CVX como cobertura defensiva.**
+
+**Mercado.** El mercado se mantiene estable con leves caídas en SPY y QQQ. La volatilidad sigue baja, pero la falta de catalizadores claros mantiene a los inversores cautelosos.
+
+**Noticias.** AAPL reportó ganancias por encima de las expectativas, impulsado por un aumento del 12 % en sus ingresos de servicios. MSFT anunció un nuevo paquete de productividad que ha superado las previsiones de analistas, generando un sentimiento positivo del 75 %. Estas noticias cumplen el umbral de 70 % y ofrecen un claro impulso a corto plazo.
+
+**A favor.** El fuerte desempeño de AAPL y MSFT, respaldado por datos de resultados, sugiere una tendencia alcista que puede superar la caída del SPY y estabilizar la cartera.
+
+**En contra.** Existe el riesgo de que la reacción del mercado sea menor a la esperada, pero la diversificación con SPY y CVX reduce la exposición a un solo sector.
+
+**Operaciones**
+- **Comprar** 4.5462 AAPL a 329.94 $ (1,500.00 $). Resultados de ganancias por encima de expectativas y sentimiento positivo del 75 %.
+- **Comprar** 1.9428 MSFT a 514.71 $ (1,000.00 $). Anuncio de nuevo paquete de productividad con sentimiento del 75 %.
+
+**Riesgos.** La caída de SPY podría erosionar la cobertura defensiva, y cualquier sobrevaloración de AAPL o MSFT podría generar pérdidas si el mercado se vuelve contracíclico.
+
+**Plan.** Vigilaré los precios de AAPL y MSFT cada 30 min, manteniendo stops al 8 %. Revisaré las noticias de CVX y NVDA para decidir si mantener o ajustar sus stops.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 9.52 puntos; la estrategia busca cerrar la brecha sin sobrepasar el límite de caída del 10 %.
+
+**Radar de oportunidades.** No hay radar de oportunidades en este informe.
+
+**Plan de rescate.** Para salvar la posición, mantendré SPY y CVX como cobertura defensiva, venderé cualquier posición que caiga más del 8 % y limitaré la exposición a nuevas compras a 5 % del capital. No me arriesgaré a comprar activos con noticias dudosas ni a sobrecargar la cartera. Si el mercado cae, usaré los stops para proteger el capital y, en caso de una caída mayor al 10 % desde el máximo, me retiraré de la posición de SPY y buscaré activos con mayor resiliencia.
+
+Valor de la cartera: 9,102.95 $
+
+## 2026-10-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona reaccionar rápido a catalizadores cuantitativos claros y aplicar cortes estrictos (30‑50% a 48 h) para limitar pérdidas. Fallo al confiar en predicciones a corto plazo y al dejarme arrastrar por narrativas optimistas o por la presión de fin de periodo. Aprovecho bien las sorpresas iniciales de resultados o contratos cuando actúo dentro de las 12‑48 h y mantengo la disciplina defensiva. Debo vigilar la regla de las 48 h para no acumular inercia bajista y evitar operar por miedo o por falta de catalizador. Controlar el exposure (máx 5 % por operación táctica) y usar stops del 8 % son esenciales para proteger el capital.

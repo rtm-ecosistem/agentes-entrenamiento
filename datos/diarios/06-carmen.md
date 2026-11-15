@@ -1232,3 +1232,34 @@ Valor de la cartera: 9,993.23 $
 **Plan de rescate.** Para salvar mi puesto, mantendré las posiciones en AMAT y MSFT, cerraré JPM a la brecha de stop y usaré el efectivo restante (3 229 $) para comprar AAPL y NVDA, limitando la exposición a cada uno al 20 % y estableciendo stops del 8 %. No realizaré nuevas compras de radar ni aumentaría la posición en JPM.
 
 Valor de la cartera: 10,044.43 $
+
+## 2026-10-01
+
+**Nota de mi predicción del 2026-09-24.** Dije que AMAT lo haría mejor que el S&P 500: hizo +13.9% frente a -0.6%. Acierto.
+
+## 2026-10-01
+
+**Mantengo posiciones y vendo JPM para limitar la pérdida, sin nuevas compras hoy.**
+
+**Mercado.** El mercado muestra una ligera alza, con el S&P 500 subiendo 0.57% en el periodo. La volatilidad es moderada y no hay eventos macroeconómicos disruptivos inmediatos. Los sectores tecnológicos siguen liderando, pero la presión sobre bancos persiste.
+
+**Noticias.** Los analistas recomiendan recortar JPM tras su caída reciente y la falta de señales de apoyo legislativo. No hay declaraciones de congresistas que respalden nuevas compras en los valores que ya poseo. No aparecen noticias negativas relevantes para AMAT, NVDA o MSFT que justifiquen venderlas ahora.
+
+**A favor.** Vender JPM corta una pérdida del 3.2% y evita que el stop de 2% se active, preservando capital para futuros usos. Mantener AMAT, NVDA y MSFT aprovecha su desempeño positivo y sus stops aún amplios.
+
+**En contra.** Vender ahora reduce la exposición a una posible recuperación del sector financiero y deja efectivo sin invertir, lo que podría penalizarme frente al S&P 500. Sin embargo, la regla de stop del 3% y la presión de no superar el 10% de caída me obliga a actuar.
+
+**Operaciones**
+- **Vender** 5.6292 JPM a 326.47 $ (1,837.77 $). Pérdida del -3.2% supera el umbral de stop del 3% y la recomendación de los analistas de recortar la posición.
+
+**Riesgos.** Riesgo de que el sector bancario rebote y pierda la oportunidad de recuperación de JPM. Riesgo de que el efectivo sin invertir reduzca la rentabilidad frente al benchmark. Riesgo de que NVDA o MSFT sufran caídas bruscas y activen sus stops antes de tiempo.
+
+**Plan.** Vigilaré cada media hora los precios de NVDA y AMAT para confirmar que sus stops no se activan. Revisaré nuevas declaraciones de congresistas en los próximos días para detectar posibles compras colectivas. Revaluaré oportunidades de radar en la siguiente decisión.
+
+**Mi puesto.** Voy ligeramente por delante del S&P 500 (+0.08 puntos) y mantendré la disciplina para no arriesgar demasiado antes de que termine el periodo.
+
+Valor de la cartera: 10,063.44 $
+
+## 2026-10-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona seguir el rastro de compras múltiples de congresistas y aplicar la segunda opción cuando la coincidencia principal tarda; pero fallo al ser excesivamente pasiva o al sobreestimar valores sin suficiente consenso. Suelo equivocarme al mantener liquidez demasiado alta y al concentrar riesgo comprando el mismo ticker en negativo varias veces. Aprovecho bien los momentos de consenso parlamentario fuerte y los sectores en auge, siempre respetando límites de peso y stops estrictos. Debo vigilar la disciplina de stops tempranos (2‑8%) y evitar re‑entrar en tickers que hayan activado pérdidas mayores al 3 % en los primeros cinco días. También es crucial no congelar la cartera por exceso de cautela y ajustar rápidamente los filtros de precio para la segunda opción.

@@ -1280,3 +1280,37 @@ Valor de la cartera: 9,787.13 $
 **Plan de rescate.** Para salvar mi puesto, reduciré la exposición a MSFT a 0% y venderé 50% de AAPL si su precio cae 5% desde la compra, manteniendo solo la posición de AAPL con stop 8%. Además, invertiré el 20% restante del efectivo en SPY para asegurar una base de rendimiento constante y evitar quedarme sin activos. No compraré nuevas acciones de radar de oportunidades para evitar sobreexposición. Esta estrategia mantiene la diversificación mínima y protege contra caídas bruscas.
 
 Valor de la cartera: 9,842.80 $
+
+## 2026-10-01
+
+**Nota de mi predicción del 2026-09-24.** Dije que QCOM lo haría mejor que el S&P 500: hizo -4.9% frente a -0.6%. Fallo.
+
+## 2026-10-01
+
+**Voy a vender MSFT completo y reducir mi posición en AAPL, manteniendo gran parte de efectivo para evitar más riesgos.**
+
+**Mercado.** El mercado muestra leves caídas diarias pero el impulso a 60 días sigue positivo; el sector tecnológico está por encima de su media de 50 días, aunque la tendencia reciente es volátil.
+
+**Noticias.** El informe de analistas indica que QQQ está +3,2% sobre su media de 50 días, reforzando la fuerza del tech; sin embargo, no hay noticias específicas que justifiquen mantener MSFT con su stop cercano. No hay eventos macro negativos que alteren la tendencia general.
+
+**A favor.** Vender MSFT ahora captura la ganancia del +6,5% y libera efectivo para posibles oportunidades de tendencia fuerte, evitando que un posible cruce bajo la media de 50 días active el stop.
+
+**En contra.** Podría perder una pequeña ganancia residual si MSFT sigue subiendo, pero el riesgo de una caída brusca supera ese beneficio y mi objetivo es preservar capital para no superar el 10% de caída total.
+
+**Operaciones**
+- **Vender** 2.1738 MSFT a 514.20 $ (1,117.77 $). Captura de +6,5% y evita posible ruptura bajo la media de 50 días que activaría el stop.
+- **Vender** 2.0013 AAPL a 329.62 $ (659.67 $). Reduce exposición al 12% y protege contra caída del 8% del stop; mantiene posición con tendencia aún positiva.
+
+**Riesgos.** Riesgo de quedar demasiado en efectivo y perder rendimiento frente al S&P 500; riesgo de que AAPL siga bajando y active su stop del 8% si no ajustamos la posición.
+
+**Plan.** Vigilaré la media de 50 días de AAPL y el nivel de soporte de MSFT durante la jornada; si AAPL rompe bajo su media, venderé la mitad para proteger la posición. Buscaré nuevos valores con fuerte tendencia para usar el efectivo disponible.
+
+**Mi puesto.** Voy 2,71 puntos por detrás del S&P 500 y con riesgo de aviso; por eso priorizo proteger ganancias y evitar nuevas pérdidas.
+
+**Plan de rescate.** Venderé MSFT completo (valor 1,118 $) y reduciré AAPL vendiendo 2 uds (≈ 660 $) para bajar su exposición al 12 % y liberar efectivo. Con el efectivo restante (≈ 5,200 $) esperaré a que aparezca un valor con rentabilidad positiva a 20 y 60 días y precio sobre su media de 50 días antes de invertir, limitando cada compra a 20 % del portafolio. No abriré nuevas posiciones hasta confirmar la tendencia clara y evitaré usar el radar de oportunidades por su mayor riesgo.
+
+Valor de la cartera: 9,784.76 $
+
+## 2026-10-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona cazar momentum fuerte y repartir entre 4‑5 valores, dejando correr ganancias mientras la tendencia se mantenga. Fallo cuando dudo por miedo a noticias o al estar bajo el S&P, paralizando la cartera. Suelo sobreestimar mis predicciones y confiar demasiado en ideas sin confirmación de la media de 50 días. Aprovecho bien entradas en líderes sectoriales con impulso claro y rotación rápida cuando estoy por debajo del índice. Debo vigilar que ninguna posición pierda 5% (stop automático) y cortar al romper la media o al perder 8%, evitando la parálisis y la sobre‑exposición a pérdidas consecutivas.

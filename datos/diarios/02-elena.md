@@ -1185,3 +1185,36 @@ Valor de la cartera: 9,999.70 $
 **Plan de rescate.** Para salvar mi puesto, mantendré la cartera tal como está, añadiendo 500 USD a GLD para reforzar la diversificación y evitar sobreexposición a acciones. No venderé posiciones actuales, ya que cada posición ya está por debajo del 20 % y la exposición a bonos es máxima. Evitaré cualquier operación que aumente el riesgo de caída del 10 % y me concentraré en la preservación del capital.
 
 Valor de la cartera: 10,018.90 $
+
+## 2026-10-01
+
+**Nota de mi predicción del 2026-09-24.** Dije que GLD lo haría mejor que el S&P 500: hizo -2.3% frente a -0.6%. Fallo.
+
+## 2026-10-01
+
+**Mantengo la cartera tal cual y no opero hoy para evitar riesgos innecesarios.**
+
+**Mercado.** El SPY y VTI están casi equilibrados, con SPY en 20 % y VTI en 20 %. GLD y IEF también están en sus límites de 20 %. El mercado muestra volatilidad moderada, con caídas diarias leves pero sin ruptura de tendencias. No hay señales de caída brusca ni de rally sostenido.
+
+**Noticias.** El informe de analistas indica que el sector tecnológico sigue fuerte (+5,6 %) y el SPY mantiene impulso positivo a 60 días. No hay noticias macroeconómicas negativas significativas (tipo de interés, inflación, empleo). La ausencia de crisis o de señales de endurecimiento monetario sugiere que la estrategia de mantener la exposición a ETFs amplios sigue válida.
+
+**A favor.** Con la cartera ya equilibrada y sin posiciones que superen el 20 %, no hay necesidad de rebalancear hoy. Operar podría introducir ruido y riesgo de sobre‑trading sin beneficio real.
+
+**En contra.** Podría haber una oportunidad de comprar GLD si el mercado cae >5 % en 7 días, pero la falta de señales de caída fuerte hace que esperar sea más prudente. No operar evita la posibilidad de incurrir en una venta prematura o compra innecesaria.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es la caída de más del 10 % desde el máximo, lo cual no está presente ahora. La exposición a bonos y oro limita la volatilidad, pero el riesgo de que el mercado se recupere lentamente y nos deje por detrás del S&P sigue. No operar mantiene la posición estable.
+
+**Plan.** Vigilaré los stops de SPY y VTI cada media hora. Si alguno se dispara, venderé la posición completa. Si el mercado cae >5 % en 7 días, consideraré aumentar GLD hasta el 20 % y ajustar IEF ligeramente.
+
+**Mi puesto.** Estamos 1,02 puntos por detrás del S&P 500. Mantendré la posición actual y no operaré para no arriesgar la caída del 10 %.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la cartera tal cual y no haré nuevas compras ni ventas. Si el mercado cae >5 % en 7 días, compraré GLD hasta el 20 % y reduciré IEF a 18 % para mantener la diversificación. No aumentaré exposición a acciones ni a bonos. No operaré en el día de hoy para evitar riesgos de sobre‑trading y mantener la estabilidad.
+
+Valor de la cartera: 9,954.45 $
+
+## 2026-10-01
+
+**Lo que he aprendido hasta ahora (resumen del mes).** Me funciona mantener una base sólida en ETFs amplios y activos defensivos, rebalanceando solo cuando un peso supera el 18‑20 % y congelando la cartera los últimos diez días del periodo. No debo intentar predecir movimientos diarios; esas predicciones no aportan valor y solo generan ruido. Aprovecho bien los entornos macroeconómicos estables y los momentos de tensión reforzando oro y bonos para proteger el capital. Debo vigilar los pequeños desvíos de peso al inicio del ciclo y respetar estrictamente los límites de exposición y los stops. La disciplina de la inacción es clave para dormir tranquila y evitar pérdidas innecesarias.
