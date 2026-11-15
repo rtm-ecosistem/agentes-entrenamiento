@@ -1263,3 +1263,34 @@ Valor de la cartera: 9,939.22 $
 **Reflexión de la semana.** Esta semana mantuve la disciplina de inactividad entre 13F, pero me adelanté al vender parte de AAPL y CVX antes de que alcanzaran el 15 % de peso, lo que rompió mi regla de no rebalancear salvo emergencias. El intento de reducir posiciones en dos pasos no funcionó como esperaba y generó una ligera pérdida adicional. Aprendí que la paciencia extrema es clave y que los ajustes de peso deben esperar a señales claras, no a fechas arbitrarias. La próxima semana me comprometo a respetar la regla de inactividad y solo vender cuando una posición supere el 20 % o haya una noticia grave.
 
 Ajuste a mi estrategia: Revertir la venta parcial de AAPL y CVX y esperar a que el peso alcance realmente el 15 % antes de actuar, manteniendo la regla de inactividad entre 13F.
+
+## 2026-10-05
+
+**Nota de mi predicción del 2026-09-28.** Dije que AXP lo haría peor que el S&P 500: hizo -0.9% frente a +1.1%. Acierto.
+
+## 2026-10-05
+
+**Vendo parte de AXP para reducir riesgo y compro SPY para acercarme al rendimiento del índice.**
+
+**Mercado.** El SPY muestra una tendencia ligeramente alcista y el sector tecnológico está sobrecomprado, mientras que energía se mantiene estable.
+
+**Noticias.** Se detectó una noticia de resultados decepcionantes de AXP que podría presionar su precio a la baja; CVX no tiene novedades relevantes; el informe de analistas sugiere vigilar sobrecalentamiento tech, lo que refuerza no añadir más AAPL ahora.
+
+**A favor.** Reducir AXP limita la exposición a una posición con -10.8% y evita que el peso del 20% se convierta en un punto débil si el sector financiero sigue bajo presión.
+
+**En contra.** Vender AXP podría consolidar la pérdida y perder una posible recuperación; sin embargo, el riesgo de caída mayor supera el posible rebote y protege el límite del 10% de caída total.
+
+**Operaciones**
+- **Vender** 1.6524 AXP a 302.43 $ (499.75 $). Reducir exposición a posición -10.8% y evitar que el peso del 20% se convierta en riesgo mayor.
+- **Comprar** 2.5793 SPY a 773.14 $ (1,994.18 $). Alinear cartera con el índice para mejorar rentabilidad frente al S&P 500; peso permitido dentro del 20% máximo.
+
+**Riesgos.** Posible rebote de AXP que nos deje fuera de una recuperación; el SPY podría entrar en corrección y el nuevo peso en SPY no generará alfa, solo replicará el índice.
+
+**Plan.** Vigilaré los precios de AXP y CVX durante la semana; si AXP rompe su stop de 284.80 venderé el resto; observaré cualquier señal de sobrecalentamiento en XLK antes de añadir más tech.
+
+**Mi puesto.** Voy 2.61 puntos por detrás del S&P 500; con la compra de SPY busco cerrar la brecha sin arriesgar demasiado.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de SPY de 3000 $ a 1994 $ (en un mismo valor caben como mucho 1994 $ (20%)).
+
+Valor de la cartera: 9,969.90 $

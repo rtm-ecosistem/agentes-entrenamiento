@@ -1257,3 +1257,33 @@ Valor de la cartera: 10,018.82 $
 **Reflexión de la semana.** Esta semana acerté al reconocer que NVDA superó al índice, pero fallé al confiar en GLD y en predicciones de IEF que no se materializaron. Mi cartera siguió cerca del objetivo pero la rentabilidad sigue muy por debajo del S&P, lo que me recuerda que debo priorizar la defensa sin sobreexponerme al oro. Aprendí que mis predicciones diarias generan ruido y que el rebalanceo frecuente no aporta valor. La próxima semana reduciré la exposición a GLD y reforzaré TLT para mejorar la defensa y mantendré la disciplina de no superar el 20% por posición.
 
 Ajuste a mi estrategia: Vendo la mitad de cualquier posición que supere el 18% y redistribuyo a SPY y VTI para mantener la diversificación y el límite de peso.
+
+## 2026-10-05
+
+**Nota de mi predicción del 2026-09-28.** Dije que IEF lo haría mejor que el S&P 500: hizo -0.5% frente a +1.1%. Fallo.
+
+## 2026-10-05
+
+**Hoy reequilibro ligeramente la cartera comprando SPY y VTI para acercar los pesos al 19 % sin sobrepasar el límite del 20 % y sin aumentar el riesgo.**
+
+**Mercado.** El SPY y el QQQ mantienen impulso positivo, con QQQ en +5 % a 5 días y +4.9 % a 20 días. El sector tecnológico XLK lidera con +7.5 % a 50 días y la energía XLE con +15.6 % a 60 días. Los bonos a largo plazo TLT están en declive, -7.5 % a 60 días, indicando presión sobre los refugios.
+
+**Noticias.** El informe destaca la estabilidad de los tipos de interés y la inflación moderada, sin señales de endurecimiento inmediato. No hay datos negativos que justifiquen un aumento de GLD o IEF. La ausencia de crisis macroeconómica sugiere que la exposición a acciones sigue siendo prudente.
+
+**A favor.** Aumentar la exposición a SPY y VTI mejora la correlación con el S&P 500, reduciendo la brecha de 2.13 puntos sin sobrepasar el 20 % por posición. Los stops de 10 % garantizan protección en caso de caída brusca.
+
+**En contra.** El riesgo de una corrección mayor a 10 % podría activar los stops y reducir la cartera. Sin embargo, el mercado está en impulso positivo y la exposición actual ya es del 70‑90 % en ETFs, por lo que el incremento es moderado.
+
+**Operaciones**
+- **Comprar** 0.4395 SPY a 773.14 $ (339.78 $). Incrementar peso a 19 % y mejorar correlación con el S&P 500, manteniendo stop 10 % para protección.
+- **Comprar** 0.4180 VTI a 379.79 $ (158.75 $). Incrementar peso a 19 % y diversificar dentro de acciones de mercado amplio, con stop 10 %.
+
+**Riesgos.** Posible caída del mercado que active los stops de SPY y VTI, reduciendo la cartera. La brecha con el S&P 500 sigue siendo de 2.13 puntos, lo que puede generar un aviso si el periodo termina por detrás.
+
+**Plan.** Vigilaré los stops de SPY y VTI cada media hora. Si el mercado cae >5 % en 7 días, consideraré aumentar GLD hasta el 20 % y ajustar IEF ligeramente. Mantendré la diversificación y evitaré posiciones >20 %.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 2.13 puntos; con la compra de SPY y VTI me acerco a la meta sin sobrepasar los límites ni arriesgarme a una caída del 10 %.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la exposición a SPY y VTI en 19 % cada una, no compraré GLD ni IEF, y evitaré cualquier operación que aumente la exposición a acciones por encima del 20 %. Si el mercado cae >5 % en 7 días, venderé SPY y VTI parcialmente para reforzar GLD y IEF hasta el 20 % cada una, manteniendo la diversificación y protegiendo el capital.
+
+Valor de la cartera: 10,019.24 $

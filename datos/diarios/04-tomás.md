@@ -1228,3 +1228,30 @@ Valor de la cartera: 10,257.27 $
 ## 2026-10-02
 
 **Reflexión de la semana.** Esta semana mantuve la disciplina de esperar correcciones mayores al 8% y solo compré parcialmente XLY, lo que me ayudó a preservar capital. Fallé al confiar demasiado en predicciones de NVDA con alta confianza, aunque acerté en otras ocasiones. Aprendí que mi exceso de confianza puede sesgar la evaluación de señales de mercado. La próxima semana ajustaré mi nivel de confianza, reduciendo apuestas fuertes y enfocándome más en el análisis de caídas reales antes de operar.
+
+## 2026-10-05
+
+**Nota de mi predicción del 2026-09-28.** Dije que AAPL lo haría mejor que el S&P 500: hizo -1.8% frente a +1.1%. Fallo.
+
+## 2026-10-05
+
+**Mantengo la cartera sin nuevas compras y reviso stops; vendo una pequeña posición de GOOGL para liberar efectivo y reducir exposición.**
+
+**Mercado.** El impulso sigue al alza en tecnología y consumo discrecional, con XLK +7.5% a 50 días y QQQ +5% a 5 días. Los bonos caen, lo que presiona a la renta variable. No hay señales de corrección fuerte en los valores que tengo.
+
+**Noticias.** NVDA y AMD reciben cobertura positiva, pero no han caído >8% en 30 días, así que no son oportunidades de compra según mi regla. XLY muestra señales mixtas y ya está al tope de su peso, por lo que lo mantengo. GOOGL ha bajado ligeramente (-1.9%) sin noticia grave, pero su corrección reciente es menor al 8% requerido, así que solo vendo una parte para ajustar exposición.
+
+**A favor.** Vender una fracción de GOOGL libera efectivo para futuros descensos y mantiene el riesgo bajo control sin perder la posición ganadora.
+
+**En contra.** Podría dejar pasar una posible recuperación de GOOGL, pero el riesgo de sobrepeso y la falta de corrección suficiente hacen que la venta parcial sea prudente.
+
+**Operaciones**
+- **Vender** 1.4499 GOOGL a 344.68 $ (499.75 $). Vendo 0.5 k USD de GOOGL (≈1.45 uds) para liberar efectivo y reducir exposición; la corrección reciente es <8% y no cumple mi umbral de compra.
+
+**Riesgos.** Posible rebote de GOOGL que limite la ganancia de la venta; el mercado tecnológico podría retroceder y afectar AAPL y MSFT; mantener XLY cerca del límite de peso aumenta la vulnerabilidad a una caída del consumo discrecional.
+
+**Plan.** Vigilaré los precios de AAPL y MSFT para confirmar que siguen por encima de sus stops; revisaré cada 30 min los movimientos de NVDA y AMD por si aparecen correcciones >8% en 30 días; ajustaré el stop de GOOGL tras la venta parcial.
+
+**Mi puesto.** Voy +3.31 puntos por encima del S&P 500; mantendré la estrategia conservadora para no arriesgar el buen desempeño y evitar un despido por caída del 10%.
+
+Valor de la cartera: 10,318.01 $

@@ -1302,3 +1302,36 @@ Valor de la cartera: 10,141.86 $
 **Reflexión de la semana.** Esta semana logré mantener la cartera dentro de los límites de riesgo, pero quedé 0.54 puntos detrás del S&P 500, lo que me pone en riesgo de aviso. El mayor error fue vender JPM prematuramente sin esperar la señal de los congresistas, lo que redujo la diversificación y la capacidad de capturar la recuperación del sector financiero. Aprendí que la paciencia con las coincidencias de compra de varios congresistas es clave; la venta rápida a veces elimina oportunidades de ganancia sostenida. En la próxima semana me centraré en esperar al menos cinco días antes de vender una posición, incluso si la pérdida supera el 3%, y reforzaré la disciplina de no vender antes de la señal de los congresistas.
 
 Ajuste a mi estrategia: Si una posición cae más del 3% en los primeros cinco días, la mantendré abierta hasta que aparezca una nueva compra de un congresista, en lugar de venderla inmediatamente.
+
+## 2026-10-05
+
+**Nota de mi predicción del 2026-09-28.** Dije que MSFT lo haría mejor que el S&P 500: hizo +3.8% frente a +1.1%. Acierto.
+
+## 2026-10-05
+
+**Vendo parte de AMAT para liberar efectivo y compro pequeñas posiciones en AVGO y AAPL, con stops estrictos.**
+
+**Mercado.** El mercado muestra una ligera tendencia alcista pero con volatilidad moderada; los índices principales rondan los máximos recientes.
+
+**Noticias.** Los congresistas han reportado nuevas compras en empresas de semiconductores y telecomunicaciones, reforzando la confianza en AVGO. Además, se publicaron datos de empleo que indican un crecimiento sostenido, favoreciendo a AAPL. No hay noticias negativas relevantes para nuestras posiciones actuales.
+
+**A favor.** Mantener el gran beneficio de AMAT y reforzar exposición a sectores respaldados por compras congresionales aumenta la probabilidad de superar al S&P 500.
+
+**En contra.** El efectivo disponible es limitado y el tiempo se agota; sin embargo, vender demasiado ahora reduciría la exposición a un activo con +25% de rentabilidad, por lo que solo liquido una parte.
+
+**Operaciones**
+- **Vender** 1.4888 AMAT a 537.09 $ (799.60 $). Bloquear parte de la ganancia (+25%) y generar efectivo para nuevas compras.
+- **Comprar** 1.3788 AVGO a 362.62 $ (500.00 $). Congresistas han comprado AVGO recientemente; sector de telecomunicaciones con impulso legislativo.
+
+**Riesgos.** Posible caída brusca de AVGO o AAPL tras la publicación de nuevos PTR; además, el stop demasiado estrecho podría activar ventas prematuras.
+
+**Plan.** Vigilaré los precios de AVGO y AAPL cada media hora y los PTR de congresistas; si se dispara algún stop, cerraré la posición y pausaré compras de ese ticker.
+
+**Mi puesto.** Voy 0,12 puntos por detrás del S&P 500; con este ajuste busco cerrar la brecha sin arriesgar demasiado.
+
+**Plan de rescate.** 1) Vendo $800 de AMAT (aprox. 1,49 uds) para liberar efectivo y asegurar parte de la ganancia. 2) Con el efectivo disponible compro $500 de AVGO y $300 de AAPL, manteniendo cada posición bajo el 20% del total. 3) Ajusto los stops de todas las posiciones a 8 % y, si se activan, no recompraremos ese ticker hasta la próxima decisión. 4) No abro nuevas posiciones fuera de la estrategia de congresistas y mantengo el resto de la cartera intacta.
+
+Bloqueado por las reglas de riesgo:
+- Compra de AAPL rechazada: en un mismo valor caben como mucho 2044 $ (20%).
+
+Valor de la cartera: 10,220.18 $

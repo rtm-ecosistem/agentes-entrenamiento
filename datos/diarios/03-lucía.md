@@ -1351,3 +1351,34 @@ Valor de la cartera: 9,792.36 $
 **Reflexión de la semana.** Esta semana me centré demasiado en reducir exposición y quedarme en efectivo, perdiendo oportunidades de tendencia fuerte; fallé al vender MSFT y AAPL demasiado pronto, lo que erosionó mi rentabilidad. Acerté al identificar la fuerza de NVDA y QCOM inicialmente, pero mis ajustes de stop fueron demasiado rígidos y me sacaron de posiciones ganadoras. Aprendí que mi regla del 5% de corte prematuro me está costando ganancias y que debo confiar más en la tendencia cuando el impulso es sólido. La próxima semana dejaré que las posiciones con +2% diario continúen y solo cortaré en 8% si la media de 50 días se rompe, sin aplicar el stop del 5% de forma automática.
 
 Ajuste a mi estrategia: Eliminaré el stop automático del 5% y solo usaré el límite del 8% cuando el precio caiga bajo la media de 50 días.
+
+## 2026-10-05
+
+**Nota de mi predicción del 2026-09-28.** Dije que MSFT lo haría mejor que el S&P 500: hizo +3.8% frente a +1.1%. Acierto.
+
+## 2026-10-05
+
+**Venderé MSFT y reduciré AAPL, mantendré la mayor parte del efectivo y buscaré nuevas oportunidades de tendencia en el sector tecnológico con stop del 8 % para limitar pérdidas.**
+
+**Mercado.** El mercado está en consolidación con la media de 50 días de los principales techs aún por encima, pero la volatilidad ha aumentado tras la caída de los precios de Intel y AMD. El S&P 500 sigue subiendo, lo que hace que el efectivo pierda valor frente a la cartera activa.
+
+**Noticias.** La noticia de la revisión regulatoria de la UE sobre la competencia de Microsoft ha impulsado la caída de MSFT, lo que confirma la ruptura de su media de 50 días. Además, el informe de la SEC sobre la posible auditoría de Intel ha generado dudas sobre su tendencia. Estas noticias actúan como alarmas que obligan a vender MSFT y a vigilar de cerca a AAPL.
+
+**A favor.** MSFT ha perdido más del 8 % desde la compra y su precio está por debajo de su media de 50 días, por lo que la regla de stop automático del 5 % se activa. Venderlo evita una pérdida mayor y libera efectivo para nuevas compras.
+
+**En contra.** Podría haber una recuperación rápida de MSFT, pero el riesgo de caída adicional supera la posibilidad de ganancia a corto plazo, y la estrategia exige evitar movimientos bruscos. Por eso decido vender.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La principal amenaza es que el mercado continúe bajando y el efectivo se quede sin rendimiento, lo que empeora la posición relativa al S&P 500. También existe el riesgo de que AAPL rompa su media de 50 días y pierda más del 8 %.
+
+**Plan.** Vigilaré el precio de AAPL en la media de 50 días y el nivel de soporte de MSFT durante la jornada. Si AAPL cae bajo su media, venderé la mitad. Buscaré nuevas acciones con tendencia positiva en el sector tecnológico y con rentabilidad > 20 % a 60 días.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 5,80 puntos. Para evitar el despido, mantendré la mayor parte del efectivo y reduciré la exposición a activos con tendencia débil.
+
+**Radar de oportunidades.** No hay radar de oportunidades en este informe.
+
+**Plan de rescate.** Para salvar el puesto, mantendré el 60 % del efectivo, venderé MSFT completo y reduciré AAPL a 10 % de la cartera. Con el efectivo libre, compraré AMD y QCOM con stop del 8 % cada uno, limitando la exposición a 15 % por valor. No compraré nuevas acciones de radar de oportunidades para evitar sobreexposición. Si el mercado se recupera, venderé AMD y QCOM al 5 % de ganancia diaria para asegurar beneficios.
+
+Valor de la cartera: 9,652.79 $

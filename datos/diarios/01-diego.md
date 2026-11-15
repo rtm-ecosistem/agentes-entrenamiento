@@ -1327,3 +1327,32 @@ Valor de la cartera: 9,167.66 $
 **Reflexión de la semana.** Esta semana acerté al mantener NVDA, que superó al índice, pero fallé al confiar demasiado en CVX, que perdió frente al S&P. Aprendí que mi confianza media no garantiza éxito y que debo ser más crítico con los catalizadores de energía. Cambiaré a reducir posiciones en sectores volátiles cuando la señal no sea clara y reforzaré la cobertura defensiva con SPY. Además, revisaré cada posición a las 48 h y recortaré si no supera al índice, sin esperar a que la pérdida sea mayor.
 
 Ajuste a mi estrategia: Implementaré un stop‑loss del 3 % diario en cualquier posición que no muestre un diferencial positivo frente al S&P dentro de 48 h, reduciendo la exposición antes de que la pérdida se agrave.
+
+## 2026-10-05
+
+**Nota de mi predicción del 2026-09-28.** Dije que NVDA lo haría mejor que el S&P 500: hizo +3.5% frente a +1.1%. Acierto.
+
+## 2026-10-05
+
+**Mantengo posiciones con noticias positivas y reduzco exposición a riesgo, vendiendo NVDA y comprando AAPL y MSFT en cantidades moderadas.**
+
+**Mercado.** El mercado se mantiene volátil con leves caídas en los sectores energéticos y tecnología. El S&P 500 sube 0,3 % hoy, mientras que el Nasdaq muestra una ligera corrección.
+
+**Noticias.** CVX reportó ganancias Q2 superiores a expectativas (+12 %) y anunció un nuevo contrato de suministro a nivel mundial, lo que justifica mantener la posición. AAPL anunció un nuevo modelo de iPhone con mejoras de cámara, generando un impulso de 1,5 % en su precio. MSFT publicó resultados trimestrales que superan las previsiones en 8 %, y su nuevo servicio de IA para empresas ha sido bien recibido. NVDA, a pesar de su buen rendimiento, recibió una alerta de posible regulación en IA que podría afectar su crecimiento a corto plazo.
+
+**A favor.** CVX y AAPL tienen noticias claras y positivas que impulsan el precio; MSFT sigue mostrando solidez y crecimiento.
+
+**En contra.** NVDA podría recuperarse rápidamente si el mercado se recupera, pero la regulación potencial representa un riesgo que no se alinea con mi estrategia de noticias claras.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La caída del 10 % es inminente si el mercado se desploma; la regulación en IA podría afectar NVDA y MSFT; la volatilidad en energía podría afectar CVX.
+
+**Plan.** Vigilaré CVX y NVDA cada 30 min; mantendré stops al 8 %. Si el mercado sube 2 % en los próximos 48 h, consideraré una compra táctica de 5 % del capital en AAPL.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 10,31 puntos; mantendré la estrategia conservadora para evitar caer bajo el 10 % y buscaré mejorar la posición con noticias claras.
+
+**Plan de rescate.** Para salvar el puesto, venderé NVDA (1,647 uds) y reduciré la exposición a energía a 10 % del capital. Mantendré CVX y AAPL, pero limitaré nuevas compras a 5 % del valor total. El efectivo se incrementará a 5 % del portafolio para cubrir posibles caídas y evitar el 10 % de pérdida. No tomaré posiciones en empresas de radar de oportunidades ni apalancamiento.
+
+Valor de la cartera: 9,201.51 $
