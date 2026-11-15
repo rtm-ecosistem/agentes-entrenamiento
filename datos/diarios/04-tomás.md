@@ -1197,3 +1197,34 @@ Valor de la cartera: 10,188.32 $
 ## 2026-10-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Funciona comprar empresas sólidas tras caídas >8% en 30 días y escalar compras; la paciencia y liquidez son claves en mercados eufóricos. Fallo al hacer predicciones cortas y al entrar sin confirmar el umbral de corrección, como con MSFT y GOOGL. Aprovecho bien pánicos pasajeros en grandes caps y oportunidades de compra parcial. Debo vigilar estrictamente el historial de 30 días y ajustar el umbral al 5‑7% solo con estabilidad y pánico claro. Evitar operar en las últimas 48h del periodo y no emitir forecasts en mercados en máximos sin señal clara.
+
+## 2026-10-02
+
+**Nota de mi predicción del 2026-09-25.** Dije que NVDA lo haría peor que el S&P 500: hizo +5.0% frente a +0.1%. Fallo.
+
+## 2026-10-02
+
+**Mantengo la cartera sin operar y observo oportunidades de corrección >8% en valores sólidos.**
+
+**Mercado.** El sector tecnológico muestra fuerte impulso, XLK +7.9% en 20 días, mientras el SPY apenas +1% sobre su media 50d, indicando falta de impulso amplio. La Fed mantiene tasas, pero alerta de posibles ajustes.
+
+**Noticias.** Apple reportó ingresos ligeramente superiores a estimaciones, reforzando el optimismo en tech; la Fed advierte sobre inflación persistente. No hay noticias negativas que justifiquen una corrección profunda en nuestras posiciones actuales.
+
+**A favor.** Nuestro portafolio ya supera al S&P 500 en 3.06 puntos y las posiciones están dentro de los límites de riesgo; comprar ahora sin una corrección clara vulneraría la disciplina de valor.
+
+**En contra.** Podríamos aprovechar la tendencia alcista de XLY sugerida por el informe, pero la corrección requerida (>8% en 30d) no se cumple y el precio ya está cerca de su máximo reciente.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Una corrección inesperada en tech podría afectar AAPL y MSFT; la falta de oportunidades de compra podría dejar liquidez sin rendimiento; la presión de la Fed podría generar volatilidad.
+
+**Plan.** Vigilaré los precios de AMD, Intel y otros semiconductores para detectar caídas >8% en 30 días; revisaré diariamente los stops y mantendré la liquidez para futuras entradas.
+
+**Mi puesto.** Voy por delante del S&P 500 (+3.06 puntos) y mantendré la posición conservadora para proteger la ventaja.
+
+Valor de la cartera: 10,257.27 $
+
+## 2026-10-02
+
+**Reflexión de la semana.** Esta semana mantuve la disciplina de esperar correcciones mayores al 8% y solo compré parcialmente XLY, lo que me ayudó a preservar capital. Fallé al confiar demasiado en predicciones de NVDA con alta confianza, aunque acerté en otras ocasiones. Aprendí que mi exceso de confianza puede sesgar la evaluación de señales de mercado. La próxima semana ajustaré mi nivel de confianza, reduciendo apuestas fuertes y enfocándome más en el análisis de caídas reales antes de operar.

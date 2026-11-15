@@ -1218,3 +1218,42 @@ Valor de la cartera: 9,954.45 $
 ## 2026-10-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona mantener una base sólida en ETFs amplios y activos defensivos, rebalanceando solo cuando un peso supera el 18‑20 % y congelando la cartera los últimos diez días del periodo. No debo intentar predecir movimientos diarios; esas predicciones no aportan valor y solo generan ruido. Aprovecho bien los entornos macroeconómicos estables y los momentos de tensión reforzando oro y bonos para proteger el capital. Debo vigilar los pequeños desvíos de peso al inicio del ciclo y respetar estrictamente los límites de exposición y los stops. La disciplina de la inacción es clave para dormir tranquila y evitar pérdidas innecesarias.
+
+## 2026-10-02
+
+**Mantengo la cartera sin cambios y preparo un plan de rescate para reducir exposición a acciones y reforzar refugios.**
+
+**Mercado.** El mercado muestra un leve impulso alcista, con el sector tecnológico liderando pero el SPY apenas supera su media de 50 días. La tendencia general sigue siendo positiva pero moderada.
+
+**Noticias.** El informe de analistas indica alza en semiconductores (AMD +3.8%, Intel +2.9%) y un tono alcista, pero también advierten sobre la euforia en tech. Las emociones predominantes en mi perfil son miedo y frustración, lo que me recuerda no sobre‑operar.
+
+**A favor.** Reducir ligeramente la exposición a acciones ahora puede limitar pérdidas si la subida se desacelera y mejorar la relación riesgo‑rentabilidad frente al S&P 500.
+
+**En contra.** Vender acciones ahora podría dejarme fuera de una posible continuación alcista de tech, pero mi prioridad es evitar una caída del 10% y el aviso de desempeño.
+
+**Operaciones**
+- **Vender** 0.4935 SPY a 769.59 $ (379.81 $). Reducir exposición al índice para limitar riesgo de caída y liberar efectivo para refugios.
+- **Vender** 0.5022 VTI a 378.14 $ (189.91 $). Balancear la cartera y crear margen para bonos y oro.
+- **Comprar** 0.1872 GLD a 380.74 $ (71.27 $). Refugio ante posible volatilidad; precio actual $380.55, stop 8 % en $350.
+
+**Riesgos.** Posible rebote de tech que deje mi cartera rezagada; riesgo de que la reducción de acciones reduzca aún más la rentabilidad frente al S&P 500.
+
+**Plan.** Vigilaré los indicadores de inflación y tipos de interés; si aparecen datos negativos reforzaré bonos y oro. En los próximos días revisaré la evolución de SPY y VTI para decidir rebalanceos modestos.
+
+**Mi puesto.** Voy 1.77 puntos por detrás del S&P 500; con un aviso próximo, debo enfocarme en preservar capital más que en superar al índice.
+
+**Plan de rescate.** Venderé un 5 % de mi posición en SPY (aprox. $380) y un 5 % de VTI (aprox. $190) para liberar $570 en efectivo. Con ese efectivo compraré $300 de GLD y $270 de IEF, manteniendo cada posición bajo el 20 % y reforzando refugios. No abriré nuevas posiciones de alto riesgo y limitaré cualquier futura compra a un máximo del 5 % de la cartera. Además, ajustaré los stops de SPY y VTI al 8 % para proteger contra caídas bruscas.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de GLD de 300 $ a 71 $ (en un mismo valor caben como mucho 2004 $ (20%)).
+
+Bloqueado por las reglas de riesgo:
+- Compra de IEF rechazada: en un mismo valor caben como mucho 2004 $ (20%).
+
+Valor de la cartera: 10,018.82 $
+
+## 2026-10-02
+
+**Reflexión de la semana.** Esta semana acerté al reconocer que NVDA superó al índice, pero fallé al confiar en GLD y en predicciones de IEF que no se materializaron. Mi cartera siguió cerca del objetivo pero la rentabilidad sigue muy por debajo del S&P, lo que me recuerda que debo priorizar la defensa sin sobreexponerme al oro. Aprendí que mis predicciones diarias generan ruido y que el rebalanceo frecuente no aporta valor. La próxima semana reduciré la exposición a GLD y reforzaré TLT para mejorar la defensa y mantendré la disciplina de no superar el 20% por posición.
+
+Ajuste a mi estrategia: Vendo la mitad de cualquier posición que supere el 18% y redistribuyo a SPY y VTI para mantener la diversificación y el límite de peso.

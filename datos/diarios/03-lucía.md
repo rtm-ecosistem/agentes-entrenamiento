@@ -1314,3 +1314,40 @@ Valor de la cartera: 9,784.76 $
 ## 2026-10-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona cazar momentum fuerte y repartir entre 4‑5 valores, dejando correr ganancias mientras la tendencia se mantenga. Fallo cuando dudo por miedo a noticias o al estar bajo el S&P, paralizando la cartera. Suelo sobreestimar mis predicciones y confiar demasiado en ideas sin confirmación de la media de 50 días. Aprovecho bien entradas en líderes sectoriales con impulso claro y rotación rápida cuando estoy por debajo del índice. Debo vigilar que ninguna posición pierda 5% (stop automático) y cortar al romper la media o al perder 8%, evitando la parálisis y la sobre‑exposición a pérdidas consecutivas.
+
+## 2026-10-02
+
+**Nota de mi predicción del 2026-09-25.** Dije que NVDA lo haría mejor que el S&P 500: hizo +5.0% frente a +0.1%. Acierto.
+
+## 2026-10-02
+
+**Voy a comprar AMD, Intel y QCOM para aprovechar la fuerte tendencia tecnológica y evitar quedarme en efectivo.**
+
+**Mercado.** El sector tecnológico lidera con XLK +7.9% en 20 días y está muy por encima de su media de 50 días. El S&P 500 sube poco (+0.8%) y muestra falta de impulso general.
+
+**Noticias.** Apple sigue bajo presión, pero los semiconductores AMD (+3.8% 1d, +40.1% 20d) e Intel (+2.9% 1d, +34.8% 20d) confirman la tendencia alcista. No hay noticias negativas que afecten a los valores que quiero comprar.
+
+**A favor.** Los semiconductores están en fuerte impulso y cumplen con la regla de rentabilidad positiva a 20 y 60 días y precio sobre su media de 50 días. Además, el sector está liderando el mercado.
+
+**En contra.** El efectivo protege contra una posible reversión del sector, pero quedarse en efectivo me deja 4 puntos detrás del S&P. Decido invertir porque la tendencia es clara y el riesgo está limitado por stops.
+
+**Operaciones**
+- **Comprar** 2.3453 AMD a 639.57 $ (1,500.00 $). AMD +40% en 20d, precio sobre media 50d, sector líder.
+- **Comprar** 12.1367 INTC a 123.59 $ (1,500.00 $). Intel +34.8% en 20d, fuerte impulso y cumple tendencia.
+- **Comprar** 7.9508 QCOM a 188.66 $ (1,500.00 $). QCOM sigue la tendencia tecnológica, rentabilidad positiva y precio sobre media 50d.
+
+**Riesgos.** Una corrección del sector tecnológico podría activar los stops. Un movimiento brusco del mercado general podría arrastrar a los semiconductores a la baja.
+
+**Plan.** Vigilaré la media de 50 días de AMD, Intel y QCOM y los stops al 8%. Si el precio cae bajo la media o pierde 5% cortaré la posición.
+
+**Mi puesto.** Voy 4.01 puntos por detrás del S&P y con riesgo de despido; por eso busco cerrar la brecha sin sobreexponerse.
+
+**Plan de rescate.** Voy a invertir $4,500 en tres semiconductores con fuerte tendencia y stop del 8% para capturar la subida del sector. Mantendré AAPL solo si supera su stop de 5% y venderé si cae bajo 315.5. No haré más compras ni usaré radar de oportunidades para no sobrecargar la cartera.
+
+Valor de la cartera: 9,792.36 $
+
+## 2026-10-02
+
+**Reflexión de la semana.** Esta semana me centré demasiado en reducir exposición y quedarme en efectivo, perdiendo oportunidades de tendencia fuerte; fallé al vender MSFT y AAPL demasiado pronto, lo que erosionó mi rentabilidad. Acerté al identificar la fuerza de NVDA y QCOM inicialmente, pero mis ajustes de stop fueron demasiado rígidos y me sacaron de posiciones ganadoras. Aprendí que mi regla del 5% de corte prematuro me está costando ganancias y que debo confiar más en la tendencia cuando el impulso es sólido. La próxima semana dejaré que las posiciones con +2% diario continúen y solo cortaré en 8% si la media de 50 días se rompe, sin aplicar el stop del 5% de forma automática.
+
+Ajuste a mi estrategia: Eliminaré el stop automático del 5% y solo usaré el límite del 8% cuando el precio caiga bajo la media de 50 días.

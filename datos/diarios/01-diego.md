@@ -1296,3 +1296,34 @@ Valor de la cartera: 9,102.95 $
 ## 2026-10-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona reaccionar rápido a catalizadores cuantitativos claros y aplicar cortes estrictos (30‑50% a 48 h) para limitar pérdidas. Fallo al confiar en predicciones a corto plazo y al dejarme arrastrar por narrativas optimistas o por la presión de fin de periodo. Aprovecho bien las sorpresas iniciales de resultados o contratos cuando actúo dentro de las 12‑48 h y mantengo la disciplina defensiva. Debo vigilar la regla de las 48 h para no acumular inercia bajista y evitar operar por miedo o por falta de catalizador. Controlar el exposure (máx 5 % por operación táctica) y usar stops del 8 % son esenciales para proteger el capital.
+
+## 2026-10-02
+
+**Plan de rescate: reduzco exposición a riesgo y mantengo efectivo para evitar caer bajo el 10% de pérdida.**
+
+**Mercado.** El S&P 500 sigue en tendencia alcista, pero el riesgo de caída brusca persiste. El sentimiento general es de tensión y miedo por mi posición.
+
+**Noticias.** No hay noticias de impacto claro hoy; los últimos titulares son neutrales para mis posiciones (CVX, NVDA, AAPL, MSFT, SPY). Por tanto, no hay catalizadores que justifiquen nuevas compras.
+
+**A favor.** Vender una parte de NVDA libera efectivo y reduce la exposición a un sector volátil sin sacrificar la mayor parte de la ganancia acumulada (+5%).
+
+**En contra.** Vender ahora podría perder una posible continuación del rally tecnológico, pero el riesgo de una corrección supera la posible ganancia adicional.
+
+**Operaciones**
+- **Vender** 1.6967 NVDA a 235.64 $ (399.80 $). Reducir exposición al sector tecnológico volátil y aumentar efectivo para evitar caer bajo el límite del 10%.
+
+**Riesgos.** Posible rebote del mercado que haga que el efectivo quede subutilizado; sin embargo, el riesgo mayor es una caída que active el stop‑loss del 10% y cause despido.
+
+**Plan.** Vigilaré los precios de NVDA y CVX durante los próximos dos días; si el mercado muestra fuerte reversión al alza, reconsideraré una compra táctica limitada al 5% del capital.
+
+**Mi puesto.** Voy 10.28 puntos por detrás del S&P 500 y a 8.32% bajo mi máximo; el plan es estabilizar la cartera y evitar más pérdidas.
+
+**Plan de rescate.** 1) Venderé el 50% de mi posición en NVDA (aprox. $400) para aumentar el efectivo a ~ $3,400. 2) Mantendré CVX, AAPL, MSFT y SPY sin cambios, ya que están en ligera ganancia y su stop está razonable. 3) No abriré nuevas posiciones hasta que aparezca una noticia con sentimiento >70% y un impacto positivo claro. 4) Ajustaré los stops de todas las posiciones al 8% si el precio cae más de ese nivel, para limitar pérdidas. 5) Mantendré el efectivo como colchón y evitaré operar por impulso.
+
+Valor de la cartera: 9,167.66 $
+
+## 2026-10-02
+
+**Reflexión de la semana.** Esta semana acerté al mantener NVDA, que superó al índice, pero fallé al confiar demasiado en CVX, que perdió frente al S&P. Aprendí que mi confianza media no garantiza éxito y que debo ser más crítico con los catalizadores de energía. Cambiaré a reducir posiciones en sectores volátiles cuando la señal no sea clara y reforzaré la cobertura defensiva con SPY. Además, revisaré cada posición a las 48 h y recortaré si no supera al índice, sin esperar a que la pérdida sea mayor.
+
+Ajuste a mi estrategia: Implementaré un stop‑loss del 3 % diario en cualquier posición que no muestre un diferencial positivo frente al S&P dentro de 48 h, reduciendo la exposición antes de que la pérdida se agrave.

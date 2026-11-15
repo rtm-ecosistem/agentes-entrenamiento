@@ -1263,3 +1263,42 @@ Valor de la cartera: 10,063.44 $
 ## 2026-10-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona seguir el rastro de compras múltiples de congresistas y aplicar la segunda opción cuando la coincidencia principal tarda; pero fallo al ser excesivamente pasiva o al sobreestimar valores sin suficiente consenso. Suelo equivocarme al mantener liquidez demasiado alta y al concentrar riesgo comprando el mismo ticker en negativo varias veces. Aprovecho bien los momentos de consenso parlamentario fuerte y los sectores en auge, siempre respetando límites de peso y stops estrictos. Debo vigilar la disciplina de stops tempranos (2‑8%) y evitar re‑entrar en tickers que hayan activado pérdidas mayores al 3 % en los primeros cinco días. También es crucial no congelar la cartera por exceso de cautela y ajustar rápidamente los filtros de precio para la segunda opción.
+
+## 2026-10-02
+
+**Nota de mi predicción del 2026-09-25.** Dije que AMAT lo haría mejor que el S&P 500: hizo +12.1% frente a +0.1%. Acierto.
+
+## 2026-10-02
+
+**Voy a invertir parte del efectivo en AAPL y AVGO, mantengo mis posiciones actuales y establezco stops estrictos.**
+
+**Mercado.** El S&P 500 sigue en tendencia alcista, con +1.2% en la última semana. La volatilidad es moderada y los rendimientos de los sectores tecnológicos se mantienen positivos.
+
+**Noticias.** Los últimos PTR del Congreso muestran compras de Apple (AAPL) por 4 congresistas y de Broadcom (AVGO) por 3, indicando confianza en hardware y semiconductores. Además, se aprobó una ley de infraestructura que beneficiará a los fabricantes de chips. No hay noticias negativas relevantes para estas compañías.
+
+**A favor.** Comprar AAPL y AVGO sigue la regla de coincidencia múltiple de congresistas y se alinea con la tendencia tecnológica del mercado, ofreciendo potencial de upside sin sobreexponer la cartera.
+
+**En contra.** El efectivo restante sigue bajo rendimiento y el riesgo de que el precio de AAPL o AVGO caiga antes de que el mercado reconozca la señal es real; sin embargo, el stop del 8% y la diversificación limitan la exposición.
+
+**Operaciones**
+- **Comprar** 6.1019 AAPL a 332.48 $ (2,028.72 $). 4 congresistas compraron AAPL en los últimos PTR; sector tecnológico en alza y ley de infraestructura favorece a hardware.
+- **Comprar** 4.2307 AVGO a 354.55 $ (1,500.00 $). 3 congresistas compraron AVGO; semiconductores clave para la nueva infraestructura y coincidencia múltiple.
+
+**Riesgos.** Posible caída brusca de los valores tecnológicos por sorpresa macro (inflación, tipos de interés). Además, el stop del 8% podría activarse en una corrección corta, reduciendo la rentabilidad.
+
+**Plan.** Vigilaré los precios de AAPL y AVGO cada media hora durante la sesión y los PTR de nuevos congresistas. Si alguno supera el stop, venderé y pausaré nuevas compras de ese ticker.
+
+**Mi puesto.** Llevo 0.52 puntos por detrás del S&P 500; con esta inversión busco cerrar la brecha sin arriesgar más del 10% de la cartera.
+
+**Plan de rescate.** Reduciré el efectivo invirtiendo $3,500 en AAPL y $1,500 en AVGO (total $5,000). Mantendré AMAT, NVDA y MSFT con sus stops actuales. No abriré nuevas posiciones hasta que la cartera supere al S&P 500 o haya una señal clara de compra múltiple de congresistas. Evitaré sobreexponerme a un solo sector y respetaré el límite del 20% por ticker.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de AAPL de 3500 $ a 2029 $ (en un mismo valor caben como mucho 2029 $ (20%)).
+
+Valor de la cartera: 10,141.86 $
+
+## 2026-10-02
+
+**Reflexión de la semana.** Esta semana logré mantener la cartera dentro de los límites de riesgo, pero quedé 0.54 puntos detrás del S&P 500, lo que me pone en riesgo de aviso. El mayor error fue vender JPM prematuramente sin esperar la señal de los congresistas, lo que redujo la diversificación y la capacidad de capturar la recuperación del sector financiero. Aprendí que la paciencia con las coincidencias de compra de varios congresistas es clave; la venta rápida a veces elimina oportunidades de ganancia sostenida. En la próxima semana me centraré en esperar al menos cinco días antes de vender una posición, incluso si la pérdida supera el 3%, y reforzaré la disciplina de no vender antes de la señal de los congresistas.
+
+Ajuste a mi estrategia: Si una posición cae más del 3% en los primeros cinco días, la mantendré abierta hasta que aparezca una nueva compra de un congresista, en lugar de venderla inmediatamente.

@@ -125,3 +125,12 @@ fecha,agente,lado,simbolo,cantidad,precio,importe,motivo,hora
 2026-10-01,05-bernardo,vender,AAPL,1.516162,329.6151,499.75,Reducir peso de AAPL del 20% al 15% según plan; venta parcial para liberar efectivo y evitar sobreconcentración.,2026-10-01T15:07Z
 2026-10-01,05-bernardo,vender,CVX,2.428127,205.817,499.75,Reducir peso de CVX del 20% al 15% según plan; venta parcial para equilibrar cartera y cumplir regla de no sobrepeso.,2026-10-01T15:07Z
 2026-10-01,06-carmen,vender,JPM,5.629189,326.4717,1837.77,Pérdida del -3.2% supera el umbral de stop del 3% y la recomendación de los analistas de recortar la posición.,2026-10-01T15:08Z
+2026-10-02,01-diego,vender,NVDA,1.696677,235.6371,399.8,Reducir exposición al sector tecnológico volátil y aumentar efectivo para evitar caer bajo el límite del 10%.,2026-10-02T15:05Z
+2026-10-02,02-elena,vender,SPY,0.493526,769.585,379.81,Reducir exposición al índice para limitar riesgo de caída y liberar efectivo para refugios.,2026-10-02T15:05Z
+2026-10-02,02-elena,vender,VTI,0.502207,378.1408,189.91,Balancear la cartera y crear margen para bonos y oro.,2026-10-02T15:05Z
+2026-10-02,02-elena,comprar,GLD,0.187193,380.7353,71.27,"Refugio ante posible volatilidad; precio actual $380.55, stop 8 % en $350.",2026-10-02T15:05Z
+2026-10-02,03-lucía,comprar,AMD,2.345309,639.5746,1500.0,"AMD +40% en 20d, precio sobre media 50d, sector líder.",2026-10-02T15:06Z
+2026-10-02,03-lucía,comprar,INTC,12.136731,123.5918,1500.0,"Intel +34.8% en 20d, fuerte impulso y cumple tendencia.",2026-10-02T15:06Z
+2026-10-02,03-lucía,comprar,QCOM,7.950841,188.6593,1500.0,"QCOM sigue la tendencia tecnológica, rentabilidad positiva y precio sobre media 50d.",2026-10-02T15:06Z
+2026-10-02,06-carmen,comprar,AAPL,6.101864,332.4762,2028.72,4 congresistas compraron AAPL en los últimos PTR; sector tecnológico en alza y ley de infraestructura favorece a hardware.,2026-10-02T15:07Z
+2026-10-02,06-carmen,comprar,AVGO,4.230749,354.5472,1500.0,3 congresistas compraron AVGO; semiconductores clave para la nueva infraestructura y coincidencia múltiple.,2026-10-02T15:07Z

@@ -1230,3 +1230,36 @@ Valor de la cartera: 9,932.14 $
 ## 2026-10-01
 
 **Lo que he aprendido hasta ahora (resumen del mes).** Me funciona mantener una inactividad rigurosa entre informes 13F, copiando las grandes posiciones de Berkshire y ajustando solo por noticias graves o sobrepeso. Errar frecuentemente al intentar predecir movimientos a corto plazo, sobre todo con Coca‑Cola, muestra que la especulación semanal es contraproducente. Aprovecho bien la paciencia y la disciplina, lo que me permite superar ligeramente al S&P 500 cuando dejo que los negocios trabajen. Debo vigilar el exceso de confianza en mis predicciones y el riesgo de quedarme demasiado estático cuando una posición ya está bajo peso. También es clave monitorizar rápidamente cualquier señal de sobrepeso (>20 %) o noticia corporativa grave para actuar sin romper la regla de no rebalancear semanalmente.
+
+## 2026-10-02
+
+**Nota de mi predicción del 2026-09-25.** Dije que NVDA lo haría peor que el S&P 500: hizo +5.0% frente a +0.1%. Fallo.
+
+## 2026-10-02
+
+**Mantengo la inactividad y no opero hoy.**
+
+**Mercado.** El mercado muestra una tendencia alcista moderada, con el S&P 500 subiendo alrededor de 1 % en los últimos días. La volatilidad es baja y no aparecen eventos macroeconómicos disruptivos. El tono del informe de analistas es optimista, pero sin señales claras de cambios estructurales.
+
+**Noticias.** No se ha detectado ninguna noticia grave que afecte a AAPL, AXP, KO o CVX; los comunicados de resultados de estas empresas fueron estables y sin sorpresas. No hay alertas de fraude, quiebra ni problemas operativos que justifiquen una acción inmediata. Por tanto, la cartera permanece alineada con la estrategia de copiar a Buffett y con la regla de inactividad entre 13F.
+
+**A favor.** Buffett ha mantenido sus posiciones en Apple y Chevron, lo que indica confianza a largo plazo; además, el mercado está en alza y nuestras posiciones ya generan pluses modestos (+6 % AAPL, +7 % CVX). No hay razón para mover capital sin una señal fuerte.
+
+**En contra.** Podría intentar reequilibrar reduciendo AXP, que está con -11 % y al límite del 20 % de peso, pero la regla de inactividad entre 13F y la ausencia de noticias graves me obligan a esperar. Además, vender ahora podría cristalizar pérdidas innecesarias.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que el mercado siga subiendo y el efectivo (30 % de la cartera) quede rezagado, ampliando la brecha con el S&P 500. Otro riesgo es que AXP continúe deteriorándose y pese demasiado al portafolio si no se corrige a tiempo.
+
+**Plan.** Vigilaré de cerca cualquier anuncio inesperado de AXP o de los sectores energéticos que pueda impactar a CVX. Si el peso de AXP supera 20 % o aparece una noticia grave, actuaré de inmediato. También observaré la evolución del efectivo para decidir una posible asignación antes del próximo 13F.
+
+**Mi puesto.** Voy 2,56 puntos por detrás del S&P 500; mantengo la disciplina y espero a que la tendencia alcista del mercado mejore mi desempeño sin arriesgar la regla del 10 % de caída.
+
+Valor de la cartera: 9,939.22 $
+
+## 2026-10-02
+
+**Reflexión de la semana.** Esta semana mantuve la disciplina de inactividad entre 13F, pero me adelanté al vender parte de AAPL y CVX antes de que alcanzaran el 15 % de peso, lo que rompió mi regla de no rebalancear salvo emergencias. El intento de reducir posiciones en dos pasos no funcionó como esperaba y generó una ligera pérdida adicional. Aprendí que la paciencia extrema es clave y que los ajustes de peso deben esperar a señales claras, no a fechas arbitrarias. La próxima semana me comprometo a respetar la regla de inactividad y solo vender cuando una posición supere el 20 % o haya una noticia grave.
+
+Ajuste a mi estrategia: Revertir la venta parcial de AAPL y CVX y esperar a que el peso alcance realmente el 15 % antes de actuar, manteniendo la regla de inactividad entre 13F.
