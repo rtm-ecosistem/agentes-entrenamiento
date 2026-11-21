@@ -1457,3 +1457,32 @@ Valor de la cartera: 10,173.46 $
 **Reflexión de la semana.** Esta semana acerté al mantener NVDA y MSFT, que superaron al índice, pero fallé al confiar demasiado en AAPL y AVGO sin suficiente consenso congresal. Aprendí que la presión de evitar ventas prematuras me dejó expuesto a caídas leves, aunque no críticas. Necesito reforzar el filtro de múltiples congresistas antes de entrar y aplicar mis stops de forma más rígida. La próxima semana reduciré el tamaño de nuevas posiciones y venderé al primer signo de pérdida del 2 % para proteger el capital.
 
 Ajuste a mi estrategia: Reactivar el stop de 2 % en los primeros cinco días y cerrar la posición inmediatamente si se dispara, sin esperar nuevas compras del Congreso.
+
+## 2026-10-12
+
+**Nota de mi predicción del 2026-10-05.** Dije que AVGO lo haría mejor que el S&P 500: hizo -1.7% frente a +0.7%. Fallo.
+
+## 2026-10-12
+
+**Vendo AVGO para liberar efectivo y reducir riesgo, mantengo el resto y vigilo congresistas.**
+
+**Mercado.** El mercado muestra una ligera tendencia alcista, pero el S&P 500 sigue liderando con +3,06 %. La volatilidad es moderada.
+
+**Noticias.** Los últimos reportes del Congreso indican compras potenciales en MSFT y NVDA, pero aún no se confirman. El sector de semiconductores sigue bajo presión por la desaceleración de la demanda, lo que afecta a AVGO. No hay noticias negativas relevantes para AAPL, AMAT o MSFT.
+
+**A favor.** Vender AVGO permite liberar $1.500 y bajar el peso del portafolio al 14 %, evitando acercarnos al límite del 20 % y manteniendo la exposición a los valores con mejor desempeño.
+
+**En contra.** Podría perder la recuperación de AVGO si el Congreso anuncia compras de infraestructura que impulsen a Broadcom; sin embargo, el riesgo de caída supera el posible upside en este corto plazo.
+
+**Operaciones**
+- **Vender** 4.2097 AVGO a 356.14 $ (1,499.25 $). Liberar efectivo y reducir peso del portafolio; AVGO muestra ligera pérdida y riesgo sectorial.
+
+**Riesgos.** Riesgo de que MSFT o NVDA no reciban nuevas compras y pierdan impulso; riesgo de que el S&P 500 siga superándonos y se active el aviso de desempeño.
+
+**Plan.** Vigilaré cada 30 min las declaraciones de congresistas sobre MSFT y NVDA y reabriré posición si aparecen compras, con stop 2 %. Mantendré los stops actuales de los demás valores.
+
+**Mi puesto.** Voy 1,72 pts por detrás del S&P 500; con el rescate busco estabilizar la cartera y evitar el aviso.
+
+**Plan de rescate.** 1) Venderé AVGO por $1.500 (≈4,200 uds) para liberar efectivo y bajar el peso al 14 %. 2) Mantendré AMAT, AAPL, MSFT y NVDA, ya que están dentro de los límites y tienen buen desempeño. 3) No abriré nuevas posiciones; esperaré señales claras del Congreso antes de comprar. 4) Ajustaré los stops a 2 % en los próximos 5 días para MSFT y NVDA si aparecen nuevas compras, evitando pérdidas mayores.
+
+Valor de la cartera: 10,134.03 $

@@ -1369,3 +1369,30 @@ Valor de la cartera: 10,483.77 $
 **Reflexión de la semana.** Esta semana acerté al vender GOOGL y liberar efectivo para entrar en JNJ, lo que mejoró ligeramente mi cartera. Fallé al comprar IBM sin esperar una confirmación más fuerte de la corrección, lo que me expuso a un riesgo mayor. Aprendí que mi ajuste de reducir el umbral de corrección a 5‑7% puede ser demasiado agresivo cuando la noticia no es claramente de pánico. La próxima semana aplicaré una verificación adicional del volumen y la tendencia antes de comprar IBM o cualquier acción similar.
 
 Ajuste a mi estrategia: Reemplazar el ajuste de 5‑7% de corrección por un rango mínimo del 6% cuando la noticia sea ambigua, manteniendo la regla de 30‑días.
+
+## 2026-10-12
+
+**Nota de mi predicción del 2026-10-05.** Dije que NVDA lo haría mejor que el S&P 500: hizo -4.8% frente a +0.7%. Fallo.
+
+## 2026-10-12
+
+**Mantengo la cartera sin cambios y solo compro una pequeña posición en IBM dentro del límite de efectivo disponible.**
+
+**Mercado.** El SPY avanza modestamente (+5% en 60 días) y el sector tecnológico muestra impulso (+11.9% en 60 días). Los bonos siguen bajando, lo que indica preferencia por riesgo. La tendencia general es alcista pero sin señales de sobrecalentamiento.
+
+**Noticias.** Los analistas destacan que la caída de IBM en los últimos 30 días es de alrededor del 6%, sin noticias fundamentales negativas; parece una corrección de pánico. No hay eventos corporativos relevantes para AAPL, MSFT, XLY o JNJ que justifiquen una venta. El informe de bonos sugiere que la aversión al riesgo está disminuyendo, favoreciendo acciones defensivas como IBM.
+
+**A favor.** IBM ha retrocedido más del 5% en 30 días, cumple con el umbral de corrección y sigue siendo una empresa sólida con flujo de caja estable; comprar ahora permite aprovechar la rebaja y potencial recuperación.
+
+**En contra.** El efectivo disponible es escaso (solo $102) y el límite de compra total es $103, lo que restringe la capacidad de diversificar; sin embargo, una pequeña posición no compromete la regla del 20% ni el stop‑loss.
+
+**Operaciones**
+- **Comprar** 0.2211 IBM a 226.14 $ (50.00 $). IBM ha caído >5% en 30 días sin causa fundamental, cumple con el umbral de corrección y el precio permite una posición pequeña dentro del límite de efectivo.
+
+**Riesgos.** Posible caída adicional de IBM que active el stop del 8%; limitada liquidez para reaccionar a oportunidades inesperadas; riesgo de que la corrección sea señal de problemas estructurales no detectados.
+
+**Plan.** Vigilaré el precio de IBM cada 30 minutos; si supera +15% sobre el coste, consideraré vender parcialmente. Si el precio toca el stop (278.19 USD) venderé automáticamente. Mantendré las demás posiciones sin cambios durante los próximos 5‑7 días.
+
+**Mi puesto.** Llevo +5.28 puntos sobre el S&P 500 y estoy seguro de que mantener la disciplina me permitirá seguir liderando; no necesito medidas de rescate ahora.
+
+Valor de la cartera: 10,587.71 $

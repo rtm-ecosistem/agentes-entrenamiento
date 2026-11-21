@@ -1480,3 +1480,30 @@ Valor de la cartera: 9,251.34 $
 **Reflexión de la semana.** Esta semana acerté al reducir exposición y proteger capital, pero fallé al mantener NVDA demasiado tiempo pese a señales mixtas. Aprendí que mis stops de 3 % diario son insuficientes cuando la posición pierde diferencial frente al S&P. Cambiaré a un stop‑loss del 2 % y cerraré la mitad de la posición si no supera al índice en 24 h.
 
 Ajuste a mi estrategia: Reemplazo el stop‑loss del 3 % diario por uno del 2 % y añado un cierre parcial al 50 % si la posición no supera al S&P en 24 h.
+
+## 2026-10-12
+
+**Vendo SPY y refuerzo CVX y NVDA para mejorar exposición sin sobrecargar el riesgo.**
+
+**Mercado.** El S&P 500 sigue subiendo modestamente; el efectivo está penalizando la rentabilidad. Necesitamos volver a invertir para cerrar la brecha.
+
+**Noticias.** CVX subió +10% tras mejores resultados de refinación; NVDA muestra estabilidad tras reporte de ingresos ligeramente superior al esperado. No hay noticias negativas relevantes hoy.
+
+**A favor.** Reinvertir el efectivo en posiciones ya ganadoras (CVX, NVDA) mantiene la exposición a sectores con impulso y evita el arrastre del efectivo contra el S&P.
+
+**En contra.** Vender SPY reduce la referencia al mercado y podría perder una cobertura pasiva; sin embargo, el coste de oportunidad del efectivo supera ese riesgo.
+
+**Operaciones**
+- **Vender** 2.3409 SPY a 777.93 $ (1,821.08 $). El efectivo está penalizando la rentabilidad; vender SPY libera capital para reinvertir en posiciones con mejor desempeño.
+- **Comprar** 3.5471 CVX a 214.26 $ (760.00 $). CVX ha ganado +10% y tiene espacio de compra (máximo 1,860 USD); refuerzo la posición con stop a 190 USD.
+- **Comprar** 6.5826 NVDA a 226.04 $ (1,487.94 $). NVDA está estable y permite ampliar la posición dentro del límite; stop a 210 USD protege contra retroceso.
+
+**Riesgos.** Posible caída de CVX o NVDA en los próximos días que active los stops; la venta de SPY elimina la protección contra una caída general del mercado.
+
+**Plan.** Vigilaré CVX y NVDA cada 30 min; si el precio toca el stop, cerraré la posición y no volveré a comprar en la próxima decisión. Mantendré el resto de la cartera sin cambios.
+
+**Mi puesto.** Voy 10,05 puntos por detrás del S&P; con este ajuste busco reducir la brecha sin sobreexponerme.
+
+**Plan de rescate.** 1) Venderé la posición completa de SPY (2.3409 uds) para liberar ~1.82 k USD. 2) Con el efectivo disponible compraré hasta el límite en CVX (añadiendo 3.55 uds) y NVDA (añadiendo 6.59 uds), manteniendo cada posición bajo el 20% del total. 3) Ajustaré los stops: CVX a 190 USD, NVDA a 210 USD. 4) No abriré nuevas posiciones ni usaré radar de oportunidades. 5) Mantendré al menos 1 k USD en efectivo como colchón para evitar caer al 10% de pérdida.
+
+Valor de la cartera: 9,299.55 $

@@ -1401,3 +1401,32 @@ Valor de la cartera: 10,052.53 $
 **Reflexión de la semana.** Esta semana reforcé la exposición tecnológica con QQQ, pero eso no mejoró mi rentabilidad frente al S&P 500. Fallé al confiar demasiado en predicciones de NVDA y QQQ sin evidencia clara. Aprendí que mi enfoque prudente debe priorizar la preservación de capital sobre apuestas sectoriales. La próxima semana reduciré nuevas compras de QQQ y me centraré en mantener la distribución actual, añadiendo bonos si el mercado muestra señales de caída.
 
 Ajuste a mi estrategia: Si una posición supera el 18 % venderé solo el 25 % en lugar de la mitad, para limitar la rotación y preservar la exposición ganadora.
+
+## 2026-10-12
+
+**Nota de mi predicción del 2026-10-05.** Dije que NVDA lo haría mejor que el S&P 500: hizo -4.8% frente a +0.7%. Fallo.
+
+## 2026-10-12
+
+**Vendo una parte de QQQ para reducir exposición y crear efectivo de reserva.**
+
+**Mercado.** El mercado muestra una leve tendencia alcista, SPY +5% en 60 días, pero la presión de tipos de interés sigue alta y los bonos están bajo presión.
+
+**Noticias.** Los analistas indican que los tipos de interés podrían subir ligeramente y que la volatilidad de los bonos aumenta; el sector tecnológico sigue fuerte pero ya está sobrevalorado. Estas señales me hacen temer una corrección de corto plazo.
+
+**A favor.** Reducir la posición en QQQ, que está ligeramente negativa (-1.3%) y cerca de su stop, protege el capital y evita que una caída nos empuje bajo el 10% de drawdown.
+
+**En contra.** Vender ahora podría perder una posible continuación del impulso tecnológico; sin embargo, mi prioridad es preservar la cartera y evitar el aviso, por lo que acepto perder ese potencial upside.
+
+**Operaciones**
+- **Vender** 0.6698 QQQ a 746.10 $ (499.75 $). Reducir exposición al sector tecnológico y crear margen de seguridad ante posible subida de tipos.
+
+**Riesgos.** Una subida repentina del mercado tecnológico podría dejarme fuera de ganancias; además, la venta reduce la diversificación entre ETFs de acciones.
+
+**Plan.** Vigilaré los tipos de interés y la evolución de los bonos IEF/GLD; si el mercado cae >3% en una semana, consideraré mover más efectivo a IEF. Mantendré los stops actuales.
+
+**Mi puesto.** Voy 2.66 puntos por detrás del S&P 500 y recibo un aviso si termino así; por eso priorizo la conservación del capital.
+
+**Plan de rescate.** Voy a vender aproximadamente $500 de QQQ (≈0.67 uds) para generar efectivo y bajar el peso de QQQ al 18%. No compraré nuevos activos, mantendré el resto de la cartera en los cinco ETFs al 20% cada uno. Evitaré cualquier operación que aumente la exposición a acciones y no usaré apalancamiento. Con el efectivo adicional podré cubrir stops y estar preparada para una posible rotación a bonos si los tipos suben.
+
+Valor de la cartera: 10,040.09 $

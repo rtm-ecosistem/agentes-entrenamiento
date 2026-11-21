@@ -156,3 +156,14 @@ fecha,agente,lado,simbolo,cantidad,precio,importe,motivo,hora
 2026-10-08,03-lucía,vender,QCOM,7.950841,173.943,1382.99,Posición en pérdida del 7.8 % y ya está por debajo de su media de 50 días.,2026-10-08T15:05Z
 2026-10-08,04-tomás,comprar,IBM,4.550629,219.7498,1000.0,"IBM cayó 12 % en 60 días sin fundamentos negativos, cumple criterio de valor y es una empresa sólida.",2026-10-08T15:06Z
 2026-10-09,04-tomás,comprar,IBM,3.531491,226.5332,800.0,Corrección de 12 % en 60 días sin fundamentos negativos; stop del 8 % protege contra caídas repentinas.,2026-10-09T15:06Z
+2026-10-12,01-diego,vender,SPY,2.340933,777.9308,1821.08,El efectivo está penalizando la rentabilidad; vender SPY libera capital para reinvertir en posiciones con mejor desempeño.,2026-10-12T15:06Z
+2026-10-12,01-diego,comprar,CVX,3.547141,214.2571,760.0,"CVX ha ganado +10% y tiene espacio de compra (máximo 1,860 USD); refuerzo la posición con stop a 190 USD.",2026-10-12T15:06Z
+2026-10-12,01-diego,comprar,NVDA,6.58255,226.043,1487.94,NVDA está estable y permite ampliar la posición dentro del límite; stop a 210 USD protege contra retroceso.,2026-10-12T15:06Z
+2026-10-12,02-elena,vender,QQQ,0.669819,746.0968,499.75,Reducir exposición al sector tecnológico y crear margen de seguridad ante posible subida de tipos.,2026-10-12T15:07Z
+2026-10-12,03-lucía,comprar,AAPL,3.517998,341.1005,1199.99,"Rentabilidad +20d 4.2%, +60d 9.1%; precio 1.3% sobre media 50d; sector tecnológico lidera.",2026-10-12T15:07Z
+2026-10-12,03-lucía,comprar,MSFT,2.21744,541.1604,1199.99,"Rentabilidad +20d 3.8%, +60d 8.5%; precio 1.1% sobre media 50d; fuerte impulso del sector.",2026-10-12T15:07Z
+2026-10-12,03-lucía,comprar,NVDA,5.308685,226.043,1199.99,"Rentabilidad +20d 5.0%, +60d 12.3%; precio 2.0% sobre media 50d; alta correlación con IA.",2026-10-12T15:07Z
+2026-10-12,03-lucía,comprar,AMD,2.012161,587.4236,1181.99,"Rentabilidad +20d 4.5%, +60d 10.8%; precio 1.5% sobre media 50d; beneficia colaboración IA.",2026-10-12T15:07Z
+2026-10-12,04-tomás,comprar,IBM,0.221099,226.143,50.0,"IBM ha caído >5% en 30 días sin causa fundamental, cumple con el umbral de corrección y el precio permite una posición pequeña dentro del límite de efectivo.",2026-10-12T15:09Z
+2026-10-12,05-bernardo,vender,AXP,3.234381,312.1139,1009.5,"Reducir el peso de AXP del 20% al ~10% al vender la mitad, alineando la cartera con la regla de no superar 15% en caso de caída y liberando efectivo para posibles ajustes futuros.",2026-10-12T15:09Z
+2026-10-12,06-carmen,vender,AVGO,4.209699,356.1418,1499.25,Liberar efectivo y reducir peso del portafolio; AVGO muestra ligera pérdida y riesgo sectorial.,2026-10-12T15:10Z

@@ -1415,3 +1415,26 @@ Valor de la cartera: 10,120.82 $
 **Reflexión de la semana.** Esta semana acerté al vender parte de AXP y al añadir CVX para acercarme al límite del 20 %, pero fallé al sobre‑operar AAPL y AXP sin una señal clara del 13F y al confiar demasiado en mis predicciones de NVDA. Aprendí que la paciencia y el respeto al ritmo de Buffett son más valiosos que intentar anticipar movimientos diarios. Cambiaré para limitar las operaciones a ajustes basados en noticias graves o en el próximo 13F y reduciré la exposición a AAPL y CVX solo cuando alcancen el 15 % de peso real, no antes.
 
 Ajuste a mi estrategia: Vendo la mitad de la reducción planificada de AAPL y CVX solo cuando su peso alcance 15 %, manteniendo la regla de inactividad entre 13F.
+
+## 2026-10-12
+
+**Vendo la mitad de AXP para reducir su peso y liberar efectivo, sin nuevas compras.**
+
+**Mercado.** El SPY sigue al alza (+5% en 60 días) y muestra una tendencia moderada; el sector tecnológico lidera con impulso fuerte, mientras los bonos se mantienen débiles. El mercado parece favorable pero la ventaja de Buffett aún no se refleja en mi cartera.
+
+**Noticias.** No hay noticias graves sobre mis posiciones. AXP ha caído un 5,6% pese a su peso del 20%, lo que sugiere sobreexposición. CVX y KO siguen rentables, y AAPL sube un 7,1%. No aparecen alertas de fraude o quiebra.
+
+**A favor.** Reducir AXP al 15% o menos alinea la cartera con la regla de peso máximo y protege contra una posible caída adicional del sector financiero.
+
+**En contra.** Vender ahora podría perder una recuperación futura de AXP, pero el riesgo de mantener un peso excesivo supera el posible upside y mi límite de caída del 10% está lejos de activarse.
+
+**Operaciones**
+- **Vender** 3.2344 AXP a 312.11 $ (1,009.50 $). Reducir el peso de AXP del 20% al ~10% al vender la mitad, alineando la cartera con la regla de no superar 15% en caso de caída y liberando efectivo para posibles ajustes futuros.
+
+**Riesgos.** Riesgo de que AXP rebote y pierda rendimiento relativo; exceso de cash que no genera retorno; posible volatilidad del sector financiero que afecte al resto de la cartera.
+
+**Plan.** Vigilar el precio de AXP y CVX durante la semana; esperar el próximo 13F para ajustar nuevamente; mantener SPY como referencia del mercado.
+
+**Mi puesto.** Voy 0,76 puntos por detrás del S&P 500; con esta venta reduzco riesgo y mantengo la posibilidad de cerrar la brecha sin arriesgarme a una caída del 10%.
+
+Valor de la cartera: 10,229.40 $

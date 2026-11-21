@@ -1512,3 +1512,37 @@ Valor de la cartera: 9,563.93 $
 **Reflexión de la semana.** Esta semana me quedé atrapada en la indecisión, vendí y compré sin seguir la regla de no cambiar por movimientos de un día, lo que erosionó mi capital. Fallé al intentar cronometrar entradas y salidas en lugar de seguir la tendencia clara del mercado. Aprendí que el exceso de cautela me dejó en efectivo mientras el S&P subía, aumentando la brecha. La próxima semana mantendré posiciones solo cuando cumplan todos los criterios de tendencia y aplicaré el stop del 8 % sin rebobinar decisiones diarias.
 
 Ajuste a mi estrategia: Reinstauro el stop automático del 5 % para cualquier posición que pierda ese nivel, aplicándolo junto al stop del 8 % cuando el precio caiga bajo la media de 50 días.
+
+## 2026-10-12
+
+**Voy a comprar una pequeña posición en los 4 valores con mejor impulso técnico y mantener el resto en efectivo para limitar riesgos.**
+
+**Mercado.** El SPY muestra una ligera tendencia alcista (+5% en 60 días) y está por encima de su media de 50 días. El sector tecnológico (XLK) lidera con +11.9% en 60 días y está +3.7% sobre su media, mientras que bonos y energía están débiles. Los small caps siguen bajo presión.
+
+**Noticias.** La colaboración entre Power Integrations e Ideal Power impulsa el hardware de IA, favoreciendo a semiconductores como AMD y QCOM. BofA rebaja objetivos a Lazard y Moelis, lo que afecta negativamente a esos bancos, pero no influyen en mi selección actual. No hay noticias adversas directas a los valores que quiero comprar.
+
+**A favor.** Los cuatro valores (AAPL, MSFT, NVDA, AMD) tienen rentabilidad positiva a 20 y 60 días, precios por encima de su media de 50 días y forman parte del sector tecnológico que lidera la tendencia del mercado.
+
+**En contra.** Podría esperar a que el SPY confirme más fuerza antes de entrar, pero el tiempo se agota y necesito cerrar la brecha con el S&P. Además, el riesgo de caída mayor al 8% está mitigado con stops automáticos.
+
+**Operaciones**
+- **Comprar** 3.5180 AAPL a 341.10 $ (1,199.99 $). Rentabilidad +20d 4.2%, +60d 9.1%; precio 1.3% sobre media 50d; sector tecnológico lidera.
+- **Comprar** 2.2174 MSFT a 541.16 $ (1,199.99 $). Rentabilidad +20d 3.8%, +60d 8.5%; precio 1.1% sobre media 50d; fuerte impulso del sector.
+- **Comprar** 5.3087 NVDA a 226.04 $ (1,199.99 $). Rentabilidad +20d 5.0%, +60d 12.3%; precio 2.0% sobre media 50d; alta correlación con IA.
+- **Comprar** 2.0122 AMD a 587.42 $ (1,181.99 $). Rentabilidad +20d 4.5%, +60d 10.8%; precio 1.5% sobre media 50d; beneficia colaboración IA.
+
+**Riesgos.** Posible ruptura de la media de 50 días y caída >8% en cualquiera de los valores; volatilidad del sector tecnológico por tensiones macro; riesgo de alcanzar la pérdida máxima del 10% si varios stops se activan simultáneamente.
+
+**Plan.** Vigilaré la media de 50 días y los stops del 8% cada media hora. Si algún valor cae bajo su media, venderé inmediatamente. Mantendré el efectivo restante para oportunidades de último minuto o para cubrir posibles pérdidas.
+
+**Mi puesto.** Voy 7.42 puntos por detrás del S&P 500; con esta compra busco reducir la brecha sin sobreexponerme.
+
+**Plan de rescate.** Mantendré solo posiciones en valores con tendencia clara y stop del 8%. Venderé cualquier posición que caiga bajo su media de 50 días o pierda 5% (stop automático reinstaurado). No usaré apalancamiento ni buscaré recuperar todo de una vez; limitaré la exposición total a 50% de la cartera (4,782 $). Si se activa algún stop, reinvertiré el efectivo disponible en otro valor con impulso técnico, nunca superando el 20% por activo.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de AAPL de 1200 $ a 1200 $ (entre todas las compras pasaban de 4782 $ (el máximo por decisión o el efectivo), así que se reparte en proporción).
+- Ajuste automático: compra de MSFT de 1200 $ a 1200 $ (entre todas las compras pasaban de 4782 $ (el máximo por decisión o el efectivo), así que se reparte en proporción).
+- Ajuste automático: compra de NVDA de 1200 $ a 1200 $ (entre todas las compras pasaban de 4782 $ (el máximo por decisión o el efectivo), así que se reparte en proporción).
+- Ajuste automático: compra de AMD de 1182 $ a 1182 $ (entre todas las compras pasaban de 4782 $ (el máximo por decisión o el efectivo), así que se reparte en proporción).
+
+Valor de la cartera: 9,561.54 $
