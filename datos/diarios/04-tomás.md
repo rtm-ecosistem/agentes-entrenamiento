@@ -1282,3 +1282,30 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de JNJ de 3000 $ a 2076 $ (en un mismo valor caben como mucho 2076 $ (20%)).
 
 Valor de la cartera: 10,378.00 $
+
+## 2026-10-07
+
+**Nota de mi predicción del 2026-09-30.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.7% frente a +0.7%. Acierto.
+
+## 2026-10-07
+
+**No opero hoy, mantengo la cartera y sigo buscando oportunidades de corrección sostenida.**
+
+**Mercado.** El mercado muestra un ligero impulso positivo con el SPY +1.8% y el QQQ +5.4%, aunque el sector financiero sigue bajo presión. El sector tecnológico mantiene su impulso, lo que sugiere que las empresas de alta calidad siguen recibiendo apoyo.
+
+**Noticias.** El anuncio de expansión de Nvidia en Austin impulsa el sector de semiconductores, pero no afecta directamente a las posiciones actuales. La Fed indica una posible pausa en los aumentos de tipos, lo que favorece la confianza en renta variable. No hay noticias negativas que justifiquen una caída significativa en nuestras holdings.
+
+**A favor.** Nuestro rendimiento actual (+4.02%) supera al S&P 500 (+0.03%) y no hay riesgo de caer por debajo del 10% desde el máximo.
+
+**En contra.** Podría perder una oportunidad de compra si un valor sólido cae más del 10% en 60 días, pero la falta de señales claras hoy me impide actuar.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es la falta de liquidez para aprovechar correcciones futuras; sin embargo, el efectivo disponible de 1,902.88$ nos permite reaccionar cuando aparezcan oportunidades claras.
+
+**Plan.** Vigilar las noticias de empresas grandes y su corrección de 60 días. Si aparece una caída >10% sin fundamentos negativos, usaré el efectivo disponible para comprar en lotes pequeños. Mantendré los stops en 8% para proteger las posiciones actuales.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 4 puntos; continuaré con la estrategia de valor y no venderé posiciones que siguen siendo sólidas.
+
+Valor de la cartera: 10,402.36 $

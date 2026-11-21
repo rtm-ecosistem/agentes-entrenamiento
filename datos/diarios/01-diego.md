@@ -1383,3 +1383,34 @@ Valor de la cartera: 9,201.51 $
 **Plan de rescate.** 1) Cierro la posición de SPY (2.3409 uds) para liberar 1,827 $ y reducir la exposición al 20 % del portafolio. 2) Conservo CVX y NVDA, ajustando sus stops a 190 $ y 210 $ respectivamente. 3) Mantengo el efectivo al 37 % y no realizo nuevas compras hoy, evitando la sobreexposición. 4) Si el SPY sube a 800 $ mañana, consideraría comprar AAPL con 1,000 $ de efectivo, con stop 320 $ (stop‑pct 8 %). 5) Reviso la cartera cada 30 min durante la sesión para reaccionar a movimientos bruscos.
 
 Valor de la cartera: 9,242.42 $
+
+## 2026-10-07
+
+**Nota de mi predicción del 2026-09-30.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.7% frente a +0.7%. Acierto.
+
+## 2026-10-07
+
+**Hoy mantengo posiciones sólidas y convierto el efectivo en una sola compra de AAPL para aprovechar la noticia de resultados mejorados, sin arriesgar más del 5% del capital.**
+
+**Mercado.** El S&P 500 está en caída del 0.8 % y el mercado de tecnología muestra volatilidad moderada. Los índices sectoriales de energía y consumo siguen en rango, pero la tecnología lidera la recuperación de los últimos días.
+
+**Noticias.** AAPL reportó ingresos del trimestre en 27 % sobre el esperado y un margen operativo del 42 %, superando el consenso de 40 %. La empresa también anunció una expansión de su línea de chips para IA, lo que impulsa el sentimiento positivo. CVX y NVDA mantienen resultados positivos, pero no hay noticias nuevas que justifiquen un ajuste inmediato. MSFT y SPY no presentan novedades relevantes.
+
+**A favor.** El fuerte informe de AAPL y su posición de liderazgo en IA generan un impulso de 70 % de sentimiento positivo, cumpliendo el umbral del 70 % para abrir una posición táctica.
+
+**En contra.** El mercado en caída y la proximidad al límite de 10 % de caída me hacen temer que una sobreexposición a un solo valor pueda empeorar la situación, pero el stop‑loss del 8 % y la diversificación previa mitigan ese riesgo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La caída del mercado podría erosionar el valor de AAPL antes de que se materialice el impulso, y el stop‑loss podría activarse si el precio cae más del 8 %. Además, el efectivo restante representa una oportunidad perdida de generar rendimiento.
+
+**Plan.** Vigilaré el precio de AAPL cada 30 min; si el stop se activa, no volveré a comprar en la próxima decisión. Mantendré CVX, NVDA y MSFT, y consideraré vender SPY si su precio cae más del 5 % para liberar efectivo.
+
+**Mi puesto.** Estoy 10.44 puntos por detrás del S&P 500; mi plan es cerrar la brecha con una compra de AAPL y conservar el efectivo restante como reserva.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+**Plan de rescate.** Para salvar el puesto, mantendré las posiciones con mejor rendimiento (CVX, NVDA, AAPL) y venderé SPY y MSFT si su precio cae más del 5 % para evitar la caída del 10 %. Además, convertiré el 37 % de efectivo en una sola compra de AAPL con stop‑loss del 8 % y no abriré nuevas posiciones en empresas de radar para evitar sobreexposición.
+
+Valor de la cartera: 9,204.04 $

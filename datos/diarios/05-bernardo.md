@@ -1322,3 +1322,33 @@ Valor de la cartera: 9,969.90 $
 **Mi puesto.** Estamos 3.11 puntos por detrás del S&P 500; con las compras de hoy esperamos reducir la brecha y mantener la posición dentro del rango de tolerancia.
 
 Valor de la cartera: 10,024.06 $
+
+## 2026-10-07
+
+**Nota de mi predicción del 2026-09-30.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.7% frente a +0.7%. Acierto.
+
+## 2026-10-07
+
+**Hoy solo añado 2.43 acciones de CVX para alcanzar el límite del 20 % y aprovechar su buen rendimiento, sin tocar otras posiciones.**
+
+**Mercado.** El mercado sigue alcista, SPY +1.8 % y QQQ +5.4 %. El sector tecnológico mantiene impulso, mientras el financiero se mantiene estable. La volatilidad es moderada y no hay señales de caída brusca.
+
+**Noticias.** AAPL sigue fuerte con +5.2 %, AXP ha caído -8.8 % desde la compra, KO está estable y SPY apenas +0.1 %. CVX muestra +6.5 % y su precio está en un rango de consolidación. No hay noticias negativas que obliguen a vender.
+
+**A favor.** CVX ya está en 15 % y su rendimiento superior a la media del mercado indica que puede seguir subiendo. Alcanzar el 20 % maximiza la exposición a un activo sólido sin romper la regla de peso.
+
+**En contra.** Alcanzar el 20 % deja poco margen para otras oportunidades y si CVX cae, la pérdida se concentra. Sin embargo, el riesgo está dentro de los límites y la posición ya es rentable.
+
+**Operaciones**
+- **Comprar** 2.3449 CVX a 205.38 $ (481.60 $). Aumentar la posición a 20 % porque CVX muestra +6.5 % y su precio está estable; la compra mantiene la regla de peso y aprovecha la oportunidad de valor.
+
+**Riesgos.** Posible reversión de la tendencia de CVX, pérdida de hasta 8 % en la posición si el precio cae. La exposición máxima al 20 % limita la diversificación.
+
+**Plan.** Vigilar el precio de CVX y el comportamiento del sector energético. Si el precio cae 8 % desde hoy, el stop lo venderá. Mantener la posición hasta el próximo 13F para decidir ajustes.
+
+**Mi puesto.** Estamos 2.81 puntos por detrás del S&P 500. Con esta compra no cambiamos la posición relativa, pero reforzamos la exposición a un activo con buen rendimiento.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de CVX de 500 $ a 482 $ (en un mismo valor caben como mucho 1993 $ (20%)).
+
+Valor de la cartera: 9,967.20 $

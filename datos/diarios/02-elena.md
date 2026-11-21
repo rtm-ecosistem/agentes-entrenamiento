@@ -1312,3 +1312,32 @@ Valor de la cartera: 10,019.24 $
 **Plan de rescate.** Para salvar el puesto, mantendré las posiciones de SPY, VTI, GLD e IEF sin cambios y añadiré una posición de 5 % en QQQ. No venderé ninguna posición existente, ni compraré empresas de alto crecimiento que excedan el 5 % de la cartera. Conservaré el efectivo disponible para reaccionar ante una caída de más del 10 % y evitaré movimientos especulativos que puedan llevar a la pérdida de la posición.
 
 Valor de la cartera: 10,075.74 $
+
+## 2026-10-07
+
+**Nota de mi predicción del 2026-09-30.** Dije que NVDA lo haría mejor que el S&P 500: hizo +2.7% frente a +0.7%. Acierto.
+
+## 2026-10-07
+
+**Hoy compramos QQQ para reforzar la exposición a tecnología, manteniendo la diversificación y el límite de peso.**
+
+**Mercado.** El mercado muestra una ligera caída en los índices, pero el impulso a 20 días sigue positivo, con SPY +1.8% y QQQ +5.4%. El sector tecnológico XLK mantiene su alza, mientras que el sector financiero XLF se mantiene estable. Los bonos presentan una ligera presión bajista, lo que sugiere una posible rotación hacia activos de refugio.
+
+**Noticias.** El informe del equipo indica que el SPY y QQQ tienen impulso positivo, y que el sector tecnológico sigue en alza. Se recomienda comprar QQQ. No hay noticias macro que indiquen una crisis inmediata, pero la presión en bonos sugiere que podríamos mover parte de IEF a GLD, aunque no lo hacemos hoy. La recomendación de comprar QQQ se alinea con la estrategia de mantener exposición a acciones de amplio mercado.
+
+**A favor.** El aumento de QQQ mejora la exposición a tecnología, sector con fuerte rendimiento a corto plazo, y mantiene la diversificación dentro del límite de 20%.
+
+**En contra.** El riesgo de sobreexposición a un sector volátil, pero el peso máximo se mantiene en 20% y el stop del 8% protege contra caídas repentinas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída brusca del sector tecnológico que podría afectar el valor de QQQ; riesgo de que el mercado se recupere más rápido que la cartera, manteniéndonos detrás del S&P 500.
+
+**Plan.** Vigilar el rendimiento de QQQ y el sector tecnológico, y revisar la exposición a GLD e IEF si la presión en bonos aumenta. Mantener el stop del 8% y no exceder el límite de 20% por ETF.
+
+**Mi puesto.** Estamos detrás del S&P 500 por 2.51 puntos; la estrategia de compra de QQQ busca mejorar la posición sin arriesgar demasiado.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la cartera sin sobreexponer a acciones de alto riesgo. No compraré nuevas posiciones de empresas jóvenes ni aumentaría GLD. Si la caída del mercado se intensifica, venderé parte de QQQ y GLD para proteger el capital, manteniendo siempre la diversificación y el límite de 20%.
+
+Valor de la cartera: 9,997.66 $

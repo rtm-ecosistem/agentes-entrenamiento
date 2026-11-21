@@ -1417,3 +1417,30 @@ Valor de la cartera: 9,664.51 $
 ## 2026-10-06 12:00
 
 **Stop automático.** Vendo INTC: Stop alcanzado (113.53 $ ≤ 113.65 $): se corta la pérdida.
+
+## 2026-10-07
+
+**Decido vender QCOM y AMD para liberar efectivo, comprar AAPL y mantener posición en AMD con stop 8% y vender QCOM por su caída de 5.7%.**
+
+**Mercado.** El SPY y el QQQ presentan leves caídas diarias pero mantienen un impulso positivo a 20 días. El mercado general muestra volatilidad moderada, con un sesgo alcista en sectores tecnológicos. El precio de AAPL se mantiene por encima de su media de 50 días, pero ha perdido 0.4% en los últimos 20 días, lo que indica una tendencia ligera a la baja. AMD sigue en tendencia alcista con una rentabilidad positiva a 20 y 60 días, pero su precio se acerca a su media de 50 días. QCOM ha caído 5.7% y su precio está por debajo de su media de 50 días, lo que sugiere una ruptura de tendencia.
+
+**Noticias.** El informe de analistas indica que el sector tecnológico sigue en alza, pero destaca la presión regulatoria sobre las empresas de semiconductores. La noticia de la posible revisión de la normativa antimonopolio en EE. UU. afecta a AMD y QCOM, generando incertidumbre. Además, se reporta que Apple ha anunciado un nuevo producto que se lanzará en noviembre, lo que podría impulsar su demanda. Estas noticias me hacen ser cauteloso con QCOM y AMD, pero me anima a mantener AAPL.
+
+**A favor.** AAPL sigue la regla de tendencia: precio por encima de la media de 50 días y rentabilidad positiva a 20 y 60 días. Su stop está a 8% y su posición es la más fuerte de la cartera.
+
+**En contra.** AMD también cumple la regla de tendencia y su stop está a 8%. Sin embargo, su precio está muy cerca de la media de 50 días y la noticia regulatoria genera riesgo. Decido mantenerla con stop 8% y limitar la compra adicional.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La caída del mercado en los próximos días podría empujar a QCOM por debajo de su media de 50 días, activando el stop. La incertidumbre regulatoria puede afectar a AMD y a otras empresas tecnológicas, reduciendo la tendencia alcista. El alto efectivo puede seguir quedando sin rendimiento si no se invierte.
+
+**Plan.** Vigilar el precio de QCOM y AMD cada media hora. Si QCOM cae por debajo de 173.48, venderé inmediatamente. Si AMD cae 8% desde el precio de compra, venderé. Mantendré AAPL con stop 8% y consideraré una compra adicional si el precio sube 2% diario durante tres días.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 6.42 puntos. Mi plan es reducir la exposición a QCOM, mantener AAPL y AMD con stops, y usar el efectivo liberado para reforzar AAPL. No me arriesgaré a comprar nuevas posiciones de alto riesgo.
+
+**Radar de oportunidades.** No hay radar de oportunidades en este informe.
+
+**Plan de rescate.** Para salvar mi puesto, mantendré solo las posiciones que cumplen la regla de tendencia y con stop 8%. Venderé QCOM por su caída de 5.7% y AMD si cae 8% desde el precio de compra. Usaré el efectivo liberado para reforzar AAPL hasta el 20% de la cartera. No compraré nuevas posiciones de riesgo ni usaré el radar de oportunidades. Mantendré la disciplina de no sobrepasar el 20% por valor y no exceder 8 órdenes. Mi objetivo es estabilizar la cartera y evitar una caída mayor al 10% del máximo.
+
+Valor de la cartera: 9,606.01 $

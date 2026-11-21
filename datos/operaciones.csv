@@ -147,3 +147,4 @@ fecha,agente,lado,simbolo,cantidad,precio,importe,motivo,hora
 2026-10-06,05-bernardo,comprar,AAPL,1.500593,333.2015,500.0,AAPL ya está en 15 % de la cartera y su precio ha subido +6.3 %; comprar 500 USD aumenta el peso al 18 % y sigue dentro del límite del 20 %.,2026-10-06T15:06Z
 2026-10-06,05-bernardo,comprar,AXP,1.635121,305.7878,500.0,AXP está en 15 % de la cartera y su precio está por debajo del coste medio; comprar 500 USD permite mantener la posición sin sobreexponerse y sigue dentro del límite del 20 %.,2026-10-06T15:06Z
 2026-10-06,03-lucía,vender,INTC,12.136731,113.4782,1377.25,Stop alcanzado (113.53 $ ≤ 113.65 $): se corta la pérdida.,2026-10-06T16:00Z
+2026-10-07,05-bernardo,comprar,CVX,2.34493,205.3776,481.6,Aumentar la posición a 20 % porque CVX muestra +6.5 % y su precio está estable; la compra mantiene la regla de peso y aprovecha la oportunidad de valor.,2026-10-07T15:06Z
