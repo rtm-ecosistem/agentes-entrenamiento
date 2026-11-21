@@ -1287,3 +1287,28 @@ Ajuste a mi estrategia: Vendo la mitad de cualquier posición que supere el 18% 
 **Plan de rescate.** Para salvar el puesto, mantendré la exposición a SPY y VTI en 19 % cada una, no compraré GLD ni IEF, y evitaré cualquier operación que aumente la exposición a acciones por encima del 20 %. Si el mercado cae >5 % en 7 días, venderé SPY y VTI parcialmente para reforzar GLD y IEF hasta el 20 % cada una, manteniendo la diversificación y protegiendo el capital.
 
 Valor de la cartera: 10,019.24 $
+
+## 2026-10-06
+
+**Mantengo la cartera sin cambios significativos y añado una posición pequeña en QQQ para aumentar exposición tecnológica sin sobrepasar el límite del 20 % por posición.**
+
+**Mercado.** El SPY y el QQQ siguen en tendencia alcista con +2.1 % en 5 días, mientras el IEF muestra ligera debilidad. La volatilidad de los bonos a largo plazo se mantiene moderada y el sector tecnológico lidera con +12.1 % en 60 días.
+
+**Noticias.** El informe indica que la política monetaria se mantiene restrictiva, con la Fed manteniendo tipos altos; la inflación sigue por debajo de la meta, lo que favorece la valoración de los activos de renta variable. No hay noticias negativas significativas que justifiquen un aumento de bonos u oro.
+
+**A favor.** El sector tecnológico sigue mostrando fuerza y el SPY está en una tendencia alcista sostenida. Añadir QQQ permite capturar parte de ese impulso sin sobrecargar ninguna posición.
+
+**En contra.** Al comprar QQQ se incrementa la exposición a la volatilidad del sector tecnológico, pero el peso queda por debajo del 20 % y el resto de la cartera mantiene la diversificación.
+
+**Operaciones**
+- **Comprar** 0.6606 QQQ a 762.69 $ (503.80 $). Capturar la fuerza del sector tecnológico que lidera la tendencia alcista del mercado y mantener el peso por debajo del 20 %.
+
+**Riesgos.** Posible corrección en el sector tecnológico que afectaría a QQQ; riesgo de que la política monetaria se vuelva más agresiva y reduzca los precios de renta variable.
+
+**Plan.** Vigilar la evolución de los tipos de interés y la volatilidad de los bonos. Si la tendencia bajista de los bonos se intensifica, considerar mover parte de IEF a GLD. Mantener la posición de QQQ a 5 % y no sobrepasar el límite de 20 %.
+
+**Mi puesto.** Veo que estoy 2.6 puntos por detrás del S&P 500; mi plan es mejorar la exposición a la renta variable sin arriesgar la defensa, con la expectativa de que la diferencia se reduzca en la próxima semana.
+
+**Plan de rescate.** Para salvar el puesto, mantendré las posiciones de SPY, VTI, GLD e IEF sin cambios y añadiré una posición de 5 % en QQQ. No venderé ninguna posición existente, ni compraré empresas de alto crecimiento que excedan el 5 % de la cartera. Conservaré el efectivo disponible para reaccionar ante una caída de más del 10 % y evitaré movimientos especulativos que puedan llevar a la pérdida de la posición.
+
+Valor de la cartera: 10,075.74 $

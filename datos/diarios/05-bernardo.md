@@ -1294,3 +1294,31 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de SPY de 3000 $ a 1994 $ (en un mismo valor caben como mucho 1994 $ (20%)).
 
 Valor de la cartera: 9,969.90 $
+
+## 2026-10-06
+
+**Nota de mi predicción del 2026-09-29.** Dije que AXP lo haría peor que el S&P 500: hizo +0.2% frente a +2.1%. Acierto.
+
+## 2026-10-06
+
+**Hoy incremento AAPL y AXP para acercar la cartera al 20 % de cada posición y aprovechar la tendencia alcista del SPY.**
+
+**Mercado.** El SPY y el QQQ mantienen una tendencia alcista con +2.1 % en los últimos 5 días, mientras el sector tecnológico XLK sigue liderando con +12.1 % en 60 d. El mercado general muestra fuerza, lo que favorece la compra gradual de valores de Buffett.
+
+**Noticias.** AAPL ha subido +6.3 % desde la compra, lo que indica una buena dinámica de precio; no hay noticias negativas que justifiquen una venta. AXP presenta una pérdida del -9.9 %, pero no hay eventos de fraude o quiebra que requieran una reducción inmediata. No se han detectado noticias graves que alteren la valoración de CVX o KO.
+
+**A favor.** Mantener la disciplina de Buffett y comprar en los valores que ya están en la cartera le permite aprovechar la tendencia positiva del mercado sin sobreexponerse a movimientos bruscos.
+
+**En contra.** El riesgo de que AXP continúe cayendo podría empeorar la rentabilidad total, pero la regla de no rebalancear semanalmente y la posibilidad de vender en el próximo 13F mitigará el riesgo a largo plazo.
+
+**Operaciones**
+- **Comprar** 1.5006 AAPL a 333.20 $ (500.00 $). AAPL ya está en 15 % de la cartera y su precio ha subido +6.3 %; comprar 500 USD aumenta el peso al 18 % y sigue dentro del límite del 20 %.
+- **Comprar** 1.6351 AXP a 305.79 $ (500.00 $). AXP está en 15 % de la cartera y su precio está por debajo del coste medio; comprar 500 USD permite mantener la posición sin sobreexponerse y sigue dentro del límite del 20 %.
+
+**Riesgos.** Posible caída de AXP que podría bajar la rentabilidad total; riesgo de que el SPY se retrase y la estrategia de compra gradual no genere el retorno esperado.
+
+**Plan.** Vigilar el precio de AXP y AAPL cada media hora; si AXP cae por debajo de su stop (284.80) se venderá todo. Mantener la posición en SPY y CVX sin cambios hasta el próximo 13F.
+
+**Mi puesto.** Estamos 3.11 puntos por detrás del S&P 500; con las compras de hoy esperamos reducir la brecha y mantener la posición dentro del rango de tolerancia.
+
+Valor de la cartera: 10,024.06 $

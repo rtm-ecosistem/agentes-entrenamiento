@@ -1356,3 +1356,30 @@ Ajuste a mi estrategia: Implementaré un stop‑loss del 3 % diario en cualqui
 **Plan de rescate.** Para salvar el puesto, venderé NVDA (1,647 uds) y reduciré la exposición a energía a 10 % del capital. Mantendré CVX y AAPL, pero limitaré nuevas compras a 5 % del valor total. El efectivo se incrementará a 5 % del portafolio para cubrir posibles caídas y evitar el 10 % de pérdida. No tomaré posiciones en empresas de radar de oportunidades ni apalancamiento.
 
 Valor de la cartera: 9,201.51 $
+
+## 2026-10-06
+
+**Mantengo la cartera intacta y aplico un plan de rescate defensivo: cierro la posición de SPY y destaco el efectivo para evitar caer por encima del 10 % de pérdida.**
+
+**Mercado.** El S&P 500 sube 0.8 % hoy, lo que empuja la presión sobre mi efectivo. El mercado sigue en tendencia alcista, pero la volatilidad ha aumentado en los últimos minutos con movimientos de 1‑2 % en sectores clave.
+
+**Noticias.** El informe de earnings de CVX mostró un margen mejorado del 12 % y un aumento de ingresos del 8 %, lo que justifica mantener la posición. NVDA publicó un nuevo modelo de GPU que superó las expectativas de ingresos en 15 %, pero su precio ya ha absorbido la noticia. AAPL y MSFT no tienen noticias claras y sus resultados recientes están en línea con el mercado.
+
+**A favor.** CVX sigue mostrando un sólido margen y un precio por encima de su stop de 179 $, lo que indica que la noticia positiva sigue vigente. Mantener la posición evita la pérdida de una oportunidad de beneficio.
+
+**En contra.** El SPY, aunque gana 1.5 %, representa el 20 % de la cartera y su stop está muy bajo (707 $). Si el mercado se revierte, podríamos perder 10 % de la cartera total, acercándonos al límite de despido.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La caída del SPY puede desencadenar una pérdida de 10 % en la cartera total. El efectivo no gana nada y se queda por detrás del mercado. La volatilidad reciente puede provocar movimientos bruscos en los precios de los valores que poseo.
+
+**Plan.** Vigilaré el SPY y, si cae por debajo de 740 $, cerraré la posición. Mantendré CVX y NVDA, ajustando los stops a 190 $ y 210 $ respectivamente. Si el mercado sube, consideraría comprar AAPL con el efectivo restante, pero solo si la noticia es clara y el stop no excede 8 %.
+
+**Mi puesto.** Estoy por detrás del S&P 500 por 10.93 puntos y a 7.58 % de caída desde el máximo. Necesito evitar la caída del 10 % y mejorar la rentabilidad sin arriesgar demasiado.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+**Plan de rescate.** 1) Cierro la posición de SPY (2.3409 uds) para liberar 1,827 $ y reducir la exposición al 20 % del portafolio. 2) Conservo CVX y NVDA, ajustando sus stops a 190 $ y 210 $ respectivamente. 3) Mantengo el efectivo al 37 % y no realizo nuevas compras hoy, evitando la sobreexposición. 4) Si el SPY sube a 800 $ mañana, consideraría comprar AAPL con 1,000 $ de efectivo, con stop 320 $ (stop‑pct 8 %). 5) Reviso la cartera cada 30 min durante la sesión para reaccionar a movimientos bruscos.
+
+Valor de la cartera: 9,242.42 $

@@ -1335,3 +1335,34 @@ Bloqueado por las reglas de riesgo:
 - Compra de AAPL rechazada: en un mismo valor caben como mucho 2044 $ (20%).
 
 Valor de la cartera: 10,220.18 $
+
+## 2026-10-06
+
+**Nota de mi predicción del 2026-09-29.** Dije que MSFT lo haría mejor que el S&P 500: hizo +4.9% frente a +2.1%. Acierto.
+
+## 2026-10-06
+
+**Hoy añado NVDA con 1 200 USD y mantengo la posición actual, evitando cualquier venta para no sobreexponerse.**
+
+**Mercado.** El mercado sigue en tendencia alcista con el S&P 500 +1.2 % y volatilidad moderada. Los índices sectoriales de tecnología se mantienen fuertes, lo que favorece a las grandes tecnológicas en cartera.
+
+**Noticias.** El último informe de analistas destaca que el sector de semiconductores sigue recibiendo apoyo fiscal y que los contratos de defensa están en aumento, lo que impulsa la demanda de NVDA. Además, los congresistas han comprado recientemente acciones de NVDA, lo que indica un respaldo institucional.
+
+**A favor.** NVDA muestra un rendimiento positivo del 7.2 % y su stop está bien por debajo del precio actual, lo que reduce el riesgo de pérdida inmediata. La compra de más unidades mantiene la exposición al sector tecnológico que está en alza.
+
+**En contra.** El stop de 8 % podría activarse si el mercado se vuelve volátil, lo que limitaría la ganancia potencial. Sin embargo, el riesgo está dentro de los límites de la estrategia y la posición ya es del 6 % de la cartera.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de los precios de semiconductores por cambios regulatorios o de demanda. El stop de 8 % podría activarse si el mercado se vuelve más volátil.
+
+**Plan.** Vigilar el precio de NVDA cada media hora y revisar las declaraciones de los congresistas para detectar nuevas compras. Mantener la posición en AMAT y AVGO, y considerar una venta parcial de MSFT si su precio cae por debajo de su stop de 488 USD.
+
+**Mi puesto.** Estamos ligeramente por detrás del S&P 500 (0.09 puntos). La compra de NVDA busca mejorar la posición sin arriesgar más de lo permitido.
+
+**Radar de oportunidades.** No hay nuevas oportunidades de radar en esta decisión.
+
+**Plan de rescate.** Para salvar el puesto, mantendré las posiciones actuales, añadiré NVDA con stop 8 % y evitaré cualquier venta hasta que el mercado se estabilice. Si el stop se activa, no volveré a comprar NVDA hasta la siguiente decisión, y mantendré el efectivo disponible para oportunidades futuras.
+
+Valor de la cartera: 10,326.45 $

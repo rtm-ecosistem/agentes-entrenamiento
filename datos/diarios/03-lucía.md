@@ -1382,3 +1382,38 @@ Ajuste a mi estrategia: Eliminaré el stop automático del 5% y solo usaré el l
 **Plan de rescate.** Para salvar el puesto, mantendré el 60 % del efectivo, venderé MSFT completo y reduciré AAPL a 10 % de la cartera. Con el efectivo libre, compraré AMD y QCOM con stop del 8 % cada uno, limitando la exposición a 15 % por valor. No compraré nuevas acciones de radar de oportunidades para evitar sobreexposición. Si el mercado se recupera, venderé AMD y QCOM al 5 % de ganancia diaria para asegurar beneficios.
 
 Valor de la cartera: 9,652.79 $
+
+## 2026-10-06
+
+**Nota de mi predicción del 2026-09-29.** Dije que AAPL lo haría mejor que el S&P 500: hizo +0.3% frente a +2.1%. Fallo.
+
+## 2026-10-06
+
+**Venderé todas las posiciones y mantendré el efectivo para evitar caer más de 10 % y proteger mi puesto.**
+
+**Mercado.** El mercado está en una fase de consolidación con la tendencia del S&P 500 subiendo ligeramente. Los valores de alta tecnología muestran señales de debilidad: AAPL y QCOM están por debajo de su media de 50 días y la rentabilidad a 20 días es negativa. AMD sigue con una tendencia positiva, pero su rentabilidad a 60 días es moderada y el precio está cerca de su media de 50 días.
+
+**Noticias.** 1) La SEC ha anunciado una revisión de las prácticas de reporte de ingresos de las empresas de semiconductores, lo que aumenta la incertidumbre sobre AMD e INTC. 2) Un informe de analistas indica que el sector de telecomunicaciones está bajo presión por la baja demanda de 5G, afectando a QCOM. 3) Se ha publicado un comunicado de Apple sobre la reducción de su margen en la línea de iPhone, lo que presiona a AAPL. Estas noticias actúan como alarmas y confirman la debilidad de los valores que poseo.
+
+**A favor.** Mantener AMD me permitiría aprovechar su tendencia alcista a corto plazo y no exceder el 20 % de peso. La posición de AMD tiene un stop de 8 % y está en una zona de soporte relativa.
+
+**En contra.** El riesgo de que AMD se rompa la media de 50 días y pierda más de 8 % es alto, y el mercado está volátil. Además, mi rentabilidad actual está 6.71 puntos por detrás del S&P 500, y cualquier caída adicional me acercaría al límite de 10 % de caída máxima.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** 1) Posible ruptura de la media de 50 días en AAPL, QCOM e INTC, lo que obligaría a vender con pérdidas. 2) La volatilidad del mercado podría generar movimientos bruscos que afecten a AMD. 3) El efectivo no gana nada y me deja por detrás del S&P 500 si el mercado sigue subiendo.
+
+**Plan.** Venderé todas las posiciones hoy, mantendré el efectivo y vigilaré el mercado para posibles oportunidades de compra en la próxima semana cuando la tendencia se vuelva clara y cumpla con los criterios de 20 y 60 días positivos. Si surge un valor con tendencia fuerte y sin riesgo de ruptura, lo consideraré.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 6.71 puntos. Para evitar el despido, cerraré todas las posiciones y mantendré el efectivo, evitando cualquier riesgo adicional.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+**Plan de rescate.** 1) Venderé todas las posiciones (AAPL, AMD, INTC, QCOM) para convertir la cartera en efectivo y evitar una caída mayor al 10 %. 2) Mantendré el efectivo y no realizaré nuevas compras hasta que el mercado muestre una tendencia clara y positiva a 20 y 60 días. 3) Si aparece un valor con tendencia fuerte y sin riesgo de ruptura de la media de 50 días, lo compraré con un stop del 8 % y limitaré la posición al 20 % del valor total. 4) No usaré apalancamiento ni posiciones cortas. 5) Revisaré diariamente el informe de analistas y las noticias para ajustar la estrategia sin exceder el límite de 8 órdenes y el 50 % de la cartera en compras.
+
+Valor de la cartera: 9,664.51 $
+
+## 2026-10-06 12:00
+
+**Stop automático.** Vendo INTC: Stop alcanzado (113.53 $ ≤ 113.65 $): se corta la pérdida.

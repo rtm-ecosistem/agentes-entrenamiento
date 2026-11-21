@@ -1255,3 +1255,30 @@ Valor de la cartera: 10,257.27 $
 **Mi puesto.** Voy +3.31 puntos por encima del S&P 500; mantendré la estrategia conservadora para no arriesgar el buen desempeño y evitar un despido por caída del 10%.
 
 Valor de la cartera: 10,318.01 $
+
+## 2026-10-06
+
+**Vendo GOOGL para liberar efectivo y comprar JNJ, manteniendo la disciplina de valor y evitando posiciones en caída.**
+
+**Mercado.** El SPY y QQQ siguen en tendencia alcista, el sector tecnológico lidera con +12.1% en 60 días, mientras XLY muestra un rendimiento sólido del 3.1%. El mercado muestra volatilidad moderada y la Fed se aproxima a su declaración, lo que puede generar movimientos de pánico pasajero.
+
+**Noticias.** Apple anuncia resultados a las 10:30, lo que refuerza el rally tecnológico, pero no afecta a JNJ. La Fed dará su declaración a las 14:00, lo que puede provocar correcciones de hasta 8% en 30 días en valores sensibles. No hay noticias negativas que justifiquen la caída de GOOGL, por lo que su descenso parece un pánico pasajero.
+
+**A favor.** J&J es una empresa sólida con historial de dividendos y crecimiento estable; su precio ha caído más del 10% en los últimos 60 días sin razón fundamental, lo que lo convierte en una oportunidad de compra.
+
+**En contra.** El sector de salud puede verse afectado por cambios regulatorios y la caída de precios de los productos farmacéuticos, pero la empresa mantiene una posición de liderazgo y diversificación.
+
+**Operaciones**
+- **Vender** 2.8157 GOOGL a 347.68 $ (978.93 $). El valor está en -1.1% y su stop está a 323.36; vender evita una caída adicional y libera efectivo para una compra de mayor calidad.
+- **Comprar** 8.2198 JNJ a 252.54 $ (2,075.81 $). J&J es una empresa sólida con caída >10% en 60 días sin razón fundamental; el precio actual ofrece una oportunidad de compra con stop del 8% para limitar pérdidas.
+
+**Riesgos.** Posible aumento de tasas de interés que afecte el valor de los bonos y la valoración de JNJ; riesgo de corrección de mercado en el sector salud.
+
+**Plan.** Vigilar la evolución de la Fed y la reacción del mercado a la declaración; mantener el stop del 8% en JNJ y revisar cada 30 minutos la caída de GOOGL en caso de que vuelva a corregirse.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 2.92 puntos; mantengo la posición y busco consolidar la ventaja con una compra de valor.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de JNJ de 3000 $ a 2076 $ (en un mismo valor caben como mucho 2076 $ (20%)).
+
+Valor de la cartera: 10,378.00 $
