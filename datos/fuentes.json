@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-10-14"
+  "revisado": "2026-10-15"
  },
  "congreso": {
   "leidas": {
@@ -4838,9 +4838,54 @@
       "importe": "$1,001 - $15,000"
      }
     ]
+   },
+   "20035660": {
+    "nombre": "David J. Taylor",
+    "distrito": "OH02",
+    "presentado": "2026-10-15",
+    "operaciones": [
+     {
+      "activo": "AT&T Inc.",
+      "ticker": "T",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-09",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Fifth Third Bancorp - Common Stock",
+      "ticker": "FITB",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-09",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Procter & Gamble Company",
+      "ticker": "PG",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-10-12",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "RPM International Inc. Common Stock",
+      "ticker": "RPM",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-09",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035637": {
+    "nombre": "Scott H. Peters",
+    "distrito": "CA50",
+    "presentado": "2026-10-15",
+    "operaciones": []
    }
   },
   "pendientes": 0,
-  "revisado": "2026-10-14"
+  "revisado": "2026-10-15"
  }
 }

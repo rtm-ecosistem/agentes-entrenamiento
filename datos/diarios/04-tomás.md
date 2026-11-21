@@ -1450,3 +1450,30 @@ Valor de la cartera: 10,583.25 $
 **Mi puesto.** Voy 5.48 puntos por encima del S&P 500; seguiré conservando la ventaja sin arriesgar más.
 
 Valor de la cartera: 10,523.87 $
+
+## 2026-10-15
+
+**Nota de mi predicción del 2026-10-08.** Dije que IBM lo haría mejor que el S&P 500: hizo +5.9% frente a -0.6%. Acierto.
+
+## 2026-10-15
+
+**Vendo una parte de AAPL para asegurar ganancias y generar efectivo y mantengo el resto de la cartera sin cambios.**
+
+**Mercado.** El SPY y el QQQ muestran leves caídas recientes pero siguen con impulso a 60 días; los sectores XLK y XLE están en tendencia alcista, XLE +13.3% a 60 días. Los small caps están en declive, por lo que prefiero evitar nuevas entradas ahora.
+
+**Noticias.** La noticia de la inversión offshore de BP y Exxon en Gabón sugiere potencial en energía, pero no afecta a mis posiciones actuales. IBM sigue bajo vigilancia por su plan de venta parcial al +15% y stop en 213 $. No hay correcciones >8% en 30 días en mis valores, así que no hay oportunidades de compra clara hoy.
+
+**A favor.** Vender una fracción de AAPL (+12.7% de beneficio) me permite asegurar ganancias y liberar efectivo sin sobrepasar el límite de 503 $, manteniendo la exposición a un activo sólido que sigue fuerte.
+
+**En contra.** Podría dejar pasar una posible nueva corrección en AAPL que me permitiría comprar a mejor precio, pero el riesgo de perder la ganancia actual y la falta de una señal de caída significativa hacen que la venta parcial sea la opción más prudente.
+
+**Operaciones**
+- **Vender** 0.8708 AAPL a 344.35 $ (299.85 $). Asegurar parte de la ganancia (+12.7%) y generar efectivo para posibles oportunidades sin superar el límite de compra.
+
+**Riesgos.** Riesgo de que AAPL siga subiendo y pierda parte de la ganancia asegurada; riesgo de que el efectivo disponible no sea suficiente para aprovechar una futura corrección >8% en otro valor; riesgo de que alguna noticia inesperada afecte a los holdings actuales.
+
+**Plan.** Vigilaré IBM cada 30 min para activar su stop o venta parcial al +15%; seguiré de cerca XLE y XLK por su fuerza y esperaré una corrección >8% en 30 días antes de comprar. Mantendré la posición en MSFT, JNJ y XLY sin cambios.
+
+**Mi puesto.** Voy +6.71 puntos por encima del S&P 500, por lo que mantengo la estrategia conservadora y no arriesgo más para no acercarme al límite del 10% de caída.
+
+Valor de la cartera: 10,626.06 $

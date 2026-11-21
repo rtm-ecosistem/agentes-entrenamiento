@@ -1493,3 +1493,31 @@ Valor de la cartera: 10,315.91 $
 **Mi puesto.** Voy +0.97 puntos por delante del S&P 500; mantendré la ventaja sin arriesgar demasiado, siguiendo la regla de no caer más del 10% de mi máximo.
 
 Valor de la cartera: 10,317.13 $
+
+## 2026-10-15
+
+**Nota de mi predicción del 2026-10-08.** Dije que NVDA lo haría mejor que el S&P 500: hizo -8.1% frente a -0.6%. Fallo.
+
+## 2026-10-15
+
+**Vendo una pequeña posición de AXP y KO para respetar el límite del 20 % y reducir el sobrepeso de AXP.**
+
+**Mercado.** El mercado muestra leves caídas en SPY y QQQ, pero el impulso a 60 días sigue positivo. Los sectores tecnológicos (XLK) y energéticos (XLE) mantienen tendencia alcista, con XLE +13,3 % a 60 días.
+
+**Noticias.** No hay noticias graves sobre nuestras posiciones. El informe de analistas sugiere vigilar AAPL y AXP; no hay eventos negativos que justifiquen ventas de emergencia. El fuerte desempeño de XLE refuerza la confianza en CVX, pero no implica acción inmediata.
+
+**A favor.** Reducir AXP y KO evita superar el límite del 20 % y mantiene la disciplina de no sobre‑exponerse; además, al vender pequeñas cantidades liberamos efectivo para futuras oportunidades sin afectar significativamente la rentabilidad.
+
+**En contra.** Vender ahora podría perder parte del impulso alcista reciente, sobre todo en KO que ha subido +7,7 %. Sin embargo, el riesgo de incumplir la regla del 20 % es mayor y podría llevar a sanciones o despido.
+
+**Operaciones**
+- **Vender** 0.6446 AXP a 310.11 $ (199.90 $). Reducir peso de 17 % a ~15 % para cumplir la regla del 20 % y evitar sobreexposición.
+- **Vender** 1.0762 KO a 92.87 $ (99.95 $). Bajar peso de 21 % a <=20 % y respetar límite de posición.
+
+**Riesgos.** Riesgo de que KO siga subiendo y la venta reduzca ganancias; posible rebote de AXP que haga que la reducción sea prematura; volatilidad del mercado que afecte el nivel de stop de AAPL y CVX.
+
+**Plan.** Vigilaré el comportamiento de AXP y KO durante la semana; si AXP muestra recuperación, consideraré una recompra parcial. Mantendré el stop de AAPL y CVX según lo establecido.
+
+**Mi puesto.** Voy 1,81 puntos por delante del S&P 500; mantengo la estrategia conservadora para preservar la ventaja y evitar riesgos de caída del 10 %.
+
+Valor de la cartera: 10,380.62 $

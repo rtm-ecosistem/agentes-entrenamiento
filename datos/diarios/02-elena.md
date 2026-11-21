@@ -1487,3 +1487,32 @@ Valor de la cartera: 10,024.48 $
 **Plan de rescate.** 1) Vender QQQ completo (≈$735) y añadir el efectivo a la reserva, manteniendo el cash disponible para oportunidades defensivas. 2) No comprar nuevos activos hoy para no sobrepasar el límite del 20 % por posición. 3) Mantener los stops actuales en SPY, VTI, GLD e IEF. 4) En los próximos días, si el mercado muestra una clara tendencia alcista sostenida (SPY +1 % en 2‑3 sesiones), usaré hasta $500 del efectivo para reforzar SPY o VTI, siempre respetando el límite de peso. 5) Evitaré cualquier operación de alto riesgo o radar de oportunidades que supere el 5 % de la cartera.
 
 Valor de la cartera: 9,942.43 $
+
+## 2026-10-15
+
+**Nota de mi predicción del 2026-10-08.** Dije que QQQ lo haría mejor que el S&P 500: hizo -3.9% frente a -0.6%. Fallo.
+
+## 2026-10-15
+
+**Mantengo la cartera sin cambios, reforzando la posición en IEF y GLD con el efectivo disponible, sin exceder el 20 % por activo.**
+
+**Mercado.** El mercado sigue en ligera tendencia bajista, con SPY y VTI en 20 % cada uno y GLD e IEF en 20 %. El impulso de los ETFs de acciones se mantiene positivo a 60 días, pero la volatilidad de los small caps sugiere cautela.
+
+**Noticias.** La negociación entre BP y ExxonMobil ha generado incertidumbre sobre el sector energético, lo que puede presionar los precios del crudo y afectar a los ETFs sectoriales. El informe de la Reserva Federal indica que los tipos de interés podrían mantenerse estables, pero la inflación sigue en niveles moderados. Estos datos favorecen una mayor exposición a bonos de largo plazo y a oro como refugio.
+
+**A favor.** El riesgo de caída del 10 % es mínimo si mantengo la diversificación actual y añado más bonos y oro, lo que reduce la volatilidad y protege el capital.
+
+**En contra.** Al no operar, corro el riesgo de quedar más lejos del S&P 500, pero el riesgo de una caída mayor a 10 % es mayor si aumento la exposición a acciones. Decido conservar la posición y añadir bonos/oro para limitar la caída.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de SPY y VTI si el mercado se vuelve más volátil; riesgo de que GLD y IEF no compensen la pérdida de acciones si el mercado se recupera rápidamente.
+
+**Plan.** Vigilaré el rendimiento de SPY y VTI en los próximos días y el spread de tipos de interés. Si el mercado cae >3 %, moveré más efectivo a IEF. Si sube >1 % en dos días, consideraré usar efectivo para reforzar SPY y VTI sin superar el 20 % de peso.
+
+**Mi puesto.** Estoy por detrás del S&P 500 por 2.07 puntos; mantendré la posición y añadiré bonos/oro para evitar una caída mayor a 10 %.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la cartera actual sin comprar nuevas acciones. Usaré el efectivo de 1,979 $ para comprar 1,500 $ de IEF (costo medio 90.15) y 479 $ de GLD (costo medio 381.51). Esto aumentará la exposición a bonos y oro al 20 % cada uno, reduciendo la volatilidad y protegiendo el capital sin exceder el 20 % por activo. No compraré nuevos valores de riesgo ni aumentaría la exposición a acciones.
+
+Valor de la cartera: 9,991.99 $

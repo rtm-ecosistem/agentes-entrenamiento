@@ -185,3 +185,11 @@ fecha,agente,lado,simbolo,cantidad,precio,importe,motivo,hora
 2026-10-14,05-bernardo,vender,AAPL,1.495024,344.9724,515.74,Reducir peso de 20% a 15% según ajuste de estrategia; venta parcial para evitar sobreexposición.,2026-10-14T15:09Z
 2026-10-14,05-bernardo,comprar,AXP,2.600495,307.6337,800.0,Aprovechar la caída del 7% bajo el coste medio y acercar peso a ~12% dentro del límite del 20%.,2026-10-14T15:09Z
 2026-10-14,06-carmen,vender,NVDA,5.361571,223.7031,1199.4,Reducir exposición a NVDA que está cerca del stop del 2 % y limitar pérdidas potenciales.,2026-10-14T15:09Z
+2026-10-15,03-lucía,vender,MSFT,2.21744,536.7265,1190.16,"Precio cerca del stop del 5% y tendencia bajo la media de 50 días, riesgo de ruptura.",2026-10-15T15:09Z
+2026-10-15,03-lucía,comprar,XLE,28.64278,66.7133,1910.86,"Sector energía en fuerte tendencia alcista, precio > media 50 días, rentabilidad +1.8% a 60 días.",2026-10-15T15:09Z
+2026-10-15,03-lucía,comprar,XLK,10.166141,187.9439,1910.66,"Sector tecnológico muestra impulso sostenido, precio > media 50 días, rentabilidad +2.1% a 60 días.",2026-10-15T15:09Z
+2026-10-15,04-tomás,vender,AAPL,0.870777,344.3477,299.85,Asegurar parte de la ganancia (+12.7%) y generar efectivo para posibles oportunidades sin superar el límite de compra.,2026-10-15T15:09Z
+2026-10-15,05-bernardo,vender,AXP,0.6446,310.1149,199.9,Reducir peso de 17 % a ~15 % para cumplir la regla del 20 % y evitar sobreexposición.,2026-10-15T15:10Z
+2026-10-15,05-bernardo,vender,KO,1.076195,92.8735,99.95,Bajar peso de 21 % a <=20 % y respetar límite de posición.,2026-10-15T15:10Z
+2026-10-15,06-carmen,vender,NVDA,3.623946,216.8415,785.82,Posición -3.8% y stop de 2% activado; limitar pérdidas y liberar efectivo.,2026-10-15T15:11Z
+2026-10-15,06-carmen,vender,AMAT,3.007705,428.2208,1287.96,Posición -0.3% pero cerca del stop y sin señal de compra; reducir exposición a sectores sin apoyo del Congreso.,2026-10-15T15:11Z

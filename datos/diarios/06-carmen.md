@@ -1541,3 +1541,33 @@ Valor de la cartera: 10,116.05 $
 **Plan de rescate.** Venderé $1,200 de NVDA (aprox. 5.4 uds) para liberar efectivo y reducir la exposición a un activo que ya está bajo presión. Mantendré AMAT, MSFT y AAPL, que están en territorio positivo y con stops cómodos. No compraré nada nuevo hasta recibir una señal clara de compra múltiple del Congreso; usaré el efectivo restante ($2,029) solo si se cumple esa condición. Evitaré operar con apalancamiento o posiciones cortas y no moveré más del 20 % de la cartera en una sola acción.
 
 Valor de la cartera: 10,026.13 $
+
+## 2026-10-15
+
+**Nota de mi predicción del 2026-10-08.** Dije que NVDA lo haría mejor que el S&P 500: hizo -8.1% frente a -0.6%. Fallo.
+
+## 2026-10-15
+
+**Voy a vender NVDA y AMAT para limitar pérdidas y conservar efectivo, sin abrir nuevas posiciones hasta obtener una señal clara del Congreso.**
+
+**Mercado.** El mercado sigue al alza moderada, el S&P 500 ha subido +1.99% en el periodo. La volatilidad es baja y no hay eventos macro importantes hoy.
+
+**Noticias.** Los últimos reportes del Congreso no muestran compras conjuntas relevantes; la noticia de la aprobación de la Ley de Infraestructura sugiere oportunidades en construcción, pero sin señales de compra de congresistas. Además, NVDA reportó una leve caída tras datos de ventas menores a lo esperado, lo que refuerza la decisión de reducir exposición.
+
+**A favor.** Vender NVDA y AMAT protege el capital frente a caídas continuas y libera efectivo para una futura señal del Congreso, alineado con la regla de no arriesgar demasiado para remontar.
+
+**En contra.** Podría perder una posible recuperación de NVDA, pero el riesgo de una caída mayor supera el posible upside y mi posición ya está bajo el stop del 2% en los primeros cinco días.
+
+**Operaciones**
+- **Vender** 3.6239 NVDA a 216.84 $ (785.82 $). Posición -3.8% y stop de 2% activado; limitar pérdidas y liberar efectivo.
+- **Vender** 3.0077 AMAT a 428.22 $ (1,287.96 $). Posición -0.3% pero cerca del stop y sin señal de compra; reducir exposición a sectores sin apoyo del Congreso.
+
+**Riesgos.** Riesgo de quedar demasiado en efectivo y seguir bajo el S&P 500; riesgo de que una señal del Congreso aparezca y no pueda aprovecharla por falta de posición.
+
+**Plan.** Vigilaré los reportes de compras del Congreso en los próximos dos días; si aparecen al menos dos congresistas comprando la misma acción, usaré el efectivo disponible para comprarla con stop 8%. Mantendré los stops actuales en AAPL y MSFT y revisaré su evolución diariamente.
+
+**Mi puesto.** Voy 2.90 puntos por detrás del S&P 500; con el rescate intento limitar pérdidas y esperar una señal clara para volver a invertir.
+
+**Plan de rescate.** Venderé NVDA (toda la posición) y AMAT (toda la posición) para reducir exposición a acciones con pérdidas y liberar $4,428 en efectivo. Mantendré AAPL y MSFT por su rendimiento positivo y respetaré sus stops actuales. No abriré nuevas compras hasta que el Congreso publique al menos dos compras simultáneas en un mismo ticker; así evito arriesgar demasiado y cumplo con la regla de no superar el 20% por valor. Además, aplicaré el stop de 2% en los primeros cinco días a cualquier nueva posición que abra en el futuro.
+
+Valor de la cartera: 9,907.97 $

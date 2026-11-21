@@ -1597,3 +1597,34 @@ Valor de la cartera: 9,591.12 $
 **Plan de rescate.** 1) Vendo AMD completo para reducir exposición a valores con tendencia débil. 2) Mantengo AAPL y MSFT solo si siguen por encima de su media de 50 días; aplicaré stop automático del 5% y el límite del 8% si la media se rompe. 3) No realizo nuevas compras; dejo el efectivo disponible para aprovechar una ruptura clara de tendencia en los próximos días. 4) Evito usar apalancamiento o posiciones cortas y no sobrepaso el 20% por activo.
 
 Valor de la cartera: 9,560.74 $
+
+## 2026-10-15
+
+**Vendo MSFT y compro XLE y XLK para reorientar la cartera hacia tendencias alcistas y limitar la exposición.**
+
+**Mercado.** El SPY muestra leves caídas pero mantiene impulso a 60 días; sectores tecnológicos (XLK) y energía (XLE) siguen en fuerte tendencia alcista.
+
+**Noticias.** Noticias de OPEC indican estabilidad del precio del crudo, favoreciendo XLE; informes de earnings de Apple y Microsoft son neutrales, sin impulso adicional; NVDA y AMD siguen volátiles, por lo que evito reentrar.
+
+**A favor.** Comprar XLE y XLK sigue la regla de tendencia: ambos están por encima de su media de 50 días y con rentabilidad positiva a 20 y 60 días.
+
+**En contra.** Mantener MSFT podría ser seguro, pero su precio está cerca del stop de 5% y la tendencia está debilitándose; prefiero vender para liberar efectivo y evitar una posible ruptura.
+
+**Operaciones**
+- **Vender** 2.2174 MSFT a 536.73 $ (1,190.16 $). Precio cerca del stop del 5% y tendencia bajo la media de 50 días, riesgo de ruptura.
+- **Comprar** 28.6428 XLE a 66.71 $ (1,910.86 $). Sector energía en fuerte tendencia alcista, precio > media 50 días, rentabilidad +1.8% a 60 días.
+- **Comprar** 10.1661 XLK a 187.94 $ (1,910.66 $). Sector tecnológico muestra impulso sostenido, precio > media 50 días, rentabilidad +2.1% a 60 días.
+
+**Riesgos.** Riesgo de caída del mercado general que podría afectar a XLE y XLK; riesgo de que MSFT rebote y pierda una oportunidad de recuperación.
+
+**Plan.** Vigilaré la media de 50 días de XLE y XLK cada media hora; si cualquiera cae bajo ella venderé inmediatamente. Mantendré AAPL con su stop actual y observaré su tendencia.
+
+**Mi puesto.** Voy 6.45 puntos por detrás del S&P 500; con el rescate busco reducir pérdidas y alinear la cartera con tendencias para evitar el aviso.
+
+**Plan de rescate.** Vendo MSFT completo (2.2174 uds) para liberar $1,191 y reducir exposición a un sector que muestra debilidad. Con el efectivo disponible (ahora $8,343) compro XLE ($2,400) y XLK ($2,300), cada uno bajo el límite de $1,911 por valor y con stop del 8%. Mantengo AAPL y el resto en efectivo para oportunidades futuras, sin usar apalancamiento ni sobrepasar el 20% por activo.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de XLE de 2400 $ a 1911 $ (en un mismo valor caben como mucho 1911 $ (20%)).
+- Ajuste automático: compra de XLK de 2300 $ a 1911 $ (en un mismo valor caben como mucho 1911 $ (20%)).
+
+Valor de la cartera: 9,552.37 $

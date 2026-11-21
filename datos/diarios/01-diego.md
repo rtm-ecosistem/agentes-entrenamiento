@@ -1565,3 +1565,32 @@ Bloqueado por las reglas de riesgo:
 - Compra de AAPL rechazada: en un mismo valor caben como mucho 1869 $ (20%).
 
 Valor de la cartera: 9,346.81 $
+
+## 2026-10-15
+
+**Nota de mi predicción del 2026-10-08.** Dije que NVDA lo haría mejor que el S&P 500: hizo -8.1% frente a -0.6%. Fallo.
+
+## 2026-10-15
+
+**Vendo NVDA para reducir pérdidas y añado SPY como exposición de mercado, manteniendo CVX, AAPL y MSFT.**
+
+**Mercado.** El mercado se mantiene volátil; el S&P 500 sube 0,8 % hoy, pero mi cartera está 8,9 puntos por detrás. Los sectores energéticos y tecnológicos siguen con movimientos moderados.
+
+**Noticias.** No hay titulares claros de mejora o empeoramiento para mis posiciones actuales. El informe de analistas sugiere recortar NVDA y reforzar CVX y AAPL, pero CVX ya está en su límite de 20 %. No hay nuevas buenas noticias que justifiquen compras adicionales.
+
+**A favor.** Mantener CVX, AAPL y MSFT sigue la regla de no sobrepasar el 20 % y aprovecha las ganancias actuales. Vender NVDA elimina una pérdida del -3,9 % y reduce la exposición total.
+
+**En contra.** Podría perder la oportunidad de un rebote en NVDA, pero el riesgo de seguir perdiendo supera el beneficio potencial. Además, mi posición en NVDA ya es la única con pérdida significativa.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es la caída del mercado que podría llevar mi cartera a la zona de 10 % de caída. Mantener efectivo ayuda a evitar sobreexposición y permite reaccionar a oportunidades de mercado.
+
+**Plan.** Vigilaré los precios de CVX, AAPL y MSFT cada media hora; si alguno cae por debajo de su stop, cerraré la posición. También observaré el rendimiento de SPY para asegurar que mi exposición de mercado no supere el 20 %.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 8,9 puntos; con la venta de NVDA y la compra de SPY, busco estabilizar la cartera y evitar la caída del 10 %.
+
+**Plan de rescate.** Para salvar el puesto, mantendré las posiciones ganadoras (CVX, AAPL, MSFT) y venderé NVDA para reducir la pérdida. Añadiré SPY como exposición de mercado, limitando su peso al 20 % del valor total. No tomaré posiciones nuevas en radar ni sobreexpondré ninguna acción. Con esta estrategia, mi cartera se vuelve más defensiva y evita la caída del 10 %.
+
+Valor de la cartera: 9,308.39 $
