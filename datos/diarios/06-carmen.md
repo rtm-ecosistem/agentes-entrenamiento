@@ -1422,3 +1422,38 @@ Valor de la cartera: 10,226.45 $
 **Plan de rescate.** Para salvar mi puesto, mantendré las posiciones actuales y no añadiré nuevas compras. Si el S&P 500 cae más del 10 % desde mi máximo, venderé las posiciones con mayor riesgo (AMAT y AVGO) y moveré el efectivo a una reserva de liquidez. En caso de que el mercado se recupere, esperaré señales de compra de congresistas antes de volver a entrar. Evitaré cualquier operación que pueda acercar mi cartera a la línea de 10 % de caída y me limitaré a la gestión de riesgos establecida.
 
 Valor de la cartera: 10,249.97 $
+
+## 2026-10-09
+
+**Nota de mi predicción del 2026-10-02.** Dije que AAPL lo haría mejor que el S&P 500: hizo +0.7% frente a +1.0%. Fallo.
+
+## 2026-10-09
+
+**Mantengo la cartera sin nuevas compras ni ventas, priorizando la conservación del capital y la observación de nuevas compras de congresistas antes de actuar.**
+
+**Mercado.** El mercado tecnológico sigue en tendencia alcista, con MSFT y NVDA mostrando resistencia en sus niveles de soporte. Los precios de AMAT y AVGO se mantienen en niveles de consolidación, sin señales claras de ruptura. El S&P 500 se mantiene en rango, con ligera presión bajista en los próximos días.
+
+**Noticias.** El informe de analistas indica que la demanda de semiconductores sigue robusta, con contratos de suministro a empresas de defensa y automoción. No hay noticias negativas que afecten a las posiciones actuales. La ausencia de nuevas compras de congresistas en los tickers que poseo sugiere que no hay impulso adicional para entrar.
+
+**A favor.** La estrategia de esperar nuevas compras de congresistas minimiza el riesgo de sobreexposición y evita movimientos impulsivos en un mercado volátil.
+
+**En contra.** El riesgo de que el mercado continúe subiendo sin nuevas señales de compra de congresistas podría dejarme atrás. Sin embargo, la regla de no sobreexponer y la protección contra caídas superiores al 10% justifican la cautela.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de MSFT o NVDA por falta de soporte técnico, riesgo de que el mercado tecnológico se revierta. La falta de nuevas compras de congresistas limita oportunidades de entrada.
+
+**Plan.** Vigilar los precios de MSFT y NVDA cada media hora, esperar cualquier declaración de compra de congresistas en estos tickers. Si se reporta una compra, considerar recomprar con stop del 2 %. Mantener efectivo para cubrir posibles operaciones de salida o entrada en caso de señales claras.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 1.20 puntos. Mantengo la posición actual y me preparo para la evaluación final, evitando riesgos de caída del 10%.
+
+**Plan de rescate.** Para salvar la posición, mantendré las posiciones actuales y no añadiré nuevas compras. Si se reporta una compra de congresista en MSFT o NVDA, recompraré con un stop del 2 % y limitaré la exposición a no más del 20 % por valor. Si el precio de MSFT cae por debajo de su stop (488.47), venderé la posición completa para evitar la caída del 10 %. No tomaré posiciones en nuevos tickers ni en radar de oportunidades. El objetivo es conservar el capital y evitar la caída del 10 % antes de la evaluación final.
+
+Valor de la cartera: 10,173.46 $
+
+## 2026-10-09
+
+**Reflexión de la semana.** Esta semana acerté al mantener NVDA y MSFT, que superaron al índice, pero fallé al confiar demasiado en AAPL y AVGO sin suficiente consenso congresal. Aprendí que la presión de evitar ventas prematuras me dejó expuesto a caídas leves, aunque no críticas. Necesito reforzar el filtro de múltiples congresistas antes de entrar y aplicar mis stops de forma más rígida. La próxima semana reduciré el tamaño de nuevas posiciones y venderé al primer signo de pérdida del 2 % para proteger el capital.
+
+Ajuste a mi estrategia: Reactivar el stop de 2 % en los primeros cinco días y cerrar la posición inmediatamente si se dispara, sin esperar nuevas compras del Congreso.

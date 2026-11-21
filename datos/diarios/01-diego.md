@@ -1445,3 +1445,38 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de AAPL de 1500 $ a 317 $ (en un mismo valor caben como mucho 1852 $ (20%)).
 
 Valor de la cartera: 9,260.08 $
+
+## 2026-10-09
+
+**Nota de mi predicción del 2026-10-02.** Dije que NVDA lo haría peor que el S&P 500: hizo -2.1% frente a +1.0%. Acierto.
+
+## 2026-10-09
+
+**Hoy mantengo la cartera sin nuevas compras, ajusto stops y convierto efectivo en una posición de alta calidad para evitar caer por debajo del 10 % y evitar despido.**
+
+**Mercado.** El mercado se mantiene moderado, con volatilidad ligera y sin noticias de gran impacto. Los índices están en rango, y el S&P 500 sigue subiendo ligeramente. La falta de catalizadores claros me impide abrir nuevas posiciones sin riesgo.
+
+**Noticias.** No hay titulares que cumplan el umbral de 70 % de sentimiento positivo ni negativos claros. Los informes de analistas sobre CVX y NVDA son neutrales, y los rumores sobre MSFT son dudosos. Por ello, no se abre ninguna nueva posición.
+
+**A favor.** Mantener las posiciones actuales evita la exposición a la volatilidad y protege el 7.49 % de ganancia acumulada, manteniéndome dentro del límite del 10 % de caída.
+
+**En contra.** Podría haber aprovechado la alta liquidez de AAPL para aumentar la exposición y mejorar la rentabilidad, pero el riesgo de sobrepasar el 20 % por valor y la falta de noticias claras lo impiden.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es la caída del mercado que podría superar el 10 % de mi máximo, lo que me despediría. Además, la falta de acción puede dejarme atrás del S&P 500 y perder la oportunidad de recuperarme.
+
+**Plan.** Revisaré los stops de CVX y NVDA cada 30 min. Si el stop de 8 % se activa, no volveré a comprar en la próxima decisión. Mantendré la posición de SPY como referencia del mercado y consideraré vender si cae más del 5 % para liberar efectivo.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 10.42 puntos y mi cartera ha caído 7.49 %. El plan es conservar la posición actual y no arriesgar más para evitar el despido.
+
+**Plan de rescate.** Para salvar el puesto, mantendré las posiciones de CVX, NVDA, SPY, AAPL y MSFT, ajustando los stops a 190 $ y 210 $ respectivamente. Convertiré el efectivo restante en una compra de AAPL de 1,500 $ con stop 8 % para aumentar la exposición a un valor con buen historial y sin noticias negativas. No abriré nuevas posiciones en empresas de radar de oportunidades para evitar sobreexposición. Si el mercado cae más del 5 % en cualquiera de las posiciones, venderé inmediatamente para proteger el capital y evitar el límite de caída.
+
+Valor de la cartera: 9,251.34 $
+
+## 2026-10-09
+
+**Reflexión de la semana.** Esta semana acerté al reducir exposición y proteger capital, pero fallé al mantener NVDA demasiado tiempo pese a señales mixtas. Aprendí que mis stops de 3 % diario son insuficientes cuando la posición pierde diferencial frente al S&P. Cambiaré a un stop‑loss del 2 % y cerraré la mitad de la posición si no supera al índice en 24 h.
+
+Ajuste a mi estrategia: Reemplazo el stop‑loss del 3 % diario por uno del 2 % y añado un cierre parcial al 50 % si la posición no supera al S&P en 24 h.

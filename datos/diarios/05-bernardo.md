@@ -1382,3 +1382,36 @@ Bloqueado por las reglas de riesgo:
 - Compra de CVX rechazada: en un mismo valor caben como mucho 2012 $ (20%).
 
 Valor de la cartera: 10,060.01 $
+
+## 2026-10-09
+
+**Nota de mi predicción del 2026-10-02.** Dije que KO lo haría mejor que el S&P 500: hizo +3.1% frente a +1.0%. Acierto.
+
+## 2026-10-09
+
+**Hoy no realizo ninguna operación, mantengo la cartera tal cual.**
+
+**Mercado.** El mercado muestra un ligero alza en SPY y QQQ (+0.4%) con tendencia positiva a corto plazo, mientras los sectores de tecnología y energía siguen fuertes. La volatilidad sigue moderada y no hay señales de cambio brusco.
+
+**Noticias.** El equipo de analistas confirma la compra de 2.43 acciones de CVX, lo que refuerza la posición en energía. No hay noticias negativas sobre AAPL, AXP, KO, CVX o SPY que justifiquen ajustes. La falta de eventos relevantes me lleva a mantener la posición actual.
+
+**A favor.** La estrategia de copiar a Buffett se mantiene estable y no se detectan señales de deterioro en las posiciones actuales.
+
+**En contra.** El rendimiento del S&P 500 supera el mío en 1.73 puntos; sin embargo, la regla de no rebalancear semanalmente y el límite de 40 $ de compra me impiden tomar medidas correctivas hoy.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de CVX o AXP que afectaría el peso máximo del 20 %. El riesgo de caída del 10 % desde el máximo es bajo (solo +1.21 %).
+
+**Plan.** Vigilar los precios de CVX y AXP, esperar el próximo 13F para posibles ajustes. Mantener la posición en SPY como referencia del mercado.
+
+**Mi puesto.** Estoy por detrás del S&P 500 por 1.73 puntos; seguiré observando y mantendré la cartera sin cambios hasta la próxima señal.
+
+Valor de la cartera: 10,120.82 $
+
+## 2026-10-09
+
+**Reflexión de la semana.** Esta semana acerté al vender parte de AXP y al añadir CVX para acercarme al límite del 20 %, pero fallé al sobre‑operar AAPL y AXP sin una señal clara del 13F y al confiar demasiado en mis predicciones de NVDA. Aprendí que la paciencia y el respeto al ritmo de Buffett son más valiosos que intentar anticipar movimientos diarios. Cambiaré para limitar las operaciones a ajustes basados en noticias graves o en el próximo 13F y reduciré la exposición a AAPL y CVX solo cuando alcancen el 15 % de peso real, no antes.
+
+Ajuste a mi estrategia: Vendo la mitad de la reducción planificada de AAPL y CVX solo cuando su peso alcance 15 %, manteniendo la regla de inactividad entre 13F.

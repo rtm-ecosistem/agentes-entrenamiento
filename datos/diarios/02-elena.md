@@ -1366,3 +1366,38 @@ Valor de la cartera: 9,997.66 $
 **Plan de rescate.** Para salvar el puesto, mantendré la posición actual en SPY y VTI, venderé GLD 500 USD para reducir la pérdida y usaré el efectivo para comprar QQQ 1,500 USD. No aumentaré exposición a bonos ni a oro, y evitaré compras de empresas jóvenes por riesgo adicional.
 
 Valor de la cartera: 10,009.55 $
+
+## 2026-10-09
+
+**Nota de mi predicción del 2026-10-02.** Dije que GLD lo haría mejor que el S&P 500: hizo +0.9% frente a +1.0%. Fallo.
+
+## 2026-10-09
+
+**Mantengo la cartera tal cual, sin operar hoy, y preparo un plan de rescate prudente.**
+
+**Mercado.** El mercado sigue con ligera tendencia alcista; SPY y QQQ suben 0.4 % y mantienen 5‑días positivos. Los bonos IEF y GLD están en zona de soporte, con precios ligeramente por debajo del stop de 8 %.
+
+**Noticias.** La última actualización indica que la Fed mantiene tipos de interés estables y la inflación se mantiene en niveles moderados. No hay crisis de liquidez ni eventos macro que justifiquen un cambio drástico. El sector energético XLE sigue fuerte, pero no afecta a la diversificación actual.
+
+**A favor.** El riesgo de perder más se minimiza al no aumentar exposición en un momento de volatilidad moderada; la estrategia de rebalanceo mantiene la diversificación y evita sobrepasar el 20 % por ETF.
+
+**En contra.** Podría haber una oportunidad de comprar un pequeño peso en un ETF tecnológico si la tendencia se acelera, pero el riesgo de caer por debajo del stop de 8 % es mayor que el beneficio potencial.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de 10 % desde el máximo si el mercado se vuelve brusco; riesgo de que el S&P 500 continúe su impulso alcista y nos deje más atrás.
+
+**Plan.** Vigilar los precios de SPY, VTI, QQQ y los bonos IEF/GLD; revisar la exposición a bonos si los tipos suben. Si el mercado cae 5 % en la próxima semana, considerar mover parte de SPY a IEF para reforzar la defensa.
+
+**Mi puesto.** Estamos 2.41 puntos por detrás del S&P 500; el plan es no arriesgar más y mantener la posición actual.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la cartera tal cual, sin comprar ni vender. Si el mercado cae 5 % en la próxima semana, venderé 10 % de SPY y VTI y reinvertiré en IEF y GLD para reforzar la defensa. No haré compras de empresas de alto crecimiento ni aumentaría la exposición a tecnología. El objetivo es evitar la caída del 10 % y quedarme con un pequeño margen de diferencia respecto al S&P 500.
+
+Valor de la cartera: 10,052.53 $
+
+## 2026-10-09
+
+**Reflexión de la semana.** Esta semana reforcé la exposición tecnológica con QQQ, pero eso no mejoró mi rentabilidad frente al S&P 500. Fallé al confiar demasiado en predicciones de NVDA y QQQ sin evidencia clara. Aprendí que mi enfoque prudente debe priorizar la preservación de capital sobre apuestas sectoriales. La próxima semana reduciré nuevas compras de QQQ y me centraré en mantener la distribución actual, añadiendo bonos si el mercado muestra señales de caída.
+
+Ajuste a mi estrategia: Si una posición supera el 18 % venderé solo el 25 % en lugar de la mitad, para limitar la rotación y preservar la exposición ganadora.

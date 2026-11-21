@@ -1336,3 +1336,36 @@ Valor de la cartera: 10,402.36 $
 **Mi puesto.** Estoy por delante del S&P 500 en 3.67 puntos, con rentabilidad +3.86 %. Mantengo la disciplina y no arriesgo más de 8 % de la cartera en una sola posición.
 
 Valor de la cartera: 10,385.64 $
+
+## 2026-10-09
+
+**Nota de mi predicción del 2026-10-02.** Dije que NVDA lo haría peor que el S&P 500: hizo -2.1% frente a +1.0%. Acierto.
+
+## 2026-10-09
+
+**Hoy compraré IBM en lotes de 800 USD con stop del 8 % y no venderé ninguna posición.**
+
+**Mercado.** El mercado sigue alcista, con SPY y QQQ subiendo ligeramente (+0.4 %) y los sectores de tecnología y energía mostrando buen rendimiento. El índice de bonos a largo plazo continúa en caída, lo que sugiere presión sobre la curva de rendimiento.
+
+**Noticias.** El informe destaca la salida de resultados de TSM (+5 %) y el impulso de CRWD (+31 %) en los últimos 20 días, pero no hay noticias negativas que justifiquen caídas de precios en las empresas que poseemos. IBM ha mostrado una corrección de 60 días de 12 % sin fundamentos negativos, lo que la convierte en una oportunidad de compra.
+
+**A favor.** IBM está subiendo a 226 USD, 12 % por debajo de su máximo de 60 días, con un stop de 8 % que protege contra caídas repentinas. La compra de 800 USD mantiene la posición dentro del límite del 20 % y no excede el 50 % de la cartera.
+
+**En contra.** El riesgo de que el mercado se revierta y empuje a IBM bajo el stop es real, pero la corrección sostenida y la ausencia de noticias negativas reducen ese riesgo. Decido comprar porque la oportunidad de valor supera el riesgo potencial.
+
+**Operaciones**
+- **Comprar** 3.5315 IBM a 226.53 $ (800.00 $). Corrección de 12 % en 60 días sin fundamentos negativos; stop del 8 % protege contra caídas repentinas.
+
+**Riesgos.** Posible caída del mercado que active el stop de IBM, reduciendo la cartera a 902 USD de efectivo. También existe el riesgo de que IBM no recupere el 15 % sobre el coste antes de que se cierre el periodo.
+
+**Plan.** Vigilaré el precio de IBM cada 30 minutos y el nivel de stop. Si el precio sube un 15 % sobre el coste, consideraré vender parcialmente. Si el precio cae por debajo del stop, la posición se cerrará automáticamente.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 4.37 puntos; mantendré la posición y buscaré oportunidades de compra de valor sin exceder el límite de riesgo.
+
+Valor de la cartera: 10,483.77 $
+
+## 2026-10-09
+
+**Reflexión de la semana.** Esta semana acerté al vender GOOGL y liberar efectivo para entrar en JNJ, lo que mejoró ligeramente mi cartera. Fallé al comprar IBM sin esperar una confirmación más fuerte de la corrección, lo que me expuso a un riesgo mayor. Aprendí que mi ajuste de reducir el umbral de corrección a 5‑7% puede ser demasiado agresivo cuando la noticia no es claramente de pánico. La próxima semana aplicaré una verificación adicional del volumen y la tendencia antes de comprar IBM o cualquier acción similar.
+
+Ajuste a mi estrategia: Reemplazar el ajuste de 5‑7% de corrección por un rango mínimo del 6% cuando la noticia sea ambigua, manteniendo la regla de 30‑días.

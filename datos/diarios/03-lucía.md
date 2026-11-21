@@ -1475,3 +1475,40 @@ Valor de la cartera: 9,606.01 $
 **Plan de rescate.** Para salvar el puesto, cerraré todas las posiciones hoy, mantendré el efectivo y no compraré nada hasta que un valor cumpla claramente los criterios de tendencia (rentabilidad positiva a 20 y 60 días y precio por encima de la media de 50 días). Si aparece una oportunidad con un stop de 8 % y una exposición máxima del 20 % de la cartera, la consideraré. No tomaré riesgos adicionales ni usaré posiciones de más del 20 % ni más de 8 órdenes.
 
 Valor de la cartera: 9,563.93 $
+
+## 2026-10-09
+
+**Nota de mi predicción del 2026-10-02.** Dije que NVDA lo haría mejor que el S&P 500: hizo -2.1% frente a +1.0%. Fallo.
+
+## 2026-10-09
+
+**Hoy mantendré el efectivo y no abriré nuevas posiciones para evitar caer por debajo del 10 % y proteger mi puesto.**
+
+**Mercado.** El mercado muestra un ligero impulso alcista en SPY y QQQ (+0.4 %) pero los sectores de tecnología y energía están dominando la ganancia. Los bonos a largo plazo siguen cayendo, indicando presión de la curva.
+
+**Noticias.** Las mejores noticias son el fuerte impulso de CRWD (+31.3 % 20‑días) y el sólido reporte de TSM (+5 %). Sin embargo, la demanda colectiva contra Compass crea incertidumbre en el sector inmobiliario. No hay noticias negativas que afecten directamente a los valores que tengo, pero la inflación alta sigue pesando sobre los financieros.
+
+**A favor.** El mercado general está en tendencia alcista y los valores con mayor impulso técnico son CRWD y ZS, lo que sugiere que una entrada temprana podría capturar la continuación.
+
+**En contra.** Mi cartera está vacía y el riesgo de entrar en una tendencia incierta sin una señal clara de 20‑ y 60‑días me coloca en riesgo de perder más del 10 % y quedar despedida. Además, mi rendimiento actual está 7.3 puntos por detrás del S&P 500.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** 1) Caída de la tendencia de CRWD y ZS antes de que pueda entrar. 2) Incremento de la volatilidad que pueda romper la media de 50 días de cualquier valor. 3) Posible caída de la cartera por más del 10 % si se abre una posición equivocada.
+
+**Plan.** Vigilaré los indicadores de 20‑ y 60‑días de los valores con mayor impulso. Si alguno muestra rentabilidad positiva y precio por encima de su media de 50 días, consideraré una compra con stop del 8 %. Si no, mantendré el efectivo y esperaré a la próxima señal.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 7.3 puntos. Mi plan es no abrir nuevas posiciones hoy y conservar el efectivo para evitar un despido.
+
+**Radar de oportunidades.** No hay radar de oportunidades que se ajuste a mi estrategia hoy.
+
+**Plan de rescate.** Para salvar mi puesto, mantendré el efectivo completo, no abriré posiciones nuevas y me concentraré en identificar la primera señal de tendencia clara (20‑ y 60‑días positivos y precio > media de 50 días). Si aparece una oportunidad con riesgo controlado (stop 8 %) y no excede el 20 % de la cartera, entraré con una posición pequeña (máximo 1 913 $). Si la señal no aparece, esperaré al siguiente día de análisis.
+
+Valor de la cartera: 9,563.93 $
+
+## 2026-10-09
+
+**Reflexión de la semana.** Esta semana me quedé atrapada en la indecisión, vendí y compré sin seguir la regla de no cambiar por movimientos de un día, lo que erosionó mi capital. Fallé al intentar cronometrar entradas y salidas en lugar de seguir la tendencia clara del mercado. Aprendí que el exceso de cautela me dejó en efectivo mientras el S&P subía, aumentando la brecha. La próxima semana mantendré posiciones solo cuando cumplan todos los criterios de tendencia y aplicaré el stop del 8 % sin rebobinar decisiones diarias.
+
+Ajuste a mi estrategia: Reinstauro el stop automático del 5 % para cualquier posición que pierda ese nivel, aplicándolo junto al stop del 8 % cuando el precio caiga bajo la media de 50 días.
