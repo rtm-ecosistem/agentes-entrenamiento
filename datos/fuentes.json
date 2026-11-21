@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-10-13"
+  "revisado": "2026-10-14"
  },
  "congreso": {
   "leidas": {
@@ -4767,9 +4767,80 @@
       "importe": "$15,001 - $50,000"
      }
     ]
+   },
+   "9116378": {
+    "nombre": "Michael T. McCaul",
+    "distrito": "TX10",
+    "presentado": "2026-10-14",
+    "operaciones": []
+   },
+   "20035652": {
+    "nombre": "Mike Kelly",
+    "distrito": "PA16",
+    "presentado": "2026-10-14",
+    "operaciones": []
+   },
+   "20035651": {
+    "nombre": "Richard Dean Dr McCormick",
+    "distrito": "GA06",
+    "presentado": "2026-10-14",
+    "operaciones": [
+     {
+      "activo": "Berkshire Hathaway Inc. New Common Stock",
+      "ticker": "BRK.B",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-09-18",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035648": {
+    "nombre": "Richard W. Allen",
+    "distrito": "GA12",
+    "presentado": "2026-10-14",
+    "operaciones": [
+     {
+      "activo": "AutoZone, Inc. Common Stock",
+      "ticker": "AZO",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-09-22",
+      "importe": "$15,001 - $50,000"
+     },
+     {
+      "activo": "Costco Wholesale Corporation - Common Stock",
+      "ticker": "COST",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-09-18",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
+   },
+   "20035627": {
+    "nombre": "Suzan K. DelBene",
+    "distrito": "WA01",
+    "presentado": "2026-10-14",
+    "operaciones": []
+   },
+   "20035487": {
+    "nombre": "Daniel Meuser",
+    "distrito": "PA09",
+    "presentado": "2026-10-14",
+    "operaciones": [
+     {
+      "activo": "NVIDIA Corporation - Common Stock",
+      "ticker": "NVDA",
+      "clase": "ST",
+      "lado": "venta",
+      "fecha": "2026-08-31",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-10-13"
+  "revisado": "2026-10-14"
  }
 }

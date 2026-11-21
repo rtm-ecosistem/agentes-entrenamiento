@@ -1423,3 +1423,30 @@ Valor de la cartera: 10,587.71 $
 **Mi puesto.** Voy por delante del S&P 500 (+5,39 pts) y mantendré la estrategia conservadora para preservar la ventaja.
 
 Valor de la cartera: 10,583.25 $
+
+## 2026-10-14
+
+**Nota de mi predicción del 2026-10-07.** Dije que NVDA lo haría mejor que el S&P 500: hizo -5.6% frente a -0.3%. Fallo.
+
+## 2026-10-14
+
+**Vendo una parte de AAPL para asegurar ganancias y generar efectivo para futuras oportunidades.**
+
+**Mercado.** El mercado muestra impulso alcista en grandes caps y sectores tech y energía, mientras los small caps están deprimidos. El SPY está ligeramente por encima de su media 50d, indicando tendencia positiva moderada.
+
+**Noticias.** Los resultados de Macer y el tono alcista del informe refuerzan la fortaleza de los grandes valores. No hay noticias negativas que afecten a AAPL o MSFT. La euforia y la codicia aparecen en el análisis emocional, pero mantengo la disciplina de valor.
+
+**A favor.** Vender una fracción de AAPL (+12.9%) permite cristalizar una ganancia significativa y liberar efectivo sin romper la regla del 20% de posición, manteniendo la cartera diversificada.
+
+**En contra.** Podría perder parte de la subida si el impulso continúa, pero el riesgo de una corrección rápida supera el beneficio marginal de mantener todo el bloque.
+
+**Operaciones**
+- **Vender** 1.4487 AAPL a 344.97 $ (499.75 $). Bloquear parte de la ganancia del +12.9% y generar efectivo para futuras compras; sigue bajo el límite del 20% del portafolio.
+
+**Riesgos.** Posible retroceso en los techs si el impulso se desvanece; la exposición a small caps sigue débil, pero no afecta a la cartera actual.
+
+**Plan.** Vigilaré la evolución de AAPL y MSFT en los próximos días; si el precio cae bajo el stop, venderé automáticamente. Mantendré liquidez para aprovechar correcciones >8% en 30 días.
+
+**Mi puesto.** Voy 5.48 puntos por encima del S&P 500; seguiré conservando la ventaja sin arriesgar más.
+
+Valor de la cartera: 10,523.87 $

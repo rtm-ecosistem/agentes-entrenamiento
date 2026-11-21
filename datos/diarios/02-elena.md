@@ -1462,3 +1462,28 @@ Bloqueado por las reglas de riesgo:
 - Compra de IEF rechazada: en un mismo valor caben como mucho 2005 $ (20%).
 
 Valor de la cartera: 10,024.48 $
+
+## 2026-10-14
+
+**Vendo QQQ para reducir exposición a acciones volátiles y mantengo el efectivo como reserva.**
+
+**Mercado.** Los grandes índices (SPY, QQQ) siguen por encima de sus medias 50‑d, pero los small caps están muy deprimidos. El tono del informe es alcista, aunque la tendencia reciente del S&P 500 es a la baja.
+
+**Noticias.** El informe de analistas sugiere mover más efectivo a IEF y vender QQQ; no hay cambios macroeconómicos relevantes hoy. La inflación sigue alta y los tipos de interés no han bajado, lo que favorece los bonos. No hay radar de oportunidades.
+
+**A favor.** Vender QQQ elimina una posición que ya está con -2,9% y que representa el 10 % de la cartera, reduciendo la volatilidad y el riesgo de caída del 10 % que provocaría el despido.
+
+**En contra.** Vender ahora podría perder una posible recuperación de QQQ; sin embargo, mi objetivo es preservar capital y evitar una pérdida mayor, por lo que acepto el costo.
+
+**Operaciones**
+- **Vender** 1.3851 QQQ a 734.64 $ (1,017.55 $). Posición con -2,9% y peso 10 %; vender reduce exposición a volatilidad y protege contra caída del 10 %.
+
+**Riesgos.** El principal riesgo es que el mercado siga subiendo y pierda rendimiento relativo al S&P 500. Otro riesgo es que el efectivo quede sin generar retorno y la cartera quede demasiado defensiva.
+
+**Plan.** Vigilaré la evolución de SPY y VTI; si suben más del 1 % en dos días, consideraré usar el efectivo para comprar más de esos ETFs sin superar el 20 % de peso. También observaré cualquier señal de rebote en QQQ para una posible recompra futura.
+
+**Mi puesto.** Voy 2,78 puntos por detrás del S&P 500 y recibo un aviso; mi plan es limitar pérdidas y esperar una recuperación del mercado.
+
+**Plan de rescate.** 1) Vender QQQ completo (≈$735) y añadir el efectivo a la reserva, manteniendo el cash disponible para oportunidades defensivas. 2) No comprar nuevos activos hoy para no sobrepasar el límite del 20 % por posición. 3) Mantener los stops actuales en SPY, VTI, GLD e IEF. 4) En los próximos días, si el mercado muestra una clara tendencia alcista sostenida (SPY +1 % en 2‑3 sesiones), usaré hasta $500 del efectivo para reforzar SPY o VTI, siempre respetando el límite de peso. 5) Evitaré cualquier operación de alto riesgo o radar de oportunidades que supere el 5 % de la cartera.
+
+Valor de la cartera: 9,942.43 $

@@ -1533,3 +1533,35 @@ Valor de la cartera: 9,299.55 $
 **Plan de rescate.** Venderé 3 USD de NVDA (≈0,013 uds) para liberar efectivo y reducir peso a ~15 %. Reduciré CVX en $500 (≈2,29 uds) para bajar su peso a 15 % y alejarlo del stop. No compraré nuevas posiciones; usaré el efectivo liberado para cubrir posibles stops y mantener margen. No volveré a comprar NVDA ni CVX en la próxima decisión si se activa su stop. Mantendré AAPL y MSFT completos.
 
 Valor de la cartera: 9,369.85 $
+
+## 2026-10-14
+
+**Voy a recortar posiciones perdedoras y reforzar la exposición a CVX y AAPL, manteniendo el efectivo para oportunidades de corto plazo.**
+
+**Mercado.** El S&P 500 está en caída y el pánico ronda el 25 %. La presión por el límite del 10 % de caída es alta, por lo que el entorno es defensivo.
+
+**Noticias.** CVX subió +8,5 % tras resultados mejores de lo esperado; AAPL mantiene tendencia alcista con +4,2 % y buen flujo de pedidos; NVDA muestra ligera pérdida y no hay noticias positivas recientes; MSFT no tiene novedades y su rendimiento está cerca del promedio del sector.
+
+**A favor.** Reforzar CVX y AAPL aprovecha noticias claras y positivas, lo que alinea con mi estrategia de comprar solo tras buenas noticias.
+
+**En contra.** Mantener NVDA y MSFT podría ser costoso si el mercado sigue bajando, pero vender ahora podría cristalizar pérdidas; sin embargo, el stop ya está cerca y la regla de no sobre‑exponer me obliga a ser cauteloso.
+
+**Operaciones**
+- **Vender** 2.2340 NVDA a 223.70 $ (499.75 $). Pérdida ligera y falta de noticias; stop 2 % para proteger capital.
+- **Comprar** 2.1061 CVX a 220.14 $ (463.64 $). Resultados mejores de lo esperado, +8,5 % de ganancia y espacio de compra disponible.
+
+**Riesgos.** Riesgo de caída adicional del 10 % que dispararía el despido; posible reversión negativa de CVX si los precios del petróleo retroceden; volatilidad de NVDA podría generar pérdidas rápidas.
+
+**Plan.** Vigilaré la evolución de CVX y AAPL durante las próximas 48 h; si no superan al S&P 500, recortaré un 50 % de la posición. Mantendré NVDA y MSFT con sus stops actuales y los venderé si se activan.
+
+**Mi puesto.** Estoy 8,73 puntos por detrás del S&P 500 y a -6,53 % de mi máximo; el plan de rescate busca reducir riesgo y mejorar rentabilidad sin sobre‑exponer.
+
+**Plan de rescate.** 1) Venderé NVDA parcialmente: 500 USD (≈2,2 uds) con stop 2 % para limitar la pérdida. 2) Reforzaré CVX comprando 1 200 USD adicionales (≈5,5 uds) con stop 4 % dado su impulso positivo. 3) Incrementaré AAPL con 1 200 USD (≈3,5 uds) usando stop 5 % para capturar su tendencia alcista. 4) Mantendré el efectivo restante (~1 063 USD) como colchón y solo lo usaré si surge una noticia clara y positiva en los próximos días. No abriré nuevas posiciones de alto riesgo ni usaré radar de oportunidades.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de CVX de 1200 $ a 464 $ (en un mismo valor caben como mucho 1869 $ (20%)).
+
+Bloqueado por las reglas de riesgo:
+- Compra de AAPL rechazada: en un mismo valor caben como mucho 1869 $ (20%).
+
+Valor de la cartera: 9,346.81 $

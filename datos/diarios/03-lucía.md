@@ -1572,3 +1572,28 @@ Valor de la cartera: 9,561.54 $
 **Plan de rescate.** 1) Vendo toda la posición de NVDA (5.3087 uds, $1,195) al precio actual para evitar que el stop del 8% se active. 2) Reduzco AMD vendiendo $500 (≈0.85 uds) para liberar capital y bajar el peso de un activo que está estancado. 3) Mantengo AAPL y MSFT sin cambios, ya que siguen en tendencia positiva y están por encima de su media de 50 días. 4) No realizo nuevas compras hoy; dejo el efectivo (~$4,800) para aprovechar una señal clara de impulso técnico en los próximos días. 5) Reviso diariamente los indicadores de 20‑ y 60‑días y el precio respecto a la media de 50 días; solo compraré cuando ambos muestren rentabilidad positiva y precio por encima de la media.
 
 Valor de la cartera: 9,591.12 $
+
+## 2026-10-14
+
+**Vendo AMD completo y mantengo AAPL y MSFT; no compro nada nuevo.**
+
+**Mercado.** El mercado muestra un leve impulso alcista; SPY está 0.6% sobre su media de 50 días y QQQ también sube. Sin embargo, la volatilidad sigue alta y el S&P 500 ha registrado caídas recientes.
+
+**Noticias.** El informe de analistas indica tono alcista pero advierte sobre posibles correcciones tras el repunte reciente. No hay noticias negativas que afecten a AAPL o MSFT. La recomendación de vender NVDA y AMD coincide con mi revisión de tendencias.
+
+**A favor.** Vender AMD corta una posición con rentabilidad negativa (-0.8%) y libera $676, reduciendo exposición y evitando que el stop del 8% se active.
+
+**En contra.** Podría quedar demasiado en efectivo y perder rendimiento frente al S&P 500, pero comprar ahora implicaría arriesgar sin una tendencia clara; prefiero la seguridad.
+
+**Operaciones**
+- **Vender** 1.1607 AMD a 582.39 $ (676.00 $). Rentabilidad negativa (-0.8%) y falta de tendencia clara; liberar $676 para evitar stop del 8%.
+
+**Riesgos.** Riesgo de seguir bajo‑rendimiento si el mercado sigue subiendo y el efectivo no genera retorno. Riesgo de que AAPL o MSFT rompan su media de 50 días y caigan rápidamente.
+
+**Plan.** Vigilaré que AAPL y MSFT se mantengan por encima de su media de 50 días; si cualquiera cae bajo ella o pierde >8% venderé inmediatamente. Mantendré el efectivo para posibles oportunidades de tendencia fuerte la próxima semana.
+
+**Mi puesto.** Voy 6.59 puntos por detrás del S&P 500 y recibo aviso; mi plan de rescate busca limitar pérdidas y evitar el 10% de caída.
+
+**Plan de rescate.** 1) Vendo AMD completo para reducir exposición a valores con tendencia débil. 2) Mantengo AAPL y MSFT solo si siguen por encima de su media de 50 días; aplicaré stop automático del 5% y el límite del 8% si la media se rompe. 3) No realizo nuevas compras; dejo el efectivo disponible para aprovechar una ruptura clara de tendencia en los próximos días. 4) Evito usar apalancamiento o posiciones cortas y no sobrepaso el 20% por activo.
+
+Valor de la cartera: 9,560.74 $

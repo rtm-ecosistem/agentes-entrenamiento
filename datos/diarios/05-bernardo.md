@@ -1465,3 +1465,31 @@ Valor de la cartera: 10,229.40 $
 **Mi puesto.** Llevo +0,26 puntos frente al S&P 500 y mantengo la ventaja; seguiré conservador para no arriesgar la posición actual.
 
 Valor de la cartera: 10,315.91 $
+
+## 2026-10-14
+
+**Nota de mi predicción del 2026-10-07.** Dije que CVX lo haría mejor que el S&P 500: hizo +7.2% frente a -0.3%. Acierto.
+
+## 2026-10-14
+
+**Vendo parte de AAPL para rebajar su peso a 15% y compro AXP para acercarlo a 12%, manteniendo la disciplina entre 13F.**
+
+**Mercado.** El mercado muestra señales alcistas en los grandes caps (SPY +0.6% sobre su media 50d) mientras los small caps siguen débiles. La tendencia general es de recuperación moderada.
+
+**Noticias.** He revisado la noticia de que Apple reportó un trimestre sólido con ingresos por servicios en alza, pero el precio ya subió un 8.4% desde mi compra, lo que sugiere que parte del impulso ya está descontado. CVX ha tenido un buen desempeño (+12.4%) y no muestra señales de problemas. AXP muestra una caída del 7% y su precio está bajo su coste medio, lo que lo hace atractivo para comprar.
+
+**A favor.** Reducir AAPL ahora evita que una posición ya muy grande (20%) pese demasiado al portafolio y permite reequilibrar sin romper la regla del 20% por valor.
+
+**En contra.** Vender AAPL podría perder parte del impulso alcista reciente, pero el riesgo de sobreexposición supera ese beneficio y la regla de peso es prioritaria.
+
+**Operaciones**
+- **Vender** 1.4950 AAPL a 344.97 $ (515.74 $). Reducir peso de 20% a 15% según ajuste de estrategia; venta parcial para evitar sobreexposición.
+- **Comprar** 2.6005 AXP a 307.63 $ (800.00 $). Aprovechar la caída del 7% bajo el coste medio y acercar peso a ~12% dentro del límite del 20%.
+
+**Riesgos.** El principal riesgo es que el mercado siga subiendo y la venta de AAPL reduzca la rentabilidad futura. Otro riesgo es que AXP no recupere su nivel y empeore la rentabilidad del portafolio.
+
+**Plan.** Vigilaré el comportamiento de AAPL y AXP durante la semana; si AAPL vuelve a subir rápidamente, consideraré recomprar una fracción. Si AXP muestra señales de recuperación, podré aumentar ligeramente la posición.
+
+**Mi puesto.** Voy +0.97 puntos por delante del S&P 500; mantendré la ventaja sin arriesgar demasiado, siguiendo la regla de no caer más del 10% de mi máximo.
+
+Valor de la cartera: 10,317.13 $

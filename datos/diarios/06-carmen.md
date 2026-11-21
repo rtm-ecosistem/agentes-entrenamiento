@@ -1516,3 +1516,28 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de NVDA de 1500 $ a 1426 $ (en un mismo valor caben como mucho 2023 $ (20%)).
 
 Valor de la cartera: 10,116.05 $
+
+## 2026-10-14
+
+**Vendo parte de NVDA para limitar pérdidas y mantengo posiciones ganadoras mientras busco una nueva señal del Congreso.**
+
+**Mercado.** El S&P 500 está en caída y el sentimiento es de miedo y tensión; la volatilidad ha aumentado en los últimos días.
+
+**Noticias.** Los últimos informes del Congreso muestran compras de empresas de infraestructura y energía renovable, pero aún no se han reportado operaciones concretas para hoy. Además, se publica que la Fed mantiene la tasa al 5%, lo que presiona a sectores cíclicos.
+
+**A favor.** Reducir la exposición a NVDA, que lleva una pérdida del -0.7% y está cerca del stop, protege el capital y evita que el stop de 2 % se dispare.
+
+**En contra.** Vender ahora podría consolidar una pérdida pequeña, pero mantener la posición permite una posible recuperación si el sector de semiconductores rebota; sin embargo, el riesgo de caída mayor supera el beneficio potencial.
+
+**Operaciones**
+- **Vender** 5.3616 NVDA a 223.70 $ (1,199.40 $). Reducir exposición a NVDA que está cerca del stop del 2 % y limitar pérdidas potenciales.
+
+**Riesgos.** Posible caída adicional del mercado que arrastre a NVDA y a otras posiciones; falta de nuevas señales del Congreso que limiten oportunidades de compra.
+
+**Plan.** Vigilaré los reportes del Congreso durante los próximos dos días; si aparecen compras de al menos dos congresistas en una misma acción, usaré el efectivo disponible para comprarla con un stop del 8 %. Mantendré los stops actuales y observaré si NVDA rompe el stop del 2 % en los próximos cinco días.
+
+**Mi puesto.** Voy 1.94 puntos por detrás del S&P 500; con el rescate intento limitar pérdidas y buscar una señal clara para cerrar la brecha sin arriesgar demasiado.
+
+**Plan de rescate.** Venderé $1,200 de NVDA (aprox. 5.4 uds) para liberar efectivo y reducir la exposición a un activo que ya está bajo presión. Mantendré AMAT, MSFT y AAPL, que están en territorio positivo y con stops cómodos. No compraré nada nuevo hasta recibir una señal clara de compra múltiple del Congreso; usaré el efectivo restante ($2,029) solo si se cumple esa condición. Evitaré operar con apalancamiento o posiciones cortas y no moveré más del 20 % de la cartera en una sola acción.
+
+Valor de la cartera: 10,026.13 $
