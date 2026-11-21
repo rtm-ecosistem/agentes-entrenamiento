@@ -1521,3 +1521,42 @@ Valor de la cartera: 10,317.13 $
 **Mi puesto.** Voy 1,81 puntos por delante del S&P 500; mantengo la estrategia conservadora para preservar la ventaja y evitar riesgos de caída del 10 %.
 
 Valor de la cartera: 10,380.62 $
+
+## 2026-10-16
+
+**Nota de mi predicción del 2026-10-09.** Dije que NVDA lo haría mejor que el S&P 500: hizo -5.9% frente a -0.8%. Fallo.
+
+## 2026-10-16
+
+**Mantengo la posición de AAPL y CVX, vendo parte de KO para liberar peso y compramos AXP ligeramente, sin tocar SPY.**
+
+**Mercado.** El SPY sigue con ligera caída del -0.1 % hoy, pero su rendimiento a 60 días sigue positivo (+4.7 %) y sobre la media de 50 días (+0.4 %). El mercado de acciones tecnológicas muestra volatilidad, con QQQ y IWM en tendencia bajista. Los sectores industriales y de consumo se mantienen estables, lo que favorece a las posiciones de Berkshire en AAPL, CVX y KO.
+
+**Noticias.** 1) La SEC confirmó que Berkshire aumentó su posición en AXP en el último 13F, subiendo del 1.2 % al 1.5 % del portafolio. 2) AXP reportó un aumento del 3 % en ingresos del trimestre, impulsado por la expansión en la región de Asia-Pacífico. 3) La industria de combustibles, donde CVX opera, registró un aumento del 2 % en precios de crudo, lo que apoya la subida de sus acciones. 4) Se publicó un informe de riesgo regulatorio para el sector de consumo, pero no afecta a KO directamente. Estas noticias refuerzan la confianza en AXP y CVX y sugieren que AAPL mantenga su impulso.
+
+**A favor.** El aumento de la posición de Berkshire en AXP indica que el valor está alineado con la estrategia de Buffett; su reciente crecimiento de ingresos y la subida de precios del crudo respaldan la fortaleza de CVX. Mantener AAPL y CVX aprovecha su alta rentabilidad y su peso dentro del límite del 20 %.
+
+**En contra.** La posición de KO ya está al 20 % y su stop está en 77.58 $, por lo que cualquier caída menor a 4 % activaría la venta. Sin embargo, vender parte de KO libera peso para comprar AXP y evita sobrepeso en AXP y KO. Decido vender 50 % de KO y comprar 500 $ en AXP, manteniendo la regla de no rebalancear semanalmente salvo emergencias.
+
+**Operaciones**
+- **Vender** 10.6975 KO a 93.43 $ (999.50 $). Reducir peso al 15 % y liberar efectivo para la compra de AXP; el stop de KO está a 77.58 $ y la venta evita riesgo de caída.
+- **Comprar** 1.3730 AXP a 318.43 $ (437.20 $). Berkshire aumentó su posición y AXP mostró crecimiento de ingresos; el 500 $ está dentro del límite de 2 090 $ y el 50 % de la cartera.
+
+**Riesgos.** 1) Si el precio de KO cae por debajo de su stop, se venderá automáticamente, reduciendo la diversificación. 2) La volatilidad de AAPL podría acercarse a su stop de 306.39 $ si el mercado se vuelve más agresivo. 3) La exposición a combustibles (CVX) puede ser sensible a cambios regulatorios futuros.
+
+**Plan.** Vigilaré el precio de KO y su tendencia a corto plazo; si cae más de 4 %, se activará el stop. Monitorearé las noticias de AXP y el mercado de combustibles para ajustar la posición de CVX si es necesario. En los próximos días, esperaré el siguiente 13F para decidir si aumentamos o reducimos AAPL y CVX.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 2.39 puntos; mantengo la estrategia de copia y no veo necesidad de ajustes drásticos. Continuaré con la disciplina de Buffett y esperaré el próximo informe.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de AXP de 500 $ a 437 $ (en un mismo valor caben como mucho 2089 $ (20%)).
+
+Valor de la cartera: 10,446.99 $
+
+## 2026-10-16
+
+**Reflexión de la semana.** Esta semana acerté al seguir la disciplina de peso y limitar la exposición, pero fallé al confiar en predicciones de NVDA que resultaron negativas; aprendí que mi confianza media puede ser engañosa y que debo respetar más la regla de inactividad entre 13F; cambiaré a vender solo cuando el peso supere claramente los límites y evitaré nuevas apuestas en tecnología volátil; además, reforzaré la revisión de noticias antes de cualquier ajuste inesperado.
+
+Ajuste a mi estrategia: Venderé la mitad de cualquier posición solo cuando su peso supere 15 % y esperaré al próximo 13F antes de hacer ajustes menores, sin excepciones.

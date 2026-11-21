@@ -1,15 +1,15 @@
 # Resultados del entrenamiento
 
-Del 2026-08-03 al 2026-10-15 (53 días de bolsa). S&P 500: +2.0%.
+Del 2026-08-03 al 2026-10-16 (54 días de bolsa). S&P 500: +2.1%.
 
 | Agente | Estrategia | Valor | Rentabilidad | Frente al S&P 500 | Peor caída | Operaciones |
 |---|---|---|---|---|---|---|
-| Tomás | Valor | 10,626 $ | +6.3% | +4.3 puntos | -1.4% | 14 |
-| Bernardo | Copión | 10,381 $ | +3.8% | +1.8 puntos | -4.4% | 27 |
-| Elena | Prudente | 9,992 $ | -0.1% | -2.1 puntos | -3.5% | 24 |
-| Carmen | Congreso | 9,908 $ | -0.9% | -2.9 puntos | -5.5% | 43 |
-| Lucía | Tendencia | 9,552 $ | -4.5% | -6.5 puntos | -4.8% | 47 |
-| Diego | Noticias | 9,308 $ | -6.9% | -8.9 puntos | -9.0% | 39 |
+| Tomás | Valor | 10,621 $ | +6.2% | +4.1 puntos | -1.4% | 16 |
+| Bernardo | Copión | 10,447 $ | +4.5% | +2.4 puntos | -4.4% | 29 |
+| Elena | Prudente | 10,012 $ | +0.1% | -2.0 puntos | -3.5% | 24 |
+| Carmen | Congreso | 9,909 $ | -0.9% | -3.0 puntos | -5.5% | 43 |
+| Lucía | Tendencia | 9,563 $ | -4.4% | -6.5 puntos | -4.8% | 47 |
+| Diego | Noticias | 9,318 $ | -6.8% | -8.9 puntos | -9.0% | 39 |
 
 ## Lo que ha aprendido cada uno
 
@@ -17,46 +17,44 @@ Del 2026-08-03 al 2026-10-15 (53 días de bolsa). S&P 500: +2.0%.
 
 - (sin reglas propias)
 
-Última reflexión (2026-10-09): Esta semana acerté al reducir exposición y proteger capital, pero fallé al mantener NVDA demasiado tiempo pese a señales mixtas. Aprendí que mis stops de 3 % diario son insuficientes cuando la posición pierde diferencial frente al S&P. Cambiaré a un stop‑loss del 2 % y cerraré la mitad de la posición si no supera al índice en 24 h.
+Última reflexión (2026-10-16): Esta semana fallé al sobreoperar NVDA pese a señales mixtas, lo que agravó mi caída del -6.82%. acerté al reforzar CVX cuando mostró resistencia, pero vendí SPY demasiado pronto y perdí exposición al mercado. Aprendí que mis ajustes de stop‑loss aún no se activan a tiempo y que debo respetar la regla de no comprar sin noticias claras. La próxima semana limitaré las entradas a solo aquellas con titulares positivos verificables y dejaré que el stop‑loss del 2% actúe sin interferir.
 
-Ajuste a mi estrategia: Reemplazo el stop‑loss del 3 % diario por uno del 2 % y añado un cierre parcial al 50 % si la posición no supera al S&P en 24 h.
+Ajuste a mi estrategia: Reemplazo el stop‑loss del 2% diario por uno del 1.5% y añado un cierre parcial al 30% si la posición no supera al S&P en 12 h.
 
 ### Elena (Prudente)
 
 - (sin reglas propias)
 
-Última reflexión (2026-10-09): Esta semana reforcé la exposición tecnológica con QQQ, pero eso no mejoró mi rentabilidad frente al S&P 500. Fallé al confiar demasiado en predicciones de NVDA y QQQ sin evidencia clara. Aprendí que mi enfoque prudente debe priorizar la preservación de capital sobre apuestas sectoriales. La próxima semana reduciré nuevas compras de QQQ y me centraré en mantener la distribución actual, añadiendo bonos si el mercado muestra señales de caída.
+Última reflexión (2026-10-16): Esta semana acerté al reducir exposición a QQQ y reforzar bonos y oro, lo que limitó pérdidas en una caída del mercado. Fallé al confiar en predicciones de rendimiento de GLD, NVDA y QQQ, que resultaron peores que el S&P 500. Aprendí que mis niveles de confianza media no se traducen en aciertos y que debo ser más conservadora con ideas puntuales. Cambiaré la próxima semana a usar solo una señal de tendencia macro para decidir ventas, evitando decisiones basadas en predicciones de ticker individuales.
 
-Ajuste a mi estrategia: Si una posición supera el 18 % venderé solo el 25 % en lugar de la mitad, para limitar la rotación y preservar la exposición ganadora.
+Ajuste a mi estrategia: Reducir la frecuencia de predicciones de ticker a una por semana y solo actuar si la señal macro de tipos de interés es clara.
 
 ### Lucía (Tendencia)
 
 - (sin reglas propias)
 
-Última reflexión (2026-10-09): Esta semana me quedé atrapada en la indecisión, vendí y compré sin seguir la regla de no cambiar por movimientos de un día, lo que erosionó mi capital. Fallé al intentar cronometrar entradas y salidas en lugar de seguir la tendencia clara del mercado. Aprendí que el exceso de cautela me dejó en efectivo mientras el S&P subía, aumentando la brecha. La próxima semana mantendré posiciones solo cuando cumplan todos los criterios de tendencia y aplicaré el stop del 8 % sin rebobinar decisiones diarias.
+Última reflexión (2026-10-16): Esta semana acerté al volver a MSFT cuando mostró impulso y mantuve AAPL mientras su tendencia se debilitaba, pero fallé al vender AMD demasiado pronto y al mantener XLE sin confirmar la tendencia. Aprendí que mi stop del 5 % interfiere con la regla del 8 % y que debo ser más rígida con la media de 50 días antes de entrar o salir. Cambiaré a usar solo el stop del 8 % cuando el precio caiga bajo la media de 50 días y eliminaré el stop del 5 % que me hace salir prematuramente. La próxima semana entraré en posiciones solo después de confirmar al menos 20 días de rentabilidad positiva y evitaré rotaciones diarias innecesarias.
 
-Ajuste a mi estrategia: Reinstauro el stop automático del 5 % para cualquier posición que pierda ese nivel, aplicándolo junto al stop del 8 % cuando el precio caiga bajo la media de 50 días.
+Ajuste a mi estrategia: Aplico el stop del 8 % únicamente cuando el precio rompe la media de 50 días y dejo de usar el stop automático del 5 %.
 
 ### Tomás (Valor)
 
 - (sin reglas propias)
 
-Última reflexión (2026-10-09): Esta semana acerté al vender GOOGL y liberar efectivo para entrar en JNJ, lo que mejoró ligeramente mi cartera. Fallé al comprar IBM sin esperar una confirmación más fuerte de la corrección, lo que me expuso a un riesgo mayor. Aprendí que mi ajuste de reducir el umbral de corrección a 5‑7% puede ser demasiado agresivo cuando la noticia no es claramente de pánico. La próxima semana aplicaré una verificación adicional del volumen y la tendencia antes de comprar IBM o cualquier acción similar.
+Última reflexión (2026-10-16): Esta semana acerté al reforzar IBM tras su caída y mantuve la disciplina de comprar poco a poco; fallé al confiar demasiado en JNJ y NVDA con confianza media, lo que me costó pérdidas; aprendí que mis predicciones de alta confianza no siempre se cumplen y debo ser más cauto; la próxima semana reduciré la exposición en ideas de confianza media y esperaré confirmaciones antes de entrar.
 
-Ajuste a mi estrategia: Reemplazar el ajuste de 5‑7% de corrección por un rango mínimo del 6% cuando la noticia sea ambigua, manteniendo la regla de 30‑días.
+Ajuste a mi estrategia: Si una predicción con confianza media falla, la próxima vez reduciré la posición a la mitad del tamaño habitual.
 
 ### Bernardo (Copión)
 
 - (sin reglas propias)
 
-Última reflexión (2026-10-09): Esta semana acerté al vender parte de AXP y al añadir CVX para acercarme al límite del 20 %, pero fallé al sobre‑operar AAPL y AXP sin una señal clara del 13F y al confiar demasiado en mis predicciones de NVDA. Aprendí que la paciencia y el respeto al ritmo de Buffett son más valiosos que intentar anticipar movimientos diarios. Cambiaré para limitar las operaciones a ajustes basados en noticias graves o en el próximo 13F y reduciré la exposición a AAPL y CVX solo cuando alcancen el 15 % de peso real, no antes.
+Última reflexión (2026-10-16): Esta semana acerté al seguir la disciplina de peso y limitar la exposición, pero fallé al confiar en predicciones de NVDA que resultaron negativas; aprendí que mi confianza media puede ser engañosa y que debo respetar más la regla de inactividad entre 13F; cambiaré a vender solo cuando el peso supere claramente los límites y evitaré nuevas apuestas en tecnología volátil; además, reforzaré la revisión de noticias antes de cualquier ajuste inesperado.
 
-Ajuste a mi estrategia: Vendo la mitad de la reducción planificada de AAPL y CVX solo cuando su peso alcance 15 %, manteniendo la regla de inactividad entre 13F.
+Ajuste a mi estrategia: Venderé la mitad de cualquier posición solo cuando su peso supere 15 % y esperaré al próximo 13F antes de hacer ajustes menores, sin excepciones.
 
 ### Carmen (Congreso)
 
 - (sin reglas propias)
 
-Última reflexión (2026-10-09): Esta semana acerté al mantener NVDA y MSFT, que superaron al índice, pero fallé al confiar demasiado en AAPL y AVGO sin suficiente consenso congresal. Aprendí que la presión de evitar ventas prematuras me dejó expuesto a caídas leves, aunque no críticas. Necesito reforzar el filtro de múltiples congresistas antes de entrar y aplicar mis stops de forma más rígida. La próxima semana reduciré el tamaño de nuevas posiciones y venderé al primer signo de pérdida del 2 % para proteger el capital.
-
-Ajuste a mi estrategia: Reactivar el stop de 2 % en los primeros cinco días y cerrar la posición inmediatamente si se dispara, sin esperar nuevas compras del Congreso.
+Última reflexión (2026-10-16): Esta semana acerté al reconocer la debilidad de NVDA y vendí antes de mayores pérdidas, pero fallé al confiar demasiado en AAPL y AVGO, lo que empeoró mi rentabilidad. Aprendí que mi alta confianza debe basarse en señales más sólidas del Congreso y no solo en tendencias de mercado. Cambiaré a esperar confirmación de al menos dos congresistas antes de entrar con confianza media. La próxima semana reduciré el número de operaciones y reforzaré los stops para proteger el capital.

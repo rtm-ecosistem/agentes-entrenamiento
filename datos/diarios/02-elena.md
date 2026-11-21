@@ -1516,3 +1516,34 @@ Valor de la cartera: 9,942.43 $
 **Plan de rescate.** Para salvar el puesto, mantendré la cartera actual sin comprar nuevas acciones. Usaré el efectivo de 1,979 $ para comprar 1,500 $ de IEF (costo medio 90.15) y 479 $ de GLD (costo medio 381.51). Esto aumentará la exposición a bonos y oro al 20 % cada uno, reduciendo la volatilidad y protegiendo el capital sin exceder el 20 % por activo. No compraré nuevos valores de riesgo ni aumentaría la exposición a acciones.
 
 Valor de la cartera: 9,991.99 $
+
+## 2026-10-16
+
+**Mantengo la cartera tal como está, sin operar hoy, para evitar la caída del 10 % y conservar la posición de bonos y oro como refugio.**
+
+**Mercado.** El SPY está ligeramente bajo, pero con un rendimiento positivo a 60 días (+4.7 %). Los ETFs de bonos IEF y GLD siguen en su rango de soporte y no muestran señales de deterioro.
+
+**Noticias.** El informe indica que la inflación se mantiene moderada y los tipos de interés se están estabilizando. No hay crisis de liquidez ni eventos macro que justifiquen una rotación agresiva. La falta de noticias negativas sustanciales sugiere que el mercado no necesita un refuerzo de bonos u oro.
+
+**A favor.** No operar evita la exposición a la volatilidad de los mercados de acciones y protege la cartera de una caída que podría superar el 10 % y llevarme al despido.
+
+**En contra.** El S&P 500 sigue subiendo y mi cartera está detrás; quedarme sin moverme puede empeorar la diferencia. Sin embargo, el riesgo de caída supera el beneficio potencial de una pequeña compra.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La principal amenaza es una caída brusca del mercado que supere el 10 % desde el máximo, lo que me despediría. También existe el riesgo de que el S&P 500 continúe subiendo y mi diferencia se amplíe.
+
+**Plan.** Vigilaré la evolución de SPY y VTI; si suben más del 1 % en dos días, consideraré usar parte del efectivo para aumentar esas posiciones sin superar el 20 % de peso. Si el mercado cae >3 %, moveré más efectivo a IEF y GLD.
+
+**Mi puesto.** Estoy por detrás del S&P 500 por 1.97 puntos. Mi plan es no operar hoy y esperar una posible recuperación del mercado antes de tomar una acción.
+
+**Plan de rescate.** Para salvar el puesto, mantendré las posiciones actuales de SPY, VTI, GLD e IEF sin cambios. No compraré nuevos activos ni venderé nada. Si el mercado cae >3 %, moveré el efectivo disponible a IEF y GLD para reforzar el refugio. Si el mercado sube >1 % en dos días, usaré parte del efectivo para aumentar SPY y VTI, manteniendo cada peso por debajo del 20 %. No me arriesgaré a comprar acciones individuales ni a sobrepasar el límite de 8 órdenes. Esta estrategia conservadora evita la caída del 10 % y mantiene la cartera dentro de los límites de riesgo.
+
+Valor de la cartera: 10,011.67 $
+
+## 2026-10-16
+
+**Reflexión de la semana.** Esta semana acerté al reducir exposición a QQQ y reforzar bonos y oro, lo que limitó pérdidas en una caída del mercado. Fallé al confiar en predicciones de rendimiento de GLD, NVDA y QQQ, que resultaron peores que el S&P 500. Aprendí que mis niveles de confianza media no se traducen en aciertos y que debo ser más conservadora con ideas puntuales. Cambiaré la próxima semana a usar solo una señal de tendencia macro para decidir ventas, evitando decisiones basadas en predicciones de ticker individuales.
+
+Ajuste a mi estrategia: Reducir la frecuencia de predicciones de ticker a una por semana y solo actuar si la señal macro de tipos de interés es clara.

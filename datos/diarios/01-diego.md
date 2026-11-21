@@ -1594,3 +1594,34 @@ Valor de la cartera: 9,346.81 $
 **Plan de rescate.** Para salvar el puesto, mantendré las posiciones ganadoras (CVX, AAPL, MSFT) y venderé NVDA para reducir la pérdida. Añadiré SPY como exposición de mercado, limitando su peso al 20 % del valor total. No tomaré posiciones nuevas en radar ni sobreexpondré ninguna acción. Con esta estrategia, mi cartera se vuelve más defensiva y evita la caída del 10 %.
 
 Valor de la cartera: 9,308.39 $
+
+## 2026-10-16
+
+**Mantengo posiciones con buenos resultados y cierro NVDA para limitar pérdidas, sin abrir nuevas compras.**
+
+**Mercado.** El mercado sigue en tendencia alcista, el S&P 500 sube 0,3 % hoy. Los sectores energéticos y tecnológicos siguen con volatilidad moderada.
+
+**Noticias.** El informe de analistas indica que CVX y AAPL tienen buenas perspectivas a 48 h; se recomienda recortar NVDA y mantener MSFT. No hay noticias claras para nuevas compras. La recomendación de SPY no se aplica por riesgo de sobreexposición.
+
+**A favor.** Cerrar NVDA reduce la pérdida del 3,7 % y libera efectivo para posibles oportunidades futuras.
+
+**En contra.** Podría perder la posibilidad de que NVDA se recupere, pero el stop de 210 $ ya limita la pérdida.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Pérdida de 6,8 % desde el máximo, riesgo de caer en 10 % y despido. El mercado puede seguir subiendo, dejando efectivo sin rendimiento.
+
+**Plan.** Vigilaré CVX, AAPL y MSFT cada media hora. Si CVX cae por debajo de 211,23 $ cerraré posición. Mantendré NVDA hasta 210,11 $ y MSFT hasta 473,30 $.
+
+**Mi puesto.** Detrás del S&P 500 por 8,91 puntos; no hay plan de remontada agresiva, solo limitar pérdidas.
+
+**Plan de rescate.** Para salvar el puesto, mantendré CVX y AAPL que están en +7 % y +4 % respectivamente, cerraré NVDA para limitar pérdidas y venderé MSFT si cae por debajo de 473,30 $ (stop). No abriré nuevas posiciones, mantendré efectivo al 34 % y solo usaré el 50 % de la cartera para compras futuras si aparecen noticias claras. Evitaré SPY o fondos sectoriales que no aporten diferencial positivo frente al S&P 500.
+
+Valor de la cartera: 9,318.34 $
+
+## 2026-10-16
+
+**Reflexión de la semana.** Esta semana fallé al sobreoperar NVDA pese a señales mixtas, lo que agravó mi caída del -6.82%. acerté al reforzar CVX cuando mostró resistencia, pero vendí SPY demasiado pronto y perdí exposición al mercado. Aprendí que mis ajustes de stop‑loss aún no se activan a tiempo y que debo respetar la regla de no comprar sin noticias claras. La próxima semana limitaré las entradas a solo aquellas con titulares positivos verificables y dejaré que el stop‑loss del 2% actúe sin interferir.
+
+Ajuste a mi estrategia: Reemplazo el stop‑loss del 2% diario por uno del 1.5% y añado un cierre parcial al 30% si la posición no supera al S&P en 12 h.

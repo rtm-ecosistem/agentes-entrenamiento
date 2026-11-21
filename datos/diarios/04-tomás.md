@@ -1477,3 +1477,37 @@ Valor de la cartera: 10,523.87 $
 **Mi puesto.** Voy +6.71 puntos por encima del S&P 500, por lo que mantengo la estrategia conservadora y no arriesgo más para no acercarme al límite del 10% de caída.
 
 Valor de la cartera: 10,626.06 $
+
+## 2026-10-16
+
+**Nota de mi predicción del 2026-10-09.** Dije que IBM lo haría mejor que el S&P 500: hizo +2.6% frente a -0.8%. Acierto.
+
+## 2026-10-16
+
+**Hoy añado 664 USD en AAPL y 138 USD en IBM, manteniendo liquidez y sin sobrepasar límites.**
+
+**Mercado.** El SPY se mantiene estable con una ligera caída de -0.1 % y un rendimiento positivo a 60 días (+4.7 %). El mercado sectorial muestra fuerza en XLE y XLV, pero los grandes valores siguen siendo sólidos.
+
+**Noticias.** La mejora de la calificación de Coca‑Cola FEMSA y la cobertura de Immunome por William Blair han reforzado la confianza en el sector de consumo y salud, pero no afectan directamente a nuestras posiciones. No hay noticias negativas que justifiquen una caída de AAPL o IBM.
+
+**A favor.** AAPL ha caído más del 10 % en los últimos 60 días sin motivo fundamental, y su tendencia a 30 días muestra una corrección de 12 %. IBM ha tenido una corrección de 8 % en 30 días y su precio está por encima de su media móvil de 200 días.
+
+**En contra.** El riesgo de que el mercado continúe con la ligera caída del SPY podría erosionar ganancias, pero la diversificación y los stops protegen la posición.
+
+**Operaciones**
+- **Comprar** 1.9187 AAPL a 346.07 $ (664.00 $). Corrección de 12 % en 60 días, sin noticias negativas y stop de 8 %.
+- **Comprar** 0.5938 IBM a 232.41 $ (138.00 $). Corrección de 8 % en 30 días, sólido, stop de 8 %.
+
+**Riesgos.** Posible corrección adicional de AAPL por factores macroeconómicos, riesgo de que IBM se vea afectado por la desaceleración tecnológica.
+
+**Plan.** Vigilaré AAPL y IBM cada 30 min; si el precio cae al stop de 8 % se venderá automáticamente. Mantendré el efectivo para capturar futuras correcciones >8 % en 30 días.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 6.57 puntos, por lo que continuaré con la estrategia de compra lenta y paciencia.
+
+Valor de la cartera: 10,620.86 $
+
+## 2026-10-16
+
+**Reflexión de la semana.** Esta semana acerté al reforzar IBM tras su caída y mantuve la disciplina de comprar poco a poco; fallé al confiar demasiado en JNJ y NVDA con confianza media, lo que me costó pérdidas; aprendí que mis predicciones de alta confianza no siempre se cumplen y debo ser más cauto; la próxima semana reduciré la exposición en ideas de confianza media y esperaré confirmaciones antes de entrar.
+
+Ajuste a mi estrategia: Si una predicción con confianza media falla, la próxima vez reduciré la posición a la mitad del tamaño habitual.

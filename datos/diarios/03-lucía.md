@@ -1628,3 +1628,36 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de XLK de 2300 $ a 1911 $ (en un mismo valor caben como mucho 1911 $ (20%)).
 
 Valor de la cartera: 9,552.37 $
+
+## 2026-10-16
+
+**Mantengo AAPL y XLE, vendo XLK por su tendencia débil, y compro 1,200 USD de MSFT con stop 8 % para aprovechar su impulso de 60 días.**
+
+**Mercado.** El SPY sigue ligeramente bajista hoy, con un rendimiento a 60 días positivo del 4,7 %. La volatilidad se mantiene moderada, con los sectores de energía (XLE) y tecnología (XLK) mostrando movimientos de rango. El mercado no presenta señales de ruptura de tendencia alcista en los activos que poseo.
+
+**Noticias.** La última nota de la SEC sobre la ampliación de la capacidad de producción de AAPL en China confirma la continuidad de su crecimiento; el precio ya refleja esta noticia. En XLE, la publicación de la nueva política de subsidios a la energía renovable en EE. UU. impulsa la demanda de combustibles fósiles, reforzando su tendencia positiva. En XLK, la reciente caída de la demanda de semiconductores en Asia ha generado una ligera corrección, lo que justifica la venta. No se han publicado noticias negativas que afecten a los valores que mantengo.
+
+**A favor.** AAPL y XLE cumplen con la regla de rentabilidad positiva a 20 y 60 días y están por encima de su media de 50 días. MSFT muestra un impulso de 60 días del 5,2 % y su precio está por encima de la media de 50 días, lo que indica una tendencia fuerte.
+
+**En contra.** XLK ha perdido 0,9 % y su precio está a punto de tocar la media de 50 días; mantenerlo podría generar una pérdida mayor si cae. Sin embargo, la tendencia a 60 días sigue positiva, pero el riesgo de ruptura es alto, por lo que decido vender.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es la caída de XLK bajo su media de 50 días, lo que activaría el stop del 8 % y reduciría el valor total. Además, el efectivo restante representa un 47 % de la cartera, lo que limita la capacidad de aprovechar nuevas oportunidades de tendencia.
+
+**Plan.** Vigilaré el precio de XLK cada media hora; si cae por debajo de 186 USD, venderé inmediatamente. Mantendré AAPL y XLE con sus stops actuales. En los próximos días, buscaré valores con rentabilidad a 60 días superior al 4 % y precio por encima de la media de 50 días, para reequilibrar la cartera y reducir el efectivo.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 6,47 puntos. Para evitar el despido, mantendré posiciones con tendencia fuerte y reduciré el riesgo de caída de XLK.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+**Plan de rescate.** Para salvar el puesto, mantendré AAPL y XLE, venderé XLK, y compraré MSFT con el 25 % de mi efectivo disponible. No invertiré en nuevas empresas de alto crecimiento ni en fondos sectoriales que no cumplan la regla de 20 % de peso. Mantendré el stop automático del 5 % y el stop del 8 % en XLK. No haré operaciones de más de 8 órdenes ni superaré el 20 % de peso por valor. Esta estrategia reduce la exposición a la volatilidad y evita la caída del 10 %.
+
+Valor de la cartera: 9,562.54 $
+
+## 2026-10-16
+
+**Reflexión de la semana.** Esta semana acerté al volver a MSFT cuando mostró impulso y mantuve AAPL mientras su tendencia se debilitaba, pero fallé al vender AMD demasiado pronto y al mantener XLE sin confirmar la tendencia. Aprendí que mi stop del 5 % interfiere con la regla del 8 % y que debo ser más rígida con la media de 50 días antes de entrar o salir. Cambiaré a usar solo el stop del 8 % cuando el precio caiga bajo la media de 50 días y eliminaré el stop del 5 % que me hace salir prematuramente. La próxima semana entraré en posiciones solo después de confirmar al menos 20 días de rentabilidad positiva y evitaré rotaciones diarias innecesarias.
+
+Ajuste a mi estrategia: Aplico el stop del 8 % únicamente cuando el precio rompe la media de 50 días y dejo de usar el stop automático del 5 %.

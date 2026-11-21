@@ -193,3 +193,7 @@ fecha,agente,lado,simbolo,cantidad,precio,importe,motivo,hora
 2026-10-15,05-bernardo,vender,KO,1.076195,92.8735,99.95,Bajar peso de 21 % a <=20 % y respetar límite de posición.,2026-10-15T15:10Z
 2026-10-15,06-carmen,vender,NVDA,3.623946,216.8415,785.82,Posición -3.8% y stop de 2% activado; limitar pérdidas y liberar efectivo.,2026-10-15T15:11Z
 2026-10-15,06-carmen,vender,AMAT,3.007705,428.2208,1287.96,Posición -0.3% pero cerca del stop y sin señal de compra; reducir exposición a sectores sin apoyo del Congreso.,2026-10-15T15:11Z
+2026-10-16,04-tomás,comprar,AAPL,1.918671,346.0729,664.0,"Corrección de 12 % en 60 días, sin noticias negativas y stop de 8 %.",2026-10-16T15:05Z
+2026-10-16,04-tomás,comprar,IBM,0.593775,232.4111,138.0,"Corrección de 8 % en 30 días, sólido, stop de 8 %.",2026-10-16T15:05Z
+2026-10-16,05-bernardo,vender,KO,10.697475,93.4333,999.5,Reducir peso al 15 % y liberar efectivo para la compra de AXP; el stop de KO está a 77.58 $ y la venta evita riesgo de caída.,2026-10-16T15:07Z
+2026-10-16,05-bernardo,comprar,AXP,1.373,318.4291,437.2,Berkshire aumentó su posición y AXP mostró crecimiento de ingresos; el 500 $ está dentro del límite de 2 090 $ y el 50 % de la cartera.,2026-10-16T15:07Z

@@ -1571,3 +1571,32 @@ Valor de la cartera: 10,026.13 $
 **Plan de rescate.** Venderé NVDA (toda la posición) y AMAT (toda la posición) para reducir exposición a acciones con pérdidas y liberar $4,428 en efectivo. Mantendré AAPL y MSFT por su rendimiento positivo y respetaré sus stops actuales. No abriré nuevas compras hasta que el Congreso publique al menos dos compras simultáneas en un mismo ticker; así evito arriesgar demasiado y cumplo con la regla de no superar el 20% por valor. Además, aplicaré el stop de 2% en los primeros cinco días a cualquier nueva posición que abra en el futuro.
 
 Valor de la cartera: 9,907.97 $
+
+## 2026-10-16
+
+**Mantengo las posiciones actuales y no abro nuevas operaciones mientras espero señales claras del Congreso.**
+
+**Mercado.** El mercado sigue al alza, el S&P 500 lleva +2.09% en el periodo. La volatilidad es moderada y no hay eventos macroeconómicos inesperados que justifiquen una exposición adicional.
+
+**Noticias.** Los analistas recomiendan prudencia y conservar efectivo hasta obtener una señal clara del Congreso. No hay noticias sectoriales que favorezcan a AAPL o MSFT de forma decisiva. La recomendación de vender NVDA y AMAT se alinea con mi decisión de no abrir nuevas posiciones.
+
+**A favor.** Mi estrategia de Congreso exige coincidencias de compra; sin señales claras, invertir ahora sería una apuesta especulativa que podría empeorar mi rentabilidad.
+
+**En contra.** El efectivo está bajo rendimiento y me deja atrás del S&P 500, pero arriesgarlo en una compra sin fundamento aumentaría la probabilidad de superar el límite del 10% de caída y perder el puesto.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El principal riesgo es que el mercado continúe subiendo y el efectivo siga generando bajo rendimiento, ampliando la brecha con el S&P 500. Otro riesgo es que una señal del Congreso llegue tarde y pierda la oportunidad de capturar ganancias tempranas.
+
+**Plan.** Vigilaré los reportes de compras del Congreso en los próximos dos días; si al menos dos congresistas compran la misma acción, destinaré hasta $4,955 a esa posición con stop 8%. Mientras tanto mantendré AAPL y MSFT y observaré sus stops.
+
+**Mi puesto.** Voy 3 puntos por detrás del S&P 500 y recibiré un aviso; mi plan es evitar mayores pérdidas y esperar una señal clara para intentar recuperar el déficit.
+
+**Plan de rescate.** No abriré nuevas posiciones hoy; mantendré AAPL y MSFT, respetando sus stops actuales. No venderé ninguna posición para conservar el capital y evitar una caída del 10%. Utilizaré el efectivo solo si aparecen señales de compra de al menos dos congresistas en la misma acción dentro de 48 h, con un máximo de $4,955 y stop 8%. Evitaré decisiones impulsivas y seguiré la disciplina de la estrategia.
+
+Valor de la cartera: 9,909.44 $
+
+## 2026-10-16
+
+**Reflexión de la semana.** Esta semana acerté al reconocer la debilidad de NVDA y vendí antes de mayores pérdidas, pero fallé al confiar demasiado en AAPL y AVGO, lo que empeoró mi rentabilidad. Aprendí que mi alta confianza debe basarse en señales más sólidas del Congreso y no solo en tendencias de mercado. Cambiaré a esperar confirmación de al menos dos congresistas antes de entrar con confianza media. La próxima semana reduciré el número de operaciones y reforzaré los stops para proteger el capital.
