@@ -1393,3 +1393,32 @@ Valor de la cartera: 10,326.45 $
 **Plan de rescate.** Para salvar el puesto, mantendré las posiciones de AMAT y AVGO, que tienen buen rendimiento y soporte de compra del Congreso. Venderé 1.5 USD de MSFT para liberar efectivo y evitar una caída del 10 %. No compraré nuevas acciones hoy, y esperaré señales claras de compra del Congreso o un rebote del mercado antes de reinvertir.
 
 Valor de la cartera: 10,226.45 $
+
+## 2026-10-08
+
+**Nota de mi predicción del 2026-10-01.** Dije que NVDA lo haría mejor que el S&P 500: hizo +3.2% frente a +2.1%. Acierto.
+
+## 2026-10-08
+
+**No opero hoy; mantengo posiciones actuales y me preparo para la evaluación final.**
+
+**Mercado.** El mercado se mantiene en ligera tendencia bajista, con el S&P 500 en caída y la volatilidad moderada. Los precios de los techs siguen consolidándose, sin señales claras de reversión.
+
+**Noticias.** No hay nuevas compras de congresistas en la lista de fuentes; la última declaración pública fue de un miembro que compró AVGO, pero ya está en mi cartera y su precio se mantiene estable. La noticia de la posible reestructuración de la cadena de suministro de semiconductores favorece a AMAT, pero el precio ya refleja esa expectativa.
+
+**A favor.** Mantener las posiciones actuales evita incurrir en riesgos de venta prematura y permite que los efectos de las compras de congresistas se materialicen sin interferencias externas.
+
+**En contra.** El riesgo de que el S&P 500 continúe bajando y que mi cartera se quede por detrás es real, pero vender ahora solo aumentaría la exposición a la caída y no cumpliría la regla de no vender sin señal de venta de congresistas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída del S&P 500 que aumente la brecha con mi cartera; riesgo de que alguna posición alcance el stop de 2 % en los próximos días.
+
+**Plan.** Vigilar el precio de MSFT y NVDA; esperar cualquier nueva compra de congresistas en estos tickers. Si se reporta una compra de MSFT, considerar recomprar con stop de 2 %. Mantener efectivo para cubrir posibles stops.
+
+**Mi puesto.** Estoy por detrás del S&P 500 por 0.15 puntos; mantengo la posición actual y me preparo para la evaluación final.
+
+**Plan de rescate.** Para salvar mi puesto, mantendré las posiciones actuales y no añadiré nuevas compras. Si el S&P 500 cae más del 10 % desde mi máximo, venderé las posiciones con mayor riesgo (AMAT y AVGO) y moveré el efectivo a una reserva de liquidez. En caso de que el mercado se recupere, esperaré señales de compra de congresistas antes de volver a entrar. Evitaré cualquier operación que pueda acercar mi cartera a la línea de 10 % de caída y me limitaré a la gestión de riesgos establecida.
+
+Valor de la cartera: 10,249.97 $

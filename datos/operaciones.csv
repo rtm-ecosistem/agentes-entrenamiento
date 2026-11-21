@@ -148,3 +148,10 @@ fecha,agente,lado,simbolo,cantidad,precio,importe,motivo,hora
 2026-10-06,05-bernardo,comprar,AXP,1.635121,305.7878,500.0,AXP está en 15 % de la cartera y su precio está por debajo del coste medio; comprar 500 USD permite mantener la posición sin sobreexponerse y sigue dentro del límite del 20 %.,2026-10-06T15:06Z
 2026-10-06,03-lucía,vender,INTC,12.136731,113.4782,1377.25,Stop alcanzado (113.53 $ ≤ 113.65 $): se corta la pérdida.,2026-10-06T16:00Z
 2026-10-07,05-bernardo,comprar,CVX,2.34493,205.3776,481.6,Aumentar la posición a 20 % porque CVX muestra +6.5 % y su precio está estable; la compra mantiene la regla de peso y aprovecha la oportunidad de valor.,2026-10-07T15:06Z
+2026-10-08,01-diego,vender,SPY,0.0,774.8174,0.0,Posible caída de 5 % para liberar efectivo y evitar sobreexposición.,2026-10-08T15:03Z
+2026-10-08,01-diego,comprar,AAPL,0.94005,337.7188,317.47,"Resultados de 12 % por encima de la estimación y crecimiento del 18 % en servicios en la nube, sentimiento 75 %.",2026-10-08T15:03Z
+2026-10-08,02-elena,comprar,QQQ,1.987684,754.6471,1500.0,"Aumentar exposición a tecnología, sector con buen rendimiento y peso bajo el 20 %.",2026-10-08T15:03Z
+2026-10-08,03-lucía,vender,AAPL,3.891995,337.3812,1313.09,Posición en ganancia mínima y riesgo de caída por debajo de la media de 50 días.,2026-10-08T15:05Z
+2026-10-08,03-lucía,vender,AMD,2.345309,635.0273,1489.34,Posición en pérdida y riesgo de stop de 8 %.,2026-10-08T15:05Z
+2026-10-08,03-lucía,vender,QCOM,7.950841,173.943,1382.99,Posición en pérdida del 7.8 % y ya está por debajo de su media de 50 días.,2026-10-08T15:05Z
+2026-10-08,04-tomás,comprar,IBM,4.550629,219.7498,1000.0,"IBM cayó 12 % en 60 días sin fundamentos negativos, cumple criterio de valor y es una empresa sólida.",2026-10-08T15:06Z

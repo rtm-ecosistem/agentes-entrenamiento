@@ -1309,3 +1309,30 @@ Valor de la cartera: 10,378.00 $
 **Mi puesto.** Estoy por delante del S&P 500 en 4 puntos; continuaré con la estrategia de valor y no venderé posiciones que siguen siendo sólidas.
 
 Valor de la cartera: 10,402.36 $
+
+## 2026-10-08
+
+**Nota de mi predicción del 2026-10-01.** Dije que XLY lo haría mejor que el S&P 500: hizo +2.7% frente a +2.1%. Acierto.
+
+## 2026-10-08
+
+**Hoy decido comprar IBM por 1,000 USD con stop 8 % y no vender nada.**
+
+**Mercado.** El mercado sigue con retrocesos leves en SPY y QQQ, pero mantiene impulso positivo a 20 y 60 días. Los sectores tecnológico (XLK) y energético (XLE) están sobre la media 50‑día, indicando fuerza. Los bonos a largo plazo caen, reflejando presión sobre la renta fija.
+
+**Noticias.** El sector de semiconductores enfrenta regulaciones en Hong Kong y la expansión de BYD en Uzbekistán, lo que ha generado pánico en varias acciones tecnológicas. IBM, pese a su solidez, registró una caída del 12 % en los últimos 60 días sin fundamentos negativos claros, lo que sugiere una corrección de mercado. No hay noticias de fraude, pérdida de clientes ni deudas que afecten a IBM, por lo que la caída parece de pánico pasajero.
+
+**A favor.** IBM es una empresa grande, con flujo de caja estable y dividendos sostenibles. Su caída del 12 % en 60 días cumple el criterio de corrección y no se justifica por noticias negativas, lo que la convierte en una oportunidad de valor.
+
+**En contra.** El sector tecnológico está bajo presión y la volatilidad podría empeorar, pero la caída es de pánico y no de fundamentos. Decido mantener la posición a largo plazo y usar stop 8 % para limitar pérdidas.
+
+**Operaciones**
+- **Comprar** 4.5506 IBM a 219.75 $ (1,000.00 $). IBM cayó 12 % en 60 días sin fundamentos negativos, cumple criterio de valor y es una empresa sólida.
+
+**Riesgos.** La volatilidad del sector tecnológico y la posible continuación de la presión regulatoria podrían hacer que IBM siga cayendo. El stop 8 % limitará pérdidas, pero si la caída supera ese nivel, perderé la posición y el capital invertido.
+
+**Plan.** Vigilar el precio de IBM cada 30 minutos y el nivel de stop. Si el precio cae por debajo de 8 %, la posición se cerrará automáticamente. Si el precio recupera el 15 % sobre el coste, consideraré vender parcial o totalmente. También seguiré las noticias de semiconductores y la evolución de la regulación en Hong Kong.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 3.67 puntos, con rentabilidad +3.86 %. Mantengo la disciplina y no arriesgo más de 8 % de la cartera en una sola posición.
+
+Valor de la cartera: 10,385.64 $

@@ -1444,3 +1444,34 @@ Valor de la cartera: 9,664.51 $
 **Plan de rescate.** Para salvar mi puesto, mantendré solo las posiciones que cumplen la regla de tendencia y con stop 8%. Venderé QCOM por su caída de 5.7% y AMD si cae 8% desde el precio de compra. Usaré el efectivo liberado para reforzar AAPL hasta el 20% de la cartera. No compraré nuevas posiciones de riesgo ni usaré el radar de oportunidades. Mantendré la disciplina de no sobrepasar el 20% por valor y no exceder 8 órdenes. Mi objetivo es estabilizar la cartera y evitar una caída mayor al 10% del máximo.
 
 Valor de la cartera: 9,606.01 $
+
+## 2026-10-08
+
+**Nota de mi predicción del 2026-10-01.** Dije que AAPL lo haría mejor que el S&P 500: hizo +2.4% frente a +2.1%. Acierto.
+
+## 2026-10-08
+
+**Venderé todas las posiciones, mantendré el efectivo y esperaré a que aparezca una tendencia clara antes de volver a comprar.**
+
+**Mercado.** El mercado muestra una ligera corrección, con SPY y QQQ retrocediendo pero manteniendo impulso a 20 y 60 días. La volatilidad está moderada y no hay señales de ruptura de medias de 50 días en los valores que poseo.
+
+**Noticias.** La última nota del equipo indica que QCOM y AMD están en riesgo de caer por debajo de su media de 50 días y que el SPY sigue en tendencia bajista a corto plazo. No hay noticias positivas que justifiquen mantener o comprar posiciones que ya están en pérdida.
+
+**A favor.** Mantener efectivo evita que la cartera caiga más de 10 % y me permite reaccionar a una nueva tendencia sin sobreexponerme.
+
+**En contra.** Podría perder la oportunidad de recuperar parte de la pérdida si el mercado se recupera pronto. Sin embargo, el riesgo de caer más de 10 % me obliga a priorizar la preservación del capital.
+
+**Operaciones**
+- **Vender** 3.8920 AAPL a 337.38 $ (1,313.09 $). Posición en ganancia mínima y riesgo de caída por debajo de la media de 50 días.
+- **Vender** 2.3453 AMD a 635.03 $ (1,489.34 $). Posición en pérdida y riesgo de stop de 8 %.
+- **Vender** 7.9508 QCOM a 173.94 $ (1,382.99 $). Posición en pérdida del 7.8 % y ya está por debajo de su media de 50 días.
+
+**Riesgos.** Pérdida adicional si el mercado sigue bajando, riesgo de quedar atrapado en efectivo sin rendimiento, posibilidad de que la tendencia no se recupere antes del próximo periodo.
+
+**Plan.** Venderé AAPL, AMD y QCOM hoy, mantendré todo el efectivo y vigilaré los indicadores de tendencia a 20 y 60 días. Si algún valor muestra rentabilidad positiva a 20 días y precio por encima de su media de 50 días, consideraré una compra limitada al 20 % de la cartera.
+
+**Mi puesto.** Estoy 6.99 puntos por detrás del S&P 500 y mi cartera ha caído 4.34 %. Necesito evitar la caída del 10 % y, por lo tanto, me quedo en efectivo.
+
+**Plan de rescate.** Para salvar el puesto, cerraré todas las posiciones hoy, mantendré el efectivo y no compraré nada hasta que un valor cumpla claramente los criterios de tendencia (rentabilidad positiva a 20 y 60 días y precio por encima de la media de 50 días). Si aparece una oportunidad con un stop de 8 % y una exposición máxima del 20 % de la cartera, la consideraré. No tomaré riesgos adicionales ni usaré posiciones de más del 20 % ni más de 8 órdenes.
+
+Valor de la cartera: 9,563.93 $

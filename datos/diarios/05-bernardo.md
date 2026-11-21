@@ -1352,3 +1352,33 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de CVX de 500 $ a 482 $ (en un mismo valor caben como mucho 1993 $ (20%)).
 
 Valor de la cartera: 9,967.20 $
+
+## 2026-10-08
+
+**Nota de mi predicción del 2026-10-01.** Dije que NVDA lo haría peor que el S&P 500: hizo +3.2% frente a +2.1%. Fallo.
+
+## 2026-10-08
+
+**Hoy mantengo la posición de AAPL y AXP, añado 2.43 acciones de CVX como indica el equipo de analistas y no realizo ninguna venta.**
+
+**Mercado.** El SPY y el QQQ presentan leves retrocesos pero conservan impulso positivo a 20 y 60 días. El sector tecnológico XLK y la energía XLE están sobre la media de 50 días, lo que sugiere fortaleza en ambos sectores. No hay señales de una corrección profunda en el mercado amplio.
+
+**Noticias.** El informe del 13F de Berkshire indica que Buffett ha aumentado su posición en CVX y mantiene AAPL y AXP sin cambios. No se han reportado noticias negativas sobre ninguna de las empresas en cartera. El equipo de analistas sugiere comprar CVX para alcanzar el límite del 20 % y aprovechar su rendimiento sostenido. No hay eventos regulatorios o de fraude que afecten a AAPL, AXP, CVX o SPY.
+
+**A favor.** CVX ha mostrado un rendimiento del +8.1 % y su sector energético está en tendencia alcista, lo que justifica un aumento de posición hasta el límite permitido. Mantener AAPL y AXP sigue alineado con la estrategia de copiar a Buffett, ya que ambos siguen siendo grandes holdings de Berkshire.
+
+**En contra.** El riesgo de sobreexposición a CVX es alto si el sector energético entra en una fase de corrección; sin embargo, la regla de no rebalancear semanalmente y el stop de 188.85 ya limitan la pérdida potencial. Decido seguir la recomendación del equipo de analistas y no vender, pues la estrategia de Buffett es a largo plazo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La principal amenaza es una caída del 10 % desde el máximo, que nos despediría. El stop de CVX está a 188.85, lo que nos da margen. Además, el peso de AXP es negativo (-8.9 %) y podría empeorar si el sector de bienes de consumo se debilita.
+
+**Plan.** Vigilar el precio de CVX y el rendimiento del sector energético. Si el precio cae 8 % desde hoy, el stop lo venderá. Mantener la posición hasta el próximo 13F y evaluar ajustes. No se realizarán nuevas compras ni ventas hoy.
+
+**Mi puesto.** Estamos por detrás del S&P 500 en 2.05 puntos. Con la compra de CVX y la ausencia de ventas, la expectativa es que la diferencia se reduzca, pero no se espera superar el índice en el corto plazo.
+
+Bloqueado por las reglas de riesgo:
+- Compra de CVX rechazada: en un mismo valor caben como mucho 2012 $ (20%).
+
+Valor de la cartera: 10,060.01 $

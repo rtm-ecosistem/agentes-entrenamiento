@@ -1341,3 +1341,28 @@ Valor de la cartera: 10,075.74 $
 **Plan de rescate.** Para salvar el puesto, mantendré la cartera sin sobreexponer a acciones de alto riesgo. No compraré nuevas posiciones de empresas jóvenes ni aumentaría GLD. Si la caída del mercado se intensifica, venderé parte de QQQ y GLD para proteger el capital, manteniendo siempre la diversificación y el límite de 20%.
 
 Valor de la cartera: 9,997.66 $
+
+## 2026-10-08
+
+**Hoy reforzamos la exposición a tecnología comprando QQQ, manteniendo la diversificación y sin sobrepasar el límite de peso.**
+
+**Mercado.** El SPY y QQQ presentan retrocesos leves pero mantienen impulso positivo a 20 y 60 días. Los bonos IEF siguen bajo presión, mientras GLD muestra una ligera caída.
+
+**Noticias.** El informe indica que los tipos de interés se mantienen estables, pero la inflación sigue en niveles moderados. No hay noticias negativas significativas que justifiquen un aumento de bonos u oro.
+
+**A favor.** Aumentar la posición en QQQ mejora la exposición a tecnología, sector que sigue mostrando rendimiento superior al mercado general y mantiene el peso bajo el 20 %.
+
+**En contra.** El riesgo de sobreexposición a un solo sector es real, pero el peso actual de QQQ (5 %) permite un incremento seguro sin romper la regla de 20 %.
+
+**Operaciones**
+- **Comprar** 1.9877 QQQ a 754.65 $ (1,500.00 $). Aumentar exposición a tecnología, sector con buen rendimiento y peso bajo el 20 %.
+
+**Riesgos.** Posible volatilidad en el sector tecnológico podría afectar la rentabilidad de QQQ; la caída de GLD podría aumentar la pérdida total si el mercado se vuelve más defensivo.
+
+**Plan.** Vigilar la evolución de los tipos de interés y la volatilidad de los bonos; revisar la exposición a GLD e IEF si la presión en bonos aumenta. Mantener el stop del 8 % en QQQ.
+
+**Mi puesto.** Estamos 2.55 puntos por detrás del S&P 500; la compra de QQQ busca reducir la brecha sin arriesgar demasiado.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la posición actual en SPY y VTI, venderé GLD 500 USD para reducir la pérdida y usaré el efectivo para comprar QQQ 1,500 USD. No aumentaré exposición a bonos ni a oro, y evitaré compras de empresas jóvenes por riesgo adicional.
+
+Valor de la cartera: 10,009.55 $
