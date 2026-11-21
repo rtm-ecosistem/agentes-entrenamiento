@@ -1546,3 +1546,29 @@ Ajustado por el control de riesgo:
 - Ajuste automático: compra de AMD de 1182 $ a 1182 $ (entre todas las compras pasaban de 4782 $ (el máximo por decisión o el efectivo), así que se reparte en proporción).
 
 Valor de la cartera: 9,561.54 $
+
+## 2026-10-13
+
+**Vendo NVDA y reduzco AMD, mantengo AAPL y MSFT, y dejo el resto en efectivo para evitar riesgos.**
+
+**Mercado.** El S&P 500 ha subido +2.90% en el periodo mientras mi cartera está -4.08%; el mercado muestra tendencia alcista moderada.
+
+**Noticias.** No hay noticias de último minuto que afecten a mis posiciones. La única alerta del informe es vigilar la media de 50 días y los stops del 8%.
+
+**A favor.** Mantener AAPL y MSFT, que están por encima de su media de 50 días y con resultados positivos, protege el capital mientras el mercado sube.
+
+**En contra.** NVDA y AMD están cerca de sus stops y su rentabilidad es negativa; venderlas reduce la exposición sin romper la regla del 20% por activo.
+
+**Operaciones**
+- **Vender** 5.3087 NVDA a 224.99 $ (1,194.39 $). Posición cerca del stop del 8% y rentabilidad negativa, protege el capital.
+- **Vender** 0.8514 AMD a 586.95 $ (499.75 $). Reduce exposición a un activo estancado y libera efectivo para oportunidades futuras.
+
+**Riesgos.** Posible caída del mercado que arrastre a AAPL y MSFT; riesgo de quedarme con demasiado efectivo y perder rendimiento frente al S&P 500.
+
+**Plan.** Vigilaré la media de 50 días de AAPL y MSFT cada media hora; si cualquiera cae bajo ella venderé inmediatamente. Buscaré oportunidades de tendencia fuerte en la lista de 4‑5 valores para usar el efectivo restante.
+
+**Mi puesto.** Voy 6.98 puntos por detrás del S&P 500 y recibo un aviso; mi plan es limitar pérdidas y esperar una señal clara de tendencia antes de volver a comprar.
+
+**Plan de rescate.** 1) Vendo toda la posición de NVDA (5.3087 uds, $1,195) al precio actual para evitar que el stop del 8% se active. 2) Reduzco AMD vendiendo $500 (≈0.85 uds) para liberar capital y bajar el peso de un activo que está estancado. 3) Mantengo AAPL y MSFT sin cambios, ya que siguen en tendencia positiva y están por encima de su media de 50 días. 4) No realizo nuevas compras hoy; dejo el efectivo (~$4,800) para aprovechar una señal clara de impulso técnico en los próximos días. 5) Reviso diariamente los indicadores de 20‑ y 60‑días y el precio respecto a la media de 50 días; solo compraré cuando ambos muestren rentabilidad positiva y precio por encima de la media.
+
+Valor de la cartera: 9,591.12 $

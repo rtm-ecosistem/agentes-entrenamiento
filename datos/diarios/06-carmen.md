@@ -1486,3 +1486,33 @@ Ajuste a mi estrategia: Reactivar el stop de 2 % en los primeros cinco días y
 **Plan de rescate.** 1) Venderé AVGO por $1.500 (≈4,200 uds) para liberar efectivo y bajar el peso al 14 %. 2) Mantendré AMAT, AAPL, MSFT y NVDA, ya que están dentro de los límites y tienen buen desempeño. 3) No abriré nuevas posiciones; esperaré señales claras del Congreso antes de comprar. 4) Ajustaré los stops a 2 % en los próximos 5 días para MSFT y NVDA si aparecen nuevas compras, evitando pérdidas mayores.
 
 Valor de la cartera: 10,134.03 $
+
+## 2026-10-13
+
+**Vendo AVGO y una parte de MSFT para liberar efectivo y reducir exposición, mantengo AMAT y AAPL, y compro NVDA adicional con stop 2 %.**
+
+**Mercado.** El mercado sigue al alza moderada, S&P 500 ha subido +2.9% en el periodo, pero mi cartera está rezagada y con mucho efectivo sin rendimiento. La volatilidad es baja, pero el riesgo de caída del 10% sigue presente.
+
+**Noticias.** Los congresistas han reportado nuevas compras de NVDA y MSFT en sus últimos PTR, indicando confianza en semiconductores. Además, la Cámara aprobó un paquete de incentivos para la fabricación de chips en EE.UU., favoreciendo a NVDA. No hay noticias negativas relevantes para AMAT o AAPL.
+
+**A favor.** Comprar más NVDA aprovecha la señal de varios congresistas y el impulso legislativo, y el stop 2 % protege la posición ante una corrección temprana.
+
+**En contra.** Vender parte de MSFT reduce mi exposición a un sector que ha subido fuerte y podría seguir beneficiándose; sin embargo, necesito liberar efectivo y limitar el peso al 20% para evitar un posible aviso por caída del 10%.
+
+**Operaciones**
+- **Vender** 1.3999 AVGO a 354.29 $ (495.97 $). Liberar efectivo y reducir exposición a un sector con ligera pérdida (-0.6%).
+- **Vender** 1.4999 MSFT a 547.76 $ (821.59 $). Reducir peso al 20% y generar efectivo para nueva posición en NVDA.
+- **Comprar** 6.3298 NVDA a 225.21 $ (1,425.54 $). Compras recientes de varios congresistas y estímulo a la fabricación de chips; stop 2 % protege la posición.
+
+**Riesgos.** Riesgo de que NVDA caiga más del 2 % en los primeros días y active el stop, y de que la venta de MSFT reduzca ganancias acumuladas si el sector sigue subiendo.
+
+**Plan.** Vigilaré cada 30 min las declaraciones de congresistas sobre NVDA y MSFT durante la jornada; si aparecen nuevas compras, consideraré reforzar NVDA. Mantendré los stops actuales y el nuevo stop 2 % en NVDA.
+
+**Mi puesto.** Voy 1.73 puntos por detrás del S&P 500 y con riesgo de aviso; mi plan de rescate busca mejorar rendimiento sin sobreexponerme.
+
+**Plan de rescate.** Vendo AVGO (todo) y reduzco MSFT vendiendo 1.5 uds (≈$822) para liberar $2,500 de efectivo. Con ese efectivo compro NVDA adicional $1,500, estableciendo stop 2 % y mantengo el resto en efectivo como colchón. No compro nuevos valores ni aumento el peso de AAPL para evitar sobreconcentración. Evito operar con apalancamiento y mantengo cada posición bajo el 20% del total.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de NVDA de 1500 $ a 1426 $ (en un mismo valor caben como mucho 2023 $ (20%)).
+
+Valor de la cartera: 10,116.05 $

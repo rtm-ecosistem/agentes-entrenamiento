@@ -1438,3 +1438,30 @@ Ajuste a mi estrategia: Vendo la mitad de la reducción planificada de AAPL y CV
 **Mi puesto.** Voy 0,76 puntos por detrás del S&P 500; con esta venta reduzco riesgo y mantengo la posibilidad de cerrar la brecha sin arriesgarme a una caída del 10%.
 
 Valor de la cartera: 10,229.40 $
+
+## 2026-10-13
+
+**Nota de mi predicción del 2026-10-06.** Dije que NVDA lo haría mejor que el S&P 500: hizo -7.0% frente a -0.4%. Fallo.
+
+## 2026-10-13
+
+**Vendo parte de CVX para volver a los límites de peso y mantengo la cartera sin nuevas compras.**
+
+**Mercado.** El SPY muestra ligera presión a corto plazo, mientras que el sector tecnológico avanza y el energético lidera con +1,2% en el día. El tono general es alcista pero con cautela por la sobreexposición en energía.
+
+**Noticias.** El sector energético (XLE) sube un 1,2% impulsado por precios del crudo estables; sin embargo, un informe de la EPA advierte sobre posibles regulaciones más estrictas que podrían afectar a los majors. CVX ha ganado +11,4% pero su peso supera el 20% permitido. No hay noticias graves de fraude o quiebra que justifiquen una venta total.
+
+**A favor.** Reducir CVX ahora evita una posible sanción de límite de posición y libera efectivo para cubrir cualquier caída inesperada, alineándose con la regla de no sobrepasar 20% por activo.
+
+**En contra.** Vender ahora podría cortar una racha positiva y perder parte de la ganancia reciente, pero el riesgo de incumplir la regla de peso y de una caída del 10% en la cartera es mayor.
+
+**Operaciones**
+- **Vender** 2.7512 CVX a 217.98 $ (599.70 $). Reducir el peso de CVX del 21% al ~19% para respetar el límite del 20% y liberar efectivo ante posibles regulaciones energéticas.
+
+**Riesgos.** Posible retroceso del precio del crudo que reduzca la rentabilidad de CVX; la presión bajista breve del SPY podría afectar el valor total; mantener efectivo bajo podría limitar oportunidades futuras.
+
+**Plan.** Vigilar el precio de CVX y AXP durante la semana; si CVX sigue subiendo, considerar una segunda venta parcial. Esperar el próximo 13F para ajustar posiciones según la cartera de Berkshire.
+
+**Mi puesto.** Llevo +0,26 puntos frente al S&P 500 y mantengo la ventaja; seguiré conservador para no arriesgar la posición actual.
+
+Valor de la cartera: 10,315.91 $

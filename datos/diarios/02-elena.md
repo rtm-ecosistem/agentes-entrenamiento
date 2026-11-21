@@ -1430,3 +1430,35 @@ Ajuste a mi estrategia: Si una posición supera el 18 % venderé solo el 25 
 **Plan de rescate.** Voy a vender aproximadamente $500 de QQQ (≈0.67 uds) para generar efectivo y bajar el peso de QQQ al 18%. No compraré nuevos activos, mantendré el resto de la cartera en los cinco ETFs al 20% cada uno. Evitaré cualquier operación que aumente la exposición a acciones y no usaré apalancamiento. Con el efectivo adicional podré cubrir stops y estar preparada para una posible rotación a bonos si los tipos suben.
 
 Valor de la cartera: 10,040.09 $
+
+## 2026-10-13
+
+**Nota de mi predicción del 2026-10-06.** Dije que NVDA lo haría mejor que el S&P 500: hizo -7.0% frente a -0.4%. Fallo.
+
+## 2026-10-13
+
+**Voy a vender una parte de QQQ para crear efectivo y reforzar posición en bonos, sin abrir nuevas compras.**
+
+**Mercado.** El mercado muestra ligera presión bajista en SPY pero el sector tecnológico está fuerte y el energético sube. Los bonos enfrentan presión por tipos al alza. Mantengo una postura cautelosa.
+
+**Noticias.** El informe de analistas indica un tono alcista pero señala presión a corto plazo en SPY y mayor fortaleza en XLK. El sector energético avanza, mientras que la presión en bonos sugiere posible caída de precios. Estas señales me llevan a reducir exposición en QQQ, que ya está bajo presión, y a reforzar IEF/GLD como refugio.
+
+**A favor.** Reducir QQQ libera efectivo y disminuye riesgo de caída mayor; reforzar bonos protege la cartera ante posible alza de tipos y ayuda a no superar el límite del 10% de caída.
+
+**En contra.** Vender QQQ puede perder una posible recuperación tecnológica, pero el riesgo de mayor caída supera el beneficio potencial y mi objetivo es preservar capital.
+
+**Operaciones**
+- **Vender** 0.5933 QQQ a 741.21 $ (439.78 $). Reducir exposición a QQQ bajo presión y generar efectivo para reforzar bonos IEF.
+
+**Riesgos.** Posible rebote rápido de QQQ que deje dinero sin usar; aumento de volatilidad que pueda activar stops en SPY/VTI; presión de tipos que haga caer IEF aún más.
+
+**Plan.** Vigilaré la evolución de SPY y VTI en los próximos dos días y el spread de tipos de interés; si el mercado cae >3% moveré más efectivo a IEF. Mantendré los stops actuales.
+
+**Mi puesto.** Voy 2,66 puntos por detrás del S&P 500; con este ajuste busco limitar pérdidas y evitar el aviso final.
+
+**Plan de rescate.** Venderé 30% de mi posición en QQQ (aprox. $440) para generar efectivo y comprar $440 adicionales de IEF, manteniendo el peso de bonos alrededor del 25%. No abriré nuevas posiciones en acciones ni en radar. Mantendré los stops actuales y evitaré operar más de 2 órdenes en esta decisión para no sobrepasar el límite de 8 órdenes diarias.
+
+Bloqueado por las reglas de riesgo:
+- Compra de IEF rechazada: en un mismo valor caben como mucho 2005 $ (20%).
+
+Valor de la cartera: 10,024.48 $

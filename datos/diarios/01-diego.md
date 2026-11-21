@@ -1507,3 +1507,29 @@ Ajuste a mi estrategia: Reemplazo el stop‑loss del 3 % diario por uno del 2�
 **Plan de rescate.** 1) Venderé la posición completa de SPY (2.3409 uds) para liberar ~1.82 k USD. 2) Con el efectivo disponible compraré hasta el límite en CVX (añadiendo 3.55 uds) y NVDA (añadiendo 6.59 uds), manteniendo cada posición bajo el 20% del total. 3) Ajustaré los stops: CVX a 190 USD, NVDA a 210 USD. 4) No abriré nuevas posiciones ni usaré radar de oportunidades. 5) Mantendré al menos 1 k USD en efectivo como colchón para evitar caer al 10% de pérdida.
 
 Valor de la cartera: 9,299.55 $
+
+## 2026-10-13
+
+**Vendo parcialmente NVDA y reduzco exposición en CVX para limitar riesgo y evitar el 10% de caída.**
+
+**Mercado.** El SPY está ligeramente a la baja (‑0,1%) pero los sectores tecnológico (+0,7%) y energético (+1,2%) muestran impulso. El mercado es alcista en tono, pero la presión a corto plazo sugiere volatilidad.
+
+**Noticias.** No hay noticias de empresa con impacto claro hoy; solo el informe técnico indica fortaleza en energía y tecnología. CVX subió +7,6% desde la compra, pero está cerca de su stop (190,59). NVDA está casi sin movimiento y su precio está justo por encima del stop (210,11).
+
+**A favor.** Reducir exposición en NVDA y CVX protege el capital y mantiene el drawdown bajo 10%, lo que es crítico para evitar el despido.
+
+**En contra.** Vender ahora podría perder ganancias potenciales si la energía sigue subiendo, pero el riesgo de tocar el stop y perder el 8% supera ese beneficio.
+
+**Operaciones**
+- **Vender** 0.0133 NVDA a 224.99 $ (3.00 $). Reducir exposición y liberar efectivo; posición casi al stop 210,11.
+- **Vender** 2.2926 CVX a 217.98 $ (499.75 $). Bajar peso a 15 % y alejarse del stop 190,59; protege contra caída del sector energético.
+
+**Riesgos.** Posible rebote de NVDA tras la caída del sector tecnológico; caída rápida de CVX si el precio rompe el stop; falta de liquidez para nuevas oportunidades.
+
+**Plan.** Vigilaré los precios de CVX y NVDA cada 30 min; si cualquiera toca su stop, cerraré la posición. Mantendré AAPL y MSFT, que están en zona de ganancia y bajo sus stops.
+
+**Mi puesto.** Voy 9,20 puntos por detrás del S&P 500 y con -6,30% de caída; el plan es limitar pérdidas y estabilizar la cartera.
+
+**Plan de rescate.** Venderé 3 USD de NVDA (≈0,013 uds) para liberar efectivo y reducir peso a ~15 %. Reduciré CVX en $500 (≈2,29 uds) para bajar su peso a 15 % y alejarlo del stop. No compraré nuevas posiciones; usaré el efectivo liberado para cubrir posibles stops y mantener margen. No volveré a comprar NVDA ni CVX en la próxima decisión si se activa su stop. Mantendré AAPL y MSFT completos.
+
+Valor de la cartera: 9,369.85 $

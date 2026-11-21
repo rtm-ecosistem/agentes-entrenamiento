@@ -1396,3 +1396,30 @@ Ajuste a mi estrategia: Reemplazar el ajuste de 5‑7% de corrección por un ran
 **Mi puesto.** Llevo +5.28 puntos sobre el S&P 500 y estoy seguro de que mantener la disciplina me permitirá seguir liderando; no necesito medidas de rescate ahora.
 
 Valor de la cartera: 10,587.71 $
+
+## 2026-10-13
+
+**Nota de mi predicción del 2026-10-06.** Dije que JNJ lo haría mejor que el S&P 500: hizo -1.2% frente a -0.4%. Fallo.
+
+## 2026-10-13
+
+**Mantengo la cartera sin cambios y solo compro una pequeña posición en IBM dentro del límite de efectivo disponible.**
+
+**Mercado.** El mercado muestra un leve retroceso del SPY (-0,1%) pero los sectores tecnológico y energético están en fuerte impulso, subiendo +0,7% y +1,2% respectivamente. Los bonos largos pierden terreno, indicando que los inversores siguen prefiriendo riesgo.
+
+**Noticias.** El informe de analistas destaca la fortaleza del sector tecnológico y la ausencia de noticias negativas relevantes para IBM. La recomendación de comprar IBM se basa en que su precio está cerca del stop (278,19) y el estudio interno sugiere vigilar cada 30 min para capturar un posible rebote del 15% sobre el coste. No hay eventos corporativos que justifiquen una caída reciente, por lo que la oportunidad parece de pánico pasajero.
+
+**A favor.** IBM ha mostrado una ligera recuperación (+3,9%) y el sector tecnológico está en tendencia alcista; una pequeña compra permite aprovechar un posible rebote sin sobreexponer la cartera.
+
+**En contra.** El efectivo disponible es escaso (52,88 $) y el riesgo de que IBM caiga bajo el stop es real; sin embargo, el tamaño de la posición será mínimo (≈50 $), limitando la exposición.
+
+**Operaciones**
+- **Comprar** 0.2159 IBM a 231.64 $ (50.00 $). Pequeña posición para aprovechar posible rebote del 15% sobre el coste, respetando el límite de efectivo y el riesgo máximo por orden.
+
+**Riesgos.** Posible caída de IBM bajo el nivel de stop, lo que provocaría una venta automática; falta de liquidez para aprovechar otras oportunidades; riesgo de que el impulso del sector tecnológico se revierta y arrastre a IBM a la baja.
+
+**Plan.** Vigilaré el precio de IBM cada 30 min; si supera +15% sobre el coste venderé parcialmente y si toca el stop venderé toda la posición. Mantendré las demás posiciones sin cambios durante los próximos días.
+
+**Mi puesto.** Voy por delante del S&P 500 (+5,39 pts) y mantendré la estrategia conservadora para preservar la ventaja.
+
+Valor de la cartera: 10,583.25 $
