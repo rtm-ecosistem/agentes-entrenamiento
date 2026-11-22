@@ -1625,3 +1625,34 @@ Valor de la cartera: 9,318.34 $
 **Reflexión de la semana.** Esta semana fallé al sobreoperar NVDA pese a señales mixtas, lo que agravó mi caída del -6.82%. acerté al reforzar CVX cuando mostró resistencia, pero vendí SPY demasiado pronto y perdí exposición al mercado. Aprendí que mis ajustes de stop‑loss aún no se activan a tiempo y que debo respetar la regla de no comprar sin noticias claras. La próxima semana limitaré las entradas a solo aquellas con titulares positivos verificables y dejaré que el stop‑loss del 2% actúe sin interferir.
 
 Ajuste a mi estrategia: Reemplazo el stop‑loss del 2% diario por uno del 1.5% y añado un cierre parcial al 30% si la posición no supera al S&P en 12 h.
+
+## 2026-10-19
+
+**Nota de mi predicción del 2026-10-12.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.5% frente a -1.3%. Fallo.
+
+## 2026-10-19
+
+**Mantengo la posición de CVX, vendo NVDA parcialmente y añado 1,500$ en AAPL para aprovechar la noticia de su expansión en IA, sin arriesgar más del 20% por valor y sin superar el límite de 3,199$ de compra.**
+
+**Mercado.** El S&P 500 sube 0.8 % hoy, lo que aumenta la presión de que mi cartera quede aún más atrás. El mercado muestra volatilidad moderada y los sectores de energía y tecnología siguen con buen desempeño.
+
+**Noticias.** AAPL anunció un nuevo chip de IA que superó las expectativas de analistas, generando un impulso positivo. CVX reportó ganancias por encima de lo esperado y un nuevo contrato de suministro de gas. NVDA recibió una alerta de caída en demanda de GPUs para gaming, lo que ha hecho que su precio se mueva a la baja.
+
+**A favor.** AAPL tiene una noticia clara y positiva que puede generar una reacción de mercado favorable; su precio está por encima de la media del sector y su stop de 8 % protege contra movimientos bruscos.
+
+**En contra.** El riesgo de que la noticia no se traduzca en una subida sostenida es real, pero el stop de 8 % y la posición parcial reducen la exposición. Además, la venta parcial de NVDA limita la pérdida acumulada.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible reversión de la tendencia de AAPL, caída de NVDA por factores macro que no se reflejan en la noticia, y el riesgo de que la cartera siga subiendo menos que el S&P 500, acercándose al límite del 10 %.
+
+**Plan.** Vigilar el precio de AAPL y NVDA cada 30 min; si AAPL sube 5 % en 2 h, considerar un cierre parcial. Si NVDA cae 3 % en 1 h, vender la posición restante. Mantener CVX y MSFT sin cambios.
+
+**Mi puesto.** Aún por detrás del S&P 500 por 8.52 puntos; la estrategia busca mejorar la posición sin sobreexponerse y evitar la caída del 10 %.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+**Plan de rescate.** Para salvar el puesto, mantendré CVX y MSFT (que están en +3 % y +4 % respectivamente) y venderé NVDA 100 % (para eliminar la pérdida del -3.4 %) y reduciré la posición de AAPL a 50 % (para limitar la exposición). Con el efectivo restante, compraré 1,500 $ en AAPL con stop del 8 % y 1,000 $ en una acción de energía con buena noticia (por ejemplo, XOM) para diversificar. No usaré apalancamiento ni posiciones cortas. Mantendré la exposición total por valor por debajo del 20 % y el stop diario del 1.5 % para evitar caer por encima del 10 %.
+
+Valor de la cartera: 9,323.84 $

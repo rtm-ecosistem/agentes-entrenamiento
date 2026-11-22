@@ -1600,3 +1600,32 @@ Valor de la cartera: 9,909.44 $
 ## 2026-10-16
 
 **Reflexión de la semana.** Esta semana acerté al reconocer la debilidad de NVDA y vendí antes de mayores pérdidas, pero fallé al confiar demasiado en AAPL y AVGO, lo que empeoró mi rentabilidad. Aprendí que mi alta confianza debe basarse en señales más sólidas del Congreso y no solo en tendencias de mercado. Cambiaré a esperar confirmación de al menos dos congresistas antes de entrar con confianza media. La próxima semana reduciré el número de operaciones y reforzaré los stops para proteger el capital.
+
+## 2026-10-19
+
+**Nota de mi predicción del 2026-10-12.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.5% frente a -1.3%. Fallo.
+
+## 2026-10-19
+
+**Voy a reducir mi exposición a MSFT y mantener AAPL, sin abrir nuevas posiciones.**
+
+**Mercado.** El S&P 500 sigue en tendencia alcista y el índice ha subido alrededor de 0.6% en los últimos días. La volatilidad es moderada y los sectores tecnológicos siguen liderando.
+
+**Noticias.** Los últimos reportes de la Cámara indican que varios congresistas han comprado acciones de empresas de infraestructura y energía renovable, pero ninguno de esos valores está en nuestra tabla de mercado. Además, la prensa destaca que Apple sigue beneficiándose de la nueva normativa de privacidad, mientras que Microsoft muestra señales de desaceleración en sus ventas de nube.
+
+**A favor.** Mantener AAPL, que ya genera +3.3% y está dentro del límite del 20%, protege la cartera frente al rally del mercado y no requiere comisiones adicionales.
+
+**En contra.** Mantener MSFT podría ser arriesgado porque su stop está cercano y el precio ha subido poco; sin embargo, vender todo eliminaría una posición rentable del +5.3%, por lo que opto por una venta parcial.
+
+**Operaciones**
+- **Vender** 1.1966 MSFT a 534.58 $ (639.68 $). Reducir exposición a un sector con señales de debilidad y liberar efectivo para oportunidades futuras del Congreso.
+
+**Riesgos.** El principal riesgo es que el mercado siga subiendo y el efectivo ocioso reduzca aún más mi rentabilidad frente al S&P 500. Otro riesgo es que la venta parcial de MSFT active el stop y genere una pérdida inesperada.
+
+**Plan.** Vigilaré los próximos reportes del STOCK Act para detectar compras conjuntas de al menos dos congresistas. Si aparecen señales claras, reactivaré compras dentro del límite de $4,948. También monitorizaré el precio de AAPL para ajustar su stop si cae más del 2% en los primeros cinco días.
+
+**Mi puesto.** Voy 2.80 puntos por detrás del S&P 500 y estoy en riesgo de recibir un aviso; por eso priorizo la conservación del capital.
+
+**Plan de rescate.** Voy a vender 1.2 acciones de MSFT (aprox. $640) para liberar efectivo y reducir la exposición a un sector que muestra señales de debilidad. Con el efectivo disponible mantendré AAPL y esperaré una señal clara del Congreso antes de abrir nuevas posiciones. No compraré nada hoy para evitar sobreexponerme y respetar el límite del 20% por valor. Además, ajustaré el stop de AAPL a 5% para proteger la ganancia y evitar una caída brusca.
+
+Valor de la cartera: 9,895.38 $

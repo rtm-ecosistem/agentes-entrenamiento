@@ -1661,3 +1661,36 @@ Valor de la cartera: 9,562.54 $
 **Reflexión de la semana.** Esta semana acerté al volver a MSFT cuando mostró impulso y mantuve AAPL mientras su tendencia se debilitaba, pero fallé al vender AMD demasiado pronto y al mantener XLE sin confirmar la tendencia. Aprendí que mi stop del 5 % interfiere con la regla del 8 % y que debo ser más rígida con la media de 50 días antes de entrar o salir. Cambiaré a usar solo el stop del 8 % cuando el precio caiga bajo la media de 50 días y eliminaré el stop del 5 % que me hace salir prematuramente. La próxima semana entraré en posiciones solo después de confirmar al menos 20 días de rentabilidad positiva y evitaré rotaciones diarias innecesarias.
 
 Ajuste a mi estrategia: Aplico el stop del 8 % únicamente cuando el precio rompe la media de 50 días y dejo de usar el stop automático del 5 %.
+
+## 2026-10-19
+
+**Nota de mi predicción del 2026-10-12.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.5% frente a -1.3%. Fallo.
+
+## 2026-10-19
+
+**Voy a reforzar la cartera con tres nuevas posiciones de tendencia fuerte (AAPL, AMD y NVDA) manteniendo efectivo para limitar la caída y evitar un despido.**
+
+**Mercado.** El SPY y QQQ están en consolidación con leves retrocesos a la media de 50 días; el mercado global muestra volatilidad moderada. Los sectores de tecnología y energía siguen con tendencias positivas, aunque la presión de los tipos de interés sigue presente.
+
+**Noticias.** La reciente decisión de la Fed de mantener la tasa sin cambios ha calmado los nervios de los inversores; la noticia de que Apple reportó ingresos superiores a la expectativa confirma la fortaleza de su tendencia a 20 y 60 días. La caída de los precios de petróleo ha impulsado XLE, pero la volatilidad sigue alta. No hay noticias negativas que afecten a las posiciones actuales.
+
+**A favor.** AAPL y AMD muestran rentabilidad positiva a 20 y 60 días y están por encima de su media de 50 días, lo que indica una tendencia sostenida. NVDA también cumple con los criterios y su momentum es fuerte.
+
+**En contra.** El riesgo de que cualquiera de las nuevas posiciones se revierta antes de que el mercado se recupere es real; sin embargo, el stop del 8 % limita la pérdida y la diversificación reduce el impacto total.
+
+**Operaciones**
+- **Comprar** 2.0547 AAPL a 343.54 $ (705.86 $). AAPL muestra +0.7 % en 20 y 60 días y está por encima de su media de 50 días; se añade 706 $ para reforzar la posición sin superar el 20 % del total.
+- **Comprar** 2.3551 AMD a 549.45 $ (1,294.00 $). AMD tiene rentabilidad positiva a 20 y 60 días y está por encima de su media de 50 días; 1 294 $ se ajusta al límite del 20 % y al presupuesto disponible.
+- **Comprar** 4.5868 NVDA a 218.02 $ (1,000.00 $). NVDA cumple los criterios de tendencia y su momentum es fuerte; 1 000 $ mantiene la exposición dentro del 20 % y el límite de 4 521 $.
+
+**Riesgos.** Posibles caídas bruscas en el sector tecnológico podrían activar los stops; la alta exposición a energía podría verse afectada por cambios en los precios del crudo. Mantener efectivo reduce la exposición a estos riesgos.
+
+**Plan.** Vigilar el precio de AAPL y AMD frente a sus medias de 50 días y el nivel de soporte de NVDA. Ajustar stops si el precio cae 8 % por debajo de la media de 50 días. Mantener efectivo suficiente para cubrir cualquier caída mayor al 10 %.
+
+**Mi puesto.** Quedo 6.07 puntos por detrás del S&P 500; con la nueva asignación espero acercarme a la media y evitar el despido.
+
+**Radar de oportunidades.** No hay radar de oportunidades en este informe.
+
+**Plan de rescate.** Para salvar mi puesto, mantendré efectivo del 20 % de la cartera (≈ 1 520 $) y limitaré cada posición a 20 % del total. Venderé XLK si su tendencia se rompe (precio < 50 MA) y mantendré AAPL y XLE con sus stops actuales. No añadiré posiciones que no cumplan la regla de 20 % ni usaré apalancamiento. El objetivo es evitar una caída mayor al 10 % y posicionarme para superar al S&P 500 en la próxima evaluación.
+
+Valor de la cartera: 9,567.59 $

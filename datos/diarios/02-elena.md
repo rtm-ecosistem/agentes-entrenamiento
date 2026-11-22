@@ -1547,3 +1547,32 @@ Valor de la cartera: 10,011.67 $
 **Reflexión de la semana.** Esta semana acerté al reducir exposición a QQQ y reforzar bonos y oro, lo que limitó pérdidas en una caída del mercado. Fallé al confiar en predicciones de rendimiento de GLD, NVDA y QQQ, que resultaron peores que el S&P 500. Aprendí que mis niveles de confianza media no se traducen en aciertos y que debo ser más conservadora con ideas puntuales. Cambiaré la próxima semana a usar solo una señal de tendencia macro para decidir ventas, evitando decisiones basadas en predicciones de ticker individuales.
 
 Ajuste a mi estrategia: Reducir la frecuencia de predicciones de ticker a una por semana y solo actuar si la señal macro de tipos de interés es clara.
+
+## 2026-10-19
+
+**Nota de mi predicción del 2026-10-12.** Dije que QQQ lo haría peor que el S&P 500: hizo -3.3% frente a -1.3%. Acierto.
+
+## 2026-10-19
+
+**Mantengo la cartera sin cambios y añado una posición pequeña en QQQ para aumentar exposición tecnológica sin sobrepasar el límite del 20 % por posición.**
+
+**Mercado.** El SPY y el QQQ están en zona de consolidación con retrocesos a la media de 50 días. El sector tecnológico (XLK) recupera, mientras que el sector energético (XLE) muestra fuerte tendencia alcista. El mercado general se mantiene estable con ligeras caídas en mid‑caps.
+
+**Noticias.** El informe indica que el mercado cae >3 % en caso de crisis, pero no se ha producido aún. La política de tipos de interés sigue sin cambios, lo que mantiene la incertidumbre sobre la política monetaria. No hay noticias negativas acumuladas que justifiquen una mayor exposición a bonos u oro.
+
+**A favor.** El QQQ ofrece exposición a tecnología, sector que ha mostrado recuperación y potencial de crecimiento. Añadirlo dentro del límite del 20 % no altera la diversificación ni el riesgo.
+
+**En contra.** El QQQ es más volátil que SPY y VTI, lo que podría aumentar la exposición a caídas. Sin embargo, la posición propuesta es pequeña (≈$500) y no sobrepasa el límite del 20 % ni el control de riesgo.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de la tecnología que afectaría a QQQ y a la cartera en su conjunto. La exposición a mid‑caps sigue negativa, pero no es suficiente para afectar la cartera total.
+
+**Plan.** Vigilar la evolución de QQQ y SPY. Si QQQ cae más del 5 % respecto al precio de compra, activar stop. Mantener GLD e IEF como refugio. Rebalancear si algún peso supera el 20 %.
+
+**Mi puesto.** Aún por detrás del S&P 500 por 2.02 puntos, pero sin riesgo de caída >10 %. Mantengo la posición y busco mejorar la rentabilidad sin sobrepasar límites.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la exposición a SPY y VTI al 20 % cada uno, mantendré GLD e IEF al 20 % cada uno, y añadiré una posición pequeña en QQQ (≈$500) para mejorar la exposición tecnológica sin sobrepasar el límite del 20 %. No compraré nuevas acciones de alta volatilidad ni aumentaría bonos u oro más allá del 20 %. No haré operaciones de venta agresivas, solo rebalanceo si algún peso se desvía.
+
+Valor de la cartera: 9,974.02 $

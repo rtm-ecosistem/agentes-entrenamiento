@@ -1560,3 +1560,31 @@ Valor de la cartera: 10,446.99 $
 **Reflexión de la semana.** Esta semana acerté al seguir la disciplina de peso y limitar la exposición, pero fallé al confiar en predicciones de NVDA que resultaron negativas; aprendí que mi confianza media puede ser engañosa y que debo respetar más la regla de inactividad entre 13F; cambiaré a vender solo cuando el peso supere claramente los límites y evitaré nuevas apuestas en tecnología volátil; además, reforzaré la revisión de noticias antes de cualquier ajuste inesperado.
 
 Ajuste a mi estrategia: Venderé la mitad de cualquier posición solo cuando su peso supere 15 % y esperaré al próximo 13F antes de hacer ajustes menores, sin excepciones.
+
+## 2026-10-19
+
+**Nota de mi predicción del 2026-10-12.** Dije que NVDA lo haría peor que el S&P 500: hizo -3.5% frente a -1.3%. Acierto.
+
+## 2026-10-19
+
+**Incremento exposición a energía con XLE y refuerzo ligero en KO para aprovechar la tendencia alcista del sector sin sobrepasar límites.**
+
+**Mercado.** El SPY muestra consolidación con leves retrocesos, mientras que el sector energía (XLE) lleva una fuerte tendencia alcista del +14,3% en 60 días. El mercado general está neutral, sin grandes sorpresas.
+
+**Noticias.** El informe de analistas destaca la fortaleza del XLE y advierte sobre la euforia que puede llevar a sobrecompras. No hay noticias negativas sobre mis posiciones actuales. La ausencia de eventos adversos me permite mantenerlas.
+
+**A favor.** Copiar a Buffett implica seguir sus grandes posiciones; él mantiene exposición a energía y a grandes tecnológicas, y el sector energía está en fuerte impulso, por lo que añadir XLE sigue la lógica de replicar su estilo de inversión a largo plazo.
+
+**En contra.** El riesgo de sobreexposición a energía si el impulso se revierte, pero mantengo el peso bajo el 20% y establezco un stop del 8% para limitar pérdidas. Además, mi cartera ya supera al S&P 500, así que prefiero consolidar ganancias que arriesgarme a una corrección.
+
+**Operaciones**
+- **Comprar** 29.5164 XLE a 67.76 $ (2,000.00 $). Sector energía con +14,3% en 60 días, peso objetivo 16% y dentro del límite del 20%.
+- **Comprar** 2.1361 KO a 93.63 $ (200.00 $). Refuerzo de posición KO para acercarla al 20% de peso, aprovechando su buen desempeño (+8,5%).
+
+**Riesgos.** Posible retroceso del sector energía tras el fuerte rally, y la consolidación del SPY que podría limitar ganancias adicionales. También el riesgo de que AXP y CVX, ya al 20% y 15% respectivamente, limiten capacidad de ajuste futuro.
+
+**Plan.** Vigilaré la evolución del XLE y el precio de KO durante la semana; si XLE rompe su soporte, activaré el stop. Mantendré inactividad en otras posiciones hasta el próximo 13F.
+
+**Mi puesto.** Voy +2,40 puntos por encima del S&P 500 y mantengo la ventaja; seguiré con la estrategia conservadora para preservar el desempeño.
+
+Valor de la cartera: 10,414.95 $

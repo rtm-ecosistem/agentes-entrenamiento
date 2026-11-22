@@ -1511,3 +1511,30 @@ Valor de la cartera: 10,620.86 $
 **Reflexión de la semana.** Esta semana acerté al reforzar IBM tras su caída y mantuve la disciplina de comprar poco a poco; fallé al confiar demasiado en JNJ y NVDA con confianza media, lo que me costó pérdidas; aprendí que mis predicciones de alta confianza no siempre se cumplen y debo ser más cauto; la próxima semana reduciré la exposición en ideas de confianza media y esperaré confirmaciones antes de entrar.
 
 Ajuste a mi estrategia: Si una predicción con confianza media falla, la próxima vez reduciré la posición a la mitad del tamaño habitual.
+
+## 2026-10-19
+
+**Nota de mi predicción del 2026-10-12.** Dije que IBM lo haría mejor que el S&P 500: hizo +3.5% frente a -1.3%. Acierto.
+
+## 2026-10-19
+
+**Hoy no opero, mantengo la cartera en posición y observo oportunidades de corrección >8 % en valores sólidos.**
+
+**Mercado.** El mercado se mantiene en consolidación, con SPY y QQQ en zona de retroceso a la media de 50 días. El sector tecnológico (XLK) muestra recuperación, mientras XLI sigue bajando. El sector energético (XLE) presenta una fuerte tendencia alcista con +14,3 % en 60 días.
+
+**Noticias.** La retirada del proyecto de centro de datos AI de Microsoft en el Reino Unido reduce la percepción de su expansión global, pero no afecta a su negocio principal. No hay noticias negativas que justifiquen una caída sustancial de MSFT, AAPL, IBM, JNJ o XLY. La falta de eventos relevantes sugiere que las correcciones actuales son de pánico pasajero, una oportunidad para comprar a buen precio.
+
+**A favor.** Los precios de AAPL, MSFT, IBM, JNJ y XLY han caído más del 8 % en los últimos 30 días sin fundamentos negativos, lo que indica una oportunidad de compra de valor con margen de seguridad.
+
+**En contra.** No hay efectivo disponible y las posiciones actuales ya alcanzan el 20 % de la cartera cada una, por lo que no puedo aumentar la exposición sin vender, lo que reduciría mi rendimiento actual.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es que el mercado continúe en consolidación y las correcciones no se materialicen, dejando la cartera sin oportunidades de compra. Además, la falta de efectivo limita la capacidad de aprovechar futuras caídas.
+
+**Plan.** Vigilaré los precios de AAPL, MSFT, IBM, JNJ y XLY cada 30 min. Si alguno cae más del 8 % sobre el precio de compra, consideraré una venta parcial para liberar efectivo. Si el mercado se recupera, mantendré la posición y esperaré nuevas correcciones.
+
+**Mi puesto.** Estoy por delante del S&P 500 en 6,51 puntos. Mantengo la posición actual y busco oportunidades de compra cuando se presenten correcciones >8 % en los valores que ya poseo.
+
+Valor de la cartera: 10,583.72 $
