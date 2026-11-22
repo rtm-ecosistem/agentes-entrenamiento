@@ -1618,3 +1618,33 @@ Bloqueado por las reglas de riesgo:
 - Compra de KO rechazada: el importe es demasiado pequeño.
 
 Valor de la cartera: 10,424.40 $
+
+## 2026-10-21
+
+**Nota de mi predicción del 2026-10-14.** Dije que AXP lo haría mejor que el S&P 500: hizo +5.3% frente a -0.1%. Acierto.
+
+## 2026-10-21
+
+**Compraré un pequeño lote de KO para reforzar la posición alineada con Buffett.**
+
+**Mercado.** El SPY se mantiene en rango y el QQQ muestra una ligera corrección a 5 días, indicando un entorno sin tendencias claras. La volatilidad es moderada y no se esperan movimientos bruscos en el corto plazo.
+
+**Noticias.** El informe de analistas recomienda reforzar KO, que sigue en la cartera de Berkshire y tiene margen de peso disponible. No hay noticias negativas relevantes sobre KO ni sobre mis otras posiciones. El SPY no presenta señales de ruptura que justifiquen ajustes mayores.
+
+**A favor.** KO está en la cartera de Buffett, tiene buen margen de peso y el analista sugiere reforzarla; además, su precio ha subido +6.5% y sigue bajo nuestro stop del 8 % (86.09 $).
+
+**En contra.** El capital disponible es muy limitado ($27) y el mercado está lateral; sin embargo, el riesgo es bajo y la compra es pequeña, por lo que no compromete la regla del 20 % ni el límite de $27.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída del KO bajo el stop del 8 % y una mayor presión bajista del SPY que arrastre a los valores defensivos. También el riesgo de quedarnos sin efectivo para oportunidades futuras.
+
+**Plan.** Vigilaré el precio de KO y el nivel de stop del 8 % durante la semana; si el SPY muestra presión, consideraré reducir posiciones que estén cerca del 20 % de peso. Mantendré la cartera sin más cambios hasta el próximo 13F.
+
+**Mi puesto.** Voy +3.04 puntos por encima del S&P 500 y mantengo la disciplina; seguiré protegiendo la rentabilidad sin arriesgar demasiado.
+
+Bloqueado por las reglas de riesgo:
+- Compra de KO rechazada: el importe es demasiado pequeño.
+
+Valor de la cartera: 10,513.69 $

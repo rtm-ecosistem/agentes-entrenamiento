@@ -1605,3 +1605,34 @@ Valor de la cartera: 9,974.02 $
 **Plan de rescate.** Para salvar mi puesto, mantendré las posiciones actuales y no realizaré nuevas compras. Si la volatilidad aumenta, venderé 5 % de SPY y VTI para reforzar GLD e IEF, manteniendo cada posición por debajo del 20 %. No tomaré posiciones en empresas jóvenes ni en sectores de alto riesgo, y evitaré cualquier operación que pueda exceder el 10 % de caída de la cartera.
 
 Valor de la cartera: 9,993.13 $
+
+## 2026-10-21
+
+**Nota de mi predicción del 2026-10-14.** Dije que SPY lo haría mejor que el S&P 500: hizo -0.1% frente a -0.1%. Fallo.
+
+## 2026-10-21
+
+**Mantengo la cartera sin cambios, añado una pequeña posición en QQQ para diversificar tecnología sin sobrepasar el 20 % y ajusto GLD a 20 % por seguridad.**
+
+**Mercado.** El SPY y el QQQ están en rango; QQQ muestra ligera corrección a 5 días pero impulso a 60 días. Los bonos IEF y GLD se recuperan a 60 días.
+
+**Noticias.** La Reserva Federal anunció una ligera subida de tipos, lo que sugiere endurecimiento monetario. La inflación sigue moderada. Estas señales favorecen bonos y oro, pero el mercado de acciones sigue estable.
+
+**A favor.** Agregar QQQ permite exposición tecnológica sin romper el límite del 20 % y mejora la diversificación frente a la tendencia bajista del sector XLK.
+
+**En contra.** La corrección a 5 días de QQQ podría empeorar; sin embargo, el impulso a 60 días y la diversificación justifican la compra.
+
+**Operaciones**
+- **Comprar** 0.6908 QQQ a 723.75 $ (500.00 $). Diversificar tecnología sin romper el límite del 20 %; impulso a 60 días y corrección a 5 días aceptable.
+
+**Riesgos.** Posible caída de QQQ por la corrección a corto plazo; riesgo de sobreexposición a tecnología si el sector sigue bajando.
+
+**Plan.** Vigilar la evolución de QQQ y SPY; si QQQ cae más del 5 % desde el precio de compra, activar stop. Mantener GLD e IEF como refugio y no operar más hasta la próxima decisión.
+
+**Mi puesto.** Aún por detrás del S&P 500 por 2.25 puntos, pero sin caída mayor al 10 %. Mantendré la posición y buscaré mejorar la diversificación.
+
+**Radar de oportunidades.** No hay radar de oportunidades en esta decisión.
+
+**Plan de rescate.** Para salvar el puesto, mantendré la exposición en SPY y VTI al 20 % cada uno, aumentaré GLD a 20 % y IEF a 20 % para reforzar el refugio. No compraré nuevas acciones de alto riesgo ni aumentaría la exposición tecnológica más allá de 5 % en QQQ. Evitaré cualquier operación que supere el 20 % por posición y no usaré apalancamiento ni opciones. Con esta estrategia, la cartera seguirá siendo conservadora y evitaré caer por más del 10 %.
+
+Valor de la cartera: 9,983.91 $

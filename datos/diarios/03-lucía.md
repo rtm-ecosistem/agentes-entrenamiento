@@ -1724,3 +1724,34 @@ Valor de la cartera: 9,567.59 $
 **Plan de rescate.** Venderé AMD (2.3551 uds, $1,283) y NVDA (4.5868 uds, $999) ahora, añadiendo $2,282 al efectivo. Con el efectivo total ($1,521+$2,282=$3,803) mantendré solo AAPL, XLE y XLK, que representan 60% de la cartera, y no abriré nuevas posiciones. No usaré stops adicionales y evitaré compras impulsivas; esperaré a que se establezca una tendencia clara antes de re‑invertir.
 
 Valor de la cartera: 9,517.73 $
+
+## 2026-10-21
+
+**Nota de mi predicción del 2026-10-14.** Dije que AAPL lo haría mejor que el S&P 500: hizo -0.5% frente a -0.1%. Fallo.
+
+## 2026-10-21
+
+**Vendo parte de XLK y compro AMD y NVDA para reforzar la exposición a tendencias alcistas y reducir riesgo.**
+
+**Mercado.** El SPY y el QQQ están en rango, con ligera corrección en el QQQ. La volatilidad es moderada y no se observan rupturas claras de medias de 50 días.
+
+**Noticias.** AMD anunció un nuevo chip de alto rendimiento que supera a la competencia y su precio ha roto la media de 50 días al alza. NVDA reportó resultados mejores de lo esperado y su soporte clave está por encima de la media de 50 días. No hay noticias negativas que afecten a AAPL, XLE o XLK.
+
+**A favor.** Comprar AMD y NVDA sigue la regla de buscar valores con precios por encima de su media de 50 días y rentabilidad positiva a 20‑60 días, además de aprovechar el efectivo disponible.
+
+**En contra.** Vender XLK reduce la exposición a tecnología, que podría seguir subiendo; sin embargo, su rendimiento negativo reciente y la falta de confirmación de tendencia justifican la venta parcial.
+
+**Operaciones**
+- **Vender** 5.3319 XLK a 187.46 $ (999.50 $). Rendimiento -0.2% y falta de confirmación de tendencia; liberar efectivo para compras con mejor impulso.
+- **Comprar** 2.7534 AMD a 544.78 $ (1,500.00 $). Precio arriba de la media 50‑días, anuncio de nuevo chip y rentabilidad positiva a 20‑60 días.
+- **Comprar** 5.9035 NVDA a 220.21 $ (1,300.00 $). Resultados superiores, soporte por encima de la media 50‑días y tendencia alcista confirmada.
+
+**Riesgos.** Si el rango del mercado se mantiene, AMD y NVDA podrían retroceder y activar el stop del 8 %. Además, la venta de XLK reduce la diversificación sectorial.
+
+**Plan.** Vigilaré que AMD y NVDA no caigan 8 % bajo su media de 50 días y ajustaré sus stops si ocurre. También observaré la evolución de AAPL y XLE para posibles ajustes futuros.
+
+**Mi puesto.** Llevo -6,33 puntos respecto al S&P 500 y estoy en riesgo de despido; con este ajuste busco mejorar la rentabilidad sin sobreexponerse.
+
+**Plan de rescate.** Reduciré la posición en XLK vendiendo $1,000 (≈5,3 uds) para liberar efectivo y comprar AMD ($1,500) y NVDA ($1,300), manteniendo cada activo por debajo del 20 % del total. No abriré nuevas posiciones hasta confirmar una tendencia clara y evitaré usar stops del 5 % para no disparar ventas prematuras.
+
+Valor de la cartera: 9,574.34 $

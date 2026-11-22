@@ -1659,3 +1659,39 @@ Valor de la cartera: 9,895.38 $
 **Plan de rescate.** Reduciré el efectivo invirtiendo 1.320 USD en MSFT (completando el 20 % permitido) y 1.800 USD en JPM (nuevo valor bajo 20 %). Mantendré AAPL sin cambios y aplicaré un stop de 2 % en los primeros cinco días para ambas nuevas compras. No abriré más posiciones ni usaré apalancamiento. Si alguna posición activa el stop, la venderé y esperaré una nueva señal del Congreso antes de volver a comprar.
 
 Valor de la cartera: 9,868.38 $
+
+## 2026-10-21
+
+**Nota de mi predicción del 2026-10-14.** Dije que NVDA lo haría peor que el S&P 500: hizo -1.7% frente a -0.1%. Acierto.
+
+## 2026-10-21
+
+**Vendo una parte de AAPL para respetar el límite del 20% y reforzar MSFT y JPM con stops estrictos.**
+
+**Mercado.** El mercado muestra una ligera tendencia alcista, con el S&P 500 +2.1% en el periodo. La volatilidad es moderada y los sectores tecnológico y financiero siguen liderando.
+
+**Noticias.** Los últimos PTR del Congreso indican compras conjuntas de MSFT y JPM por varios representantes, señalando confianza en contratos gubernamentales de cloud y servicios financieros. Además, no hay noticias negativas relevantes para estas empresas. Se descarta AAPL por su sobrepeso y falta de nuevas declaraciones recientes.
+
+**A favor.** Reforzar MSFT y JPM sigue la estrategia del Congreso y permite diversificar el riesgo sin sobrepasar el 20% por ticker, mientras que vendemos AAPL para cumplir la regla de peso máximo.
+
+**En contra.** Reducir AAPL podría perder unos puntos de rentabilidad reciente, pero el riesgo de incumplir la regla de peso supera ese beneficio y podría desencadenar un despido por violación de normas.
+
+**Operaciones**
+- **Vender** 0.3495 AAPL a 343.16 $ (119.94 $). Reducir peso al 20% y cumplir regla de exposición máxima.
+- **Comprar** 0.5786 JPM a 333.78 $ (193.11 $). Compras conjuntas de congresistas, exposición a sector financiero y contratos públicos.
+
+**Riesgos.** Posibles caídas del 2% en los primeros cinco días que activarían el stop y cerrarían la posición. Además, una corrección del sector tecnológico podría afectar MSFT y AAPL simultáneamente.
+
+**Plan.** Vigilaré los stops de MSFT y JPM cada media hora; si cualquiera cae 2% en 5 días cerraré la posición y pausaré compras de ese ticker. Revisaré diariamente nuevas declaraciones del Congreso.
+
+**Mi puesto.** Voy 3.41 puntos por detrás del S&P 500 y recibo un aviso; el plan de rescate busca mejorar la rentabilidad sin sobreexponer la cartera.
+
+**Plan de rescate.** 1) Venderé AAPL por $120 para bajar su peso al 20% del total. 2) Con el efectivo disponible compraré $2,000 de MSFT y $1,000 de JPM, respetando el límite de $1,974 por ticker. 3) Aplicaré un stop de 2% en los primeros cinco días a ambas nuevas compras y mantendré los stops actuales (MSFT 509.72, JPM 323.59). 4) No abriré nuevas posiciones fuera del Congreso hasta que la cartera recupere al menos el 0% de diferencia con el S&P. 5) Mantendré AAPL solo la parte que quede dentro del límite y observaré su evolución para posibles ventas futuras.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de JPM de 1000 $ a 193 $ (en un mismo valor caben como mucho 1974 $ (20%)).
+
+Bloqueado por las reglas de riesgo:
+- Compra de MSFT rechazada: en un mismo valor caben como mucho 1974 $ (20%).
+
+Valor de la cartera: 9,868.62 $

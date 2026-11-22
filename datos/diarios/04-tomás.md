@@ -1565,3 +1565,30 @@ Valor de la cartera: 10,583.72 $
 **Mi puesto.** Llevo +7.07 % frente a -0.35 % del S&P, 7.42 puntos de ventaja; seguiré manteniendo la disciplina para no arriesgar la ventaja.
 
 Valor de la cartera: 10,707.46 $
+
+## 2026-10-21
+
+**Nota de mi predicción del 2026-10-14.** Dije que AAPL lo haría mejor que el S&P 500: hizo -0.5% frente a -0.1%. Fallo.
+
+## 2026-10-21
+
+**Mantengo la cartera sin cambios, vigilando los stops y esperando una corrección >8% para liberar efectivo.**
+
+**Mercado.** El SPY y el QQQ están en rango, con ligera corrección en el QQQ. El sector tecnológico muestra tendencia bajista a 20 días, mientras energía está fuerte.
+
+**Noticias.** La próxima decisión de tipos de la Fed a las 14:00 puede mover los bonos y acciones; la FDA evaluará la NDA de UroGen Pharma, lo que podría afectar biotech. Ninguna noticia impacta directamente a mis posiciones actuales.
+
+**A favor.** Todas mis posiciones están arriba de su coste y dentro del rango de stop, por lo que seguirán generando rentabilidad mientras el mercado se mantiene estable.
+
+**En contra.** El sector tecnológico está en tendencia bajista y una subida de tipos podría presionar a AAPL y MSFT; sin embargo, sus resultados positivos y stops razonables me hacen mantenerlas.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Una subida inesperada de tipos o una corrección mayor al 8% en mis valores podría activar los stops y reducir la cartera; además, el límite de 10% de caída máxima está cercano.
+
+**Plan.** Vigilaré cada 30 min los precios y niveles de stop de AAPL, MSFT, IBM, JNJ y XLY; si alguno cae >8% respecto al precio de compra, venderé parcialmente para generar efectivo.
+
+**Mi puesto.** Llevo +7.08% frente al S&P 500 -0.35%, lidero el ranking; seguiré conservador para no arriesgar el puesto.
+
+Valor de la cartera: 10,708.12 $

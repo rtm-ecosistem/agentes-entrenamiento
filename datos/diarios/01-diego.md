@@ -1685,3 +1685,32 @@ Valor de la cartera: 9,323.84 $
 **Plan de rescate.** Para salvar el puesto, elimino la posición en NVDA (pérdida del 3,5 %) y mantengo las posiciones en CVX, AAPL y MSFT, que están en rango positivo. Con el efectivo restante, no abro nuevas posiciones para evitar sobreexposición. Si el mercado sigue subiendo, mantendré el efectivo y esperaré una noticia clara de buena reacción antes de comprar. En caso de que el mercado caiga, venderé parte de CVX para cubrir la pérdida y evitar el límite de 10 %.
 
 Valor de la cartera: 9,286.79 $
+
+## 2026-10-21
+
+**Nota de mi predicción del 2026-10-14.** Dije que CVX lo haría mejor que el S&P 500: hizo +3.0% frente a -0.1%. Acierto.
+
+## 2026-10-21
+
+**Mantengo la cartera actual, vendo NVDA por pérdidas y no abro nuevas posiciones para evitar caer por debajo del 10% y asegurar la supervivencia.**
+
+**Mercado.** El mercado está en consolidación con volatilidad moderada; el S&P 500 sube 0.3 % hoy, mientras que el sector tecnológico muestra ligera presión. No hay noticias de impulso fuerte que alteren la tendencia.
+
+**Noticias.** El informe de analistas indica que AAPL y CVX mantienen su rendimiento positivo, pero no hay datos que justifiquen nuevas compras. NVDA sigue con caída de 2.5 % y no hay rumores de recuperación inmediata. MSFT y CVX están en zona de soporte y no presentan señales de deterioro.
+
+**A favor.** Mantener posiciones con resultados positivos (AAPL, CVX, MSFT) evita la pérdida de capital y mantiene la exposición al mercado sin riesgo adicional.
+
+**En contra.** Podría perder la oportunidad de comprar un activo con buena noticia, pero el riesgo de caer por debajo del 10% supera el beneficio potencial.
+
+**Operaciones**
+- **Vender** 3.6847 NVDA a 219.99 $ (810.59 $). Reducir pérdidas y liberar efectivo para evitar caer por debajo del 10 %.
+
+**Riesgos.** La caída de NVDA y la falta de nuevas compras pueden limitar la recuperación; el efectivo no gana y el mercado sigue subiendo.
+
+**Plan.** Vender NVDA hoy, conservar efectivo al 40 %, observar cualquier noticia positiva para AAPL o MSFT y considerar una compra parcial de CVX si el precio baja 2 %.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 8.59 puntos; el plan es evitar pérdidas mayores y mantener la posición hasta la próxima evaluación.
+
+**Plan de rescate.** Para salvar el puesto, mantendré las posiciones con rendimiento positivo (AAPL, CVX, MSFT) y venderé NVDA para liberar efectivo. No abriré nuevas posiciones ni aumentaré exposición. El efectivo se mantendrá al 40 % y se usará solo si surge una noticia clara y positiva que supere el 3 % de diferencia frente al S&P en 48 h. Si el mercado sube 1 % en los próximos días, consideraré una compra parcial de CVX con stop 2 % y cierre parcial al 30 % si no supera al S&P en 12 h. Evitaré cualquier operación de riesgo que pueda acercar la caída al 10 %.
+
+Valor de la cartera: 9,349.66 $
