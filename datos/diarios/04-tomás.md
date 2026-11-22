@@ -1538,3 +1538,30 @@ Ajuste a mi estrategia: Si una predicción con confianza media falla, la próxim
 **Mi puesto.** Estoy por delante del S&P 500 en 6,51 puntos. Mantengo la posición actual y busco oportunidades de compra cuando se presenten correcciones >8 % en los valores que ya poseo.
 
 Valor de la cartera: 10,583.72 $
+
+## 2026-10-20
+
+**Nota de mi predicción del 2026-10-13.** Dije que IBM lo haría mejor que el S&P 500: hizo +3.9% frente a -0.8%. Acierto.
+
+## 2026-10-20
+
+**Mantengo la cartera sin operar y vigilo los stops; no hay compras posibles por falta de efectivo.**
+
+**Mercado.** El SPY sube ligeramente hoy pero su tendencia de 5 días sigue negativa, indicando una corrección leve. El sector energía (XLE) muestra fuerte impulso, mientras que los mid‑caps están bajo presión. El entorno de la Fed mañana será clave para la volatilidad.
+
+**Noticias.** La próxima decisión de la Reserva Federal (21 oct) puede mover bonos y acciones de riesgo; mientras tanto, no hay noticias específicas que afecten a mis posiciones actuales. El QQQ cayó 3 % en 5 días, lo que sugiere cautela en tecnología, pero mis holdings (AAPL, MSFT, IBM) ya están con ganancias moderadas y sin señales de deterioro fundamental.
+
+**A favor.** Todas mis posiciones están por encima del coste y dentro del rango de stop establecido; vender ahora reduciría ganancias y aumentaría el riesgo de caer bajo el umbral del 10 % de caída máxima.
+
+**En contra.** El mercado muestra señales de corrección y la Fed podría generar volatilidad; sin embargo, vender ahora sacrificaría la ventaja de +7 % frente al S&P y no hay oportunidades de compra atractivas con el efectivo disponible.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída brusca tras la decisión de la Fed, lo que podría activar mis stops y reducir la cartera por debajo del 10 % de caída máxima; además, el sector tecnológico podría retroceder si el QQQ sigue bajando.
+
+**Plan.** Vigilaré cada 30 min los precios y los niveles de stop; si algún valor cae más del 8 % respecto al precio de compra, consideraré una venta parcial para liberar efectivo. Mantendré la posición hasta alcanzar +15 % de recuperación o una noticia adversa.
+
+**Mi puesto.** Llevo +7.07 % frente a -0.35 % del S&P, 7.42 puntos de ventaja; seguiré manteniendo la disciplina para no arriesgar la ventaja.
+
+Valor de la cartera: 10,707.46 $

@@ -1576,3 +1576,32 @@ Ajuste a mi estrategia: Reducir la frecuencia de predicciones de ticker a una po
 **Plan de rescate.** Para salvar el puesto, mantendré la exposición a SPY y VTI al 20 % cada uno, mantendré GLD e IEF al 20 % cada uno, y añadiré una posición pequeña en QQQ (≈$500) para mejorar la exposición tecnológica sin sobrepasar el límite del 20 %. No compraré nuevas acciones de alta volatilidad ni aumentaría bonos u oro más allá del 20 %. No haré operaciones de venta agresivas, solo rebalanceo si algún peso se desvía.
 
 Valor de la cartera: 9,974.02 $
+
+## 2026-10-20
+
+**Nota de mi predicción del 2026-10-13.** Dije que QQQ lo haría peor que el S&P 500: hizo -2.7% frente a -0.8%. Acierto.
+
+## 2026-10-20
+
+**Mantengo la cartera sin cambios, no realizo nuevas compras ni ventas.**
+
+**Mercado.** El mercado amplio muestra una ligera corrección; SPY sube 0,6 % hoy pero su rendimiento de 5 días es negativo. Los sectores de energía renovable (XLE) están impulsados, mientras que el sector tecnológico (QQQ) registra una caída del 3 % en 5 días.
+
+**Noticias.** El informe indica que la política monetaria sigue en fase de endurecimiento, con la Reserva Federal manteniendo tipos altos. La inflación se mantiene moderada y el empleo sigue fuerte, lo que apoya la estabilidad macro. No hay eventos corporativos significativos que alteren la percepción de riesgo.
+
+**A favor.** Mantener la exposición amplia a SPY y VTI garantiza una diversificación que históricamente supera al mercado a largo plazo, y los bonos IEF y GLD ofrecen refugio ante la volatilidad.
+
+**En contra.** El S&P 500 sigue subiendo, y al no aumentar la exposición a acciones, corremos el riesgo de quedar más atrás. Sin embargo, la regla de no superar el 10 % de caída y la necesidad de evitar un despido me obligan a ser cautelosa.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Posible caída de 10 % en el mercado que desencadearía el despido. La falta de exposición a sectores con mayor impulso (tecnología, energía renovable) podría limitar la recuperación.
+
+**Plan.** Vigilar la evolución de los tipos de interés y la inflación. Si se intensifican las señales de endurecimiento, aumentaré la posición en IEF y GLD. Si el mercado muestra una recuperación sostenida, consideraré una pequeña exposición a QQQ sin superar el 20 % por posición.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 2,17 puntos. Mi plan es mantener la posición actual y evitar movimientos que puedan acercar la cartera a la zona de riesgo.
+
+**Plan de rescate.** Para salvar mi puesto, mantendré las posiciones actuales y no realizaré nuevas compras. Si la volatilidad aumenta, venderé 5 % de SPY y VTI para reforzar GLD e IEF, manteniendo cada posición por debajo del 20 %. No tomaré posiciones en empresas jóvenes ni en sectores de alto riesgo, y evitaré cualquier operación que pueda exceder el 10 % de caída de la cartera.
+
+Valor de la cartera: 9,993.13 $

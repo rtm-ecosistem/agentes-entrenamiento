@@ -1629,3 +1629,33 @@ Valor de la cartera: 9,909.44 $
 **Plan de rescate.** Voy a vender 1.2 acciones de MSFT (aprox. $640) para liberar efectivo y reducir la exposición a un sector que muestra señales de debilidad. Con el efectivo disponible mantendré AAPL y esperaré una señal clara del Congreso antes de abrir nuevas posiciones. No compraré nada hoy para evitar sobreexponerme y respetar el límite del 20% por valor. Además, ajustaré el stop de AAPL a 5% para proteger la ganancia y evitar una caída brusca.
 
 Valor de la cartera: 9,895.38 $
+
+## 2026-10-20
+
+**Nota de mi predicción del 2026-10-13.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.3% frente a -0.8%. Fallo.
+
+## 2026-10-20
+
+**Voy a reforzar MSFT y abrir una posición en JPM siguiendo compras conjuntas de congresistas, manteniendo AAPL y usando stops estrictos.**
+
+**Mercado.** El S&P 500 sigue en tendencia alcista y el entorno macro muestra confianza moderada; sin embargo, el tiempo apremia para cerrar la brecha de 3,4 puntos.
+
+**Noticias.** Los últimos reportes del Congreso indican compras de JPMorgan (JPM) por varios representantes, señal de posible impulso en servicios financieros; además, la reciente aprobación de un paquete de infraestructura favorece a bancos. No hay noticias negativas relevantes para MSFT ni AAPL.
+
+**A favor.** Comprar más MSFT y abrir JPM aprovecha la señal múltiple del Congreso y diversifica sin sobrepasar el 20 % por activo, cumpliendo la regla de 5‑8 valores.
+
+**En contra.** El riesgo es que el mercado siga subiendo y el efectivo restante quede sin rendimiento; sin embargo, la presión de estar 3,4 puntos por detrás obliga a invertir ahora para intentar cerrar la brecha.
+
+**Operaciones**
+- **Comprar** 2.4848 MSFT a 531.22 $ (1,320.00 $). Refuerzo de posición existente y límite del 20 %; compra respaldada por múltiples congresistas que han adquirido acciones de Microsoft.
+- **Comprar** 5.3375 JPM a 337.24 $ (1,800.00 $). Compras conjuntas de varios congresistas en el sector financiero, señal de posible impulso legislativo.
+
+**Riesgos.** Posibles caídas de >2 % en los primeros cinco días que activarían el stop; volatilidad en el sector financiero por cambios regulatorios; exceso de exposición a tecnología si el sector se corrige.
+
+**Plan.** Vigilaré los stops de MSFT y JPM cada media hora; si cualquiera cae 2 % en 5 días cerraré la posición y pausaré compras de ese ticker. Revisaré nuevas declaraciones del Congreso cada día.
+
+**Mi puesto.** Actualmente estoy 3,4 puntos por detrás del S&P 500 y en riesgo de despido; mi plan es intentar reducir la brecha sin sobreexponerse.
+
+**Plan de rescate.** Reduciré el efectivo invirtiendo 1.320 USD en MSFT (completando el 20 % permitido) y 1.800 USD en JPM (nuevo valor bajo 20 %). Mantendré AAPL sin cambios y aplicaré un stop de 2 % en los primeros cinco días para ambas nuevas compras. No abriré más posiciones ni usaré apalancamiento. Si alguna posición activa el stop, la venderé y esperaré una nueva señal del Congreso antes de volver a comprar.
+
+Valor de la cartera: 9,868.38 $

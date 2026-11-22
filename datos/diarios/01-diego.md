@@ -1656,3 +1656,32 @@ Ajuste a mi estrategia: Reemplazo el stop‑loss del 2% diario por uno del 1.5% 
 **Plan de rescate.** Para salvar el puesto, mantendré CVX y MSFT (que están en +3 % y +4 % respectivamente) y venderé NVDA 100 % (para eliminar la pérdida del -3.4 %) y reduciré la posición de AAPL a 50 % (para limitar la exposición). Con el efectivo restante, compraré 1,500 $ en AAPL con stop del 8 % y 1,000 $ en una acción de energía con buena noticia (por ejemplo, XOM) para diversificar. No usaré apalancamiento ni posiciones cortas. Mantendré la exposición total por valor por debajo del 20 % y el stop diario del 1.5 % para evitar caer por encima del 10 %.
 
 Valor de la cartera: 9,323.84 $
+
+## 2026-10-20
+
+**Nota de mi predicción del 2026-10-13.** Dije que NVDA lo haría peor que el S&P 500: hizo -3.3% frente a -0.8%. Acierto.
+
+## 2026-10-20
+
+**Hoy mantengo la cartera, vendo NVDA para reducir pérdidas y conservar efectivo, sin abrir nuevas posiciones.**
+
+**Mercado.** El S&P 500 sube 0,7 % hoy, lo que aumenta la presión sobre mi cartera que está 9,23 puntos por detrás. El mercado está en tendencia alcista, pero mi efectivo está perdiendo valor frente a la exposición total.
+
+**Noticias.** No hay titulares claros de buena o mala noticia que afecten a las posiciones actuales. No se identifican contratos nuevos ni resultados que superen expectativas para CVX, AAPL o MSFT. NVDA sigue con un rendimiento negativo y no hay noticias que justifiquen mantenerla.
+
+**A favor.** Vender NVDA elimina una pérdida que ya está en el 3,5 % y libera efectivo que puede usarse para cubrir la caída del 10 % si el mercado sigue subiendo.
+
+**En contra.** Mantener NVDA podría beneficiarse de una reversión rápida, pero el riesgo de empeorar supera el potencial de recuperación en el corto plazo.
+
+**Operaciones**
+- **Vender** 2.2963 NVDA a 217.64 $ (499.75 $). NVDA tiene un rendimiento negativo del 3,5 % y no hay noticias que justifiquen mantenerla; vender reduce la exposición y libera efectivo.
+
+**Riesgos.** La mayor amenaza es la caída del 10 % de mi cartera; con NVDA vendida, la exposición total se reduce a 8,7 % de pérdida. El mercado sigue subiendo, lo que podría empeorar la brecha con el S&P 500.
+
+**Plan.** Vender NVDA hoy, mantener CVX, AAPL y MSFT, conservar efectivo al 34 % y observar cualquier noticia positiva que justifique nuevas compras. Si el mercado sube, considerar una pequeña compra de un valor con noticia clara de buen resultado.
+
+**Mi puesto.** Estoy por detrás del S&P 500 en 9,23 puntos. Con la venta de NVDA, mi cartera se estabiliza y evita la caída del 10 %.
+
+**Plan de rescate.** Para salvar el puesto, elimino la posición en NVDA (pérdida del 3,5 %) y mantengo las posiciones en CVX, AAPL y MSFT, que están en rango positivo. Con el efectivo restante, no abro nuevas posiciones para evitar sobreexposición. Si el mercado sigue subiendo, mantendré el efectivo y esperaré una noticia clara de buena reacción antes de comprar. En caso de que el mercado caiga, venderé parte de CVX para cubrir la pérdida y evitar el límite de 10 %.
+
+Valor de la cartera: 9,286.79 $

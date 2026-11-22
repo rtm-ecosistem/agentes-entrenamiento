@@ -1694,3 +1694,33 @@ Ajuste a mi estrategia: Aplico el stop del 8 % únicamente cuando el precio ro
 **Plan de rescate.** Para salvar mi puesto, mantendré efectivo del 20 % de la cartera (≈ 1 520 $) y limitaré cada posición a 20 % del total. Venderé XLK si su tendencia se rompe (precio < 50 MA) y mantendré AAPL y XLE con sus stops actuales. No añadiré posiciones que no cumplan la regla de 20 % ni usaré apalancamiento. El objetivo es evitar una caída mayor al 10 % y posicionarme para superar al S&P 500 en la próxima evaluación.
 
 Valor de la cartera: 9,567.59 $
+
+## 2026-10-20
+
+**Nota de mi predicción del 2026-10-13.** Dije que MSFT lo haría mejor que el S&P 500: hizo -3.1% frente a -0.8%. Fallo.
+
+## 2026-10-20
+
+**Voy a vender NVDA y AMD para reducir riesgo y quedarme en efectivo, sin nuevas compras.**
+
+**Mercado.** El SPY sube ligeramente pero su tendencia de 5 días es negativa, indicando corrección. El sector tecnológico muestra debilidad (QQQ -3% 5‑d) y el XLE está bajo presión, cayendo 8% bajo su media de 50 días. El mercado está volátil y sin claras tendencias alcistas sostenidas.
+
+**Noticias.** No hay noticias específicas que respalden mantener posiciones en tecnología; al contrario, la caída del QQQ y la presión en XLE sugieren cautela. No se detectan eventos negativos relevantes para AAPL, XLE o XLK que obliguen a vender ahora.
+
+**A favor.** Mantener posiciones en AAPL y XLK que aún están por encima de su media de 50 días y con pérdidas mínimas, evitando vender en caída pequeña y preservando exposición a sectores con mejor desempeño.
+
+**En contra.** Las pérdidas acumuladas y la falta de tendencia clara hacen que mantener esas posiciones arriesgue romper el stop del 8% y acercarnos al límite del 10% de caída total; por eso prefiero reducir exposición y proteger el capital.
+
+**Operaciones**
+- **Vender** 2.3551 AMD a 544.62 $ (1,282.61 $). Posición con pérdida del -0.8% y cerca del stop del 8%; sector tecnológico débil, reducir riesgo.
+- **Vender** 4.5868 NVDA a 217.64 $ (998.24 $). Pérdida mínima pero exposición a tecnología en caída; liberar efectivo para proteger cartera.
+
+**Riesgos.** Riesgo de caída adicional si el mercado sigue corrigiendo, especialmente en tecnología; riesgo de quedar demasiado en efectivo y perder oportunidad si el mercado revierte rápidamente.
+
+**Plan.** Vigilaré la evolución de la media de 50 días de AAPL y XLK y el comportamiento del SPY; si se confirma una tendencia alcista clara compraré de nuevo dentro del límite de 20% por activo.
+
+**Mi puesto.** Llevo -6.91 puntos respecto al S&P 500 y estoy en riesgo de despido; por eso priorizo la preservación del capital sobre intentar recuperar todo de golpe.
+
+**Plan de rescate.** Venderé AMD (2.3551 uds, $1,283) y NVDA (4.5868 uds, $999) ahora, añadiendo $2,282 al efectivo. Con el efectivo total ($1,521+$2,282=$3,803) mantendré solo AAPL, XLE y XLK, que representan 60% de la cartera, y no abriré nuevas posiciones. No usaré stops adicionales y evitaré compras impulsivas; esperaré a que se establezca una tendencia clara antes de re‑invertir.
+
+Valor de la cartera: 9,517.73 $

@@ -1588,3 +1588,33 @@ Ajuste a mi estrategia: Venderé la mitad de cualquier posición solo cuando su 
 **Mi puesto.** Voy +2,40 puntos por encima del S&P 500 y mantengo la ventaja; seguiré con la estrategia conservadora para preservar el desempeño.
 
 Valor de la cartera: 10,414.95 $
+
+## 2026-10-20
+
+**Nota de mi predicción del 2026-10-13.** Dije que NVDA lo haría mejor que el S&P 500: hizo -3.3% frente a -0.8%. Fallo.
+
+## 2026-10-20
+
+**Compraré un pequeño lote de KO para reforzar la posición en Coca‑Cola, que sigue alineada con la cartera de Buffett y tiene margen de peso disponible.**
+
+**Mercado.** El SPY sube ligeramente hoy pero su tendencia de 5 días es negativa, indicando una corrección leve del mercado amplio. El entorno sigue neutral, sin grandes sorpresas macro.
+
+**Noticias.** No hay noticias específicas que afecten a nuestras posiciones actuales; sin embargo, la ausencia de eventos negativos permite mantener la exposición. Observamos que KO no ha tenido anuncios adversos recientes y su sector de consumo básico sigue estable.
+
+**A favor.** Buffett mantiene una posición importante en Coca‑Cola; comprar ahora refuerza la estrategia de copiar al mejor y aprovecha el margen de peso disponible sin romper límites.
+
+**En contra.** Con solo $27 de efectivo, la compra es mínima y el impacto en la rentabilidad será bajo; sin embargo, no operar también sería una opción segura. Decido comprar porque el riesgo es muy limitado y sigue la regla de copiar a Buffett.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** El riesgo principal es que KO pueda caer bajo el stop y se venda automáticamente, reduciendo la posición. Además, una corrección mayor del mercado podría afectar a todas las posiciones.
+
+**Plan.** Vigilaré el precio de KO y el nivel de stop del 8 % durante la semana; si el SPY sigue bajo presión, consideraré ajustes en posiciones con peso cercano al límite del 20 %.
+
+**Mi puesto.** Voy 2.14 puntos por encima del S&P 500; mantendré la disciplina y evitaré riesgos excesivos para conservar la ventaja.
+
+Bloqueado por las reglas de riesgo:
+- Compra de KO rechazada: el importe es demasiado pequeño.
+
+Valor de la cartera: 10,424.40 $
