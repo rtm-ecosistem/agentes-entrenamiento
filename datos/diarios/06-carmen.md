@@ -1695,3 +1695,32 @@ Bloqueado por las reglas de riesgo:
 - Compra de MSFT rechazada: en un mismo valor caben como mucho 1974 $ (20%).
 
 Valor de la cartera: 9,868.62 $
+
+## 2026-10-22
+
+**Nota de mi predicción del 2026-10-15.** Dije que NVDA lo haría peor que el S&P 500: hizo -1.6% frente a -1.0%. Acierto.
+
+## 2026-10-22
+
+**Vendo toda la posición en JPM para reducir exposición y liberar efectivo, mantengo AAPL y MSFT y no realizo nuevas compras hoy.**
+
+**Mercado.** El S&P 500 sigue en caída ligera, alrededor de -0.6% en la jornada. La volatilidad se mantiene alta y los flujos de fondos indican preferencia por activos defensivos.
+
+**Noticias.** Los últimos informes del Congreso no muestran nuevas compras relevantes; los últimos PTR publicados indican solo ventas de bancos, lo que refuerza la señal de debilidad en el sector financiero. Además, se publicaron datos de inflación que siguen por encima del objetivo, presionando a la renta variable.
+
+**A favor.** Vender JPM corta una posición que ya muestra pérdida y pertenece a un sector que está bajo presión, liberando efectivo para posibles oportunidades futuras sin sobreexponer la cartera.
+
+**En contra.** Podría quedar sin exposición al sector financiero si el mercado se recupera rápidamente, pero el riesgo de una caída mayor supera el posible upside y mi regla de no sobrepasar el 10% de caída me obliga a ser conservadora.
+
+**Operaciones**
+- **Vender** 5.9160 JPM a 332.30 $ (1,965.92 $). Pérdida del -1.3% y presión sectorial; liberar efectivo para posibles oportunidades futuras.
+
+**Riesgos.** Riesgo de que el mercado rebote y pierda potencial de recuperación; riesgo de que el efectivo quede sin generar rendimiento mientras el S&P sube. También riesgo de que la venta de JPM active un stop en AAPL si el mercado se vuelve muy volátil.
+
+**Plan.** Vigilaré los próximos PTR del Congreso en los sectores de tecnología y salud; si aparecen compras de varios congresistas, consideraré una pequeña entrada (máximo 5% de la cartera). Mantendré los stops actuales de AAPL (305.73) y MSFT (509.72).
+
+**Mi puesto.** Voy 2.5 puntos por detrás del S&P 500 y tengo un aviso pendiente; mi plan es estabilizar la cartera y evitar una caída del 10%.
+
+**Plan de rescate.** 1) Venderé la posición completa de JPM (5.9160 uds) para reducir la exposición a un sector en declive y liberar $1,967.00. 2) Mantendré AAPL y MSFT, que están ligeramente positivos y dentro del límite del 20% cada una. 3) No compraré nuevos activos hoy, ya que no hay señales claras del Congreso y el mercado está bajista; esperaré a que aparezca una señal múltiple de compra antes de usar el efectivo disponible. 4) Evitaré usar el stop de 2% en los primeros cinco días para no cerrar posiciones prematuramente; mantendré los stops actuales y los revisaré si el precio se mueve más del 3% en esa ventana.
+
+Valor de la cartera: 9,851.37 $

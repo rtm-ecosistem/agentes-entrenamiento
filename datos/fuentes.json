@@ -241,7 +241,7 @@
   "vendidas": [
    "CONSTELLATION BRANDS INC"
   ],
-  "revisado": "2026-10-21"
+  "revisado": "2026-10-22"
  },
  "congreso": {
   "leidas": {
@@ -4059,9 +4059,54 @@
     "distrito": "CT04",
     "presentado": "2026-10-20",
     "operaciones": []
+   },
+   "20035700": {
+    "nombre": "Darrell E. Issa",
+    "distrito": "CA48",
+    "presentado": "2026-10-22",
+    "operaciones": []
+   },
+   "20035669": {
+    "nombre": "Cleo Fields",
+    "distrito": "LA06",
+    "presentado": "2026-10-22",
+    "operaciones": [
+     {
+      "activo": "NVIDIA Corporation - Common Stock",
+      "ticker": "NVDA",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-01",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "NVIDIA Corporation - Common Stock",
+      "ticker": "NVDA",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-01",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "NVIDIA Corporation - Common Stock",
+      "ticker": "NVDA",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-01",
+      "importe": "$1,001 - $15,000"
+     },
+     {
+      "activo": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "ticker": "TSM",
+      "clase": "ST",
+      "lado": "compra",
+      "fecha": "2026-10-09",
+      "importe": "$1,001 - $15,000"
+     }
+    ]
    }
   },
   "pendientes": 0,
-  "revisado": "2026-10-21"
+  "revisado": "2026-10-22"
  }
 }

@@ -1636,3 +1636,28 @@ Valor de la cartera: 9,993.13 $
 **Plan de rescate.** Para salvar el puesto, mantendré la exposición en SPY y VTI al 20 % cada uno, aumentaré GLD a 20 % y IEF a 20 % para reforzar el refugio. No compraré nuevas acciones de alto riesgo ni aumentaría la exposición tecnológica más allá de 5 % en QQQ. Evitaré cualquier operación que supere el 20 % por posición y no usaré apalancamiento ni opciones. Con esta estrategia, la cartera seguirá siendo conservadora y evitaré caer por más del 10 %.
 
 Valor de la cartera: 9,983.91 $
+
+## 2026-10-22
+
+**Hoy mantengo la cartera sin cambios, evitando nuevas compras y considerando vender QQQ para reducir exposición a volatilidad.**
+
+**Mercado.** El SPY y el QQQ están en caída, con el QQQ más pronunciado (-2.2 %). Los sectores de tecnología y energía presentan retrocesos, pero el impulso de XLE sigue positivo. El mercado general muestra signos de corrección a corto plazo.
+
+**Noticias.** El informe indica que el SPY y el QQQ han caído 1.3 % y 2.4 % respectivamente, con la tecnología y la energía en declive. No hay noticias macro de tipo de interés que justifiquen un aumento de bonos u oro. La falta de señales claras me lleva a no aumentar la exposición a activos más volátiles.
+
+**A favor.** Mantener la cartera estable y evitar nuevas compras reduce el riesgo de caer por encima del 10 % desde el máximo, preservando mi puesto.
+
+**En contra.** Podría perder la oportunidad de capturar una recuperación en QQQ, pero el riesgo de una caída adicional supera el beneficio potencial.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** La caída continua del SPY y el QQQ puede erosionar la rentabilidad, y una caída de más del 10 % desde el máximo me despide. La falta de diversificación adicional limita la capacidad de ganar más.
+
+**Plan.** Vigilar el comportamiento de QQQ y del SPY; si QQQ cae más del 5 % desde el precio de compra, considerar vender parcial para limitar pérdidas. Mantener GLD e IEF como refugio.
+
+**Mi puesto.** Estoy por detrás del S&P 500 por 1.88 puntos; mi plan es no operar para evitar riesgos y mantener la posición estable.
+
+**Plan de rescate.** Para salvar mi puesto, mantendré la cartera tal cual, sin nuevas compras. Si el mercado continúa cayendo, venderé QQQ para reducir la exposición a volatilidad y conservaré GLD e IEF como refugio. No tomaré posiciones adicionales ni aumentaría el riesgo.
+
+Valor de la cartera: 9,913.58 $

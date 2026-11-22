@@ -1755,3 +1755,39 @@ Valor de la cartera: 9,517.73 $
 **Plan de rescate.** Reduciré la posición en XLK vendiendo $1,000 (≈5,3 uds) para liberar efectivo y comprar AMD ($1,500) y NVDA ($1,300), manteniendo cada activo por debajo del 20 % del total. No abriré nuevas posiciones hasta confirmar una tendencia clara y evitaré usar stops del 5 % para no disparar ventas prematuras.
 
 Valor de la cartera: 9,574.34 $
+
+## 2026-10-22
+
+**Nota de mi predicción del 2026-10-15.** Dije que XLE lo haría mejor que el S&P 500: hizo +0.4% frente a -1.0%. Acierto.
+
+## 2026-10-22
+
+**Hoy mantengo la posición en AAPL y XLE, corto XLK y AMD, y compramos NVDA con 1.000 $ y stop 8 %.**
+
+**Mercado.** El SPY y el QQQ están en caída de 1,3 % y 2,4 % respectivamente, lo que indica una ligera tendencia bajista en el mercado amplio. El sector tecnológico (XLK) muestra retroceso y la energía (XLE) apenas se mantiene sobre su media de 50 días. AAPL y XLE siguen con una tendencia positiva a 20 y 60 días y están por encima de su media de 50 días, lo que los mantiene dentro de la zona de compra de la estrategia. AMD y XLK están por debajo de su media de 50 días y presentan pérdidas superiores al 8 % desde la compra, por lo que deben cerrarse.
+
+**Noticias.** La noticia de la revisión de la política de tasas de la Fed ha generado nervios en el mercado, pero no afecta directamente a las empresas que poseo. La publicación de los resultados trimestrales de AMD mostró un margen menor al esperado, lo que ha impulsado la caída de su precio. NVDA ha anunciado un nuevo chip que se espera que impulse su crecimiento a mediano plazo, lo que confirma la tendencia alcista de la acción. No hay noticias negativas que justifiquen una venta de AAPL o XLE.
+
+**A favor.** AAPL y XLE mantienen una tendencia positiva clara y están por encima de su media de 50 días, lo que los coloca en la zona de compra de la estrategia. NVDA ha mostrado una tendencia positiva a 20 y 60 días y su precio está por encima de su media de 50 días, lo que la convierte en una buena oportunidad de compra.
+
+**En contra.** AMD y XLK están en tendencia bajista y presentan pérdidas superiores al 8 % desde la compra, lo que justifica su cierre. El mercado está en caída y existe riesgo de que la tendencia bajista se extienda, pero la estrategia de tendencia me obliga a mantener las posiciones que siguen la tendencia alcista.
+
+**Operaciones**
+- **Vender** 4.8342 XLK a 182.61 $ (882.77 $). Retroceso y pérdida >8 % desde compra.
+- **Vender** 2.7534 AMD a 510.68 $ (1,406.12 $). Retroceso y pérdida >8 % desde compra.
+- **Comprar** 2.8941 NVDA a 213.50 $ (617.87 $). Tendencia positiva a 20 y 60 días, precio > media 50 días, y anuncio de nuevo chip.
+
+**Riesgos.** La caída del mercado podría afectar a las posiciones de AAPL y XLE, reduciendo su rendimiento y acercándome al límite de caída del 10 %. Además, la volatilidad de NVDA podría hacer que el stop de 8 % se active antes de que la acción recupere su tendencia alcista.
+
+**Plan.** Vigilaré el precio de AAPL y XLE para asegurar que no caigan por debajo de su media de 50 días. Si el mercado se vuelve más volátil, consideraré vender NVDA antes de que el stop se active. Mantendré una posición de efectivo de 1 000 $ para poder reaccionar a nuevas oportunidades.
+
+**Mi puesto.** Mi cartera está 7,13 puntos por detrás del S&P 500 y ha caído un 6,11 % desde el máximo. Necesito evitar el límite de 10 % y mejorar mi rendimiento sin arriesgar demasiado.
+
+**Radar de oportunidades.** No hay radar de oportunidades en este informe.
+
+**Plan de rescate.** Para salvar mi puesto, cerraré las posiciones de AMD y XLK, mantendré AAPL y XLE, y compraré NVDA con 1 000 $ y stop 8 %. No compraré nuevas acciones de radar de oportunidades ni aumentaré la exposición a más del 20 % por valor. Mantendré el efectivo al menos 1 500 $ para cubrir cualquier caída inesperada y evitaré operar en días de alta volatilidad. Si el mercado se recupera, consideraré aumentar la posición en AAPL y XLE gradualmente, pero siempre con stop 8 % y sin superar el 20 % por valor.
+
+Ajustado por el control de riesgo:
+- Ajuste automático: compra de NVDA de 1000 $ a 618 $ (en un mismo valor caben como mucho 1878 $ (20%)).
+
+Valor de la cartera: 9,387.75 $

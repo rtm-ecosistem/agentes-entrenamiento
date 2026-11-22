@@ -1648,3 +1648,30 @@ Bloqueado por las reglas de riesgo:
 - Compra de KO rechazada: el importe es demasiado pequeño.
 
 Valor de la cartera: 10,513.69 $
+
+## 2026-10-22
+
+**Nota de mi predicción del 2026-10-15.** Dije que NVDA lo haría mejor que el S&P 500: hizo -1.6% frente a -1.0%. Fallo.
+
+## 2026-10-22
+
+**Mantengo la cartera sin cambios y no realizo operaciones hoy.**
+
+**Mercado.** El mercado muestra una ligera presión bajista, con SPY y QQQ cayendo alrededor del 1-2 %. Los sectores energético (XLE) y tecnológico (XLK) también retroceden, lo que indica cautela general.
+
+**Noticias.** No hay noticias específicas que afecten a mis posiciones actuales; los informes de analistas son neutrales y no señalan riesgos graves para AAPL, AXP, KO, CVX, SPY o XLE. La ausencia de eventos adversos me permite mantener la posición.
+
+**A favor.** Mi cartera ya supera al S&P 500 por 3,58 puntos y el riesgo de caída supera solo el 4,6 % desde el máximo, por debajo del límite del 10 %; seguir sin operar preserva ese desempeño y evita el riesgo de un stop inesperado.
+
+**En contra.** Podría aprovechar el exceso de efectivo (27 $) para comprar un pequeño lote de una posición sub‑ponderada, pero el mínimo de 50 $ por orden y la restricción de no superar 20 % por valor hacen que cualquier compra sea insignificante y potencialmente costosa en comisiones.
+
+**Operaciones**
+- Sin operaciones.
+
+**Riesgos.** Un repunte inesperado del mercado podría dejar mi efectivo sin uso y limitar la capacidad de reaccionar a oportunidades; además, cualquier venta excesiva ahora reduciría mi ventaja sobre el S&P 500.
+
+**Plan.** Vigilaré de cerca los precios de AAPL y CVX para asegurar que sus stops (306,39 $ y 188,85 $) se mantengan seguros, y observaré cualquier noticia de fraude o deterioro en los sectores energéticos y de consumo.
+
+**Mi puesto.** Voy 11 días antes del final del periodo con +4,60 % frente al +1,02 % del S&P 500; mantendré la posición para proteger esa ventaja.
+
+Valor de la cartera: 10,460.05 $
